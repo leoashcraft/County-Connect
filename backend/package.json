@@ -8,7 +8,10 @@
     "start": "node src/server.js",
     "dev": "nodemon src/server.js",
     "init-db": "node src/scripts/initDatabase.js",
-    "import-csv": "node src/scripts/importCSV.js"
+    "import-csv": "node src/scripts/importCSV.js",
+    "seed": "node src/seeds/run-all-seeds.js",
+    "seed:dry-run": "node src/seeds/run-all-seeds.js --dry-run",
+    "seed:clear": "node src/seeds/run-all-seeds.js --clear"
   },
   "keywords": [
     "api",

@@ -36,5 +36,5 @@ exported_base44_data/
 # User uploads
 backend/uploads/
 
-# Seed files (will be added separately)
-backend/src/seeds/
+# Legacy seed files with raw data (keep data files)
+# Uncomment to exclude seeds: backend/src/seeds/
