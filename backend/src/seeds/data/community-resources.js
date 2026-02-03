@@ -1374,6 +1374,51 @@ export const communityResources =
     "status": "active",
     "lat": 32.0954,
     "lng": -96.4689
+  },
+  {
+    "name": "Mildred Mail Services",
+    "category": "government",
+    "description": "The Mildred area is served by the Corsicana Post Office. Residents can pick up mail and access postal services at the main Corsicana location. Rural route delivery is available for most addresses in the Mildred community.",
+    "address": "Served by Corsicana Post Office - 116 S Main St, Corsicana, TX 75110",
+    "phone": "(903) 874-4797",
+    "website": "https://www.usps.com",
+    "hours": "See Corsicana Post Office hours",
+    "eligibility": "Mildred area residents",
+    "services": ["Rural Route Delivery", "Mail Services via Corsicana"],
+    "town": "Mildred",
+    "status": "active",
+    "lat": 32.0345,
+    "lng": -96.3712
+  },
+  {
+    "name": "Navarro Community Mail Services",
+    "category": "government",
+    "description": "The Navarro community area is served by the Corsicana Post Office. Residents can access full postal services at the Corsicana location. Rural route delivery is available for addresses in the Navarro community.",
+    "address": "Served by Corsicana Post Office - 116 S Main St, Corsicana, TX 75110",
+    "phone": "(903) 874-4797",
+    "website": "https://www.usps.com",
+    "hours": "See Corsicana Post Office hours",
+    "eligibility": "Navarro community residents",
+    "services": ["Rural Route Delivery", "Mail Services via Corsicana"],
+    "town": "Navarro",
+    "status": "active",
+    "lat": 32.0600,
+    "lng": -96.4000
+  },
+  {
+    "name": "Powell Mail Services",
+    "category": "government",
+    "description": "The Powell community is served by nearby post offices including Kerens and Corsicana. Residents can access postal services at these locations. Rural route delivery is available for most addresses in the Powell area.",
+    "address": "Served by Kerens Post Office - 106 S Colket St, Kerens, TX 75144",
+    "phone": "(903) 396-7142",
+    "website": "https://www.usps.com",
+    "hours": "See Kerens Post Office hours",
+    "eligibility": "Powell area residents",
+    "services": ["Rural Route Delivery", "Mail Services via Kerens"],
+    "town": "Powell",
+    "status": "active",
+    "lat": 32.0700,
+    "lng": -96.3400
   }
 ]
 ;
