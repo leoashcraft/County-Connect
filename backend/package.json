@@ -6,7 +6,9 @@
   "type": "module",
   "scripts": {
     "start": "node src/server.js",
+    "start:prod": "node src/scripts/prebuild.js && node src/server.js",
     "dev": "nodemon src/server.js",
+    "prebuild": "node src/scripts/prebuild.js",
     "init-db": "node src/scripts/initDatabase.js",
     "import-csv": "node src/scripts/importCSV.js",
     "seed": "node src/seeds/run-all-seeds.js",
