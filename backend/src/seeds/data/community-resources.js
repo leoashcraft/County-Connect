@@ -1,6 +1,6 @@
 /**
  * Community Resources in Navarro County
- * Combined from seed-community-resources.js and seed-additional-community-resources.js
+ * Combined from seed-community-resources.js, seed-additional-community-resources.js, and navarro-county-seed.js
  * Coordinates merged from add-community-resource-coordinates.js
  */
 
@@ -1129,6 +1129,251 @@ export const communityResources =
     "lat": 32.0969,
     "lng": -96.6519,
     "status": "active"
+  },
+  {
+    "name": "Corsicana Daily Bread",
+    "category": "food_pantry",
+    "address": "1020 N Main St, Corsicana, TX 75110",
+    "town": "Corsicana",
+    "phone": "(903) 874-3594",
+    "description": "Food pantry providing groceries to families in need. No income requirements.",
+    "hours": "Tuesday & Thursday: 9:00 AM - 12:00 PM",
+    "eligibility": "Navarro County residents. Bring photo ID.",
+    "status": "active",
+    "lat": 32.0954,
+    "lng": -96.4689
+  },
+  {
+    "name": "Navarro County Community Pantry",
+    "category": "food_pantry",
+    "address": "300 W 3rd Ave, Corsicana, TX 75110",
+    "town": "Corsicana",
+    "phone": "(903) 872-4447",
+    "description": "Community food pantry serving Navarro County families.",
+    "hours": "Monday, Wednesday, Friday: 10:00 AM - 2:00 PM",
+    "eligibility": "Income-based eligibility. Bring ID and proof of address.",
+    "status": "active",
+    "lat": 32.0954,
+    "lng": -96.4689
+  },
+  {
+    "name": "Good Samaritans of Corsicana",
+    "category": "food_pantry",
+    "address": "501 W 5th Ave, Corsicana, TX 75110",
+    "town": "Corsicana",
+    "phone": "(903) 872-6442",
+    "description": "Food assistance and emergency services for local families.",
+    "hours": "Monday - Thursday: 9:00 AM - 12:00 PM",
+    "status": "active",
+    "lat": 32.0954,
+    "lng": -96.4689
+  },
+  {
+    "name": "Kerens Food Pantry",
+    "category": "food_pantry",
+    "address": "100 N Colket Ave, Kerens, TX 75144",
+    "town": "Kerens",
+    "phone": "(903) 396-2283",
+    "description": "Community food pantry serving Kerens and surrounding areas.",
+    "hours": "2nd and 4th Thursday: 10:00 AM - 12:00 PM",
+    "eligibility": "Kerens area residents.",
+    "status": "active",
+    "lat": 32.1311,
+    "lng": -96.2278
+  },
+  {
+    "name": "Navarro County Crisis Center",
+    "category": "crisis",
+    "address": "Corsicana, TX 75110",
+    "town": "Corsicana",
+    "phone": "(903) 872-7747",
+    "description": "24-hour crisis hotline for domestic violence, sexual assault, and mental health emergencies.",
+    "hours": "24/7 Hotline",
+    "services": [
+      "Crisis counseling",
+      "Emergency shelter",
+      "Legal advocacy",
+      "Support groups"
+    ],
+    "status": "active",
+    "lat": 32.0954,
+    "lng": -96.4689
+  },
+  {
+    "name": "MHMR of Navarro County",
+    "category": "crisis",
+    "address": "910 N Main St, Corsicana, TX 75110",
+    "town": "Corsicana",
+    "phone": "(903) 874-2526",
+    "description": "Mental health and developmental disability services.",
+    "hours": "Monday - Friday: 8:00 AM - 5:00 PM",
+    "services": [
+      "Mental health services",
+      "Crisis intervention",
+      "Substance abuse services"
+    ],
+    "status": "active",
+    "lat": 32.0954,
+    "lng": -96.4689
+  },
+  {
+    "name": "Community Action Committee of Navarro County",
+    "category": "utility",
+    "address": "1015 E 2nd Ave, Corsicana, TX 75110",
+    "town": "Corsicana",
+    "phone": "(903) 872-4483",
+    "description": "Utility assistance, weatherization, and community programs.",
+    "hours": "Monday - Friday: 8:00 AM - 5:00 PM",
+    "services": [
+      "LIHEAP utility assistance",
+      "Weatherization",
+      "Head Start"
+    ],
+    "eligibility": "Income-based. Bring ID, social security cards, and utility bills.",
+    "status": "active",
+    "lat": 32.0954,
+    "lng": -96.4689
+  },
+  {
+    "name": "St. Vincent de Paul Society",
+    "category": "utility",
+    "address": "614 S 15th St, Corsicana, TX 75110",
+    "town": "Corsicana",
+    "phone": "(903) 874-6765",
+    "description": "Emergency assistance with rent, utilities, and basic needs.",
+    "hours": "By appointment",
+    "eligibility": "Call to schedule appointment.",
+    "status": "active",
+    "lat": 32.0954,
+    "lng": -96.4689
+  },
+  {
+    "name": "Navarro County Senior Center",
+    "category": "senior",
+    "address": "820 N Beaton St, Corsicana, TX 75110",
+    "town": "Corsicana",
+    "phone": "(903) 874-6788",
+    "description": "Services and activities for seniors including meals, recreation, and transportation.",
+    "hours": "Monday - Friday: 8:00 AM - 4:00 PM",
+    "services": [
+      "Congregate meals",
+      "Transportation",
+      "Activities",
+      "Health screenings"
+    ],
+    "eligibility": "Age 60 and older.",
+    "status": "active",
+    "lat": 32.0954,
+    "lng": -96.4689
+  },
+  {
+    "name": "Meals on Wheels - Navarro County",
+    "category": "senior",
+    "address": "820 N Beaton St, Corsicana, TX 75110",
+    "town": "Corsicana",
+    "phone": "(903) 874-6788",
+    "description": "Home-delivered meals for homebound seniors.",
+    "hours": "Deliveries Monday - Friday",
+    "eligibility": "Age 60+, homebound, unable to prepare meals.",
+    "status": "active",
+    "lat": 32.0954,
+    "lng": -96.4689
+  },
+  {
+    "name": "Community Clothes Closet",
+    "category": "clothing",
+    "address": "220 N 15th St, Corsicana, TX 75110",
+    "town": "Corsicana",
+    "phone": "(903) 874-2631",
+    "description": "Free clothing for families in need.",
+    "hours": "Tuesday: 9:00 AM - 12:00 PM",
+    "eligibility": "Anyone in need.",
+    "status": "active",
+    "lat": 32.0954,
+    "lng": -96.4689
+  },
+  {
+    "name": "Mission Corsicana",
+    "category": "shelter",
+    "address": "216 N 11th St, Corsicana, TX 75110",
+    "town": "Corsicana",
+    "phone": "(903) 874-1711",
+    "description": "Emergency shelter and transitional housing for men.",
+    "hours": "Evening intake",
+    "services": [
+      "Emergency shelter",
+      "Meals",
+      "Life skills training"
+    ],
+    "status": "active",
+    "lat": 32.0954,
+    "lng": -96.4689
+  },
+  {
+    "name": "Navarro County Indigent Healthcare",
+    "category": "medical",
+    "address": "300 W 3rd Ave, Corsicana, TX 75110",
+    "town": "Corsicana",
+    "phone": "(903) 654-3025",
+    "description": "Healthcare assistance for uninsured county residents.",
+    "hours": "Monday - Friday: 8:00 AM - 5:00 PM",
+    "eligibility": "Navarro County resident, income-based eligibility.",
+    "status": "active",
+    "lat": 32.0954,
+    "lng": -96.4689
+  },
+  {
+    "name": "Care Net Pregnancy Center",
+    "category": "medical",
+    "address": "1120 W 7th Ave, Corsicana, TX 75110",
+    "town": "Corsicana",
+    "phone": "(903) 872-2273",
+    "description": "Free pregnancy testing, ultrasounds, and parenting classes.",
+    "hours": "Monday - Thursday: 9:00 AM - 4:00 PM",
+    "services": [
+      "Pregnancy tests",
+      "Ultrasounds",
+      "Parenting classes",
+      "Material assistance"
+    ],
+    "status": "active",
+    "lat": 32.0954,
+    "lng": -96.4689
+  },
+  {
+    "name": "Navarro County Veterans Service Office",
+    "category": "veteran",
+    "address": "300 W 3rd Ave, Corsicana, TX 75110",
+    "town": "Corsicana",
+    "phone": "(903) 654-3095",
+    "description": "Assistance with VA benefits, claims, and veteran services.",
+    "hours": "Monday - Friday: 8:00 AM - 5:00 PM",
+    "services": [
+      "VA claims assistance",
+      "Benefits counseling",
+      "Referrals"
+    ],
+    "eligibility": "Veterans and their dependents.",
+    "status": "active",
+    "lat": 32.0954,
+    "lng": -96.4689
+  },
+  {
+    "name": "Texas Workforce Solutions - Corsicana",
+    "category": "employment",
+    "address": "1020 W 7th Ave, Corsicana, TX 75110",
+    "town": "Corsicana",
+    "phone": "(903) 872-4331",
+    "description": "Employment services, vocational rehabilitation, and job training.",
+    "hours": "Monday - Friday: 8:00 AM - 5:00 PM",
+    "services": [
+      "Job search assistance",
+      "Vocational rehabilitation",
+      "Training programs"
+    ],
+    "status": "active",
+    "lat": 32.0954,
+    "lng": -96.4689
   }
 ]
 ;

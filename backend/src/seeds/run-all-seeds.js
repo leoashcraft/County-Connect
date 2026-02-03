@@ -22,6 +22,7 @@ import { restaurants } from './data/restaurants.js';
 import { foodTrucks } from './data/food-trucks.js';
 import { communityResources } from './data/community-resources.js';
 import { attractions } from './data/attractions.js';
+import { sportsTeams } from './data/sports-teams.js';
 import { towns } from './data/towns.js';
 import { pages } from './data/pages.js';
 import { siteSettings } from './data/site-settings.js';
@@ -44,6 +45,7 @@ async function runSeeds() {
     console.log(`  - Food Trucks: ${foodTrucks?.length || 0}`);
     console.log(`  - Community Resources: ${communityResources?.length || 0}`);
     console.log(`  - Attractions: ${attractions?.length || 0}`);
+    console.log(`  - Sports Teams: ${sportsTeams?.length || 0}`);
     console.log(`  - Towns: ${towns?.length || 0}`);
     console.log(`  - Pages: ${pages?.length || 0}`);
     return;
@@ -60,6 +62,7 @@ async function runSeeds() {
       await clearEntityType('FoodTruck');
       await clearEntityType('CommunityResource');
       await clearEntityType('Attraction');
+      await clearEntityType('SportsTeam');
       await clearEntityType('Town');
       await clearEntityType('Page');
       console.log('');
@@ -67,7 +70,7 @@ async function runSeeds() {
 
     // Show current counts
     console.log('📊 Current entity counts:');
-    for (const type of ['Church', 'School', 'Restaurant', 'FoodTruck', 'CommunityResource', 'Attraction', 'Town', 'Page']) {
+    for (const type of ['Church', 'School', 'Restaurant', 'FoodTruck', 'CommunityResource', 'Attraction', 'SportsTeam', 'Town', 'Page']) {
       const count = await getEntityCount(type);
       console.log(`   ${type}: ${count}`);
     }
@@ -106,6 +109,10 @@ async function runSeeds() {
       await bulkInsertEntities('Attraction', attractions);
     }
 
+    if (sportsTeams?.length) {
+      await bulkInsertEntities('SportsTeam', sportsTeams);
+    }
+
     // 3. Pages
     if (pages?.length) {
       await bulkInsertEntities('Page', pages);
@@ -121,7 +128,7 @@ async function runSeeds() {
 
     // Final counts
     console.log('\n📊 Final entity counts:');
-    for (const type of ['Church', 'School', 'Restaurant', 'FoodTruck', 'CommunityResource', 'Attraction', 'Town', 'Page']) {
+    for (const type of ['Church', 'School', 'Restaurant', 'FoodTruck', 'CommunityResource', 'Attraction', 'SportsTeam', 'Town', 'Page']) {
       const count = await getEntityCount(type);
       console.log(`   ${type}: ${count}`);
     }
