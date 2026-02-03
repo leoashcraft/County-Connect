@@ -9,6 +9,18 @@ import { v4 as uuidv4 } from 'uuid';
 let initialized = false;
 
 /**
+ * Get current timestamp in database-appropriate format
+ * MySQL needs 'YYYY-MM-DD HH:MM:SS', SQLite accepts ISO 8601
+ */
+function getTimestamp() {
+  const now = new Date();
+  if (getDatabaseType() === 'mysql') {
+    return now.toISOString().slice(0, 19).replace('T', ' ');
+  }
+  return now.toISOString();
+}
+
+/**
  * Initialize the database connection for seeding
  */
 export async function initSeed() {
@@ -62,7 +74,7 @@ export async function insertEntity(entityType, data, skipDuplicates = true) {
   }
 
   const id = uuidv4();
-  const now = new Date().toISOString();
+  const now = getTimestamp();
 
   await dbQuery.run(
     `INSERT INTO entities (id, entity_type, data, created_date, updated_date)
@@ -109,7 +121,7 @@ export async function bulkInsertEntities(entityType, dataArray, skipDuplicates =
     }
 
     const id = uuidv4();
-    const now = new Date().toISOString();
+    const now = getTimestamp();
 
     await dbQuery.run(
       `INSERT INTO entities (id, entity_type, data, created_date, updated_date)
@@ -151,7 +163,7 @@ export async function updateEntityByName(entityType, name, updates) {
 
   const currentData = typeof existing.data === 'string' ? JSON.parse(existing.data) : existing.data;
   const mergedData = { ...currentData, ...updates };
-  const now = new Date().toISOString();
+  const now = getTimestamp();
 
   await dbQuery.run(
     `UPDATE entities SET data = ?, updated_date = ? WHERE id = ?`,
@@ -194,7 +206,7 @@ export async function getEntityCount(entityType) {
  */
 export async function insertSiteSetting(key, value) {
   const dbType = getDatabaseType();
-  const now = new Date().toISOString();
+  const now = getTimestamp();
   const valueStr = JSON.stringify(value);
 
   if (dbType === 'mysql') {
