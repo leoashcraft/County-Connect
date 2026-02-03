@@ -1,6 +1,8 @@
-import Database from 'better-sqlite3';
 import mysql from 'mysql2/promise';
 import { config } from '../config/config.js';
+
+// Dynamic import for better-sqlite3 (only needed for local dev)
+let Database;
 
 let db;
 let dbType;
@@ -11,7 +13,7 @@ export async function initDatabase() {
   if (dbType === 'mysql') {
     db = await initMySQL();
   } else {
-    db = initSQLite();
+    db = await initSQLite();
   }
 
   // Create tables
@@ -20,7 +22,17 @@ export async function initDatabase() {
   return db;
 }
 
-function initSQLite() {
+async function initSQLite() {
+  // Dynamically import better-sqlite3 only when needed
+  if (!Database) {
+    try {
+      const module = await import('better-sqlite3');
+      Database = module.default;
+    } catch (error) {
+      console.error('better-sqlite3 not available. Use DATABASE_TYPE=mysql for production.');
+      throw new Error('SQLite driver not available. Set DATABASE_TYPE=mysql');
+    }
+  }
   const sqliteDb = new Database(config.database.path);
   sqliteDb.pragma('journal_mode = WAL');
   sqliteDb.pragma('foreign_keys = ON');
