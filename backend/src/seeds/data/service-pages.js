@@ -3530,6 +3530,1263 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
+  },
+
+  // ============================================
+  // BEAUTY & PERSONAL CARE
+  // ============================================
+  {
+    slug: "hair-salon",
+    title: "Hair Salon",
+    category: "beauty_personal",
+    subcategory: "hair",
+    layout: 4,
+    icon: "Scissors",
+    iconColor: "pink",
+    metaTitle: "Hair Salon in Navarro County, TX | Hair Stylists Corsicana",
+    metaDescription: "Hair salons in Corsicana and Navarro County. Haircuts, color, highlights, styling, treatments, and special occasion hair for women and men.",
+    metaKeywords: "hair salon Corsicana, hair stylist Navarro County, haircut, hair color, highlights, balayage",
+    heroContent: `Finding the right hair salon means finding a stylist who understands your hair, your style, and your lifestyle. Navarro County salons range from quick-service shops to full-service styling studios, offering everything from basic cuts to complex color transformations and special occasion styling.`,
+    localContext: `Corsicana's salon scene offers options for every budget and style preference. Downtown Corsicana features several established salons in the historic district, while newer shops have opened in various locations throughout the county. Many stylists have loyal followings built over years in the community, and word-of-mouth recommendations are the primary way most Navarro County residents find their stylists.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Hair Services Available",
+        content: \`**Cut & Style**
+- Women's haircuts
+- Men's haircuts
+- Children's cuts
+- Blowouts and styling
+- Updos and formal styles
+- Bang trims
+
+**Color Services**
+- All-over color
+- Highlights and lowlights
+- Balayage and ombre
+- Color correction
+- Gray coverage
+- Fashion colors
+- Glosses and toners
+
+**Treatments**
+- Deep conditioning
+- Keratin treatments
+- Brazilian blowouts
+- Scalp treatments
+- Hair repair treatments
+- Olaplex treatments
+
+**Texture Services**
+- Perms and body waves
+- Relaxers
+- Texturizing
+
+**Extensions**
+- Tape-in extensions
+- Sew-in extensions
+- Clip-in styling
+- Extension maintenance\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a haircut cost in Navarro County?",
+        answer: "Women's haircuts in Navarro County typically range from $25-$60 depending on the salon and stylist experience. Men's cuts run $15-$35. Children's cuts start around $15-$25. Color services vary widely—single-process color runs $60-$100, while highlights and balayage range from $80-$200+. Prices in local salons are generally lower than in the Dallas metroplex."
+      },
+      {
+        question: "How do I find a good hair stylist?",
+        answer: "Ask friends and family for recommendations—word of mouth is powerful in Navarro County. Look at stylists' work on social media. Book a consultation before committing to major changes. Be clear about your expectations, maintenance abilities, and budget. A good stylist will be honest about what's achievable with your hair type."
+      },
+      {
+        question: "How often should I get a haircut?",
+        answer: "For most styles, every 6-8 weeks maintains shape. Short cuts may need trimming every 4-6 weeks. Long hair can often go 8-12 weeks between cuts if just maintaining length. Color touch-ups for root coverage typically need attention every 4-6 weeks, while balayage and highlights can grow out more gracefully over 3-4 months."
+      }
+    ],
+    relatedServices: ["barbershop", "nail-salon", "spa", "makeup-artist"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "barbershop",
+    title: "Barbershop",
+    category: "beauty_personal",
+    subcategory: "hair",
+    layout: 5,
+    icon: "Scissors",
+    iconColor: "slate",
+    metaTitle: "Barbershop in Navarro County, TX | Men's Haircuts Corsicana",
+    metaDescription: "Barbershops in Corsicana and Navarro County. Men's haircuts, beard trims, hot towel shaves, fades, and traditional barber services.",
+    metaKeywords: "barbershop Corsicana, barber Navarro County, men's haircut, beard trim, fade, shave",
+    heroContent: `The barbershop is more than a place to get a haircut—it's a community institution. Navarro County barbershops offer men quality cuts, beard services, and often a bit of friendly conversation, continuing a tradition that's been part of Texas towns for generations.`,
+    localContext: `Corsicana has maintained its barbershop culture, with both traditional shops and modern style-focused barbers serving the community. Many local barbers have been cutting hair for decades, with customers who've been coming since childhood. Whether you want a classic cut or the latest fade, Navarro County barbershops deliver quality service at reasonable prices.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Barber Services",
+        content: \`**Haircuts**
+- Classic cuts
+- Fades (low, mid, high)
+- Tapers
+- Buzz cuts
+- Scissor cuts
+- Kids' cuts
+
+**Beard Services**
+- Beard trims
+- Beard shaping
+- Line-ups
+- Hot towel shaves
+- Straight razor shaves
+
+**Additional Services**
+- Edge-ups and line-ups
+- Eyebrow grooming
+- Ear and nose hair trimming
+- Scalp treatments
+- Hair designs and patterns\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a haircut cost at Navarro County barbershops?",
+        answer: "Men's haircuts typically cost $15-$30 at most Navarro County barbershops. Fades and detailed work may be at the higher end. Kids' cuts usually run $12-$20. Beard trims add $10-$20. Hot towel shaves range from $20-$35. Most barbers appreciate cash but many now accept cards."
+      },
+      {
+        question: "Do I need an appointment or can I walk in?",
+        answer: "Many traditional barbershops in Navarro County operate on a walk-in basis—first come, first served. Some busier shops and modern barbershops offer appointments, especially for specific barbers. Saturdays are typically busiest. If you have a preferred barber, calling ahead is a good idea."
+      },
+      {
+        question: "How often should I get a haircut?",
+        answer: "For a fresh look, most men's cuts look best with maintenance every 2-4 weeks. Fades grow out quickly and may need attention every 2 weeks to maintain crisp lines. Longer styles can often go 4-6 weeks. Find a schedule that works for your style, budget, and maintenance preferences."
+      }
+    ],
+    relatedServices: ["hair-salon", "spa", "men's-grooming"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // EDUCATION & CHILDCARE
+  // ============================================
+  {
+    slug: "daycare",
+    title: "Daycare Center",
+    category: "education_childcare",
+    subcategory: "childcare",
+    layout: 1,
+    icon: "Baby",
+    iconColor: "sky",
+    metaTitle: "Daycare in Navarro County, TX | Childcare Centers Corsicana",
+    metaDescription: "Licensed daycare centers in Corsicana and Navarro County. Quality childcare for infants, toddlers, and preschoolers with trained staff and educational programs.",
+    metaKeywords: "daycare Corsicana, childcare Navarro County, preschool, infant care, toddler care, child care center",
+    heroContent: `Finding quality childcare is one of the most important decisions parents make. Navarro County daycare centers offer safe, nurturing environments where children learn and grow while parents work with peace of mind. From infant care to pre-K programs, local providers meet the diverse needs of area families.`,
+    localContext: `With many Navarro County parents commuting to Dallas-Fort Worth or working locally, reliable childcare is essential. Licensed centers throughout the county offer various options—from small home-based operations to larger facilities with multiple classrooms. Many centers accept childcare subsidies through the Texas Workforce Commission for qualifying families. The local 4C (Community Coordinated Child Care) agency can help families navigate childcare options and assistance programs.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Childcare Options in Navarro County",
+        content: \`**By Age Group**
+- Infant care (6 weeks - 12 months)
+- Toddler programs (1-2 years)
+- Preschool (3-4 years)
+- Pre-K (4-5 years)
+- After-school care
+- Summer programs
+
+**Program Types**
+- Full-day care (typically 6am-6pm)
+- Part-time options
+- Drop-in care (limited availability)
+- Before and after school
+- Summer and holiday camps
+
+**Educational Approaches**
+- Play-based learning
+- Structured curriculum
+- Montessori methods
+- Faith-based programs
+- Bilingual programs
+- STEAM enrichment\`
+      },
+      {
+        type: "guide",
+        heading: "Choosing a Daycare in Navarro County",
+        content: \`**What to Look For**
+- Valid Texas childcare license (verify at HHSC website)
+- Low staff-to-child ratios
+- Clean, safe, age-appropriate environment
+- Qualified, caring staff
+- Strong communication with parents
+- Curriculum appropriate for ages served
+- Positive interactions between staff and children
+
+**Questions to Ask**
+- What are your teacher qualifications and turnover rate?
+- What is your discipline policy?
+- How do you handle illness and emergencies?
+- What is included in tuition (meals, supplies)?
+- What is your vacation and holiday schedule?
+- Can I drop in unannounced to visit?
+- What security measures are in place?
+
+**Red Flags**
+- Reluctance to allow visits or tours
+- High staff turnover
+- Uncleanliness or safety hazards
+- Lack of structure or curriculum
+- Poor communication
+- Not willing to share licensing records\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does daycare cost in Navarro County?",
+        answer: "Daycare costs in Navarro County typically range from $150-$250 per week for full-time care, depending on the child's age (infants cost more) and center type. This is generally 20-30% less than Dallas-area rates. Part-time rates vary. Texas Workforce Commission subsidies are available for qualifying families—contact the local workforce office for eligibility."
+      },
+      {
+        question: "How do I know if a daycare is licensed?",
+        answer: "All Texas daycare centers caring for more than 3 unrelated children must be licensed by HHSC (Health and Human Services Commission). You can verify any license and check inspection records at the HHSC website or by calling them directly. Licensed centers must post their license where parents can see it."
+      },
+      {
+        question: "What should I look for during a daycare visit?",
+        answer: "Observe how staff interact with children—they should be warm, engaged, and attentive. Look at the overall cleanliness and safety. Notice if children seem happy and engaged. Ask about daily routines and educational activities. Trust your instincts about the environment and staff. Visit during active hours to see the center in operation."
+      }
+    ],
+    relatedServices: ["preschool", "babysitter", "after-school-care", "tutoring"],
+    externalResources: [
+      { name: "Texas HHSC - Search Child Care", url: "https://www.hhs.texas.gov/services/safety/child-care" },
+      { name: "Texas Workforce Commission - Childcare", url: "https://www.twc.texas.gov/programs/childcare" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "tutoring",
+    title: "Tutoring",
+    category: "education_childcare",
+    subcategory: "education",
+    layout: 2,
+    icon: "BookOpen",
+    iconColor: "blue",
+    metaTitle: "Tutoring in Navarro County, TX | Academic Tutors Corsicana",
+    metaDescription: "Academic tutoring in Corsicana and Navarro County. Math tutoring, reading help, homework assistance, test prep, and all subjects for K-12 students.",
+    metaKeywords: "tutoring Corsicana, tutor Navarro County, math tutor, reading tutor, test prep, homework help",
+    heroContent: `Every student learns differently, and sometimes one-on-one attention makes all the difference. Navarro County tutors help students of all ages master challenging subjects, build confidence, and achieve their academic goals—whether that's passing algebra, preparing for the SAT, or developing strong reading skills.`,
+    localContext: `Navarro County students attend schools in Corsicana ISD, Mildred ISD, Kerens ISD, Blooming Grove ISD, and other local districts. Tutors familiar with Texas curriculum standards and local school expectations can provide targeted support. Many parents seek tutoring help as STAAR testing approaches or when students need extra support with challenging coursework.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Tutoring Services Available",
+        content: \`**Subject Tutoring**
+- Math (all levels through calculus)
+- Reading and language arts
+- Science (biology, chemistry, physics)
+- Social studies and history
+- Foreign languages
+- Writing and essay skills
+
+**Test Preparation**
+- STAAR test prep
+- SAT and ACT prep
+- PSAT/National Merit
+- College entrance essays
+- TSI (Texas Success Initiative)
+- GED preparation
+
+**Grade Levels**
+- Elementary school (K-5)
+- Middle school (6-8)
+- High school (9-12)
+- College-level support
+
+**Learning Support**
+- Homework help
+- Study skills development
+- Organization strategies
+- Learning disability support
+- Gifted student enrichment
+- Homeschool support\`
+      },
+      {
+        type: "guide",
+        heading: "Finding the Right Tutor",
+        content: \`**What to Consider**
+- Subject expertise and qualifications
+- Experience with the student's grade level
+- Teaching style and personality fit
+- Availability and scheduling flexibility
+- Location (in-home, online, or tutor's location)
+- References from other families
+
+**Types of Tutoring**
+- **Private tutors:** One-on-one attention, customized to student
+- **Learning centers:** Structured programs, multiple subjects
+- **Online tutoring:** Convenient, wider tutor selection
+- **Group tutoring:** More affordable, social learning
+- **Peer tutoring:** Older students helping younger
+
+**Red Flags**
+- Guarantees specific grade improvements
+- No clear qualifications or background
+- Unwillingness to communicate with parents
+- Rigid methods that don't adapt to student needs
+- Lack of patience or poor rapport with student\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does tutoring cost in Navarro County?",
+        answer: "Private tutoring in Navarro County typically costs $25-$50 per hour depending on subject, tutor qualifications, and student grade level. Test prep specialists may charge $50-$75+. Learning centers often charge monthly fees of $150-$400. Some certified teachers offer more affordable rates. Group sessions cost less per student than private tutoring."
+      },
+      {
+        question: "How often should my child see a tutor?",
+        answer: "For most students, 1-2 sessions per week provides good progress. Students significantly behind or preparing for important tests may benefit from more frequent sessions. Consistency matters more than intensity—regular weekly sessions typically produce better results than sporadic cramming."
+      },
+      {
+        question: "How do I know if tutoring is working?",
+        answer: "Look for improvements in grades, but also confidence and attitude toward learning. Good tutors set goals and track progress. Communicate regularly with the tutor about what's being worked on. Give it adequate time—significant improvement often takes 2-3 months of consistent work."
+      }
+    ],
+    relatedServices: ["music-lessons", "test-prep", "daycare", "after-school-care"],
+    externalResources: [
+      { name: "Texas Education Agency", url: "https://tea.texas.gov/" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // RETAIL
+  // ============================================
+  {
+    slug: "furniture-store",
+    title: "Furniture Store",
+    category: "retail",
+    subcategory: "home",
+    layout: 3,
+    icon: "Sofa",
+    iconColor: "amber",
+    metaTitle: "Furniture Stores in Navarro County, TX | Home Furnishings Corsicana",
+    metaDescription: "Furniture stores in Corsicana and Navarro County. Living room, bedroom, dining furniture, mattresses, and home decor with delivery available.",
+    metaKeywords: "furniture store Corsicana, furniture Navarro County, living room furniture, bedroom furniture, mattress, home decor",
+    heroContent: `Whether you're furnishing a new home, updating a room, or looking for a single statement piece, Navarro County furniture stores offer options for every style and budget. From traditional to contemporary, local stores provide the furniture and home goods that make a house a home.`,
+    localContext: `Corsicana has a long history in furniture manufacturing and retail, with some furniture stores operating for generations. Local stores offer competitive pricing compared to big-box retailers, often with better customer service, delivery, and the ability to see pieces in person before buying. Many offer financing options to help families furnish their homes within budget.`,
+    sections: [
+      {
+        type: "services",
+        heading: "What Furniture Stores Offer",
+        content: \`**Living Room**
+- Sofas and sectionals
+- Recliners and chairs
+- Coffee and end tables
+- Entertainment centers
+- Accent furniture
+
+**Bedroom**
+- Bedroom sets
+- Mattresses and box springs
+- Headboards and bed frames
+- Dressers and nightstands
+- Kids' furniture
+
+**Dining**
+- Dining sets
+- Buffets and china cabinets
+- Bar stools and counter seating
+- Kitchen tables
+
+**Office**
+- Desks
+- Office chairs
+- Bookcases
+- File cabinets
+
+**Additional**
+- Mattresses (see mattress stores)
+- Outdoor furniture
+- Home decor and accessories
+- Rugs and lamps
+- Delivery and setup services
+- Financing options\`
+      }
+    ],
+    faqs: [
+      {
+        question: "Do furniture stores offer delivery?",
+        answer: "Most Navarro County furniture stores offer delivery, often free within a certain radius for purchases over a minimum amount (typically $500-$1,000). Some include setup and removal of old furniture. Ask about delivery timeframes—stock items may deliver within a week while special orders can take 6-12 weeks."
+      },
+      {
+        question: "Is it better to buy furniture locally or online?",
+        answer: "Local stores offer advantages: you can see and test furniture before buying, avoid shipping damage risks, get personalized service, and support local businesses. Pricing is often competitive with online retailers, especially when you factor in shipping costs. However, online may offer more selection for specific styles."
+      },
+      {
+        question: "What should I know before buying furniture?",
+        answer: "Measure your space carefully, including doorways for delivery. Consider your lifestyle (pets, kids, heavy use). Check construction quality—look at frame materials, cushion density, and fabric durability. Understand warranty terms. Don't rush—take time to compare options and prices."
+      }
+    ],
+    relatedServices: ["mattress-store", "appliance-store", "interior-painting", "flooring"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // LODGING & TRAVEL
+  // ============================================
+  {
+    slug: "hotel",
+    title: "Hotel",
+    category: "lodging_travel",
+    subcategory: "lodging",
+    layout: 4,
+    icon: "Bed",
+    iconColor: "indigo",
+    metaTitle: "Hotels in Navarro County, TX | Accommodations in Corsicana",
+    metaDescription: "Hotels and lodging in Corsicana and Navarro County. Comfortable accommodations for business travelers, families, and visitors to Central Texas.",
+    metaKeywords: "hotel Corsicana, hotel Navarro County, lodging, motel, accommodations, places to stay",
+    heroContent: `Whether you're visiting for business, attending an event, or exploring Central Texas, Navarro County offers comfortable accommodations to fit your needs and budget. From familiar chain hotels to local establishments, visitors find welcoming places to stay in and around Corsicana.`,
+    localContext: `Navarro County's location along I-45 between Dallas and Houston makes it a convenient stopping point for travelers. Corsicana's historic downtown, proximity to Richland Chambers Reservoir, and various events draw visitors throughout the year. Hotels range from budget-friendly options to well-appointed properties with full amenities.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Lodging Options in Navarro County",
+        content: \`**Hotel Types**
+- Chain hotels (various brands)
+- Independent hotels
+- Extended stay properties
+- Boutique accommodations
+- Budget motels
+
+**Common Amenities**
+- Complimentary breakfast
+- Free WiFi
+- Swimming pools
+- Fitness centers
+- Business centers
+- Pet-friendly options
+- Meeting rooms
+
+**Location Considerations**
+- I-45 corridor: Convenient highway access
+- Downtown Corsicana: Near historic attractions
+- Near Richland Chambers: Lake access
+- Various exits: Easy access to different areas\`
+      }
+    ],
+    faqs: [
+      {
+        question: "What hotels are in Corsicana?",
+        answer: "Corsicana has several chain hotels including Hampton Inn, Best Western, Comfort Suites, and others, along with independent properties. Most are located along the I-45 corridor or near major roads. Prices typically range from $70-$150 per night depending on the property and season."
+      },
+      {
+        question: "Are there pet-friendly hotels in Navarro County?",
+        answer: "Yes, several Navarro County hotels accept pets, though policies and fees vary. Some charge $10-$50 per night pet fees, while others have weight or breed restrictions. Always call ahead to confirm pet policies and any requirements. Extended stays may have different pet policies than short stays."
+      },
+      {
+        question: "What events bring visitors to Navarro County?",
+        answer: "Major events include Derrick Days festival, various rodeos and livestock shows, fishing tournaments at Richland Chambers, Navarro College events, and sports tournaments. Hotels often fill up during large events—book early if visiting during festival weekends or major competitions."
+      }
+    ],
+    relatedServices: ["bed-breakfast", "vacation-rental", "rv-park", "restaurant"],
+    externalResources: [
+      { name: "Visit Corsicana", url: "https://www.visitcorsicana.com/" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // INDUSTRIAL & COMMERCIAL
+  // ============================================
+  {
+    slug: "commercial-cleaning",
+    title: "Commercial Cleaning",
+    category: "industrial_commercial",
+    subcategory: "commercial",
+    layout: 5,
+    icon: "Sparkles",
+    iconColor: "cyan",
+    metaTitle: "Commercial Cleaning in Navarro County, TX | Janitorial Services Corsicana",
+    metaDescription: "Commercial cleaning services in Corsicana and Navarro County. Office cleaning, janitorial services, floor care, and facility maintenance for businesses.",
+    metaKeywords: "commercial cleaning Corsicana, janitorial service Navarro County, office cleaning, floor care, building maintenance",
+    heroContent: `A clean workplace is essential for employee health, customer impressions, and professional image. Navarro County commercial cleaning services help businesses maintain spotless offices, retail spaces, and industrial facilities with reliable, professional service.`,
+    localContext: `From downtown Corsicana offices to manufacturing facilities, Navarro County businesses rely on professional cleaning services to maintain their premises. Local commercial cleaners understand the needs of different industries—from medical offices requiring strict sanitization to retail spaces needing frequent attention to high-traffic areas.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Commercial Cleaning Services",
+        content: \`**Regular Cleaning**
+- Office cleaning (daily, weekly, monthly)
+- Restroom sanitation
+- Trash removal
+- Dusting and surface cleaning
+- Vacuum and mop floors
+- Kitchen/breakroom cleaning
+
+**Specialized Services**
+- Floor stripping and waxing
+- Carpet cleaning
+- Window cleaning
+- Post-construction cleanup
+- Move-in/move-out cleaning
+- Pressure washing
+
+**Industry-Specific**
+- Medical office cleaning (OSHA compliant)
+- Restaurant and food service
+- Retail store cleaning
+- Industrial/warehouse
+- School and childcare
+- Church and worship facilities
+
+**Additional Services**
+- Day porter services
+- Restroom supply stocking
+- Odor control
+- Green cleaning options
+- Emergency cleaning\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does commercial cleaning cost?",
+        answer: "Commercial cleaning rates depend on space size, cleaning frequency, and services needed. Small offices (under 2,000 sq ft) typically run $150-$400 monthly for regular cleaning. Larger facilities negotiate per-square-foot rates, often $0.05-$0.20/sq ft. Specialized services like floor care and window cleaning are usually priced separately."
+      },
+      {
+        question: "How often should a business be cleaned?",
+        answer: "High-traffic businesses (medical, retail, food service) often need daily cleaning. Professional offices typically use 2-3 times weekly service. Warehouses and industrial spaces may need weekly cleaning. The right frequency depends on foot traffic, industry requirements, and your standards. Most cleaning companies will assess and recommend."
+      },
+      {
+        question: "Should I choose a cleaning company or hire an employee?",
+        answer: "Cleaning companies handle hiring, training, insurance, supplies, and backup coverage—reducing your management burden. They're usually more cost-effective than full-time employees for most businesses. However, large facilities with constant cleaning needs might benefit from in-house staff. Consider your space size, budget, and management capacity."
+      }
+    ],
+    relatedServices: ["janitorial", "carpet-cleaning", "window-cleaning", "pressure-washing"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "moving-company",
+    title: "Moving Company",
+    category: "industrial_commercial",
+    subcategory: "storage",
+    layout: 1,
+    icon: "Truck",
+    iconColor: "orange",
+    metaTitle: "Moving Company in Navarro County, TX | Movers in Corsicana",
+    metaDescription: "Professional moving services in Corsicana and Navarro County. Local and long-distance moving, packing services, and commercial relocation.",
+    metaKeywords: "moving company Corsicana, movers Navarro County, local moving, packing service, relocation, furniture moving",
+    heroContent: `Moving is stressful, but the right moving company makes it manageable. Navarro County movers help families and businesses relocate locally, across Texas, or across the country with professional care for your belongings and respect for your time.`,
+    localContext: `With people moving to Navarro County from the Dallas-Fort Worth metroplex seeking more affordable living, and others relocating for jobs or family, local moving companies stay busy year-round. Movers familiar with Navarro County know the challenges—from tight turns in older Corsicana neighborhoods to long driveways on rural properties.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Moving Services Available",
+        content: \`**Residential Moving**
+- Local moves (within Navarro County)
+- Long-distance moves
+- Apartment moves
+- House moves
+- Senior moves
+
+**Packing Services**
+- Full-service packing
+- Fragile item packing
+- Unpacking services
+- Packing supplies
+
+**Commercial Moving**
+- Office relocation
+- Retail store moves
+- Medical/dental office
+- Industrial equipment
+- Computer and server moving
+
+**Specialty Services**
+- Piano and heavy item moving
+- Gun safe moving
+- Hot tub moving
+- Storage solutions
+- Junk removal
+- Loading/unloading only\`
+      },
+      {
+        type: "guide",
+        heading: "Planning Your Move",
+        content: \`**Choosing a Moving Company**
+- Get multiple written estimates
+- Verify licensing and insurance
+- Check reviews and references
+- Understand what's included
+- Ask about additional charges
+- Get everything in writing
+
+**Before Moving Day**
+- Declutter and donate unwanted items
+- Obtain packing supplies early
+- Label boxes by room
+- Create inventory of valuable items
+- Photograph electronics connections
+- Plan child and pet care
+
+**Moving Day Tips**
+- Be present and available
+- Keep essentials accessible
+- Walk through with crew
+- Inspect before signing
+- Tip movers if service was good
+- Verify nothing left behind\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does moving cost in Navarro County?",
+        answer: "Local moves typically charge hourly rates: $80-$150/hour for a 2-person crew with truck, $100-$175 for 3-person crews. A typical 2-bedroom local move runs $300-$600. Long-distance moves are priced by weight and distance—moves within Texas might cost $1,500-$4,000 depending on size. Always get binding estimates in writing."
+      },
+      {
+        question: "How far in advance should I book movers?",
+        answer: "Book 2-4 weeks ahead for local moves, 4-8 weeks for long-distance. End of month, weekends, and summer are busiest—book earlier for these times. Some flexibility on moving date can save money since mid-week and mid-month often have better availability."
+      },
+      {
+        question: "What should I not pack for a move?",
+        answer: "Movers won't transport: hazardous materials (gasoline, propane, paint, chemicals), perishable food, plants (many states restrict), important documents and valuables (take these yourself), and items of extreme personal importance. Check with your mover about specific restrictions—policies vary."
+      }
+    ],
+    relatedServices: ["storage-units", "junk-removal", "cleaning", "handyman"],
+    externalResources: [
+      { name: "Texas Department of Motor Vehicles - Movers", url: "https://www.txdmv.gov/motorists/consumer-protection/household-goods-movers" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // MORE HOME SERVICES
+  // ============================================
+  {
+    slug: "handyman",
+    title: "Handyman Services",
+    category: "home_services",
+    subcategory: "maintenance",
+    layout: 2,
+    icon: "Wrench",
+    iconColor: "amber",
+    metaTitle: "Handyman in Navarro County, TX | Home Repair Services Corsicana",
+    metaDescription: "Handyman services in Corsicana and Navarro County. Home repairs, maintenance, installations, and odd jobs for residential and commercial properties.",
+    metaKeywords: "handyman Corsicana, home repair Navarro County, home maintenance, odd jobs, fix-it service",
+    heroContent: `From hanging pictures to fixing faucets to building shelves, handyman services tackle the endless list of small projects that homeowners don't have time for—or the tools to complete properly. Navarro County handymen offer skilled help for repairs, installations, and home improvements of all sizes.`,
+    localContext: `Navarro County's mix of older homes and newer construction creates ongoing maintenance needs. Older Corsicana homes may need updates to electrical outlets, weatherstripping, or plumbing fixtures. Newer homes develop their own issues as materials settle. Local handymen familiar with both types can handle the variety of projects homeowners encounter.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Handyman Services",
+        content: \`**Interior Repairs**
+- Drywall repair and patching
+- Door adjustments and hardware
+- Cabinet repairs
+- Trim and molding installation
+- Caulking and sealing
+- Light fixture installation
+
+**Exterior Work**
+- Minor fence repairs
+- Gutter cleaning and repairs
+- Pressure washing
+- Deck maintenance
+- Screen repairs
+- Weather stripping
+
+**Installations**
+- Ceiling fans
+- Shelving
+- Towel bars and bath hardware
+- TV mounting
+- Smoke detectors
+- Smart home devices
+
+**General Maintenance**
+- Appliance hookups
+- Furniture assembly
+- Picture hanging
+- Minor plumbing fixes
+- Small painting projects
+- Seasonal maintenance\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a handyman charge in Navarro County?",
+        answer: "Most Navarro County handymen charge $40-$75 per hour with 1-2 hour minimums for small jobs. Some offer flat rates for common tasks. Expect to pay $75-$200 for typical projects like ceiling fan installation, TV mounting, or minor repairs. Get quotes for larger projects. Rates are generally lower than specialized contractors."
+      },
+      {
+        question: "What's the difference between a handyman and a contractor?",
+        answer: "Handymen handle smaller repairs and general maintenance tasks. They typically don't need licenses for their work. Contractors specialize in specific trades (electrical, plumbing, HVAC) requiring licenses, and they handle larger projects with permits. If a project involves structural changes, new electrical circuits, or significant plumbing, you likely need a licensed contractor."
+      },
+      {
+        question: "How do I find a reliable handyman?",
+        answer: "Ask neighbors and friends for recommendations—word of mouth is valuable in a community like Navarro County. Check online reviews. Ask about insurance coverage. Start with a small project to test reliability before committing to larger work. Good handymen are often booked out, so plan ahead for non-emergency work."
+      }
+    ],
+    relatedServices: ["electrician", "plumber", "drywall", "painting", "carpenter"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "garage-door",
+    title: "Garage Door Service",
+    category: "home_services",
+    subcategory: "exterior",
+    layout: 3,
+    icon: "DoorOpen",
+    iconColor: "slate",
+    metaTitle: "Garage Door Service in Navarro County, TX | Repair & Installation Corsicana",
+    metaDescription: "Garage door repair and installation in Corsicana and Navarro County. Broken springs, opener repair, new doors, and 24/7 emergency garage door service.",
+    metaKeywords: "garage door repair Corsicana, garage door Navarro County, broken spring, garage door opener, garage door installation",
+    heroContent: `Your garage door is likely the largest moving part of your home—and when it breaks, it's often an emergency. Navarro County garage door services handle everything from broken springs (the most common failure) to complete door replacement, with many offering same-day and emergency service.`,
+    localContext: `Texas heat and temperature swings put stress on garage door components. Metal springs and tracks expand and contract with our temperature extremes, accelerating wear. Our humidity can also affect wooden doors and electronic components. Local garage door technicians understand these regional factors and stock parts suited to Texas conditions.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Garage Door Services",
+        content: \`**Repair Services**
+- Spring replacement (most common repair)
+- Cable repair and replacement
+- Roller replacement
+- Track realignment
+- Panel replacement
+- Weather seal replacement
+- Safety sensor repair
+
+**Opener Services**
+- Opener repair
+- New opener installation
+- Remote programming
+- Keypad installation
+- Smart opener upgrades
+- Battery backup installation
+
+**Door Installation**
+- New residential doors
+- Insulated doors
+- Custom doors
+- Commercial doors
+- Door replacement
+
+**Emergency Service**
+- 24/7 availability (many companies)
+- Broken spring service
+- Door off track
+- Lock-out service
+- Storm damage\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does garage door repair cost?",
+        answer: "Spring replacement, the most common repair, typically costs $150-$300 for a single spring or $200-$400 for both. Opener repair runs $100-$200 for minor issues, or $300-$600 if the motor needs replacement. New opener installation costs $200-$500 including the unit. New garage doors range from $700-$2,500+ depending on size and style."
+      },
+      {
+        question: "Can I replace a garage door spring myself?",
+        answer: "Garage door springs are under extreme tension and can cause serious injury if mishandled. Torsion springs (on a rod above the door) are especially dangerous and should only be replaced by professionals. While extension springs (along the sides) are somewhat safer, professional repair is still strongly recommended for safety."
+      },
+      {
+        question: "How long do garage door springs last?",
+        answer: "Standard garage door springs are rated for about 10,000 cycles (one open and one close = one cycle). For a typical family using the door 4 times daily, that's about 7 years. Heavy use shortens lifespan. When one spring breaks, the other often follows soon—many technicians recommend replacing both at once."
+      }
+    ],
+    relatedServices: ["electrician", "handyman", "home-security", "door-installation"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "lawn-care",
+    title: "Lawn Care",
+    category: "home_services",
+    subcategory: "outdoor",
+    layout: 4,
+    icon: "Leaf",
+    iconColor: "green",
+    metaTitle: "Lawn Care in Navarro County, TX | Lawn Service Corsicana",
+    metaDescription: "Professional lawn care in Corsicana and Navarro County. Mowing, edging, fertilization, weed control, and lawn maintenance for healthy Texas lawns.",
+    metaKeywords: "lawn care Corsicana, lawn service Navarro County, lawn mowing, fertilizer, weed control, grass cutting",
+    heroContent: `A healthy lawn enhances curb appeal and provides outdoor living space, but maintaining it in Central Texas takes knowledge and effort. Navarro County lawn care services keep grass looking great through our hot summers, handle weed and pest problems, and free up your weekends for more enjoyable activities.`,
+    localContext: `Navarro County lawns face Texas-sized challenges: summer temperatures exceeding 100°F, periods of drought, invasive weeds, fire ants, and diseases that thrive in humidity. The dominant lawn grasses here—Bermuda, St. Augustine, and Zoysia—each have specific care needs. Local lawn care professionals understand the seasonal timing of fertilization, weed prevention, and maintenance that produces healthy lawns in our climate.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Lawn Care Services",
+        content: \`**Maintenance**
+- Weekly/bi-weekly mowing
+- Edging and trimming
+- Blowing debris
+- Leaf removal (seasonal)
+
+**Fertilization & Treatment**
+- Fertilization programs
+- Pre-emergent weed control
+- Post-emergent weed treatment
+- Grub and insect control
+- Disease treatment
+- Fire ant treatment
+
+**Lawn Health**
+- Aeration (fall)
+- Overseeding
+- Soil testing
+- pH adjustment
+- Thatch removal
+
+**Additional Services**
+- Shrub trimming
+- Bed maintenance
+- Mulching
+- Seasonal cleanup
+- Irrigation checks\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does lawn care cost in Navarro County?",
+        answer: "Basic mowing service for a typical quarter-acre lot runs $35-$60 per visit. Fertilization and weed control programs cost $50-$80 per application (usually 5-7 applications annually). Full-service programs including mowing and treatments run $150-$300 monthly during growing season. Prices vary by lot size and services included."
+      },
+      {
+        question: "How often should grass be mowed in Texas?",
+        answer: "During peak growing season (April-October), weekly mowing is typical. Never remove more than 1/3 of blade height at once. In extreme heat, mowing every 10-14 days may be better to reduce stress. Winter dormancy allows monthly or as-needed mowing. Adjust height seasonally—higher in summer, lower in spring and fall."
+      },
+      {
+        question: "When should I fertilize my lawn in Navarro County?",
+        answer: "For warm-season grasses (Bermuda, St. Augustine, Zoysia), fertilize from April through September. Apply pre-emergent weed control in late February/early March and again in early fall. Avoid fertilizing during extreme heat (over 95°F) or drought. A soil test helps determine exactly what your lawn needs."
+      }
+    ],
+    relatedServices: ["landscaping", "irrigation", "pest-control", "tree-service"],
+    externalResources: [
+      { name: "Texas A&M AgriLife Extension - Lawns", url: "https://aggie-horticulture.tamu.edu/earthkind/lawn/" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "cleaning",
+    title: "House Cleaning",
+    category: "home_services",
+    subcategory: "maintenance",
+    layout: 5,
+    icon: "Sparkles",
+    iconColor: "cyan",
+    metaTitle: "House Cleaning in Navarro County, TX | Maid Service Corsicana",
+    metaDescription: "Professional house cleaning in Corsicana and Navarro County. Regular maid service, deep cleaning, move-in/out cleaning, and residential cleaning services.",
+    metaKeywords: "house cleaning Corsicana, maid service Navarro County, cleaning service, deep cleaning, home cleaning",
+    heroContent: `Life in Navarro County keeps families busy—work, kids' activities, and community involvement leave little time for thorough housecleaning. Professional cleaning services help maintain a healthy, comfortable home without sacrificing your precious free time.`,
+    localContext: `From ranch homes with mudrooms that see heavy use to historic Corsicana houses with lots of woodwork, Navarro County homes have varied cleaning needs. Local cleaning services understand these differences and adapt their approach accordingly. They're also familiar with challenges like the red clay dust that finds its way into everything and the allergens common to Central Texas.`,
+    sections: [
+      {
+        type: "services",
+        heading: "House Cleaning Services",
+        content: \`**Regular Cleaning**
+- Dusting and surface cleaning
+- Vacuuming and mopping
+- Kitchen cleaning
+- Bathroom sanitizing
+- Bedroom tidying
+- Trash removal
+
+**Deep Cleaning**
+- Behind and under furniture
+- Inside cabinets and drawers
+- Baseboards and trim
+- Light fixtures and fans
+- Window sills and blinds
+- Detailed bathroom cleaning
+
+**Specialty Cleaning**
+- Move-in/move-out cleaning
+- Post-construction cleanup
+- Spring cleaning
+- Holiday preparation
+- Party before/after
+
+**Additional Services**
+- Laundry and folding
+- Dish washing
+- Bed changing
+- Organizing
+- Inside refrigerator
+- Inside oven\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does house cleaning cost in Navarro County?",
+        answer: "Regular cleaning for a typical 2,000 sq ft home runs $100-$175 per visit. Deep cleaning costs $200-$350. Move-out cleaning averages $250-$400 depending on size and condition. Most services price by home size and service type. Regular customers (weekly or bi-weekly) typically get better rates than one-time cleanings."
+      },
+      {
+        question: "How often should I have my house professionally cleaned?",
+        answer: "Weekly cleaning keeps homes consistently fresh and reduces deep cleaning needs. Bi-weekly (every two weeks) is the most popular option, balancing cleanliness with cost. Monthly cleaning works for those who maintain well between visits. Consider lifestyle factors—homes with kids, pets, or multiple occupants often need more frequent service."
+      },
+      {
+        question: "Should I clean before the cleaning service comes?",
+        answer: "You don't need to clean, but picking up clutter helps cleaners work more efficiently on actual cleaning tasks. Clearing countertops, putting away dishes, and managing laundry means more time spent on surfaces and sanitation. Most services will work around clutter, but your results may be better when surfaces are accessible."
+      }
+    ],
+    relatedServices: ["carpet-cleaning", "window-cleaning", "organizing", "junk-removal"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "pool-service",
+    title: "Pool Service",
+    category: "home_services",
+    subcategory: "outdoor",
+    layout: 1,
+    icon: "Waves",
+    iconColor: "cyan",
+    metaTitle: "Pool Service in Navarro County, TX | Pool Cleaning & Repair Corsicana",
+    metaDescription: "Swimming pool services in Corsicana and Navarro County. Pool cleaning, maintenance, repair, equipment service, and opening/closing for Texas pools.",
+    metaKeywords: "pool service Corsicana, pool cleaning Navarro County, pool maintenance, pool repair, pool opening, pool closing",
+    heroContent: `A backyard pool provides refreshing relief from Texas heat, but it requires consistent maintenance to stay clean, safe, and functional. Navarro County pool services handle the chemistry, cleaning, and equipment maintenance so you can simply enjoy your pool.`,
+    localContext: `With our long swimming season (often April through October), Navarro County pools see heavy use. The hot climate increases evaporation and chemical demand, while afternoon thunderstorms can throw off water balance. Local pool professionals understand these regional factors and adjust maintenance schedules and chemical treatments accordingly.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Pool Services Available",
+        content: \`**Regular Maintenance**
+- Weekly cleaning and skimming
+- Chemical balancing
+- Filter cleaning
+- Brush walls and floor
+- Empty skimmer baskets
+- Check equipment operation
+
+**Equipment Service**
+- Pump repair and replacement
+- Filter repair and replacement
+- Heater service
+- Salt cell maintenance
+- Automation systems
+- Leak detection
+
+**Seasonal Services**
+- Pool opening (spring)
+- Pool closing (fall)
+- Winterization
+- Green-to-clean service
+- Algae treatment
+
+**Additional Services**
+- Tile and surface cleaning
+- Acid washing
+- Pool resurfacing (referral)
+- Equipment upgrades
+- Energy efficiency improvements\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does pool service cost in Navarro County?",
+        answer: "Weekly pool maintenance typically costs $125-$200 per month for standard residential pools. Chemical-only service runs $80-$120 monthly. One-time cleanings cost $150-$300. Equipment repairs vary widely—pump replacement runs $400-$800 including labor. Pool opening/closing service is $200-$400 each."
+      },
+      {
+        question: "How often does my pool need professional service?",
+        answer: "Weekly service is recommended for most pools to maintain proper chemistry and cleanliness. During peak summer, twice-weekly service may be beneficial for heavy-use pools. Some homeowners opt for bi-weekly service while handling skimming themselves between visits. Consistent service prevents problems that cost more to fix later."
+      },
+      {
+        question: "Can I maintain my own pool?",
+        answer: "Yes, with knowledge and commitment. You'll need a test kit, chemicals, skimmer, brush, and vacuum. Plan on 2-4 hours weekly during swimming season. The learning curve can be steep—water chemistry affects both swimmer comfort and equipment longevity. Many homeowners start with professional service to learn, then transition to DIY."
+      }
+    ],
+    relatedServices: ["hot-tub-service", "landscaping", "outdoor-lighting", "deck-builder"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // MORE PROFESSIONAL SERVICES
+  // ============================================
+  {
+    slug: "insurance-agent",
+    title: "Insurance Agent",
+    category: "professional_services",
+    subcategory: "financial",
+    layout: 2,
+    icon: "Shield",
+    iconColor: "blue",
+    metaTitle: "Insurance Agent in Navarro County, TX | Insurance Services Corsicana",
+    metaDescription: "Insurance agents in Corsicana and Navarro County. Home, auto, life, health, business, and farm insurance from local independent and captive agents.",
+    metaKeywords: "insurance agent Corsicana, insurance Navarro County, home insurance, auto insurance, life insurance, farm insurance",
+    heroContent: `Insurance protects what matters most—your family, home, vehicles, and livelihood. Navarro County insurance agents help you navigate complex coverage options and find policies that fit your needs and budget, from basic auto coverage to comprehensive farm and ranch insurance.`,
+    localContext: `Insurance needs in Navarro County include considerations specific to our area: hail and wind coverage for our storm-prone region, flood insurance for properties near creeks and the reservoir, and farm/ranch coverage for agricultural operations. Local agents understand these regional factors and can recommend appropriate coverage levels and deductible structures.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Insurance Products Available",
+        content: \`**Personal Insurance**
+- Auto insurance
+- Homeowners insurance
+- Renters insurance
+- Umbrella/excess liability
+- Motorcycle, boat, RV insurance
+- Valuable items coverage
+
+**Life & Health**
+- Term life insurance
+- Whole life insurance
+- Health insurance
+- Medicare supplements
+- Disability insurance
+- Long-term care insurance
+
+**Commercial Insurance**
+- Business owners policy (BOP)
+- General liability
+- Commercial property
+- Workers' compensation
+- Professional liability
+- Commercial auto
+
+**Farm & Ranch**
+- Farm property coverage
+- Livestock insurance
+- Equipment coverage
+- Crop insurance
+- Farm liability
+- Agribusiness coverage\`
+      }
+    ],
+    faqs: [
+      {
+        question: "Should I use an independent agent or go direct to an insurance company?",
+        answer: "Independent agents represent multiple companies and can compare options for you. Captive agents (State Farm, Allstate, etc.) represent one company and know their products deeply. Direct companies (GEICO, Progressive online) may offer lower rates but less personal service. For complex needs (farms, businesses, multiple policies), independent agents often provide the most value."
+      },
+      {
+        question: "How often should I review my insurance?",
+        answer: "Review policies annually or when major life changes occur: buying a home, marriage, having children, starting a business, major purchases, or reaching retirement. Premium increases are also good times to shop around. Local agents can do periodic reviews to ensure coverage keeps pace with your needs."
+      },
+      {
+        question: "Do I need flood insurance in Navarro County?",
+        answer: "Standard homeowners insurance does NOT cover flood damage. If you're in a FEMA-designated flood zone, your mortgage lender will require flood insurance. Even outside designated zones, flooding can occur—over 25% of flood claims come from low-risk areas. Navarro County properties near creeks, Richland Chambers, or low-lying areas should consider flood coverage."
+      }
+    ],
+    relatedServices: ["financial-advisor", "accountant", "realtor", "mortgage-lender"],
+    externalResources: [
+      { name: "Texas Department of Insurance", url: "https://www.tdi.texas.gov/" },
+      { name: "FEMA Flood Map Service", url: "https://msc.fema.gov/portal/home" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "home-inspector",
+    title: "Home Inspector",
+    category: "professional_services",
+    subcategory: "real_estate",
+    layout: 3,
+    icon: "Search",
+    iconColor: "amber",
+    metaTitle: "Home Inspector in Navarro County, TX | Property Inspection Corsicana",
+    metaDescription: "Licensed home inspectors in Corsicana and Navarro County. Pre-purchase inspections, seller inspections, and property assessments for real estate transactions.",
+    metaKeywords: "home inspector Corsicana, home inspection Navarro County, property inspection, buyer inspection, house inspection",
+    heroContent: `A professional home inspection reveals the true condition of a property—essential information for one of the largest purchases you'll ever make. Navarro County home inspectors examine houses from foundation to roof, identifying issues that could cost thousands to repair.`,
+    localContext: `Home inspections in Navarro County must address our specific regional concerns: foundation issues related to expansive clay soils, older homes with potential electrical and plumbing updates needed, and roofs that have weathered Texas storms. Local inspectors know what to look for in both historic Corsicana homes and newer construction throughout the county.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Home Inspection Services",
+        content: \`**Standard Inspection**
+- Foundation and structure
+- Roof and attic
+- Electrical systems
+- Plumbing systems
+- HVAC systems
+- Interior components
+- Exterior components
+- Grounds and drainage
+
+**Additional Inspections**
+- Termite/WDI inspection (usually separate)
+- Pool inspection
+- Septic inspection
+- Well water testing
+- Mold testing
+- Radon testing
+- Sewer scope inspection
+
+**Specialized Inspections**
+- Pre-listing seller inspections
+- New construction inspections
+- 11-month warranty inspections
+- Commercial property inspections
+- Investment property inspections\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a home inspection cost in Navarro County?",
+        answer: "Standard home inspections in Navarro County typically cost $300-$500 depending on home size and age. Larger homes (over 3,000 sq ft) and older homes cost more. Add-on inspections like termite ($75-$100), pool ($100-$150), or septic ($300-$500) are additional. Don't skip the inspection to save money—the information is invaluable."
+      },
+      {
+        question: "Should I attend the home inspection?",
+        answer: "Yes, absolutely attend if possible. Walking through with the inspector helps you understand the home's systems, learn maintenance needs, and ask questions. A good inspector will explain findings and answer questions. Plan for 2-4 hours depending on home size. The written report provides details, but being there provides context."
+      },
+      {
+        question: "What can cause a home to fail inspection?",
+        answer: "Home inspections don't pass or fail—they report conditions. However, major issues like foundation problems, roof damage, electrical safety concerns, plumbing failures, or HVAC problems may affect your purchase decision or negotiations. Inspectors report what they find; you decide what matters for your situation."
+      }
+    ],
+    relatedServices: ["realtor", "foundation-repair", "termite-control", "structural-engineer"],
+    externalResources: [
+      { name: "Texas Real Estate Commission - Home Inspectors", url: "https://www.trec.texas.gov/programs/inspector" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "notary",
+    title: "Notary Public",
+    category: "professional_services",
+    subcategory: "business",
+    layout: 4,
+    icon: "Stamp",
+    iconColor: "indigo",
+    metaTitle: "Notary Public in Navarro County, TX | Notary Services Corsicana",
+    metaDescription: "Notary services in Corsicana and Navarro County. Document notarization, mobile notary, real estate closings, and legal document authentication.",
+    metaKeywords: "notary Corsicana, notary public Navarro County, mobile notary, document notarization, signing agent",
+    heroContent: `Notary services provide essential authentication for legal documents, real estate transactions, and official paperwork. Navarro County notaries help residents and businesses complete important documents with proper witnessing and official seals.`,
+    localContext: `Notary services are needed throughout Navarro County for real estate closings, loan documents, powers of attorney, vehicle titles, and countless other transactions. Mobile notary services are particularly valuable in rural areas where traveling to an office isn't convenient. Many local businesses, banks, and professional offices offer notary services, while dedicated mobile notaries bring the service to you.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Notary Services Available",
+        content: \`**Document Types**
+- Real estate documents
+- Loan and mortgage papers
+- Powers of attorney
+- Wills and trusts
+- Vehicle title transfers
+- Affidavits
+- Medical directives
+- Business documents
+
+**Service Options**
+- In-office notarization
+- Mobile notary (they come to you)
+- After-hours appointments
+- Same-day service
+- Loan signing agent services
+
+**Additional Services**
+- Witness services
+- Document preparation (some notaries)
+- Apostille services (referral)
+- Translation services (some notaries)\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does notary service cost in Navarro County?",
+        answer: "Texas caps notary fees at $6 per signature or $0.50 per page for certified copies. However, mobile notary services charge travel fees, typically $25-$75+ depending on distance and time. Loan signing agents (who handle complete mortgage closings) charge $75-$150+ per signing. Many banks and businesses offer free or low-cost notary services for customers."
+      },
+      {
+        question: "What do I need to bring for notarization?",
+        answer: "Bring valid government-issued photo ID (driver's license, passport, or state ID). The document being notarized (don't sign it beforehand—you sign in front of the notary). If the document requires additional signers, they must be present with their IDs. Some documents have specific requirements—check in advance."
+      },
+      {
+        question: "Where can I find a notary in Navarro County?",
+        answer: "Banks and credit unions often provide notary service for account holders. UPS stores and shipping centers offer notary services. Many attorneys, CPAs, and real estate offices have notaries on staff. Mobile notaries advertise locally and online. The Texas Secretary of State website has a notary locator."
+      }
+    ],
+    relatedServices: ["attorney", "title-company", "mortgage-lender", "process-server"],
+    externalResources: [
+      { name: "Texas Secretary of State - Notary", url: "https://www.sos.state.tx.us/statdoc/notary.shtml" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "locksmith",
+    title: "Locksmith",
+    category: "professional_services",
+    subcategory: "business",
+    layout: 5,
+    icon: "Key",
+    iconColor: "amber",
+    metaTitle: "Locksmith in Navarro County, TX | Lock Service Corsicana",
+    metaDescription: "Professional locksmith services in Corsicana and Navarro County. Emergency lockout, lock repair, key replacement, and security upgrades for home and auto.",
+    metaKeywords: "locksmith Corsicana, locksmith Navarro County, lockout service, key replacement, lock repair, car lockout",
+    heroContent: `Locked out of your home or car? Need new locks for security? Navarro County locksmiths provide essential services for homes, businesses, and vehicles—from emergency lockouts to comprehensive security upgrades.`,
+    localContext: `Whether you're locked out of your vehicle at the Corsicana Walmart or need to rekey locks after moving into a new home, local locksmiths serve all of Navarro County. Response times are typically faster than calling services from Dallas, and local locksmiths are familiar with the variety of lock types found in everything from historic downtown buildings to modern subdivisions.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Locksmith Services",
+        content: \`**Emergency Services**
+- Home lockout
+- Car lockout
+- Business lockout
+- Broken key extraction
+- Lock repair
+- 24/7 availability (many locksmiths)
+
+**Residential Services**
+- Lock installation
+- Lock rekeying
+- Deadbolt installation
+- High-security lock upgrades
+- Key duplication
+- Safe services
+- Smart lock installation
+
+**Automotive Services**
+- Car key replacement
+- Transponder key programming
+- Key fob replacement
+- Ignition repair
+- Car lock repair
+
+**Commercial Services**
+- Commercial lock installation
+- Master key systems
+- Access control systems
+- High-security locks
+- Panic bar installation
+- Lock maintenance\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a locksmith cost in Navarro County?",
+        answer: "Service calls typically run $50-$100 plus labor and parts. Home lockouts average $75-$150. Car lockouts run $75-$200 depending on vehicle and key type. Rekeying locks costs $15-$25 per lock plus service call. New car keys range from $50 for basic keys to $200-$400 for transponder/key fob replacement. Prices are often higher for after-hours emergency service."
+      },
+      {
+        question: "How do I know if a locksmith is legitimate?",
+        answer: "Ask for a quote before they arrive and confirm it when they arrive. Legitimate locksmiths arrive in marked vehicles, show ID, and accept multiple payment methods. Be wary of extremely low phone quotes followed by much higher on-site prices. Check online reviews. Texas doesn't license locksmiths, so reputation matters."
+      },
+      {
+        question: "Should I rekey or replace locks when moving?",
+        answer: "You don't know who has keys to your new home—previous owners, their friends, contractors, cleaners. Rekeying (changing the lock mechanism so old keys don't work) costs less than replacement and is sufficient for functional locks. Replace locks that are damaged, outdated, or you want to upgrade to higher security."
+      }
+    ],
+    relatedServices: ["home-security", "garage-door", "auto-repair", "handyman"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
   }
 ];
 
