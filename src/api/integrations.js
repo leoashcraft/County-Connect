@@ -1,7 +1,7 @@
 // Local integrations
 // These are stub implementations that can be enhanced with your own backend services
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:3000/api';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || '/api';
 
 // File upload integration
 export const UploadFile = async ({ file, folder = 'uploads', public: isPublic = true }) => {

@@ -18,17 +18,10 @@ const app = express();
 
 // Database will be initialized before server starts (see bottom of file)
 
-// Security middleware
+// Security middleware - relaxed for SPA
 app.use(helmet({
   crossOriginResourcePolicy: { policy: "cross-origin" },
-  contentSecurityPolicy: {
-    directives: {
-      defaultSrc: ["'self'"],
-      imgSrc: ["'self'", "data:", "blob:", "*"],
-      styleSrc: ["'self'", "'unsafe-inline'", "https:"],
-      fontSrc: ["'self'", "https:", "data:"],
-    },
-  },
+  contentSecurityPolicy: false, // Disable CSP for SPA compatibility
 }));
 
 // CORS configuration
@@ -69,7 +62,20 @@ app.use('/api/entities', entityRoutes);
 app.use('/api/admin', adminRoutes);
 app.use('/api/upload', uploadRoutes);
 
-// 404 handler
+// Serve frontend static files in production
+const frontendPath = path.join(__dirname, '../../dist');
+app.use(express.static(frontendPath));
+
+// SPA fallback - serve index.html for all non-API routes
+app.get('*', (req, res, next) => {
+  // Skip API routes
+  if (req.path.startsWith('/api/') || req.path.startsWith('/uploads/') || req.path === '/health') {
+    return next();
+  }
+  res.sendFile(path.join(frontendPath, 'index.html'));
+});
+
+// 404 handler for API routes only
 app.use((req, res) => {
   res.status(404).json({ message: 'Route not found' });
 });
