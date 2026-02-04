@@ -49,15 +49,24 @@ async function prebuild() {
       return;
     }
 
-    // Check if database already has data
-    const entityCount = await dbQuery.get('SELECT COUNT(*) as count FROM entities');
-    
-    if (entityCount && entityCount.count > 0) {
-      console.log(`Database already has ${entityCount.count} entities.`);
-      console.log('Skipping seed (database not empty).\n');
-    } else {
-      console.log('Database is empty. Running seed...\n');
+    // Check if we should force reseed (clears all data first)
+    if (process.env.FORCE_RESEED === 'true') {
+      console.log('FORCE_RESEED=true, clearing existing data...');
+      await dbQuery.run('DELETE FROM entities');
+      await dbQuery.run('DELETE FROM site_settings');
+      console.log('Database cleared. Running seed...\n');
       await runSeed();
+    } else {
+      // Check if database already has data
+      const entityCount = await dbQuery.get('SELECT COUNT(*) as count FROM entities');
+      
+      if (entityCount && entityCount.count > 0) {
+        console.log(`Database already has ${entityCount.count} entities.`);
+        console.log('Skipping seed (database not empty).\n');
+      } else {
+        console.log('Database is empty. Running seed...\n');
+        await runSeed();
+      }
     }
 
     await closeDatabase();
