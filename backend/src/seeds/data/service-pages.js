@@ -1805,7 +1805,7 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
       {
         type: "guide",
         heading: "Roofing Options for Navarro County Homes",
-        content: \`**Asphalt Shingles (Most Common)**
+        content: `**Asphalt Shingles (Most Common)**
 - 3-tab shingles: $3-$4/sq ft installed, 15-20 year lifespan
 - Architectural shingles: $4-$6/sq ft, 25-30 year lifespan
 - Impact-resistant shingles: $5-$7/sq ft, may reduce insurance premiums 5-10%
@@ -1826,12 +1826,12 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
 **Flat Roofing (Commercial/Some Residential)**
 - TPO membrane: $5-$8/sq ft
 - Modified bitumen: $4-$7/sq ft
-- Commonly used on additions and low-slope sections\`
+- Commonly used on additions and low-slope sections`
       },
       {
         type: "local_info",
         heading: "Storm Damage and Insurance Claims in Navarro County",
-        content: \`After severe weather, Navarro County sees an influx of roofing contractors—some reputable, many not. Here's how to navigate storm damage repairs:
+        content: `After severe weather, Navarro County sees an influx of roofing contractors—some reputable, many not. Here's how to navigate storm damage repairs:
 
 **Documenting Damage**
 - Photograph damage from ground level before anyone walks on roof
@@ -1850,7 +1850,7 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
 - Verify Texas contractor license and local business address
 - Don't pay large deposits upfront
 - Be wary of "free roof" or "we'll pay your deductible" claims (insurance fraud)
-- Check references with other Navarro County homeowners\`
+- Check references with other Navarro County homeowners`
       }
     ],
     faqs: [
@@ -1893,7 +1893,7 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
       {
         type: "guide",
         heading: "Common Pests in Navarro County",
-        content: \`**Year-Round Pests**
+        content: `**Year-Round Pests**
 - Fire ants: Aggressive, painful stings, damage electrical equipment
 - German cockroaches: Indoor pest, multiplies rapidly, triggers allergies
 - American cockroaches: Large "water bugs," enter from outdoors
@@ -1910,12 +1910,12 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
 **Agricultural/Rural Pests**
 - Cattle flies: Horn flies, stable flies affect livestock
 - Stored product pests: Weevils, moths in feed and grain
-- Wildlife: Raccoons, opossums, armadillos cause property damage\`
+- Wildlife: Raccoons, opossums, armadillos cause property damage`
       },
       {
         type: "services",
         heading: "Pest Control Services Available",
-        content: \`**Residential Programs**
+        content: `**Residential Programs**
 - Quarterly pest control (most popular, $100-$150/visit)
 - Monthly service for severe infestations
 - One-time treatments for specific issues
@@ -1932,7 +1932,7 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
 **Commercial Services**
 - Restaurant and food service pest management
 - Property management programs
-- Agricultural pest consulting\`
+- Agricultural pest consulting`
       }
     ],
     faqs: [
@@ -1975,7 +1975,7 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
       {
         type: "guide",
         heading: "Landscaping Services for Navarro County Properties",
-        content: \`**Design Services**
+        content: `**Design Services**
 - Full landscape design and master planning
 - 3D renderings and plant selection
 - Irrigation system design
@@ -1998,12 +1998,12 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
 **Water Features**
 - Ponds and waterfalls
 - Fountains
-- Rainwater harvesting systems\`
+- Rainwater harvesting systems`
       },
       {
         type: "local_info",
         heading: "Plants That Thrive in Navarro County",
-        content: \`**Native Trees**
+        content: `**Native Trees**
 - Live Oak (Quercus virginiana) - Iconic Texas shade tree
 - Cedar Elm (Ulmus crassifolia) - Drought tolerant, yellow fall color
 - Texas Red Oak (Quercus buckleyi) - Brilliant red fall color
@@ -2022,7 +2022,7 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
 - Gulf Muhly (Muhlenbergia capillaris) - Pink plumes in fall
 - Lindheimer's Muhly
 - Purple Coneflower (Echinacea purpurea)
-- Mealy Blue Sage (Salvia farinacea)\`
+- Mealy Blue Sage (Salvia farinacea)`
       }
     ],
     faqs: [
@@ -2065,7 +2065,7 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
       {
         type: "guide",
         heading: "Fencing Options for Navarro County Properties",
-        content: \`**Residential Fencing**
+        content: `**Residential Fencing**
 - Cedar privacy fence: $25-$35/linear foot, 15-20 year lifespan
 - Pine privacy fence: $18-$25/linear foot, 10-15 years with treatment
 - Ornamental iron/aluminum: $30-$50/linear foot, 20+ years
@@ -2083,12 +2083,12 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
 - Pool fencing (code-compliant): $20-$35/linear foot
 - Deer fencing (8'+): $6-$10/linear foot
 - Electric fence: $1-$3/linear foot
-- Game fencing: $8-$15/linear foot\`
+- Game fencing: $8-$15/linear foot`
       },
       {
         type: "local_info",
         heading: "Fence Installation Considerations in Navarro County",
-        content: \`**Soil and Post Setting**
+        content: `**Soil and Post Setting**
 In Navarro County's expansive clay, fence posts should be set 30-36 inches deep minimum. Concrete footings help stabilize posts but must cure properly. Some installers use gravel drainage beneath concrete to reduce heaving. Steel posts may be preferred in areas with severe soil movement.
 
 **Property Lines and Surveys**
@@ -2100,7 +2100,7 @@ Before installing a fence, know your exact property boundaries. Navarro County A
 - Pool fencing: Must meet Texas Health and Safety Code requirements (4+ feet height, self-closing gates)
 
 **Utility Lines**
-Call 811 before digging! Navarro County has underground utilities, especially in developed areas. Hitting a gas or electric line is dangerous and expensive.\`
+Call 811 before digging! Navarro County has underground utilities, especially in developed areas. Hitting a gas or electric line is dangerous and expensive.`
       }
     ],
     faqs: [
@@ -2146,7 +2146,7 @@ Call 811 before digging! Navarro County has underground utilities, especially in
       {
         type: "guide",
         heading: "Legal Services Available in Navarro County",
-        content: \`**Family Law**
+        content: `**Family Law**
 - Divorce (contested and uncontested)
 - Child custody and visitation
 - Child support modifications
@@ -2182,12 +2182,12 @@ Call 811 before digging! Navarro County has underground utilities, especially in
 - Contract review and drafting
 - Employment law
 - Real estate transactions
-- Business litigation\`
+- Business litigation`
       },
       {
         type: "local_info",
         heading: "Navarro County Legal Resources",
-        content: \`**Court Information**
+        content: `**Court Information**
 - Navarro County Courthouse: 300 W. 3rd Ave, Corsicana
 - District Clerk: (903) 654-3035
 - County Clerk: (903) 654-3036
@@ -2203,7 +2203,7 @@ Local attorney fees vary by practice area:
 - Hourly rates: $150-$350/hour typical for Navarro County
 - Flat fees: Common for simple matters (uncontested divorce, simple wills)
 - Contingency: Personal injury cases typically 33-40% of recovery
-- Retainers: Criminal and family law often require upfront retainers\`
+- Retainers: Criminal and family law often require upfront retainers`
       }
     ],
     faqs: [
@@ -2246,7 +2246,7 @@ Local attorney fees vary by practice area:
       {
         type: "services",
         heading: "Accounting Services in Navarro County",
-        content: \`**Tax Services**
+        content: `**Tax Services**
 - Individual tax preparation
 - Business tax returns (partnerships, S-corps, C-corps)
 - Farm and ranch tax returns
@@ -2270,12 +2270,12 @@ Local attorney fees vary by practice area:
 - Non-profit accounting
 - New business setup
 - Business valuations
-- Forensic accounting\`
+- Forensic accounting`
       },
       {
         type: "guide",
         heading: "Choosing an Accountant in Navarro County",
-        content: \`**Credentials to Look For**
+        content: `**Credentials to Look For**
 - CPA (Certified Public Accountant): Licensed by Texas State Board, required for audits and certain services
 - EA (Enrolled Agent): Federally licensed, specializes in tax matters
 - Bookkeeper: May not be licensed, suitable for basic bookkeeping
@@ -2292,7 +2292,7 @@ Local attorney fees vary by practice area:
 - Promises of unusually large refunds
 - Fees based on refund percentage
 - Unwillingness to sign tax returns
-- No verifiable credentials\`
+- No verifiable credentials`
       }
     ],
     faqs: [
@@ -2335,7 +2335,7 @@ Local attorney fees vary by practice area:
       {
         type: "guide",
         heading: "Real Estate Services in Navarro County",
-        content: \`**Buyer Services**
+        content: `**Buyer Services**
 - Property search and showing coordination
 - Market analysis and pricing guidance
 - Offer negotiation
@@ -2357,12 +2357,12 @@ Local attorney fees vary by practice area:
 - Land and acreage
 - Commercial properties
 - Investment properties
-- Historic homes\`
+- Historic homes`
       },
       {
         type: "local_info",
         heading: "Navarro County Real Estate Market Overview",
-        content: \`**Market Areas**
+        content: `**Market Areas**
 - **Corsicana:** County seat, most services, schools, and amenities. Historic districts, established neighborhoods, and new construction.
 - **Kerens:** Small-town feel, more affordable, good schools
 - **Richland Chambers Area:** Lake properties, vacation homes, retirement community
@@ -2379,7 +2379,7 @@ Local attorney fees vary by practice area:
 - Proper pricing is crucial in our market
 - Professional photos dramatically increase showing requests
 - Disclosure requirements include known defects, flood history, HOA details
-- Foundation issues are common and should be addressed before listing\`
+- Foundation issues are common and should be addressed before listing`
       }
     ],
     faqs: [
@@ -2425,7 +2425,7 @@ Local attorney fees vary by practice area:
       {
         type: "services",
         heading: "Auto Repair Services Available",
-        content: \`**Engine Services**
+        content: `**Engine Services**
 - Diagnostics and check engine light
 - Tune-ups and spark plug replacement
 - Timing belt/chain replacement
@@ -2466,12 +2466,12 @@ Local attorney fees vary by practice area:
 - Shocks and struts
 - Ball joints and tie rods
 - Power steering service
-- Wheel bearing replacement\`
+- Wheel bearing replacement`
       },
       {
         type: "guide",
         heading: "Choosing an Auto Repair Shop",
-        content: \`**What to Look For**
+        content: `**What to Look For**
 - ASE-certified technicians
 - Clear written estimates before work begins
 - Warranty on parts and labor
@@ -2491,7 +2491,7 @@ Local attorney fees vary by practice area:
 - Vague estimates or "it depends"
 - Unwillingness to explain the repair
 - Dirty, disorganized shop
-- No written documentation\`
+- No written documentation`
       }
     ],
     faqs: [
@@ -2534,7 +2534,7 @@ Local attorney fees vary by practice area:
       {
         type: "services",
         heading: "Towing Services Available",
-        content: \`**Standard Towing**
+        content: `**Standard Towing**
 - Local towing (within Navarro County)
 - Long-distance towing
 - Flatbed towing (recommended for AWD, luxury, lowered vehicles)
@@ -2560,12 +2560,12 @@ Local attorney fees vary by practice area:
 - Impound services
 - Motorcycle towing
 - Classic car transport
-- Equipment hauling\`
+- Equipment hauling`
       },
       {
         type: "guide",
         heading: "What to Do When You Need a Tow",
-        content: \`**If You Break Down**
+        content: `**If You Break Down**
 1. Pull off the road as far as safely possible
 2. Turn on hazard lights
 3. Set up reflective triangles if you have them
@@ -2583,7 +2583,7 @@ Local attorney fees vary by practice area:
 - Many insurance policies include towing coverage
 - AAA and similar memberships cover towing
 - Credit cards sometimes include roadside assistance
-- Check your coverage limits and preferred providers\`
+- Check your coverage limits and preferred providers`
       }
     ],
     faqs: [
@@ -2629,7 +2629,7 @@ Local attorney fees vary by practice area:
       {
         type: "services",
         heading: "Dental Services Available",
-        content: \`**Preventive Care**
+        content: `**Preventive Care**
 - Routine cleanings and exams
 - Digital X-rays
 - Fluoride treatments
@@ -2658,12 +2658,12 @@ Local attorney fees vary by practice area:
 - TMJ/jaw pain treatment
 - Sleep apnea appliances
 - Sedation dentistry
-- Emergency dental care\`
+- Emergency dental care`
       },
       {
         type: "guide",
         heading: "Choosing a Dentist in Navarro County",
-        content: \`**What to Consider**
+        content: `**What to Consider**
 - Location and office hours
 - Insurance acceptance
 - Payment plans available
@@ -2683,7 +2683,7 @@ Local attorney fees vary by practice area:
 - Individual plans available through marketplace
 - Medicaid covers children's dental (CHIP)
 - Adult Medicaid dental is limited
-- Dental discount plans are an alternative to insurance\`
+- Dental discount plans are an alternative to insurance`
       }
     ],
     faqs: [
@@ -2726,7 +2726,7 @@ Local attorney fees vary by practice area:
       {
         type: "services",
         heading: "Chiropractic Services Available",
-        content: \`**Core Chiropractic Care**
+        content: `**Core Chiropractic Care**
 - Spinal adjustments/manipulation
 - Extremity adjustments
 - Postural analysis and correction
@@ -2750,12 +2750,12 @@ Local attorney fees vary by practice area:
 - Exercise rehabilitation
 - Ergonomic assessment
 - Work injury treatment
-- Auto accident injuries\`
+- Auto accident injuries`
       },
       {
         type: "guide",
         heading: "What to Expect at a Chiropractic Visit",
-        content: \`**First Visit**
+        content: `**First Visit**
 - Health history review
 - Physical examination
 - Postural and movement assessment
@@ -2773,7 +2773,7 @@ Local attorney fees vary by practice area:
 - Usually 15-30 minutes
 
 **Treatment Frequency**
-Initial care for acute conditions may require 2-3 visits per week. As symptoms improve, frequency typically reduces to weekly, then bi-weekly, then monthly maintenance. Your chiropractor will recommend a plan based on your specific condition.\`
+Initial care for acute conditions may require 2-3 visits per week. As symptoms improve, frequency typically reduces to weekly, then bi-weekly, then monthly maintenance. Your chiropractor will recommend a plan based on your specific condition.`
       }
     ],
     faqs: [
@@ -2819,7 +2819,7 @@ Initial care for acute conditions may require 2-3 visits per week. As symptoms i
       {
         type: "services",
         heading: "Veterinary Services Available",
-        content: \`**Wellness Care**
+        content: `**Wellness Care**
 - Annual exams
 - Vaccinations (rabies, distemper, parvo, etc.)
 - Parasite prevention (heartworm, flea, tick)
@@ -2850,12 +2850,12 @@ Initial care for acute conditions may require 2-3 visits per week. As symptoms i
 - Prescription diets
 - Pharmacy
 - End of life care
-- Pet cremation services\`
+- Pet cremation services`
       },
       {
         type: "guide",
         heading: "Pet Health Essentials for Navarro County",
-        content: \`**Year-Round Prevention (Essential in Texas)**
+        content: `**Year-Round Prevention (Essential in Texas)**
 - Heartworm prevention: Monthly, year-round—Texas mosquitoes transmit heartworm 12 months a year
 - Flea and tick prevention: Year-round, especially important with our mild winters
 - Intestinal parasite prevention: Regular deworming and fecal testing
@@ -2877,7 +2877,7 @@ Lifestyle vaccines (based on risk):
 - Tick diseases (Ehrlichia, Rocky Mountain Spotted Fever)
 - Rattlesnake bites (especially rural areas)
 - Foxtails and grass awns (seasonal)
-- Heat-related illness (summer)\`
+- Heat-related illness (summer)`
       }
     ],
     faqs: [
@@ -2920,7 +2920,7 @@ Lifestyle vaccines (based on risk):
       {
         type: "services",
         heading: "Large Animal Veterinary Services",
-        content: \`**Cattle Services**
+        content: `**Cattle Services**
 - Herd health programs
 - Vaccination protocols
 - Pregnancy checking
@@ -2951,12 +2951,12 @@ Lifestyle vaccines (based on risk):
 - Health certificates for transport
 - Brand inspection coordination
 - 4-H and FFA project animal care
-- Euthanasia services\`
+- Euthanasia services`
       },
       {
         type: "guide",
         heading: "Livestock Health Management in Navarro County",
-        content: \`**Vaccination Schedules**
+        content: `**Vaccination Schedules**
 Cattle:
 - Calves: Blackleg/7-way at branding/weaning, boosted at weaning
 - Breeding females: Pre-breeding reproductive vaccines
@@ -2977,7 +2977,7 @@ Texas summers are brutal on livestock:
 - Provide shade and ample water
 - Handle cattle in early morning only
 - Watch for signs of heat stress
-- Consider summer breeding programs carefully\`
+- Consider summer breeding programs carefully`
       }
     ],
     faqs: [
@@ -3020,7 +3020,7 @@ Texas summers are brutal on livestock:
       {
         type: "services",
         heading: "Products and Services Available",
-        content: \`**Livestock Feed**
+        content: `**Livestock Feed**
 - Cattle feed and supplements (range cubes, protein tubs, minerals)
 - Horse feed (performance, senior, complete feeds)
 - Sheep and goat feed
@@ -3053,12 +3053,12 @@ Texas summers are brutal on livestock:
 - Garden and lawn supplies
 - Work clothing and boots
 - Wildlife feed (deer corn, feeders)
-- Propane exchange\`
+- Propane exchange`
       },
       {
         type: "guide",
         heading: "Choosing the Right Feed",
-        content: \`**Cattle Nutrition Basics**
+        content: `**Cattle Nutrition Basics**
 - Range cubes (20% protein) for winter supplementation
 - Protein tubs for free-choice grazing supplement
 - Complete feeds for confined cattle
@@ -3082,7 +3082,7 @@ Texas summers are brutal on livestock:
 - Store in cool, dry location
 - Use within 60 days for vitamin potency
 - Protect from rodents and moisture
-- Check for mold before feeding\`
+- Check for mold before feeding`
       }
     ],
     faqs: [
@@ -3128,7 +3128,7 @@ Texas summers are brutal on livestock:
       {
         type: "guide",
         heading: "Types of Wedding Venues in Navarro County",
-        content: \`**Barn & Ranch Venues**
+        content: `**Barn & Ranch Venues**
 - Rustic barn settings with modern amenities
 - Working ranch properties
 - Open-air pavilions
@@ -3157,12 +3157,12 @@ Texas summers are brutal on livestock:
 - Wineries and vineyards
 - Gardens and parks
 - Private estates
-- Farms with agricultural themes\`
+- Farms with agricultural themes`
       },
       {
         type: "checklist",
         heading: "Questions to Ask Wedding Venues",
-        content: \`**Basics**
+        content: `**Basics**
 - What is included in the venue rental?
 - What is the guest capacity (ceremony vs. reception)?
 - What are the available dates?
@@ -3189,7 +3189,7 @@ Texas summers are brutal on livestock:
 - Is open flame (candles) allowed?
 - Are sparklers or fireworks permitted?
 - Are there pet policies?
-- Alcohol policies and requirements?\`
+- Alcohol policies and requirements?`
       }
     ],
     faqs: [
@@ -3231,7 +3231,7 @@ Texas summers are brutal on livestock:
       {
         type: "services",
         heading: "DJ Services for Every Event",
-        content: \`**Wedding DJ Services**
+        content: `**Wedding DJ Services**
 - Ceremony music
 - Cocktail hour atmosphere
 - Reception entertainment
@@ -3262,12 +3262,12 @@ Texas summers are brutal on livestock:
 - Uplighting and effects lighting
 - Dance floor lighting
 - Photo booth add-ons
-- Live music integration\`
+- Live music integration`
       },
       {
         type: "guide",
         heading: "Choosing the Right DJ",
-        content: \`**What to Look For**
+        content: `**What to Look For**
 - Experience with your type of event
 - Professional equipment (backups available)
 - Liability insurance
@@ -3290,7 +3290,7 @@ Texas summers are brutal on livestock:
 - Doesn't ask about your preferences
 - Poor communication
 - Unprofessional appearance or demeanor
-- No backup equipment plan\`
+- No backup equipment plan`
       }
     ],
     faqs: [
@@ -3333,7 +3333,7 @@ Texas summers are brutal on livestock:
       {
         type: "services",
         heading: "General Contractor Services",
-        content: \`**New Construction**
+        content: `**New Construction**
 - Custom home building
 - Spec home construction
 - Barndominium construction
@@ -3364,12 +3364,12 @@ Texas summers are brutal on livestock:
 - Budget management
 - Timeline oversight
 - Quality control
-- Warranty service\`
+- Warranty service`
       },
       {
         type: "guide",
         heading: "Hiring a Contractor in Navarro County",
-        content: \`**Credentials to Verify**
+        content: `**Credentials to Verify**
 - Verify with Navarro County/city if licenses required for your project
 - General liability insurance ($1M minimum recommended)
 - Workers' compensation insurance
@@ -3399,7 +3399,7 @@ Texas summers are brutal on livestock:
 - Pressures you to decide quickly
 - No physical business address
 - Recently established (less than 3 years)
-- Quotes without seeing the project\`
+- Quotes without seeing the project`
       }
     ],
     faqs: [
@@ -3442,7 +3442,7 @@ Texas summers are brutal on livestock:
       {
         type: "services",
         heading: "Concrete Services Available",
-        content: \`**Residential Concrete**
+        content: `**Residential Concrete**
 - Driveways (plain, colored, stamped)
 - Patios and pool decks
 - Sidewalks and walkways
@@ -3479,12 +3479,12 @@ Texas summers are brutal on livestock:
 - Leveling (mudjacking/foam)
 - Resurfacing
 - Expansion joint repair
-- Spalling repair\`
+- Spalling repair`
       },
       {
         type: "guide",
         heading: "Concrete Work Considerations in Navarro County",
-        content: \`**Soil Preparation**
+        content: `**Soil Preparation**
 Our clay soils require:
 - Removal of organic material and topsoil
 - Compacted fill or base material (4"+ crushed limestone)
@@ -3507,7 +3507,7 @@ Our clay soils require:
 - Seal concrete every 2-3 years
 - Keep drainage clear
 - Avoid deicing chemicals (rare need here)
-- Address cracks promptly before they spread\`
+- Address cracks promptly before they spread`
       }
     ],
     faqs: [
@@ -3552,7 +3552,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Hair Services Available",
-        content: \`**Cut & Style**
+        content: `**Cut & Style**
 - Women's haircuts
 - Men's haircuts
 - Children's cuts
@@ -3586,7 +3586,7 @@ Our clay soils require:
 - Tape-in extensions
 - Sew-in extensions
 - Clip-in styling
-- Extension maintenance\`
+- Extension maintenance`
       }
     ],
     faqs: [
@@ -3626,7 +3626,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Barber Services",
-        content: \`**Haircuts**
+        content: `**Haircuts**
 - Classic cuts
 - Fades (low, mid, high)
 - Tapers
@@ -3646,7 +3646,7 @@ Our clay soils require:
 - Eyebrow grooming
 - Ear and nose hair trimming
 - Scalp treatments
-- Hair designs and patterns\`
+- Hair designs and patterns`
       }
     ],
     faqs: [
@@ -3689,7 +3689,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Childcare Options in Navarro County",
-        content: \`**By Age Group**
+        content: `**By Age Group**
 - Infant care (6 weeks - 12 months)
 - Toddler programs (1-2 years)
 - Preschool (3-4 years)
@@ -3710,12 +3710,12 @@ Our clay soils require:
 - Montessori methods
 - Faith-based programs
 - Bilingual programs
-- STEAM enrichment\`
+- STEAM enrichment`
       },
       {
         type: "guide",
         heading: "Choosing a Daycare in Navarro County",
-        content: \`**What to Look For**
+        content: `**What to Look For**
 - Valid Texas childcare license (verify at HHSC website)
 - Low staff-to-child ratios
 - Clean, safe, age-appropriate environment
@@ -3739,7 +3739,7 @@ Our clay soils require:
 - Uncleanliness or safety hazards
 - Lack of structure or curriculum
 - Poor communication
-- Not willing to share licensing records\`
+- Not willing to share licensing records`
       }
     ],
     faqs: [
@@ -3782,7 +3782,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Tutoring Services Available",
-        content: \`**Subject Tutoring**
+        content: `**Subject Tutoring**
 - Math (all levels through calculus)
 - Reading and language arts
 - Science (biology, chemistry, physics)
@@ -3810,12 +3810,12 @@ Our clay soils require:
 - Organization strategies
 - Learning disability support
 - Gifted student enrichment
-- Homeschool support\`
+- Homeschool support`
       },
       {
         type: "guide",
         heading: "Finding the Right Tutor",
-        content: \`**What to Consider**
+        content: `**What to Consider**
 - Subject expertise and qualifications
 - Experience with the student's grade level
 - Teaching style and personality fit
@@ -3835,7 +3835,7 @@ Our clay soils require:
 - No clear qualifications or background
 - Unwillingness to communicate with parents
 - Rigid methods that don't adapt to student needs
-- Lack of patience or poor rapport with student\`
+- Lack of patience or poor rapport with student`
       }
     ],
     faqs: [
@@ -3880,7 +3880,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "What Furniture Stores Offer",
-        content: \`**Living Room**
+        content: `**Living Room**
 - Sofas and sectionals
 - Recliners and chairs
 - Coffee and end tables
@@ -3912,7 +3912,7 @@ Our clay soils require:
 - Home decor and accessories
 - Rugs and lamps
 - Delivery and setup services
-- Financing options\`
+- Financing options`
       }
     ],
     faqs: [
@@ -3955,7 +3955,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Lodging Options in Navarro County",
-        content: \`**Hotel Types**
+        content: `**Hotel Types**
 - Chain hotels (various brands)
 - Independent hotels
 - Extended stay properties
@@ -3975,7 +3975,7 @@ Our clay soils require:
 - I-45 corridor: Convenient highway access
 - Downtown Corsicana: Near historic attractions
 - Near Richland Chambers: Lake access
-- Various exits: Easy access to different areas\`
+- Various exits: Easy access to different areas`
       }
     ],
     faqs: [
@@ -4020,7 +4020,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Commercial Cleaning Services",
-        content: \`**Regular Cleaning**
+        content: `**Regular Cleaning**
 - Office cleaning (daily, weekly, monthly)
 - Restroom sanitation
 - Trash removal
@@ -4049,7 +4049,7 @@ Our clay soils require:
 - Restroom supply stocking
 - Odor control
 - Green cleaning options
-- Emergency cleaning\`
+- Emergency cleaning`
       }
     ],
     faqs: [
@@ -4089,7 +4089,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Moving Services Available",
-        content: \`**Residential Moving**
+        content: `**Residential Moving**
 - Local moves (within Navarro County)
 - Long-distance moves
 - Apartment moves
@@ -4115,12 +4115,12 @@ Our clay soils require:
 - Hot tub moving
 - Storage solutions
 - Junk removal
-- Loading/unloading only\`
+- Loading/unloading only`
       },
       {
         type: "guide",
         heading: "Planning Your Move",
-        content: \`**Choosing a Moving Company**
+        content: `**Choosing a Moving Company**
 - Get multiple written estimates
 - Verify licensing and insurance
 - Check reviews and references
@@ -4142,7 +4142,7 @@ Our clay soils require:
 - Walk through with crew
 - Inspect before signing
 - Tip movers if service was good
-- Verify nothing left behind\`
+- Verify nothing left behind`
       }
     ],
     faqs: [
@@ -4187,7 +4187,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Handyman Services",
-        content: \`**Interior Repairs**
+        content: `**Interior Repairs**
 - Drywall repair and patching
 - Door adjustments and hardware
 - Cabinet repairs
@@ -4217,7 +4217,7 @@ Our clay soils require:
 - Picture hanging
 - Minor plumbing fixes
 - Small painting projects
-- Seasonal maintenance\`
+- Seasonal maintenance`
       }
     ],
     faqs: [
@@ -4257,7 +4257,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Garage Door Services",
-        content: \`**Repair Services**
+        content: `**Repair Services**
 - Spring replacement (most common repair)
 - Cable repair and replacement
 - Roller replacement
@@ -4286,7 +4286,7 @@ Our clay soils require:
 - Broken spring service
 - Door off track
 - Lock-out service
-- Storm damage\`
+- Storm damage`
       }
     ],
     faqs: [
@@ -4326,7 +4326,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Lawn Care Services",
-        content: \`**Maintenance**
+        content: `**Maintenance**
 - Weekly/bi-weekly mowing
 - Edging and trimming
 - Blowing debris
@@ -4352,7 +4352,7 @@ Our clay soils require:
 - Bed maintenance
 - Mulching
 - Seasonal cleanup
-- Irrigation checks\`
+- Irrigation checks`
       }
     ],
     faqs: [
@@ -4394,7 +4394,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "House Cleaning Services",
-        content: \`**Regular Cleaning**
+        content: `**Regular Cleaning**
 - Dusting and surface cleaning
 - Vacuuming and mopping
 - Kitchen cleaning
@@ -4423,7 +4423,7 @@ Our clay soils require:
 - Bed changing
 - Organizing
 - Inside refrigerator
-- Inside oven\`
+- Inside oven`
       }
     ],
     faqs: [
@@ -4463,7 +4463,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Pool Services Available",
-        content: \`**Regular Maintenance**
+        content: `**Regular Maintenance**
 - Weekly cleaning and skimming
 - Chemical balancing
 - Filter cleaning
@@ -4491,7 +4491,7 @@ Our clay soils require:
 - Acid washing
 - Pool resurfacing (referral)
 - Equipment upgrades
-- Energy efficiency improvements\`
+- Energy efficiency improvements`
       }
     ],
     faqs: [
@@ -4534,7 +4534,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Insurance Products Available",
-        content: \`**Personal Insurance**
+        content: `**Personal Insurance**
 - Auto insurance
 - Homeowners insurance
 - Renters insurance
@@ -4564,7 +4564,7 @@ Our clay soils require:
 - Equipment coverage
 - Crop insurance
 - Farm liability
-- Agribusiness coverage\`
+- Agribusiness coverage`
       }
     ],
     faqs: [
@@ -4607,7 +4607,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Home Inspection Services",
-        content: \`**Standard Inspection**
+        content: `**Standard Inspection**
 - Foundation and structure
 - Roof and attic
 - Electrical systems
@@ -4631,7 +4631,7 @@ Our clay soils require:
 - New construction inspections
 - 11-month warranty inspections
 - Commercial property inspections
-- Investment property inspections\`
+- Investment property inspections`
       }
     ],
     faqs: [
@@ -4673,7 +4673,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Notary Services Available",
-        content: \`**Document Types**
+        content: `**Document Types**
 - Real estate documents
 - Loan and mortgage papers
 - Powers of attorney
@@ -4694,7 +4694,7 @@ Our clay soils require:
 - Witness services
 - Document preparation (some notaries)
 - Apostille services (referral)
-- Translation services (some notaries)\`
+- Translation services (some notaries)`
       }
     ],
     faqs: [
@@ -4736,7 +4736,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Locksmith Services",
-        content: \`**Emergency Services**
+        content: `**Emergency Services**
 - Home lockout
 - Car lockout
 - Business lockout
@@ -4766,7 +4766,7 @@ Our clay soils require:
 - Access control systems
 - High-security locks
 - Panic bar installation
-- Lock maintenance\`
+- Lock maintenance`
       }
     ],
     faqs: [
@@ -4809,7 +4809,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Tire Services Available",
-        content: \`**Tire Sales**
+        content: `**Tire Sales**
 - New tires (all brands and price points)
 - Used tires
 - Truck and SUV tires
@@ -4829,7 +4829,7 @@ Our clay soils require:
 - Wheel alignment
 - Brake inspection
 - Suspension check
-- Oil changes (some shops)\`
+- Oil changes (some shops)`
       }
     ],
     faqs: [
@@ -4869,7 +4869,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Auto Body Services",
-        content: \`**Collision Repair**
+        content: `**Collision Repair**
 - Frame straightening
 - Structural repair
 - Panel replacement
@@ -4894,7 +4894,7 @@ Our clay soils require:
 - Auto glass replacement
 - Insurance claim assistance
 - Rental car coordination
-- Detailing after repairs\`
+- Detailing after repairs`
       }
     ],
     faqs: [
@@ -4934,7 +4934,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Oil Change Services",
-        content: \`**Oil Change Options**
+        content: `**Oil Change Options**
 - Conventional oil change
 - High-mileage oil
 - Synthetic blend
@@ -4954,7 +4954,7 @@ Our clay soils require:
 - Power steering flush
 - Brake fluid service
 - Air filter replacement
-- Cabin filter replacement\`
+- Cabin filter replacement`
       }
     ],
     faqs: [
@@ -4997,7 +4997,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Catering Services Available",
-        content: \`**Event Types**
+        content: `**Event Types**
 - Wedding receptions
 - Corporate events and meetings
 - Holiday parties
@@ -5029,7 +5029,7 @@ Our clay soils require:
 - Bar service/bartenders
 - Serving staff
 - Table/chair/linen rental coordination
-- Event planning assistance\`
+- Event planning assistance`
       }
     ],
     faqs: [
@@ -5069,7 +5069,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Bakery Products and Services",
-        content: \`**Daily Baked Goods**
+        content: `**Daily Baked Goods**
 - Fresh bread and rolls
 - Pastries and danishes
 - Kolaches and breakfast items
@@ -5098,7 +5098,7 @@ Our clay soils require:
 - Custom orders
 - Cake tastings (for large orders)
 - Delivery (many bakeries)
-- Setup services for events\`
+- Setup services for events`
       }
     ],
     faqs: [
@@ -5141,7 +5141,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Massage Services Available",
-        content: \`**Massage Types**
+        content: `**Massage Types**
 - Swedish/relaxation massage
 - Deep tissue massage
 - Sports massage
@@ -5165,7 +5165,7 @@ Our clay soils require:
 - Chiropractic offices
 - Physical therapy clinics
 - Independent practitioners
-- Mobile/in-home services\`
+- Mobile/in-home services`
       }
     ],
     faqs: [
@@ -5207,7 +5207,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Personal Training Services",
-        content: \`**Training Types**
+        content: `**Training Types**
 - One-on-one personal training
 - Small group training
 - Online/virtual coaching
@@ -5229,7 +5229,7 @@ Our clay soils require:
 - Exercise instruction
 - Progress tracking
 - Nutritional guidance (basic)
-- Motivation and accountability\`
+- Motivation and accountability`
       }
     ],
     faqs: [
@@ -5272,7 +5272,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Welding Services Available",
-        content: \`**Repair Welding**
+        content: `**Repair Welding**
 - Farm equipment repair
 - Trailer repair
 - Machinery repair
@@ -5301,7 +5301,7 @@ Our clay soils require:
 - Portable welding
 - Metal cutting
 - Blueprint fabrication
-- Design assistance\`
+- Design assistance`
       }
     ],
     faqs: [
@@ -5341,7 +5341,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Pole Barn Construction Services",
-        content: \`**Building Types**
+        content: `**Building Types**
 - Equipment storage
 - Hay barns
 - Livestock shelters
@@ -5365,7 +5365,7 @@ Our clay soils require:
 - Interior layouts
 - Insulation options
 - Color choices
-- Ventilation options\`
+- Ventilation options`
       }
     ],
     faqs: [
@@ -5408,7 +5408,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Pet Grooming Services",
-        content: \`**Basic Services**
+        content: `**Basic Services**
 - Bath and dry
 - Brush out
 - Nail trimming
@@ -5434,7 +5434,7 @@ Our clay soils require:
 - Bath and brush
 - Lion cut
 - Mat removal
-- Nail trim\`
+- Nail trim`
       }
     ],
     faqs: [
@@ -5474,7 +5474,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Excavation Services",
-        content: \`**Site Preparation**
+        content: `**Site Preparation**
 - Building pad preparation
 - Driveway grading
 - Lot clearing
@@ -5506,7 +5506,7 @@ Our clay soils require:
 **Utilities**
 - Septic excavation
 - Water line trenching
-- Utility installation support\`
+- Utility installation support`
       }
     ],
     faqs: [
@@ -5546,7 +5546,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Farrier Services",
-        content: \`**Basic Services**
+        content: `**Basic Services**
 - Hoof trimming (barefoot maintenance)
 - Full shoe reset
 - New shoe fitting
@@ -5571,7 +5571,7 @@ Our clay soils require:
 - Aluminum shoes
 - Specialty shoes
 - Pads and packing
-- Glue-on shoes\`
+- Glue-on shoes`
       }
     ],
     faqs: [
@@ -5616,7 +5616,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Photography Services",
-        content: \`**Portrait Photography**
+        content: `**Portrait Photography**
 - Family portraits
 - Senior pictures
 - Children and baby photos
@@ -5644,7 +5644,7 @@ Our clay soils require:
 - Canvas prints
 - Photo albums
 - Digital file delivery
-- Social media packages\`
+- Social media packages`
       }
     ],
     faqs: [
@@ -5684,7 +5684,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Floral Services",
-        content: \`**Occasion Arrangements**
+        content: `**Occasion Arrangements**
 - Birthday flowers
 - Anniversary arrangements
 - Sympathy and funeral flowers
@@ -5711,7 +5711,7 @@ Our clay soils require:
 - Same-day delivery (usually available)
 - Standing orders for businesses
 - Event consultation
-- Delivery throughout Navarro County\`
+- Delivery throughout Navarro County`
       }
     ],
     faqs: [
@@ -5751,7 +5751,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Party Rental Equipment",
-        content: \`**Furniture**
+        content: `**Furniture**
 - Folding chairs
 - Chiavari chairs
 - Banquet tables
@@ -5787,7 +5787,7 @@ Our clay soils require:
 - Games
 - Dance floors
 - Audio equipment
-- Lighting\`
+- Lighting`
       }
     ],
     faqs: [
@@ -5830,7 +5830,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Salon Services",
-        content: \`**Haircuts**
+        content: `**Haircuts**
 - Women's haircuts
 - Men's haircuts
 - Children's haircuts
@@ -5856,7 +5856,7 @@ Our clay soils require:
 - Blowouts
 - Updos
 - Special occasion styling
-- Wedding hair\`
+- Wedding hair`
       }
     ],
     faqs: [
@@ -5896,7 +5896,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Barbershop Services",
-        content: \`**Haircuts**
+        content: `**Haircuts**
 - Traditional cuts
 - Fades (low, mid, high)
 - Tapers
@@ -5916,7 +5916,7 @@ Our clay soils require:
 - Ear and nose hair
 - Hair designs/patterns
 - Kids cuts
-- Senior cuts\`
+- Senior cuts`
       }
     ],
     faqs: [
@@ -5956,7 +5956,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Nail Services",
-        content: \`**Manicures**
+        content: `**Manicures**
 - Basic manicure
 - Gel manicure
 - Spa manicure
@@ -5982,7 +5982,7 @@ Our clay soils require:
 - Chrome nails
 - Ombre nails
 - Nail repair
-- Soak-off removal\`
+- Soak-off removal`
       }
     ],
     faqs: [
@@ -6022,7 +6022,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Spa Services",
-        content: \`**Massage**
+        content: `**Massage**
 - Swedish massage
 - Deep tissue massage
 - Hot stone massage
@@ -6047,7 +6047,7 @@ Our clay soils require:
 - Spa day packages
 - Couples packages
 - Bridal packages
-- Birthday specials\`
+- Birthday specials`
       }
     ],
     faqs: [
@@ -6087,7 +6087,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Med Spa Treatments",
-        content: \`**Injectables**
+        content: `**Injectables**
 - Botox/Dysport
 - Dermal fillers (Juvederm, Restylane)
 - Lip augmentation
@@ -6111,7 +6111,7 @@ Our clay soils require:
 - CoolSculpting
 - Body sculpting
 - Cellulite treatment
-- Skin tightening\`
+- Skin tightening`
       }
     ],
     faqs: [
@@ -6151,7 +6151,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Tanning Options",
-        content: \`**UV Tanning**
+        content: `**UV Tanning**
 - Standard tanning beds
 - High-pressure beds
 - Stand-up booths
@@ -6169,7 +6169,7 @@ Our clay soils require:
 - Tanning lotions
 - Bronzers
 - Moisturizers
-- After-tan care\`
+- After-tan care`
       }
     ],
     faqs: [
@@ -6209,7 +6209,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Makeup Services",
-        content: \`**Bridal**
+        content: `**Bridal**
 - Bridal makeup
 - Bridal party makeup
 - Trial sessions
@@ -6227,7 +6227,7 @@ Our clay soils require:
 - Makeup lessons
 - Personal shopping
 - Headshot makeup
-- Senior portrait makeup\`
+- Senior portrait makeup`
       }
     ],
     faqs: [
@@ -6267,7 +6267,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Lash Services",
-        content: \`**Full Sets**
+        content: `**Full Sets**
 - Classic lashes (1:1)
 - Volume lashes (2-6:1)
 - Hybrid lashes
@@ -6283,7 +6283,7 @@ Our clay soils require:
 - Lash lifts
 - Lash tints
 - Brow lamination
-- Brow tinting\`
+- Brow tinting`
       }
     ],
     faqs: [
@@ -6323,7 +6323,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Brow Services",
-        content: \`**Microblading**
+        content: `**Microblading**
 - Hair-stroke technique
 - Custom brow shaping
 - Color matching
@@ -6339,7 +6339,7 @@ Our clay soils require:
 - Brow shaping
 - Brow tinting
 - Touch-up appointments
-- Color corrections\`
+- Color corrections`
       }
     ],
     faqs: [
@@ -6379,7 +6379,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Waxing Services",
-        content: \`**Facial Waxing**
+        content: `**Facial Waxing**
 - Eyebrow wax
 - Upper lip
 - Chin
@@ -6397,7 +6397,7 @@ Our clay soils require:
 - Bikini line
 - Extended bikini
 - Brazilian
-- Maintenance visits\`
+- Maintenance visits`
       }
     ],
     faqs: [
@@ -6437,7 +6437,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Tattoo Services",
-        content: \`**Tattoo Styles**
+        content: `**Tattoo Styles**
 - Traditional/Americana
 - Black and gray
 - Realism/portraits
@@ -6456,7 +6456,7 @@ Our clay soils require:
 **Consultations**
 - Design consultation
 - Placement advice
-- Custom drawings\`
+- Custom drawings`
       }
     ],
     faqs: [
@@ -6496,7 +6496,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Piercing Services",
-        content: \`**Ear Piercings**
+        content: `**Ear Piercings**
 - Earlobe
 - Helix/cartilage
 - Tragus
@@ -6518,7 +6518,7 @@ Our clay soils require:
 **Jewelry**
 - Initial piercing jewelry
 - Upgrade options
-- Custom pieces\`
+- Custom pieces`
       }
     ],
     faqs: [
@@ -6558,7 +6558,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Whitening Options",
-        content: \`**In-Office Whitening**
+        content: `**In-Office Whitening**
 - LED/laser activated whitening
 - Zoom whitening
 - Single-visit results
@@ -6573,7 +6573,7 @@ Our clay soils require:
 **Combination Plans**
 - In-office + take-home
 - Initial treatment + maintenance
-- Package pricing\`
+- Package pricing`
       }
     ],
     faqs: [
@@ -6613,7 +6613,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Esthetician Services",
-        content: \`**Facials**
+        content: `**Facials**
 - Deep cleansing facial
 - Hydrating facial
 - Anti-aging facial
@@ -6633,7 +6633,7 @@ Our clay soils require:
 - Skin analysis
 - Product recommendations
 - Skincare routine planning
-- Condition management\`
+- Condition management`
       }
     ],
     faqs: [
@@ -6673,7 +6673,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Treatment Areas",
-        content: \`**Face**
+        content: `**Face**
 - Upper lip
 - Chin
 - Sideburns
@@ -6690,7 +6690,7 @@ Our clay soils require:
 - Bikini line
 - Brazilian area
 - Full legs
-- Lower legs\`
+- Lower legs`
       }
     ],
     faqs: [
@@ -6733,7 +6733,7 @@ Our clay soils require:
       {
         type: "guide",
         heading: "What to Look for in a Daycare",
-        content: \`**Licensing & Safety**
+        content: `**Licensing & Safety**
 - Current Texas HHS license
 - Clean inspection history
 - Staff background checks
@@ -6756,7 +6756,7 @@ Our clay soils require:
 - Structured daily schedule
 - Age-appropriate curriculum
 - Meals and snacks provided
-- Communication with parents\`
+- Communication with parents`
       }
     ],
     faqs: [
@@ -6798,7 +6798,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Preschool Features",
-        content: \`**Academic Preparation**
+        content: `**Academic Preparation**
 - Pre-reading skills (letters, sounds)
 - Math concepts (counting, shapes)
 - Science exploration
@@ -6817,7 +6817,7 @@ Our clay soils require:
 - Self-help skills
 - Communication
 - Problem-solving
-- Listening skills\`
+- Listening skills`
       }
     ],
     faqs: [
@@ -6857,7 +6857,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "After School Programs",
-        content: \`**Typical Schedule**
+        content: `**Typical Schedule**
 - School pickup/bus arrival
 - Snack time
 - Homework help
@@ -6875,7 +6875,7 @@ Our clay soils require:
 - Transportation from school
 - Snacks (sometimes dinner)
 - Full-day care on school holidays
-- Summer program options\`
+- Summer program options`
       }
     ],
     faqs: [
@@ -6915,7 +6915,7 @@ Our clay soils require:
       {
         type: "guide",
         heading: "Finding a Good Babysitter",
-        content: \`**Where to Find Sitters**
+        content: `**Where to Find Sitters**
 - Personal referrals from friends/family
 - Church communities
 - Local Facebook groups
@@ -6934,7 +6934,7 @@ Our clay soils require:
 - Asks about routines and preferences
 - Arrives on time
 - Follows your instructions
-- Communicates during care\`
+- Communicates during care`
       }
     ],
     faqs: [
@@ -6974,7 +6974,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Nanny Services",
-        content: \`**Childcare Duties**
+        content: `**Childcare Duties**
 - Full-time supervision
 - Meals and snacks
 - Educational activities
@@ -6994,7 +6994,7 @@ Our clay soils require:
 - Part-time
 - Live-in
 - Live-out
-- Nanny share\`
+- Nanny share`
       }
     ],
     faqs: [
@@ -7034,7 +7034,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Tutoring Services",
-        content: \`**Subject Tutoring**
+        content: `**Subject Tutoring**
 - Math (all levels)
 - Reading and phonics
 - Writing and grammar
@@ -7054,7 +7054,7 @@ Our clay soils require:
 - Study skills
 - Organization
 - Homework help
-- Enrichment\`
+- Enrichment`
       }
     ],
     faqs: [
@@ -7094,7 +7094,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Music Instruction",
-        content: \`**Instruments**
+        content: `**Instruments**
 - Piano/keyboard
 - Guitar (acoustic, electric, bass)
 - Voice/singing
@@ -7114,7 +7114,7 @@ Our clay soils require:
 - Intermediate development
 - Advanced technique
 - Music theory
-- Performance preparation\`
+- Performance preparation`
       }
     ],
     faqs: [
@@ -7154,7 +7154,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Piano Instruction",
-        content: \`**Lesson Focus**
+        content: `**Lesson Focus**
 - Proper technique
 - Music reading
 - Theory basics
@@ -7172,7 +7172,7 @@ Our clay soils require:
 - Recital preparation
 - Competition prep
 - Music theory testing
-- Adult beginner programs\`
+- Adult beginner programs`
       }
     ],
     faqs: [
@@ -7212,7 +7212,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Guitar Instruction",
-        content: \`**Instruments**
+        content: `**Instruments**
 - Acoustic guitar
 - Electric guitar
 - Bass guitar
@@ -7232,7 +7232,7 @@ Our clay soils require:
 - Blues
 - Pop
 - Classical
-- Metal/alternative\`
+- Metal/alternative`
       }
     ],
     faqs: [
@@ -7272,7 +7272,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Dance Instruction",
-        content: \`**Dance Styles**
+        content: `**Dance Styles**
 - Ballet
 - Tap
 - Jazz
@@ -7293,7 +7293,7 @@ Our clay soils require:
 - Competitive teams
 - Private lessons
 - Recital preparation
-- Summer intensives\`
+- Summer intensives`
       }
     ],
     faqs: [
@@ -7333,7 +7333,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Martial Arts Programs",
-        content: \`**Disciplines**
+        content: `**Disciplines**
 - Karate
 - Taekwondo
 - Brazilian Jiu-Jitsu
@@ -7352,7 +7352,7 @@ Our clay soils require:
 - Self-defense courses
 - Competition training
 - Belt testing
-- Summer camps\`
+- Summer camps`
       }
     ],
     faqs: [
@@ -7392,7 +7392,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Driver Education",
-        content: \`**Teen Programs**
+        content: `**Teen Programs**
 - Classroom instruction (32 hours)
 - Behind-the-wheel training (14 hours)
 - Observation hours (7 hours)
@@ -7408,7 +7408,7 @@ Our clay soils require:
 **Additional Services**
 - Parent-taught course materials
 - License test scheduling
-- Driving test vehicles\`
+- Driving test vehicles`
       }
     ],
     faqs: [
@@ -7450,7 +7450,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Art Instruction",
-        content: \`**Mediums**
+        content: `**Mediums**
 - Drawing (pencil, charcoal)
 - Painting (acrylic, oil, watercolor)
 - Pottery and ceramics
@@ -7470,7 +7470,7 @@ Our clay soils require:
 - Technique development
 - Portfolio preparation
 - Hobby exploration
-- Therapeutic art\`
+- Therapeutic art`
       }
     ],
     faqs: [
@@ -7513,7 +7513,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Furniture Categories",
-        content: \`**Living Room**
+        content: `**Living Room**
 - Sofas and sectionals
 - Recliners
 - Coffee and end tables
@@ -7535,7 +7535,7 @@ Our clay soils require:
 - Home office furniture
 - Outdoor/patio furniture
 - Kids' furniture
-- Accent pieces\`
+- Accent pieces`
       }
     ],
     faqs: [
@@ -7575,7 +7575,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Appliance Categories",
-        content: \`**Kitchen**
+        content: `**Kitchen**
 - Refrigerators
 - Ranges and ovens
 - Dishwashers
@@ -7593,7 +7593,7 @@ Our clay soils require:
 - HVAC units (some stores)
 - Water heaters
 - Small appliances
-- Parts and accessories\`
+- Parts and accessories`
       }
     ],
     faqs: [
@@ -7633,7 +7633,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Mattress Options",
-        content: \`**Mattress Types**
+        content: `**Mattress Types**
 - Innerspring
 - Memory foam
 - Hybrid
@@ -7653,7 +7653,7 @@ Our clay soils require:
 - Foundations/box springs
 - Pillows
 - Mattress protectors
-- Bedding\`
+- Bedding`
       }
     ],
     faqs: [
@@ -7693,7 +7693,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "What You'll Find",
-        content: \`**Clothing**
+        content: `**Clothing**
 - Men's, women's, children's
 - Shoes and accessories
 - Vintage and retro
@@ -7711,7 +7711,7 @@ Our clay soils require:
 - Toys and games
 - Sporting goods
 - Electronics
-- Seasonal items\`
+- Seasonal items`
       }
     ],
     faqs: [
@@ -7751,7 +7751,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Pawn Shop Services",
-        content: \`**Pawn Loans**
+        content: `**Pawn Loans**
 - Collateral-based loans
 - No credit check
 - Quick cash
@@ -7769,7 +7769,7 @@ Our clay soils require:
 **Other Services**
 - Jewelry evaluation
 - Gold buying
-- Layaway programs\`
+- Layaway programs`
       }
     ],
     faqs: [
@@ -7809,7 +7809,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Jewelry Products & Services",
-        content: \`**Fine Jewelry**
+        content: `**Fine Jewelry**
 - Engagement rings
 - Wedding bands
 - Diamond jewelry
@@ -7829,7 +7829,7 @@ Our clay soils require:
 - Engagement/wedding
 - Anniversary gifts
 - Birthday presents
-- Graduation gifts\`
+- Graduation gifts`
       }
     ],
     faqs: [
@@ -7869,7 +7869,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Products & Services",
-        content: \`**Firearms**
+        content: `**Firearms**
 - Handguns
 - Rifles
 - Shotguns
@@ -7888,7 +7888,7 @@ Our clay soils require:
 - Trade-ins
 - Consignment
 - Special orders
-- Basic gunsmithing\`
+- Basic gunsmithing`
       }
     ],
     faqs: [
@@ -7928,7 +7928,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Product Categories",
-        content: \`**Team Sports**
+        content: `**Team Sports**
 - Football
 - Baseball/softball
 - Basketball
@@ -7947,7 +7947,7 @@ Our clay soils require:
 - Exercise equipment
 - Athletic footwear
 - Workout apparel
-- Fitness accessories\`
+- Fitness accessories`
       }
     ],
     faqs: [
@@ -7989,7 +7989,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Pet Products",
-        content: \`**Food & Nutrition**
+        content: `**Food & Nutrition**
 - Premium dog food
 - Cat food
 - Bird seed
@@ -8009,7 +8009,7 @@ Our clay soils require:
 - Treats
 - Aquariums and supplies
 - Cages and habitats
-- Health products\`
+- Health products`
       }
     ],
     faqs: [
@@ -8049,7 +8049,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Nursery Products",
-        content: \`**Plants**
+        content: `**Plants**
 - Trees (shade, fruit, ornamental)
 - Shrubs
 - Perennials
@@ -8069,7 +8069,7 @@ Our clay soils require:
 - Fertilizers
 - Pest control
 - Tools
-- Containers\`
+- Containers`
       }
     ],
     faqs: [
@@ -8112,7 +8112,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Hotel Amenities",
-        content: \`**Common Amenities**
+        content: `**Common Amenities**
 - Free WiFi
 - Breakfast (many hotels)
 - Pool
@@ -8132,7 +8132,7 @@ Our clay soils require:
 - 24-hour front desk
 - Meeting rooms (some)
 - Laundry facilities
-- Guest services\`
+- Guest services`
       }
     ],
     faqs: [
@@ -8172,7 +8172,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "What to Expect",
-        content: \`**Basic Amenities**
+        content: `**Basic Amenities**
 - Clean room
 - Private bathroom
 - Television
@@ -8189,7 +8189,7 @@ Our clay soils require:
 - Drive-up access
 - Flexible check-in
 - Easy parking
-- Quick stops\`
+- Quick stops`
       }
     ],
     faqs: [
@@ -8229,7 +8229,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "B&B Experience",
-        content: \`**Accommodations**
+        content: `**Accommodations**
 - Unique, decorated rooms
 - Private bathrooms (most)
 - Quality linens
@@ -8246,7 +8246,7 @@ Our clay soils require:
 - Personal attention
 - Local recommendations
 - Flexible services
-- Host knowledge\`
+- Host knowledge`
       }
     ],
     faqs: [
@@ -8286,7 +8286,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Vacation Rental Features",
-        content: \`**Property Types**
+        content: `**Property Types**
 - Houses
 - Cabins
 - Lake properties
@@ -8306,7 +8306,7 @@ Our clay soils require:
 - Home-like comfort
 - Cost-effective for families
 - Privacy
-- Extended stay options\`
+- Extended stay options`
       }
     ],
     faqs: [
@@ -8346,7 +8346,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Campground Amenities",
-        content: \`**RV Sites**
+        content: `**RV Sites**
 - Full hookups (water, electric, sewer)
 - 30/50 amp electric
 - Pull-through sites
@@ -8365,7 +8365,7 @@ Our clay soils require:
 - Boat ramps
 - Swimming areas
 - Nature trails
-- Recreation halls\`
+- Recreation halls`
       }
     ],
     faqs: [
@@ -8405,7 +8405,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Cabin Types",
-        content: \`**Lake Cabins**
+        content: `**Lake Cabins**
 - Waterfront properties
 - Fishing access
 - Boat docks (some)
@@ -8424,7 +8424,7 @@ Our clay soils require:
 - Porches and decks
 - Fire pits
 - Nature setting
-- Modern amenities\`
+- Modern amenities`
       }
     ],
     faqs: [
@@ -8464,7 +8464,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Travel Services",
-        content: \`**Trip Types**
+        content: `**Trip Types**
 - Cruises
 - All-inclusive resorts
 - International travel
@@ -8484,7 +8484,7 @@ Our clay soils require:
 - Destination weddings
 - Disney vacations
 - Adventure travel
-- Corporate travel\`
+- Corporate travel`
       }
     ],
     faqs: [
@@ -8524,7 +8524,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Transportation Options",
-        content: \`**Airport Destinations**
+        content: `**Airport Destinations**
 - DFW International (~65 miles)
 - Dallas Love Field (~55 miles)
 - Houston IAH (~180 miles)
@@ -8542,7 +8542,7 @@ Our clay soils require:
 - Flight monitoring
 - Door-to-door service
 - Early/late departures
-- Luggage handling\`
+- Luggage handling`
       }
     ],
     faqs: [
@@ -8582,7 +8582,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Taxi Services",
-        content: \`**Trip Types**
+        content: `**Trip Types**
 - Local transportation
 - Medical appointments
 - Airport runs
@@ -8601,7 +8601,7 @@ Our clay soils require:
 - Senior transportation
 - Regular client accounts
 - Large group vehicles
-- Package delivery (some)\`
+- Package delivery (some)`
       }
     ],
     faqs: [
@@ -8641,7 +8641,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Charter Services",
-        content: \`**Vehicle Types**
+        content: `**Vehicle Types**
 - Mini buses (15-30 passengers)
 - Motor coaches (40-56 passengers)
 - School buses (for appropriate trips)
@@ -8660,7 +8660,7 @@ Our clay soils require:
 - Air conditioning
 - Restrooms (large coaches)
 - Entertainment systems
-- WiFi (some coaches)\`
+- WiFi (some coaches)`
       }
     ],
     faqs: [
@@ -8703,7 +8703,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Machining Services",
-        content: \`**Machining Operations**
+        content: `**Machining Operations**
 - Turning (lathe work)
 - Milling
 - Drilling and boring
@@ -8723,7 +8723,7 @@ Our clay soils require:
 - Oil and gas
 - Manufacturing
 - Construction
-- Automotive\`
+- Automotive`
       }
     ],
     faqs: [
@@ -8763,7 +8763,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "CNC Capabilities",
-        content: \`**Operations**
+        content: `**Operations**
 - CNC milling
 - CNC turning
 - Multi-axis machining
@@ -8783,7 +8783,7 @@ Our clay soils require:
 - Production runs
 - Reverse engineering
 - CAD/CAM support
-- Quality inspection\`
+- Quality inspection`
       }
     ],
     faqs: [
@@ -8823,7 +8823,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Commercial Cleaning Services",
-        content: \`**Regular Cleaning**
+        content: `**Regular Cleaning**
 - Office cleaning
 - Restroom sanitation
 - Trash removal
@@ -8844,7 +8844,7 @@ Our clay soils require:
 - Medical offices
 - Churches
 - Schools
-- Industrial facilities\`
+- Industrial facilities`
       }
     ],
     faqs: [
@@ -8884,7 +8884,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Janitorial Services",
-        content: \`**Daily Tasks**
+        content: `**Daily Tasks**
 - Restroom cleaning and restocking
 - Trash collection
 - Floor care
@@ -8903,7 +8903,7 @@ Our clay soils require:
 - Event setup and cleanup
 - Emergency cleaning
 - Move-in/move-out cleaning
-- Supply management\`
+- Supply management`
       }
     ],
     faqs: [
@@ -8943,7 +8943,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Storage Options",
-        content: \`**Unit Sizes**
+        content: `**Unit Sizes**
 - Small (5x5, 5x10)
 - Medium (10x10, 10x15)
 - Large (10x20, 10x30)
@@ -8963,7 +8963,7 @@ Our clay soils require:
 - Vehicle storage
 - Boat and RV
 - Business inventory
-- Document storage\`
+- Document storage`
       }
     ],
     faqs: [
@@ -9003,7 +9003,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Moving Services",
-        content: \`**Moving Types**
+        content: `**Moving Types**
 - Local moves
 - Long-distance moves
 - Apartment moves
@@ -9024,7 +9024,7 @@ Our clay soils require:
 - Gun safe moving
 - Antiques
 - Hot tubs
-- Large appliances\`
+- Large appliances`
       }
     ],
     faqs: [
@@ -9064,7 +9064,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Freight Services",
-        content: \`**Shipping Options**
+        content: `**Shipping Options**
 - LTL (Less Than Truckload)
 - FTL (Full Truckload)
 - Flatbed
@@ -9085,7 +9085,7 @@ Our clay soils require:
 - Agriculture
 - Retail
 - Construction
-- Oil and gas\`
+- Oil and gas`
       }
     ],
     faqs: [
@@ -9125,7 +9125,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Warehouse Services",
-        content: \`**Storage Options**
+        content: `**Storage Options**
 - Bulk storage
 - Racked storage
 - Climate-controlled
@@ -9144,7 +9144,7 @@ Our clay soils require:
 - Food-grade storage
 - Hazmat (licensed facilities)
 - High-value goods
-- Overflow capacity\`
+- Overflow capacity`
       }
     ],
     faqs: [
@@ -9184,7 +9184,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Commercial HVAC Services",
-        content: \`**Equipment Types**
+        content: `**Equipment Types**
 - Rooftop units (RTUs)
 - Split systems
 - Chillers
@@ -9205,7 +9205,7 @@ Our clay soils require:
 - Restaurants
 - Healthcare
 - Industrial
-- Churches and schools\`
+- Churches and schools`
       }
     ],
     faqs: [
@@ -9245,7 +9245,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Commercial Plumbing Services",
-        content: \`**Services**
+        content: `**Services**
 - New construction plumbing
 - Tenant improvements
 - Repairs and emergency service
@@ -9265,7 +9265,7 @@ Our clay soils require:
 - Retail
 - Healthcare
 - Industrial
-- Schools and churches\`
+- Schools and churches`
       }
     ],
     faqs: [
@@ -9305,7 +9305,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Commercial Electrical Services",
-        content: \`**Services**
+        content: `**Services**
 - New construction wiring
 - Tenant improvements
 - Panel upgrades
@@ -9326,7 +9326,7 @@ Our clay soils require:
 - Manufacturing
 - Restaurants
 - Healthcare
-- Warehouses\`
+- Warehouses`
       }
     ],
     faqs: [
@@ -9366,7 +9366,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Industrial Painting Services",
-        content: \`**Applications**
+        content: `**Applications**
 - Tanks and vessels
 - Structural steel
 - Piping systems
@@ -9387,7 +9387,7 @@ Our clay soils require:
 - Sandblasting
 - Pressure washing
 - Rust removal
-- Substrate repair\`
+- Substrate repair`
       }
     ],
     faqs: [
@@ -9427,7 +9427,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Sandblasting Services",
-        content: \`**Applications**
+        content: `**Applications**
 - Rust removal
 - Paint stripping
 - Surface preparation
@@ -9449,7 +9449,7 @@ Our clay soils require:
 - Wet blasting
 - Automotive parts
 - Equipment
-- Structural steel\`
+- Structural steel`
       }
     ],
     faqs: [
@@ -9489,7 +9489,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Crane Services",
-        content: \`**Equipment Types**
+        content: `**Equipment Types**
 - Mobile cranes
 - Boom trucks
 - All-terrain cranes
@@ -9508,7 +9508,7 @@ Our clay soils require:
 - Operated crane rental
 - Lift planning
 - Rigging
-- Heavy hauling (some)\`
+- Heavy hauling (some)`
       }
     ],
     faqs: [
@@ -9548,7 +9548,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Forklift Services",
-        content: \`**Repair Services**
+        content: `**Repair Services**
 - Engine/motor repair
 - Transmission service
 - Hydraulic repair
@@ -9568,7 +9568,7 @@ Our clay soils require:
 - Long-term lease
 - Rent-to-own
 - Various capacities
-- Electric and propane\`
+- Electric and propane`
       }
     ],
     faqs: [
@@ -9611,7 +9611,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Water Heater Services",
-        content: \`**Equipment Types**
+        content: `**Equipment Types**
 - Tank water heaters (gas/electric)
 - Tankless water heaters
 - Heat pump water heaters
@@ -9630,7 +9630,7 @@ Our clay soils require:
 - Anode rod inspection
 - Tank flushing
 - Thermostat testing
-- Safety valve checks\`
+- Safety valve checks`
       }
     ],
     faqs: [
@@ -9670,7 +9670,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Water Treatment Services",
-        content: \`**Systems**
+        content: `**Systems**
 - Salt-based water softeners
 - Salt-free conditioners
 - Whole-house filtration
@@ -9691,7 +9691,7 @@ Our clay soils require:
 - Better soap efficiency
 - Softer skin and hair
 - Longer appliance life
-- Cleaner dishes\`
+- Cleaner dishes`
       }
     ],
     faqs: [
@@ -9731,7 +9731,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Filtration Options",
-        content: \`**Whole-House Systems**
+        content: `**Whole-House Systems**
 - Sediment filters
 - Carbon filters
 - Multi-stage systems
@@ -9749,7 +9749,7 @@ Our clay soils require:
 - UV disinfection
 - Arsenic removal
 - Nitrate removal
-- Well water treatment\`
+- Well water treatment`
       }
     ],
     faqs: [
@@ -9789,7 +9789,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Ceiling Fan Services",
-        content: \`**Installation**
+        content: `**Installation**
 - New fan installation
 - Fan replacement
 - Light kit addition
@@ -9807,7 +9807,7 @@ Our clay soils require:
 - Balance and adjustment
 - Motor service
 - Blade replacement
-- Remote programming\`
+- Remote programming`
       }
     ],
     faqs: [
@@ -9847,7 +9847,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Lighting Services",
-        content: \`**Indoor Lighting**
+        content: `**Indoor Lighting**
 - Fixture installation
 - Recessed/can lights
 - Under-cabinet lighting
@@ -9866,7 +9866,7 @@ Our clay soils require:
 - LED conversions
 - Smart lighting
 - Lighting controls
-- Whole-house systems\`
+- Whole-house systems`
       }
     ],
     faqs: [
@@ -9906,7 +9906,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Panel Services",
-        content: \`**Upgrades**
+        content: `**Upgrades**
 - 100-amp to 200-amp upgrade
 - 200-amp to 400-amp upgrade
 - Panel replacement
@@ -9924,7 +9924,7 @@ Our clay soils require:
 - Service entrance upgrade
 - Grounding improvement
 - Circuit additions
-- Whole-house rewiring\`
+- Whole-house rewiring`
       }
     ],
     faqs: [
@@ -9964,7 +9964,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Duct Cleaning Services",
-        content: \`**Duct Services**
+        content: `**Duct Services**
 - Supply duct cleaning
 - Return duct cleaning
 - Trunk line cleaning
@@ -9982,7 +9982,7 @@ Our clay soils require:
 - High-powered vacuums
 - Rotating brushes
 - Air whips
-- Camera inspection\`
+- Camera inspection`
       }
     ],
     faqs: [
@@ -10022,7 +10022,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Air Quality Solutions",
-        content: \`**Air Cleaning**
+        content: `**Air Cleaning**
 - Air purifiers
 - HEPA filtration
 - Electronic air cleaners
@@ -10040,7 +10040,7 @@ Our clay soils require:
 - Radon testing
 - Mold testing
 - System assessment
-- Ventilation solutions\`
+- Ventilation solutions`
       }
     ],
     faqs: [
@@ -10080,7 +10080,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Gutter Services",
-        content: \`**Installation**
+        content: `**Installation**
 - Seamless aluminum gutters
 - Steel gutters
 - Copper gutters
@@ -10098,7 +10098,7 @@ Our clay soils require:
 - Repair and patching
 - Realignment
 - Downspout clearing
-- Drainage solutions\`
+- Drainage solutions`
       }
     ],
     faqs: [
@@ -10138,7 +10138,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Garage Door Services",
-        content: \`**Doors**
+        content: `**Doors**
 - New door installation
 - Door replacement
 - Insulated doors
@@ -10159,7 +10159,7 @@ Our clay soils require:
 - Track alignment
 - Panel replacement
 - Weatherstripping
-- Safety sensor adjustment\`
+- Safety sensor adjustment`
       }
     ],
     faqs: [
@@ -10202,7 +10202,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Family Law Services",
-        content: \`**Divorce**
+        content: `**Divorce**
 - Contested divorce
 - Uncontested divorce
 - Property division
@@ -10222,7 +10222,7 @@ Our clay soils require:
 - Prenuptial agreements
 - Protective orders
 - Guardianship
-- Name changes\`
+- Name changes`
       }
     ],
     faqs: [
@@ -10262,7 +10262,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Criminal Defense Services",
-        content: \`**DWI/DUI**
+        content: `**DWI/DUI**
 - First offense DWI
 - Repeat DWI
 - Intoxication assault
@@ -10281,7 +10281,7 @@ Our clay soils require:
 - Traffic violations
 - Juvenile offenses
 - Expunctions
-- Probation violations\`
+- Probation violations`
       }
     ],
     faqs: [
@@ -10321,7 +10321,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Personal Injury Cases",
-        content: \`**Motor Vehicle**
+        content: `**Motor Vehicle**
 - Car accidents
 - Truck accidents
 - Motorcycle accidents
@@ -10340,7 +10340,7 @@ Our clay soils require:
 - Lost wages
 - Pain and suffering
 - Disability
-- Wrongful death\`
+- Wrongful death`
       }
     ],
     faqs: [
@@ -10380,7 +10380,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Estate Planning Services",
-        content: \`**Documents**
+        content: `**Documents**
 - Wills
 - Living trusts
 - Medical power of attorney
@@ -10398,7 +10398,7 @@ Our clay soils require:
 - Probate
 - Trust administration
 - Estate settlement
-- Will contests\`
+- Will contests`
       }
     ],
     faqs: [
@@ -10438,7 +10438,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Business Legal Services",
-        content: \`**Formation**
+        content: `**Formation**
 - Entity selection
 - LLC formation
 - Corporation setup
@@ -10457,7 +10457,7 @@ Our clay soils require:
 - Regulatory compliance
 - Collections
 - Business disputes
-- Litigation defense\`
+- Litigation defense`
       }
     ],
     faqs: [
@@ -10497,7 +10497,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Tax Services",
-        content: \`**Individual**
+        content: `**Individual**
 - W-2 returns
 - Self-employment
 - Investments and dividends
@@ -10517,7 +10517,7 @@ Our clay soils require:
 - IRS representation
 - Amended returns
 - Prior year returns
-- Audit support\`
+- Audit support`
       }
     ],
     faqs: [
@@ -10559,7 +10559,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Bookkeeping Services",
-        content: \`**Basic Bookkeeping**
+        content: `**Basic Bookkeeping**
 - Transaction entry
 - Bank reconciliation
 - Credit card reconciliation
@@ -10578,7 +10578,7 @@ Our clay soils require:
 - Xero
 - FreshBooks
 - Wave
-- Custom solutions\`
+- Custom solutions`
       }
     ],
     faqs: [
@@ -10618,7 +10618,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Financial Planning Services",
-        content: \`**Planning**
+        content: `**Planning**
 - Retirement planning
 - Investment management
 - Education funding
@@ -10638,7 +10638,7 @@ Our clay soils require:
 - Mid-career
 - Pre-retirement
 - Retirement income
-- Wealth transfer\`
+- Wealth transfer`
       }
     ],
     faqs: [
@@ -10678,7 +10678,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Payroll Services",
-        content: \`**Processing**
+        content: `**Processing**
 - Payroll calculation
 - Direct deposit
 - Check printing
@@ -10697,7 +10697,7 @@ Our clay soils require:
 - PTO management
 - New hire reporting
 - Workers' comp
-- HR support\`
+- HR support`
       }
     ],
     faqs: [
@@ -10737,7 +10737,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Insurance Products",
-        content: \`**Personal**
+        content: `**Personal**
 - Homeowners
 - Auto
 - Life
@@ -10757,7 +10757,7 @@ Our clay soils require:
 - Mobile home
 - Motorcycle/RV
 - Boat
-- Health/Medicare\`
+- Health/Medicare`
       }
     ],
     faqs: [
@@ -10800,7 +10800,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Primary Care Services",
-        content: \`**Preventive Care**
+        content: `**Preventive Care**
 - Annual physicals
 - Well-child visits
 - Immunizations
@@ -10819,7 +10819,7 @@ Our clay soils require:
 - Hypertension
 - Heart disease
 - Thyroid disorders
-- Arthritis\`
+- Arthritis`
       }
     ],
     faqs: [
@@ -10859,7 +10859,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Pediatric Services",
-        content: \`**Well-Child Care**
+        content: `**Well-Child Care**
 - Newborn care
 - Developmental screenings
 - Growth monitoring
@@ -10878,7 +10878,7 @@ Our clay soils require:
 - Asthma management
 - Allergies
 - Behavioral concerns
-- Chronic conditions\`
+- Chronic conditions`
       }
     ],
     faqs: [
@@ -10920,7 +10920,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Urgent Care Services",
-        content: \`**Common Conditions**
+        content: `**Common Conditions**
 - Cold and flu
 - Sore throat
 - Ear infections
@@ -10941,7 +10941,7 @@ Our clay soils require:
 - Stitches
 - Splinting
 - Injections
-- Physicals\`
+- Physicals`
       }
     ],
     faqs: [
@@ -10981,7 +10981,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Chiropractic Services",
-        content: \`**Conditions**
+        content: `**Conditions**
 - Back pain
 - Neck pain
 - Headaches/migraines
@@ -11001,7 +11001,7 @@ Our clay soils require:
 - Posture correction
 - Ergonomic advice
 - Wellness care
-- Preventive treatment\`
+- Preventive treatment`
       }
     ],
     faqs: [
@@ -11041,7 +11041,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Physical Therapy Services",
-        content: \`**Orthopedic**
+        content: `**Orthopedic**
 - Post-surgical rehab
 - Joint replacement
 - Sports injuries
@@ -11060,7 +11060,7 @@ Our clay soils require:
 - Work injuries
 - Chronic pain
 - Pediatric PT
-- Vestibular therapy\`
+- Vestibular therapy`
       }
     ],
     faqs: [
@@ -11100,7 +11100,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Eye Care Services",
-        content: \`**Exams**
+        content: `**Exams**
 - Comprehensive eye exams
 - Contact lens fitting
 - Pediatric eye exams
@@ -11118,7 +11118,7 @@ Our clay soils require:
 - Glaucoma management
 - Diabetic eye exams
 - Eye infections
-- Foreign body removal\`
+- Foreign body removal`
       }
     ],
     faqs: [
@@ -11158,7 +11158,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Counseling Services",
-        content: \`**Individual Therapy**
+        content: `**Individual Therapy**
 - Depression
 - Anxiety
 - Trauma/PTSD
@@ -11177,7 +11177,7 @@ Our clay soils require:
 - Child and adolescent
 - Faith-based counseling
 - LGBTQ+ affirming
-- Career counseling\`
+- Career counseling`
       }
     ],
     faqs: [
@@ -11217,7 +11217,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Gym Facilities",
-        content: \`**Equipment**
+        content: `**Equipment**
 - Cardio machines
 - Free weights
 - Weight machines
@@ -11236,7 +11236,7 @@ Our clay soils require:
 - Fitness assessments
 - Locker rooms
 - Showers
-- Childcare (some)\`
+- Childcare (some)`
       }
     ],
     faqs: [
@@ -11276,7 +11276,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Nutrition Services",
-        content: \`**Weight Management**
+        content: `**Weight Management**
 - Weight loss programs
 - Healthy weight gain
 - Metabolic assessment
@@ -11295,7 +11295,7 @@ Our clay soils require:
 - Pediatric nutrition
 - Eating disorders
 - Pregnancy nutrition
-- Senior nutrition\`
+- Senior nutrition`
       }
     ],
     faqs: [
@@ -11335,7 +11335,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Assisted Living Services",
-        content: \`**Care Services**
+        content: `**Care Services**
 - Medication management
 - Bathing and dressing help
 - Mobility assistance
@@ -11354,7 +11354,7 @@ Our clay soils require:
 - Exercise classes
 - Outings and events
 - Spiritual services
-- Entertainment\`
+- Entertainment`
       }
     ],
     faqs: [
@@ -11394,7 +11394,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Home Care Services",
-        content: \`**Personal Care**
+        content: `**Personal Care**
 - Bathing and hygiene
 - Dressing assistance
 - Medication reminders
@@ -11413,7 +11413,7 @@ Our clay soils require:
 - Respite care
 - Post-hospital care
 - Overnight care
-- Live-in care\`
+- Live-in care`
       }
     ],
     faqs: [
@@ -11453,7 +11453,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Home Health Services",
-        content: \`**Skilled Nursing**
+        content: `**Skilled Nursing**
 - Wound care
 - IV therapy
 - Medication management
@@ -11470,7 +11470,7 @@ Our clay soils require:
 - Medical social work
 - Home health aides
 - Nutrition counseling
-- Chronic disease management\`
+- Chronic disease management`
       }
     ],
     faqs: [
@@ -11513,7 +11513,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Brake Services",
-        content: \`**Components**
+        content: `**Components**
 - Brake pads
 - Rotors
 - Calipers
@@ -11527,7 +11527,7 @@ Our clay soils require:
 - Rotor resurfacing or replacement
 - Brake fluid flush
 - Caliper service
-- Emergency brake adjustment\`
+- Emergency brake adjustment`
       }
     ],
     faqs: [
@@ -11567,7 +11567,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Transmission Services",
-        content: \`**Maintenance**
+        content: `**Maintenance**
 - Transmission fluid change
 - Transmission flush
 - Filter replacement
@@ -11583,7 +11583,7 @@ Our clay soils require:
 **Major Service**
 - Transmission rebuild
 - Transmission replacement
-- Performance upgrades\`
+- Performance upgrades`
       }
     ],
     faqs: [
@@ -11623,7 +11623,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Detailing Services",
-        content: \`**Interior**
+        content: `**Interior**
 - Deep cleaning
 - Leather conditioning
 - Carpet shampooing
@@ -11643,7 +11643,7 @@ Our clay soils require:
 - Paint correction
 - Ceramic coating
 - Paint protection film
-- Headlight restoration\`
+- Headlight restoration`
       }
     ],
     faqs: [
@@ -11683,7 +11683,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Towing Services",
-        content: \`**Towing**
+        content: `**Towing**
 - Light duty towing
 - Medium duty towing
 - Flatbed towing
@@ -11701,7 +11701,7 @@ Our clay soils require:
 - Accident recovery
 - Heavy equipment
 - RV and trailer towing
-- Off-road recovery\`
+- Off-road recovery`
       }
     ],
     faqs: [
@@ -11741,7 +11741,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Diesel Services",
-        content: \`**Maintenance**
+        content: `**Maintenance**
 - Oil and filter changes
 - Fuel filter service
 - Air filter replacement
@@ -11759,7 +11759,7 @@ Our clay soils require:
 - Computer diagnostics
 - Performance tuning
 - Delete services (off-road)
-- Emissions troubleshooting\`
+- Emissions troubleshooting`
       }
     ],
     faqs: [
@@ -11802,7 +11802,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Wedding Venues",
-        content: \`**Venue Types**
+        content: `**Venue Types**
 - Barn and ranch venues
 - Ballrooms and hotels
 - Gardens and estates
@@ -11822,7 +11822,7 @@ Our clay soils require:
 - Intimate (under 50)
 - Medium (50-150)
 - Large (150-300)
-- Grand (300+)\`
+- Grand (300+)`
       }
     ],
     faqs: [
@@ -11862,7 +11862,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Planning Services",
-        content: \`**Full Planning**
+        content: `**Full Planning**
 - Venue selection
 - Vendor recommendations
 - Budget management
@@ -11881,7 +11881,7 @@ Our clay soils require:
 - Vendor confirmation
 - Setup oversight
 - Problem-solving
-- Reception flow\`
+- Reception flow`
       }
     ],
     faqs: [
@@ -11921,7 +11921,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "DJ Services",
-        content: \`**Event Types**
+        content: `**Event Types**
 - Weddings
 - Corporate events
 - Birthday parties
@@ -11941,7 +11941,7 @@ Our clay soils require:
 - Photo booth packages
 - Uplighting
 - Custom playlists
-- Video screens\`
+- Video screens`
       }
     ],
     faqs: [
@@ -11981,7 +11981,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Venue Options",
-        content: \`**Venue Types**
+        content: `**Venue Types**
 - Event halls
 - Community centers
 - Restaurant private rooms
@@ -12003,7 +12003,7 @@ Our clay soils require:
 - Catering options
 - Audio/visual equipment
 - Parking
-- Accessibility\`
+- Accessibility`
       }
     ],
     faqs: [
@@ -12043,7 +12043,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Inflatable Rentals",
-        content: \`**Types**
+        content: `**Types**
 - Standard bounce houses
 - Combo bouncers with slides
 - Water slides
@@ -12062,7 +12062,7 @@ Our clay soils require:
 - Delivery and setup
 - Pickup
 - Safety briefing
-- Generators (if needed)\`
+- Generators (if needed)`
       }
     ],
     faqs: [
@@ -12105,7 +12105,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Large Animal Veterinary Services",
-        content: \`**Species Served**
+        content: `**Species Served**
 - Cattle (beef and dairy)
 - Horses
 - Goats and sheep
@@ -12124,7 +12124,7 @@ Our clay soils require:
 - Pre-purchase exams
 - Coggins testing
 - Health certificates
-- Lameness evaluation\`
+- Lameness evaluation`
       }
     ],
     faqs: [
@@ -12164,7 +12164,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Boarding Services",
-        content: \`**Accommodations**
+        content: `**Accommodations**
 - Standard kennels
 - Suites and private rooms
 - Climate-controlled areas
@@ -12183,7 +12183,7 @@ Our clay soils require:
 - Extended stays
 - Daycare
 - Puppy care
-- Senior pet care\`
+- Senior pet care`
       }
     ],
     faqs: [
@@ -12223,7 +12223,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Training Programs",
-        content: \`**Classes**
+        content: `**Classes**
 - Puppy socialization
 - Basic obedience
 - Advanced obedience
@@ -12241,7 +12241,7 @@ Our clay soils require:
 - Board-and-train
 - Service dog training
 - Hunting dog training
-- Protection training\`
+- Protection training`
       }
     ],
     faqs: [
@@ -12281,7 +12281,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Feed Store Products",
-        content: \`**Livestock Feed**
+        content: `**Livestock Feed**
 - Cattle feed and minerals
 - Horse feed and supplements
 - Goat and sheep feed
@@ -12299,7 +12299,7 @@ Our clay soils require:
 - Fencing supplies
 - Farm hardware
 - Feeders and waterers
-- Animal health products\`
+- Animal health products`
       }
     ],
     faqs: [
@@ -12339,7 +12339,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Equipment Services",
-        content: \`**Tractors**
+        content: `**Tractors**
 - All makes and models
 - Engine repair
 - Transmission service
@@ -12359,7 +12359,7 @@ Our clay soils require:
 - Shop service
 - Preventive maintenance
 - Pre-season inspection
-- Winterization\`
+- Winterization`
       }
     ],
     faqs: [
@@ -12399,7 +12399,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Land Clearing Services",
-        content: \`**Clearing Types**
+        content: `**Clearing Types**
 - Brush clearing
 - Tree removal
 - Cedar clearing
@@ -12419,7 +12419,7 @@ Our clay soils require:
 - Building sites
 - Road access
 - Hunting land
-- Agricultural prep\`
+- Agricultural prep`
       }
     ],
     faqs: [
@@ -12459,7 +12459,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Dirt Work Services",
-        content: \`**Grading**
+        content: `**Grading**
 - Lot preparation
 - Finish grading
 - Slope correction
@@ -12478,7 +12478,7 @@ Our clay soils require:
 - Driveways
 - Parking areas
 - Agricultural pads
-- Sports fields\`
+- Sports fields`
       }
     ],
     faqs: [
@@ -12518,7 +12518,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Pond Services",
-        content: \`**Pond Types**
+        content: `**Pond Types**
 - Stock ponds
 - Fishing ponds
 - Decorative ponds
@@ -12537,7 +12537,7 @@ Our clay soils require:
 - Dam repair
 - Spillway repair
 - Vegetation control
-- Aeration systems\`
+- Aeration systems`
       }
     ],
     faqs: [
@@ -12580,7 +12580,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "General Contractor Services",
-        content: \`**New Construction**
+        content: `**New Construction**
 - Custom homes
 - Spec homes
 - Commercial buildings
@@ -12599,7 +12599,7 @@ Our clay soils require:
 - Permit acquisition
 - Material procurement
 - Schedule management
-- Quality control\`
+- Quality control`
       }
     ],
     faqs: [
@@ -12639,7 +12639,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Home Building Services",
-        content: \`**Home Types**
+        content: `**Home Types**
 - Custom homes
 - Semi-custom homes
 - Production homes
@@ -12659,7 +12659,7 @@ Our clay soils require:
 - Energy efficiency
 - Foundation type
 - Material selection
-- Budget planning\`
+- Budget planning`
       }
     ],
     faqs: [
@@ -12699,7 +12699,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Remodeling Services",
-        content: \`**Major Remodels**
+        content: `**Major Remodels**
 - Kitchen renovation
 - Bathroom remodel
 - Master suite addition
@@ -12718,7 +12718,7 @@ Our clay soils require:
 - Layout changes
 - Second story additions
 - Garage conversions
-- Basement finishing\`
+- Basement finishing`
       }
     ],
     faqs: [
@@ -12758,7 +12758,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Concrete Services",
-        content: \`**Flatwork**
+        content: `**Flatwork**
 - Driveways
 - Patios
 - Sidewalks
@@ -12776,7 +12776,7 @@ Our clay soils require:
 - Stained concrete
 - Exposed aggregate
 - Colored concrete
-- Concrete overlays\`
+- Concrete overlays`
       }
     ],
     faqs: [
@@ -12816,7 +12816,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Masonry Services",
-        content: \`**New Construction**
+        content: `**New Construction**
 - Brick veneer
 - Stone veneer
 - Block walls
@@ -12835,7 +12835,7 @@ Our clay soils require:
 - Arches and headers
 - Mailbox columns
 - Retaining walls
-- Landscape walls\`
+- Landscape walls`
       }
     ],
     faqs: [
@@ -12875,7 +12875,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Steel Building Types",
-        content: \`**Uses**
+        content: `**Uses**
 - Workshops and garages
 - Agricultural buildings
 - Warehouses
@@ -12894,7 +12894,7 @@ Our clay soils require:
 - Painted steel
 - Wainscot options
 - Brick or stone accents
-- Lean-to additions\`
+- Lean-to additions`
       }
     ],
     faqs: [
@@ -12934,7 +12934,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Pole Barn Applications",
-        content: \`**Agricultural**
+        content: `**Agricultural**
 - Hay barns
 - Livestock shelters
 - Equipment storage
@@ -12951,7 +12951,7 @@ Our clay soils require:
 **Commercial**
 - Warehouses
 - Retail buildings
-- Storage facilities\`
+- Storage facilities`
       }
     ],
     faqs: [
@@ -12991,7 +12991,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Outdoor Kitchen Features",
-        content: \`**Cooking**
+        content: `**Cooking**
 - Built-in grills
 - Smokers
 - Side burners
@@ -13010,7 +13010,7 @@ Our clay soils require:
 - Pergolas
 - Pavilions
 - Lighting
-- Fans and heaters\`
+- Fans and heaters`
       }
     ],
     faqs: [
@@ -13050,7 +13050,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Pergola Options",
-        content: \`**Styles**
+        content: `**Styles**
 - Attached pergolas
 - Freestanding pergolas
 - Arbors
@@ -13069,7 +13069,7 @@ Our clay soils require:
 - Fan-ready beams
 - Retractable canopies
 - Privacy screens
-- Planter integration\`
+- Planter integration`
       }
     ],
     faqs: [
@@ -13109,7 +13109,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Commercial Construction",
-        content: \`**Building Types**
+        content: `**Building Types**
 - Retail buildings
 - Office buildings
 - Restaurants
@@ -13128,7 +13128,7 @@ Our clay soils require:
 - Ground-up construction
 - Build-to-suit
 - Shell building
-- Interior finish-out\`
+- Interior finish-out`
       }
     ],
     faqs: [
@@ -13171,7 +13171,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Termite Services",
-        content: \`**Inspections**
+        content: `**Inspections**
 - Real estate inspections (WDI reports)
 - Annual inspections
 - Damage assessments
@@ -13188,7 +13188,7 @@ Our clay soils require:
 - Pre-construction treatment
 - Ongoing monitoring
 - Warranties
-- Re-treatment guarantees\`
+- Re-treatment guarantees`
       }
     ],
     faqs: [
@@ -13228,7 +13228,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Wildlife Services",
-        content: \`**Animals Handled**
+        content: `**Animals Handled**
 - Raccoons
 - Squirrels
 - Skunks
@@ -13248,7 +13248,7 @@ Our clay soils require:
 **Prevention**
 - Entry point sealing
 - Habitat modification
-- Ongoing monitoring\`
+- Ongoing monitoring`
       }
     ],
     faqs: [
@@ -13288,7 +13288,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Mosquito Control Options",
-        content: \`**Treatments**
+        content: `**Treatments**
 - Barrier spray treatments
 - In2Care traps
 - Larvicide applications
@@ -13303,7 +13303,7 @@ Our clay soils require:
 **Additional**
 - Tick control
 - Breeding site elimination
-- Standing water treatment\`
+- Standing water treatment`
       }
     ],
     faqs: [
@@ -13343,7 +13343,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Irrigation Services",
-        content: \`**Installation**
+        content: `**Installation**
 - New system design
 - Sprinkler installation
 - Drip irrigation
@@ -13361,7 +13361,7 @@ Our clay soils require:
 - Seasonal adjustments
 - Winterization
 - Spring activation
-- System audits\`
+- System audits`
       }
     ],
     faqs: [
@@ -13401,7 +13401,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Stump Grinding Services",
-        content: \`**Services**
+        content: `**Services**
 - Single stump removal
 - Multiple stumps
 - Large stumps
@@ -13418,7 +13418,7 @@ Our clay soils require:
 - Utility location
 - Access requirements
 - Root system extent
-- Replanting plans\`
+- Replanting plans`
       }
     ],
     faqs: [
@@ -13458,7 +13458,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Deck Services",
-        content: \`**Construction**
+        content: `**Construction**
 - New deck design
 - Deck construction
 - Multi-level decks
@@ -13477,7 +13477,7 @@ Our clay soils require:
 - Stairs
 - Built-in seating
 - Lighting
-- Deck repairs\`
+- Deck repairs`
       }
     ],
     faqs: [
@@ -13517,7 +13517,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Patio Options",
-        content: \`**Materials**
+        content: `**Materials**
 - Poured concrete
 - Stamped concrete
 - Concrete pavers
@@ -13536,7 +13536,7 @@ Our clay soils require:
 - Retaining walls
 - Walkways
 - Outdoor kitchens
-- Pergolas\`
+- Pergolas`
       }
     ],
     faqs: [
@@ -13576,7 +13576,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Outdoor Lighting Options",
-        content: \`**Landscape Lighting**
+        content: `**Landscape Lighting**
 - Path lights
 - Spotlights
 - Uplighting
@@ -13594,7 +13594,7 @@ Our clay soils require:
 - String lights
 - Post lights
 - Deck and step lighting
-- Accent lighting\`
+- Accent lighting`
       }
     ],
     faqs: [
@@ -13634,7 +13634,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Pool Services",
-        content: \`**Weekly Maintenance**
+        content: `**Weekly Maintenance**
 - Surface skimming
 - Vacuuming
 - Brush walls and tile
@@ -13654,7 +13654,7 @@ Our clay soils require:
 - Opening and closing
 - Green pool recovery
 - Acid washing
-- Equipment upgrades\`
+- Equipment upgrades`
       }
     ],
     faqs: [
@@ -13697,7 +13697,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Dental Services",
-        content: \`**Preventive**
+        content: `**Preventive**
 - Exams and cleanings
 - X-rays
 - Fluoride treatments
@@ -13715,7 +13715,7 @@ Our clay soils require:
 - Teeth whitening
 - Veneers
 - Bonding
-- Smile makeovers\`
+- Smile makeovers`
       }
     ],
     faqs: [
@@ -13755,7 +13755,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Orthodontic Treatment",
-        content: \`**Braces**
+        content: `**Braces**
 - Traditional metal braces
 - Ceramic/clear braces
 - Self-ligating braces
@@ -13770,7 +13770,7 @@ Our clay soils require:
 - Retainers
 - Palatal expanders
 - Space maintainers
-- Early intervention\`
+- Early intervention`
       }
     ],
     faqs: [
@@ -13810,7 +13810,7 @@ Our clay soils require:
       {
         type: "services",
         heading: "Cosmetic Procedures",
-        content: \`**Common Treatments**
+        content: `**Common Treatments**
 - Teeth whitening
 - Porcelain veneers
 - Dental bonding
@@ -13826,7 +13826,7 @@ Our clay soils require:
 **Smile Design**
 - Smile makeovers
 - Full mouth reconstruction
-- Digital smile preview\`
+- Digital smile preview`
       }
     ],
     faqs: [
