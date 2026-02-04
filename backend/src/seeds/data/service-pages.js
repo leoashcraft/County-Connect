@@ -25,9 +25,6 @@
  */
 
 export const servicePages = [
-  // ============================================
-  // HOME SERVICES
-  // ============================================
   {
     slug: "foundation-repair",
     title: "Foundation Repair",
@@ -210,7 +207,7 @@ Older cast iron plumbing, common in pre-1970s Navarro County homes, often develo
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "plumber",
@@ -374,7 +371,7 @@ Many Navarro County homes built between 1978-1995 have polybutylene (gray plasti
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "electrician",
@@ -532,7 +529,7 @@ Downtown Corsicana and other historic areas have homes with original wiring:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "hvac",
@@ -700,7 +697,7 @@ Uses ground temperature for heating and cooling. Very efficient but high install
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "roofing",
@@ -874,790 +871,7 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
     ],
     claimedBusinessId: null,
     status: "active"
-  },
-
-  // Continue with more services...
-  // Adding abbreviated entries for remaining pages to keep file manageable
-  // Full content would follow same detailed pattern
-
-  {
-    slug: "pest-control",
-    title: "Pest Control",
-    category: "home_services",
-    subcategory: "maintenance",
-    layout: 1,
-    icon: "Bug",
-    iconColor: "green",
-    metaTitle: "Pest Control in Navarro County, TX | Exterminator Corsicana",
-    metaDescription: "Pest control services for Corsicana and Navarro County. Termite treatment, ant control, rodent removal, and preventive pest management for Texas homes.",
-    metaKeywords: "pest control Corsicana, exterminator Navarro County, termite treatment, ant control, rodent control",
-    heroContent: `Navarro County's warm climate and mix of urban and rural environments create ideal conditions for a wide variety of pests. From the fire ants that plague our yards to the termites that threaten our homes' structures, effective pest management is essential for Navarro County property owners.`,
-    localContext: `The Texas Blackland Prairie region hosts aggressive pest populations year-round. Subterranean termites cause more damage in Texas than any other state, with Navarro County properties at particular risk due to our clay soils and older housing stock. Fire ants, imported to Texas in the 1950s, have established dense populations throughout the county. Our proximity to farmland brings additional challenges including rodents seeking shelter in homes during harvest season.`,
-    sections: [
-      {
-        type: "guide",
-        heading: "Common Pests in Navarro County",
-        content: `**Structural Pests:**
-- Subterranean termites (most destructive)
-- Carpenter ants
-- Wood-boring beetles
-- Powder post beetles
-
-**Stinging Insects:**
-- Fire ants (imported red fire ant)
-- Paper wasps
-- Yellow jackets
-- Africanized bees (increasing presence)
-
-**Crawling Insects:**
-- American cockroaches ("waterbugs")
-- German cockroaches
-- Spiders (brown recluse, black widow)
-- Scorpions
-- Silverfish
-- Crickets
-
-**Rodents:**
-- House mice
-- Norway rats
-- Roof rats
-- Field mice (seasonal)
-
-**Wildlife:**
-- Raccoons
-- Opossums
-- Skunks
-- Squirrels
-- Armadillos`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does pest control cost in Navarro County?",
-        answer: "Monthly pest control service runs $35-$60 per month. Quarterly service costs $100-$175 per treatment. One-time treatments range from $150-$400 depending on pest type. Termite treatment typically costs $1,200-$3,000 for liquid treatment or $8-$12 per linear foot for bait systems."
-      },
-      {
-        question: "How often should I have pest control in Texas?",
-        answer: "Due to our year-round pest activity, quarterly professional treatment is recommended for most Navarro County homes. Properties with history of issues, wooded lots, or proximity to water may benefit from bi-monthly service. Termite inspections should be conducted annually."
-      }
-    ],
-    relatedServices: ["termite-control", "wildlife-removal", "lawn-care", "landscaping"],
-    externalResources: [
-      { name: "Texas A&M AgriLife Extension - Urban Entomology", url: "https://urbanentomology.tamu.edu/" }
-    ],
-    claimedBusinessId: null,
-    status: "active"
-  },
-
-  {
-    slug: "landscaping",
-    title: "Landscaping",
-    category: "home_services",
-    subcategory: "outdoor",
-    layout: 2,
-    icon: "Trees",
-    iconColor: "emerald",
-    metaTitle: "Landscaping in Navarro County, TX | Lawn Care & Landscape Design",
-    metaDescription: "Landscaping services for Corsicana and Navarro County. Lawn care, landscape design, irrigation, tree service, and seasonal maintenance for Texas properties.",
-    metaKeywords: "landscaping Corsicana, lawn care Navarro County, landscape design, irrigation, tree trimming",
-    heroContent: `Creating and maintaining beautiful landscapes in Navarro County requires understanding our unique climate, soil, and growing conditions. From the hot, dry summers to the clay-heavy Blackland Prairie soils, successful landscaping here demands expertise in plants and techniques suited to Central Texas.`,
-    localContext: `Navarro County's USDA Hardiness Zone 8a climate supports a diverse range of plants but also presents challenges. Summer temperatures regularly exceed 100°F, and drought is a recurring concern. Our heavy clay soils have poor drainage yet crack deeply when dry. Native and adapted plants thrive here, while many traditional landscape plants struggle without significant amendment and irrigation.`,
-    sections: [
-      {
-        type: "guide",
-        heading: "Landscaping for Navarro County Conditions",
-        content: `**Best Lawn Grasses for Our Area:**
-- Bermudagrass: Drought-tolerant, sun-loving, most popular choice
-- St. Augustinegrass: Shade-tolerant, needs more water
-- Zoysiagrass: Moderate water needs, good traffic tolerance
-- Buffalograss: Native, extremely drought-tolerant, low maintenance
-
-**Native Plants That Thrive:**
-- Texas Sage (Leucophyllum)
-- Flame Acanthus
-- Blackfoot Daisy
-- Mexican Honeysuckle
-- Turk's Cap
-- Texas Mountain Laurel
-- Possumhaw Holly
-
-**Trees Suited to Navarro County:**
-- Live Oak (iconic Texas tree)
-- Bur Oak
-- Cedar Elm
-- Desert Willow
-- Texas Redbud
-- Vitex
-- Crape Myrtle (not native but well-adapted)`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does lawn care cost in Navarro County?",
-        answer: "Weekly mowing for average-sized yards (under 10,000 sq ft) runs $30-$50 per visit. Full-service lawn care including fertilization and weed control adds $200-$400 per year. Landscape installation varies widely—basic plantings start around $500 while comprehensive landscape design and installation can run $5,000-$20,000+."
-      }
-    ],
-    relatedServices: ["tree-service", "irrigation", "lawn-care", "hardscape", "outdoor-lighting"],
-    externalResources: [
-      { name: "Texas A&M AgriLife Extension - Navarro County", url: "https://navarro.agrilife.org/" }
-    ],
-    claimedBusinessId: null,
-    status: "active"
-  },
-
-  // ============================================
-  // PROFESSIONAL SERVICES
-  // ============================================
-
-  {
-    slug: "attorney",
-    title: "Attorney",
-    category: "professional_services",
-    subcategory: "legal",
-    layout: 3,
-    icon: "Scale",
-    iconColor: "slate",
-    metaTitle: "Attorney in Navarro County, TX | Lawyer in Corsicana",
-    metaDescription: "Find an attorney in Corsicana and Navarro County. Legal services for family law, criminal defense, personal injury, estate planning, and business law.",
-    metaKeywords: "attorney Corsicana, lawyer Navarro County, legal services, family law, criminal defense",
-    heroContent: `Legal matters require experienced counsel who understands not just the law, but the local courts and community. Navarro County attorneys practice in the 13th Judicial District Court and County Courts, handling everything from family disputes to criminal defense to business transactions.`,
-    localContext: `The Navarro County legal community, centered around the historic 1905 Courthouse in Corsicana, serves a diverse population with varied legal needs. From oil and gas matters reflecting the county's petroleum history to agricultural law serving our farming community, local attorneys handle cases that require understanding of both Texas law and local practices.`,
-    sections: [
-      {
-        type: "guide",
-        heading: "Legal Services Available in Navarro County",
-        content: `**Family Law:**
-- Divorce and legal separation
-- Child custody and visitation
-- Child support modifications
-- Adoption
-- Prenuptial agreements
-- Protective orders
-
-**Criminal Defense:**
-- DWI/DUI defense
-- Drug charges
-- Assault and violent crimes
-- Theft and property crimes
-- Juvenile defense
-- Probation violations
-
-**Personal Injury:**
-- Auto accidents
-- Workplace injuries
-- Medical malpractice
-- Premises liability
-- Wrongful death
-
-**Estate Planning:**
-- Wills and trusts
-- Powers of attorney
-- Probate
-- Estate administration
-- Guardianship
-
-**Business Law:**
-- Business formation
-- Contracts
-- Commercial litigation
-- Employment law`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does a lawyer cost in Navarro County?",
-        answer: "Attorney fees vary by practice area and complexity. Family law and criminal defense often charge $200-$400 per hour or flat fees of $2,500-$10,000 for standard cases. Personal injury attorneys typically work on contingency (25-40% of settlement). Estate planning ranges from $300-$1,500 for basic documents to $3,000+ for complex trusts."
-      }
-    ],
-    relatedServices: ["family-lawyer", "criminal-lawyer", "personal-injury-lawyer", "estate-attorney", "accountant"],
-    externalResources: [
-      { name: "State Bar of Texas - Find a Lawyer", url: "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer" },
-      { name: "Navarro County Courts", url: "https://www.navarrocounty.org/district-court" }
-    ],
-    claimedBusinessId: null,
-    status: "active"
-  },
-
-  {
-    slug: "accountant",
-    title: "Accountant",
-    category: "professional_services",
-    subcategory: "financial",
-    layout: 4,
-    icon: "Calculator",
-    iconColor: "blue",
-    metaTitle: "Accountant in Navarro County, TX | CPA & Tax Services Corsicana",
-    metaDescription: "CPA and accounting services in Corsicana and Navarro County. Tax preparation, bookkeeping, payroll, small business accounting, and financial planning.",
-    metaKeywords: "accountant Corsicana, CPA Navarro County, tax preparation, bookkeeping, small business accounting",
-    heroContent: `Whether you're a small business owner navigating Texas franchise tax, a farmer dealing with agricultural deductions, or a family planning for the future, working with a local accountant who understands Navarro County's economy provides significant advantages.`,
-    localContext: `Navarro County's diverse economy—spanning oil and gas, agriculture, manufacturing, and small business—creates varied accounting needs. Local CPAs understand the specific tax considerations for cotton farmers, oil royalty recipients, and Main Street business owners alike. With the Texas franchise tax, sales tax requirements, and federal obligations, professional accounting guidance helps Navarro County residents and businesses stay compliant while minimizing tax burden.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Accounting Services Available Locally",
-        content: `**Tax Services:**
-- Individual tax preparation
-- Business tax preparation (sole proprietor, LLC, S-Corp, C-Corp)
-- Farm and ranch tax returns
-- Oil, gas, and mineral rights taxation
-- Tax planning strategies
-- IRS representation
-
-**Business Accounting:**
-- Bookkeeping services
-- Payroll processing
-- Financial statement preparation
-- Cash flow analysis
-- Accounts receivable/payable management
-- QuickBooks setup and training
-
-**Advisory Services:**
-- Business startup consulting
-- Entity selection guidance
-- Retirement planning
-- Estate tax planning
-- Succession planning for family businesses`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does an accountant cost in Navarro County?",
-        answer: "Individual tax returns typically cost $150-$400 depending on complexity. Business returns range from $400-$1,500+. Monthly bookkeeping runs $200-$600 for small businesses. Hourly rates for CPAs in our area typically range from $100-$250 per hour. Many offer package pricing for combined services."
-      }
-    ],
-    relatedServices: ["tax-preparer", "bookkeeper", "financial-advisor", "payroll-service", "attorney"],
-    externalResources: [
-      { name: "Texas State Board of Public Accountancy", url: "https://www.tsbpa.texas.gov/" },
-      { name: "IRS Free File", url: "https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free" }
-    ],
-    claimedBusinessId: null,
-    status: "active"
-  },
-
-  {
-    slug: "realtor",
-    title: "Realtor",
-    category: "professional_services",
-    subcategory: "real_estate",
-    layout: 5,
-    icon: "Home",
-    iconColor: "green",
-    metaTitle: "Realtor in Navarro County, TX | Real Estate Agent Corsicana",
-    metaDescription: "Find a realtor in Corsicana and Navarro County. Expert real estate agent for buying or selling homes, land, farms, and commercial property in Central Texas.",
-    metaKeywords: "realtor Corsicana, real estate agent Navarro County, homes for sale, land for sale, Central Texas real estate",
-    heroContent: `Buying or selling property in Navarro County is a significant decision that benefits from local expertise. A Navarro County realtor understands our market values, neighborhoods, school districts, and the unique aspects of Central Texas real estate—from historic Corsicana homes to rural acreages and everything in between.`,
-    localContext: `The Navarro County real estate market offers diverse opportunities at price points below the DFW metroplex just an hour north. From affordable first homes to sprawling ranches, the county attracts buyers seeking value and rural lifestyle while maintaining reasonable access to urban employment centers. Local realtors understand flood zones along Richland Creek, mineral rights considerations in oil country, and the charm of historic downtown Corsicana properties.`,
-    sections: [
-      {
-        type: "guide",
-        heading: "Navarro County Real Estate Market Overview",
-        content: `**Market Characteristics:**
-- Median home price significantly below state average
-- Mix of urban, suburban, and rural properties
-- Growing interest from DFW buyers seeking affordable land
-- Active farm and ranch market
-- Historic properties in downtown Corsicana
-
-**Popular Areas:**
-- Corsicana (county seat, most amenities)
-- Kerens (smaller community, lake access nearby)
-- Blooming Grove (small-town living)
-- Rice (rural, agricultural)
-- Frost (small community, ISD)
-
-**Property Types Available:**
-- Single-family homes (all eras)
-- Historic properties (downtown Corsicana)
-- New construction (limited but growing)
-- Land and acreage (plentiful)
-- Farms and ranches
-- Lake properties (nearby Lake Bardwell, Navarro Mills)
-- Commercial and investment properties`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does a realtor cost?",
-        answer: "Real estate commissions in Navarro County typically total 5-6% of the sale price, usually split between buyer's and seller's agents. Sellers traditionally pay the commission from sale proceeds. Buyers typically don't pay their agent directly. Some agents offer reduced commission structures for certain services."
-      }
-    ],
-    relatedServices: ["home-inspector", "mortgage-lender", "title-company", "appraiser", "attorney"],
-    externalResources: [
-      { name: "Texas Real Estate Commission", url: "https://www.trec.texas.gov/" },
-      { name: "Navarro County Appraisal District", url: "https://www.navarrocad.com/" }
-    ],
-    claimedBusinessId: null,
-    status: "active"
-  },
-
-  // ============================================
-  // HEALTH & WELLNESS
-  // ============================================
-
-  {
-    slug: "dentist",
-    title: "Dentist",
-    category: "health_wellness",
-    subcategory: "dental",
-    layout: 1,
-    icon: "Smile",
-    iconColor: "cyan",
-    metaTitle: "Dentist in Navarro County, TX | Dental Care Corsicana",
-    metaDescription: "Find a dentist in Corsicana and Navarro County. Family dentistry, cosmetic dental, emergency dental care, and orthodontics for all ages.",
-    metaKeywords: "dentist Corsicana, dental care Navarro County, family dentist, emergency dentist, teeth cleaning",
-    heroContent: `Maintaining good oral health is essential for overall well-being. Navarro County residents have access to quality dental care ranging from preventive services to advanced restorative and cosmetic treatments. Finding a dentist who meets your family's needs ensures consistent care for lasting oral health.`,
-    localContext: `Navarro County's dental practices serve patients across the spectrum, from young families to seniors. Many accept Medicaid and CHIP for children's dental coverage, helping address dental health disparities in our community. With the nearest dental specialists often in Dallas or Waco, general dentists in Navarro County frequently handle a broader range of procedures than their urban counterparts.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Dental Services Available in Navarro County",
-        content: `**Preventive Care:**
-- Routine cleanings and exams
-- X-rays and diagnostics
-- Fluoride treatments
-- Dental sealants
-- Oral cancer screenings
-- Periodontal evaluations
-
-**Restorative Dentistry:**
-- Fillings (composite and amalgam)
-- Crowns and bridges
-- Root canal therapy
-- Dentures and partials
-- Dental implants
-- Extractions
-
-**Cosmetic Dentistry:**
-- Teeth whitening
-- Veneers
-- Bonding
-- Smile makeovers
-- Clear aligners
-
-**Specialty Services:**
-- Pediatric dentistry
-- Emergency dental care
-- Sedation dentistry
-- TMJ treatment
-- Sleep apnea appliances`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does dental care cost without insurance?",
-        answer: "Basic cleaning and exam runs $100-$200. Fillings cost $150-$300 per tooth. Crowns range from $800-$1,500. Root canals run $700-$1,200. Extractions cost $150-$400 for simple, $250-$600 for surgical. Many Navarro County dentists offer payment plans and membership programs for uninsured patients."
-      }
-    ],
-    relatedServices: ["orthodontist", "oral-surgeon", "pediatric-dentist"],
-    externalResources: [
-      { name: "Texas State Board of Dental Examiners", url: "https://www.tsbde.texas.gov/" },
-      { name: "Texas Dental Association - Find a Dentist", url: "https://www.tda.org/" }
-    ],
-    claimedBusinessId: null,
-    status: "active"
-  },
-
-  {
-    slug: "veterinarian",
-    title: "Veterinarian",
-    category: "health_wellness",
-    subcategory: "animal_care",
-    layout: 2,
-    icon: "Heart",
-    iconColor: "rose",
-    metaTitle: "Veterinarian in Navarro County, TX | Vet Clinic Corsicana",
-    metaDescription: "Find a veterinarian in Corsicana and Navarro County. Pet care, vaccinations, surgery, emergency vet services, and large animal care for Central Texas.",
-    metaKeywords: "veterinarian Corsicana, vet clinic Navarro County, pet care, animal hospital, large animal vet",
-    heroContent: `Navarro County pet owners and livestock producers need reliable veterinary care for their animals. From routine wellness checks for family pets to emergency care for horses and cattle, local veterinarians serve the diverse animal population of Central Texas.`,
-    localContext: `Navarro County's mix of urban and rural areas means veterinary practices often serve both small and large animals. Beyond the typical dogs and cats, local vets care for horses, cattle, goats, sheep, and exotics. The agricultural heritage of the region requires veterinarians skilled in livestock medicine, reproduction, and herd health—expertise that may be harder to find in purely urban areas.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Veterinary Services in Navarro County",
-        content: `**Small Animal Services:**
-- Wellness exams and vaccinations
-- Spay/neuter surgery
-- Dental care
-- Diagnostic imaging (X-ray, ultrasound)
-- Laboratory testing
-- Microchipping
-- Surgery (soft tissue and orthopedic)
-- Chronic disease management
-- End-of-life care
-
-**Large Animal Services:**
-- Farm calls and ranch visits
-- Equine wellness and lameness
-- Cattle herd health programs
-- Reproduction services (AI, pregnancy checking)
-- Emergency colic and injury treatment
-- Coggins testing
-- Health certificates for transport
-
-**Emergency Services:**
-- After-hours emergency care (varies by clinic)
-- Trauma and injury treatment
-- Toxin ingestion
-- Bloat and GDV treatment`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does a vet visit cost in Navarro County?",
-        answer: "Basic wellness exams run $45-$75. Vaccinations cost $20-$40 each. Spay/neuter surgery ranges from $150-$400 for dogs, $100-$200 for cats. Emergency visits typically cost $100-$200 for exam plus treatment. Farm calls for large animals run $50-$100 plus mileage and services rendered."
-      }
-    ],
-    relatedServices: ["pet-groomer", "pet-boarding", "pet-sitter", "feed-store"],
-    externalResources: [
-      { name: "Texas State Board of Veterinary Medical Examiners", url: "https://www.veterinary.texas.gov/" },
-      { name: "ASPCA Animal Poison Control", url: "https://www.aspca.org/pet-care/animal-poison-control" }
-    ],
-    claimedBusinessId: null,
-    status: "active"
-  },
-
-  {
-    slug: "chiropractor",
-    title: "Chiropractor",
-    category: "health_wellness",
-    subcategory: "alternative",
-    layout: 3,
-    icon: "Activity",
-    iconColor: "purple",
-    metaTitle: "Chiropractor in Navarro County, TX | Chiropractic Care Corsicana",
-    metaDescription: "Find a chiropractor in Corsicana and Navarro County. Chiropractic adjustments, back pain relief, sports injuries, and wellness care for all ages.",
-    metaKeywords: "chiropractor Corsicana, chiropractic Navarro County, back pain, neck pain, spinal adjustment",
-    heroContent: `Chiropractic care offers a drug-free approach to managing pain and improving function. Navarro County chiropractors help patients with back pain, neck pain, headaches, and other musculoskeletal conditions through spinal adjustments and complementary therapies.`,
-    localContext: `Many Navarro County residents work in occupations that put strain on their bodies—farming, oil field work, manufacturing, and long-distance driving. Chiropractic care can be particularly valuable for these populations in managing work-related strain and maintaining mobility. Local chiropractors understand the physical demands our community faces and tailor treatment accordingly.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Chiropractic Services Available",
-        content: `**Core Chiropractic Care:**
-- Spinal adjustments
-- Extremity adjustments
-- Spinal decompression therapy
-- Posture correction
-- Ergonomic assessment
-
-**Complementary Therapies:**
-- Massage therapy
-- Physical therapy modalities
-- Electrical stimulation
-- Ultrasound therapy
-- Cold laser therapy
-- Kinesiology taping
-
-**Specialized Care:**
-- Sports injury rehabilitation
-- Auto accident injury treatment
-- Work injury treatment
-- Prenatal chiropractic
-- Pediatric chiropractic
-- Geriatric care`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does a chiropractor cost?",
-        answer: "Initial visits with exam typically run $100-$200. Regular adjustment visits cost $40-$75. Package pricing often offers better value for ongoing care. Many insurance plans cover chiropractic with copays of $20-$50. Medicare covers chiropractic adjustments with standard Part B costs."
-      }
-    ],
-    relatedServices: ["massage-therapist", "physical-therapist", "acupuncture"],
-    externalResources: [
-      { name: "Texas Board of Chiropractic Examiners", url: "https://www.tbce.state.tx.us/" }
-    ],
-    claimedBusinessId: null,
-    status: "active"
-  },
-
-  // ============================================
-  // AUTOMOTIVE
-  // ============================================
-
-  {
-    slug: "auto-repair",
-    title: "Auto Repair",
-    category: "automotive",
-    subcategory: "repair",
-    layout: 4,
-    icon: "Car",
-    iconColor: "blue",
-    metaTitle: "Auto Repair in Navarro County, TX | Mechanic Corsicana",
-    metaDescription: "Find auto repair in Corsicana and Navarro County. Car mechanic, oil change, brake repair, engine diagnostics, and transmission service for all vehicles.",
-    metaKeywords: "auto repair Corsicana, mechanic Navarro County, car repair, brake repair, oil change",
-    heroContent: `Keeping your vehicle running reliably is essential in Navarro County, where distances between towns make dependable transportation crucial. Local auto repair shops provide everything from basic maintenance to major repairs, often at prices well below dealership rates.`,
-    localContext: `Navarro County's roads—from the interstate to rural farm roads—put varied demands on vehicles. The summer heat is particularly hard on cooling systems and batteries, while the occasionally harsh winters can affect starting systems. Local mechanics understand these conditions and the common issues they cause in the vehicles driven by our community.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Auto Repair Services Available Locally",
-        content: `**Maintenance Services:**
-- Oil changes and fluid services
-- Filter replacement (oil, air, fuel, cabin)
-- Tire rotation and balancing
-- Battery testing and replacement
-- Belt and hose inspection/replacement
-- Fluid flushes (coolant, transmission, brake, power steering)
-
-**Repair Services:**
-- Brake repair (pads, rotors, calipers)
-- Steering and suspension
-- Engine diagnostics and repair
-- Transmission service and repair
-- Electrical system repair
-- Exhaust system repair
-- AC repair and recharge
-- Heating system repair
-
-**Specialty Services:**
-- State inspections
-- Pre-purchase inspections
-- Computer diagnostics
-- Check engine light diagnosis
-- Performance modifications`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does car repair cost in Navarro County?",
-        answer: "Labor rates typically run $75-$120 per hour, below major metro rates. Oil changes cost $35-$75 depending on oil type. Brake pad replacement runs $150-$300 per axle. Transmission service costs $150-$250. Major repairs vary widely—get detailed estimates before authorizing work."
-      }
-    ],
-    relatedServices: ["towing", "tire-shop", "auto-body", "oil-change", "transmission"],
-    externalResources: [
-      { name: "Texas DMV - Vehicle Inspection", url: "https://www.txdmv.gov/" },
-      { name: "AAA - Auto Repair", url: "https://www.aaa.com/autorepair" }
-    ],
-    claimedBusinessId: null,
-    status: "active"
-  },
-
-  {
-    slug: "towing",
-    title: "Towing",
-    category: "automotive",
-    subcategory: "emergency",
-    layout: 5,
-    icon: "Truck",
-    iconColor: "orange",
-    metaTitle: "Towing Service in Navarro County, TX | Tow Truck Corsicana",
-    metaDescription: "24/7 towing service in Corsicana and Navarro County. Roadside assistance, flatbed towing, accident recovery, jump starts, and lockout service.",
-    metaKeywords: "towing Corsicana, tow truck Navarro County, roadside assistance, flatbed towing, emergency towing",
-    heroContent: `When your vehicle breaks down or you're in an accident, you need fast, reliable towing service. Navarro County towing companies provide 24/7 emergency response across the county, from I-45 to the most remote farm roads.`,
-    localContext: `Navarro County's mix of interstate highway, state roads, and rural farm-to-market roads means towing situations vary widely. I-45 traffic can complicate accident recovery, while remote locations may require extended response times. Local towing companies know the county's roads and can typically respond faster than dispatch services from larger cities.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Towing & Roadside Services",
-        content: `**Towing Services:**
-- Local towing (within county)
-- Long-distance towing
-- Flatbed towing (required for AWD, low-clearance vehicles)
-- Wheel-lift towing
-- Motorcycle towing
-- Heavy-duty towing (trucks, RVs)
-- Accident recovery
-
-**Roadside Assistance:**
-- Jump starts
-- Lockout service
-- Flat tire changes
-- Fuel delivery
-- Winch-out service (stuck vehicles)
-- Minor roadside repairs`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does towing cost in Navarro County?",
-        answer: "Local towing typically costs $75-$125 for hookup plus $3-$5 per mile. Flatbed towing runs $100-$150 hookup plus $4-$6 per mile. After-hours and holiday rates are usually 25-50% higher. Heavy-duty towing for trucks and RVs starts around $200. Get quotes before authorizing service when possible."
-      }
-    ],
-    relatedServices: ["auto-repair", "tire-shop", "auto-body", "locksmith"],
-    externalResources: [
-      { name: "Texas DMV - Towing and Booting", url: "https://www.txdmv.gov/motorists/consumer-protection/towing-booting" }
-    ],
-    claimedBusinessId: null,
-    status: "active"
-  },
-
-  // ============================================
-  // EVENTS & ENTERTAINMENT
-  // ============================================
-
-  {
-    slug: "photographer",
-    title: "Photographer",
-    category: "events_entertainment",
-    subcategory: "creative",
-    layout: 1,
-    icon: "Camera",
-    iconColor: "purple",
-    metaTitle: "Photographer in Navarro County, TX | Photography Services Corsicana",
-    metaDescription: "Find a photographer in Corsicana and Navarro County. Wedding photography, family portraits, senior photos, events, and commercial photography.",
-    metaKeywords: "photographer Corsicana, photography Navarro County, wedding photographer, portrait photographer, senior photos",
-    heroContent: `Capturing life's important moments requires a photographer who combines technical skill with an eye for meaningful images. Navarro County photographers document everything from weddings and family milestones to business headshots and commercial projects.`,
-    localContext: `Navarro County offers diverse backdrops for photography—from the historic downtown Corsicana courthouse and vintage Main Street buildings to pastoral ranch settings and the natural beauty of area lakes. Local photographers know these locations intimately, often scouting spots that visiting photographers would never discover. This local knowledge translates to more distinctive, location-authentic images.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Photography Services Available",
-        content: `**Portrait Photography:**
-- Family portraits
-- Senior photos
-- Newborn and baby photography
-- Maternity sessions
-- Professional headshots
-- Pet photography
-
-**Event Photography:**
-- Wedding photography
-- Engagement sessions
-- Quinceañera
-- Birthday parties
-- Corporate events
-- School events
-
-**Commercial Photography:**
-- Product photography
-- Real estate photography
-- Business headshots
-- Food photography
-- Construction progress documentation`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does a photographer cost in Navarro County?",
-        answer: "Family portrait sessions run $150-$400 including edited digital images. Senior photo packages range from $200-$600. Wedding photography typically costs $1,500-$4,000 for 6-8 hours of coverage. Headshots run $100-$250 per person. Pricing varies based on experience level and deliverables included."
-      }
-    ],
-    relatedServices: ["videographer", "wedding-planner", "photo-booth", "print-shop"],
-    externalResources: [
-      { name: "Professional Photographers of America", url: "https://www.ppa.com/" }
-    ],
-    claimedBusinessId: null,
-    status: "active"
-  },
-
-  {
-    slug: "dj",
-    title: "DJ",
-    category: "events_entertainment",
-    subcategory: "music",
-    layout: 2,
-    icon: "Music",
-    iconColor: "violet",
-    metaTitle: "DJ in Navarro County, TX | Wedding DJ & Event DJ Corsicana",
-    metaDescription: "Find a DJ in Corsicana and Navarro County. Wedding DJ, party DJ, corporate events, school dances, and quinceañeras with professional sound and lighting.",
-    metaKeywords: "DJ Corsicana, wedding DJ Navarro County, party DJ, event DJ, quinceañera DJ",
-    heroContent: `The right DJ can make or break an event. Beyond just playing music, a professional DJ sets the tone, reads the crowd, and keeps the energy flowing throughout your celebration. Navarro County DJs bring experience with local venues and events to make your occasion memorable.`,
-    localContext: `From wedding receptions at local venues to quinceañeras, school dances, and corporate events, Navarro County DJs serve a community that values celebration. Local DJs understand the mix of musical tastes in our area—from country to Tejano to current hits—and can navigate requests while keeping events moving smoothly.`,
-    sections: [
-      {
-        type: "services",
-        heading: "DJ Services Available",
-        content: `**Event Types:**
-- Wedding receptions
-- Quinceañeras
-- Corporate events
-- School dances (prom, homecoming)
-- Birthday parties
-- Anniversary celebrations
-- Holiday parties
-- Community events
-
-**Services Included:**
-- Professional sound system
-- Wireless microphones
-- Music library (all genres)
-- MC services
-- Event timeline coordination
-- Setup and breakdown
-
-**Add-On Services:**
-- Lighting packages
-- Dance floor lighting
-- Uplighting
-- Photo booth
-- Karaoke`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does a DJ cost in Navarro County?",
-        answer: "Wedding DJs typically charge $800-$2,000 for 4-6 hours. Party DJs run $300-$600 for 3-4 hours. School dance packages range $400-$800. Pricing varies based on equipment provided, lighting included, and event complexity. Book early for prime dates—good DJs are reserved months in advance."
-      }
-    ],
-    relatedServices: ["photographer", "videographer", "wedding-planner", "caterer", "florist"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
-
-  // ============================================
-  // AGRICULTURE & RURAL
-  // ============================================
-
-  {
-    slug: "welder",
-    title: "Welder",
-    category: "agriculture_rural",
-    subcategory: "trades",
-    layout: 3,
-    icon: "Flame",
-    iconColor: "orange",
-    metaTitle: "Welder in Navarro County, TX | Welding Service Corsicana",
-    metaDescription: "Find a welder in Corsicana and Navarro County. Mobile welding, fabrication, farm equipment repair, trailer repair, and custom metal work.",
-    metaKeywords: "welder Corsicana, welding Navarro County, mobile welding, fabrication, farm equipment repair",
-    heroContent: `Welding services are essential in Navarro County's agricultural and industrial economy. From repairing farm equipment to fabricating custom trailers and gates, skilled welders keep our community's machinery and infrastructure operational.`,
-    localContext: `Navarro County's farming operations, ranches, and oil field services depend on welders for equipment repair and custom fabrication. Mobile welding services are particularly valuable for farm equipment too large to transport and for on-site repairs during critical harvest periods. Local welders understand the specific equipment and conditions common to Central Texas agriculture.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Welding Services Available",
-        content: `**Welding Types:**
-- MIG welding
-- TIG welding
-- Stick welding
-- Flux core welding
-- Aluminum welding
-- Stainless steel welding
-
-**Agricultural Services:**
-- Farm equipment repair
-- Implement modifications
-- Livestock equipment (pens, chutes, feeders)
-- Hay equipment repair
-- Tractor repair
-
-**Trailer Services:**
-- Trailer repair
-- Custom trailer fabrication
-- Floor replacement
-- Hitch repair and modification
-- Jack replacement
-
-**Custom Fabrication:**
-- Gates and fencing
-- Cattle guards
-- Custom metal projects
-- Pipe fencing
-- Custom brackets and mounts`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does welding cost in Navarro County?",
-        answer: "Shop welding rates run $75-$125 per hour. Mobile welding service calls typically cost $100-$150 plus hourly rates of $85-$135. Minimum charges often apply. Custom fabrication is quoted by project. Materials are typically additional unless quoted as package price."
-      }
-    ],
-    relatedServices: ["fabrication", "trailer-repair", "tractor-repair", "fence-builder"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
+  },,
 
   {
     slug: "tree-service",
@@ -1717,7 +931,7 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "septic",
@@ -1783,98 +997,7 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
     ],
     claimedBusinessId: null,
     status: "active"
-  },
-
-  // ============================================
-  // MORE HOME SERVICES
-  // ============================================
-  {
-    slug: "roofing",
-    title: "Roofing",
-    category: "home_services",
-    subcategory: "exterior",
-    layout: 1,
-    icon: "Home",
-    iconColor: "amber",
-    metaTitle: "Roofing Contractors in Navarro County, TX | Roof Repair Corsicana",
-    metaDescription: "Professional roofing services in Corsicana and Navarro County. Storm damage repair, roof replacement, shingle and metal roofing for Texas weather.",
-    metaKeywords: "roofing Corsicana, roof repair Navarro County, storm damage roof, metal roofing Texas, shingle roof replacement",
-    heroContent: `Navarro County's position in North Central Texas means our roofs face everything from scorching summer heat to severe spring thunderstorms, occasional hail, and the rare ice storm. Finding a reliable roofing contractor who understands these challenges—and who will be here after the storm chasers leave—is essential for protecting your home.`,
-    localContext: `The Corsicana area averages 3-5 significant hail events per year, with spring storms bringing the highest risk. Our hot summers, with 80+ days above 90°F, cause thermal expansion and UV degradation that shortens roof life. Many Navarro County homes built in the 1970s-1990s are now on their second or third roof. The 2021 winter storm revealed how ice dams can damage roofs not designed for extended freezing conditions.`,
-    sections: [
-      {
-        type: "guide",
-        heading: "Roofing Options for Navarro County Homes",
-        content: `**Asphalt Shingles (Most Common)**
-- 3-tab shingles: $3-$4/sq ft installed, 15-20 year lifespan
-- Architectural shingles: $4-$6/sq ft, 25-30 year lifespan
-- Impact-resistant shingles: $5-$7/sq ft, may reduce insurance premiums 5-10%
-- Best for: Budget-conscious homeowners, traditional aesthetics
-
-**Metal Roofing (Growing in Popularity)**
-- Standing seam: $10-$14/sq ft, 40-70 year lifespan
-- Metal shingles: $7-$10/sq ft, 30-50 year lifespan
-- Corrugated/R-panel: $5-$8/sq ft, 25-40 year lifespan
-- Best for: Longevity, energy efficiency, rural properties
-
-**Tile Roofing**
-- Concrete tile: $8-$12/sq ft, 50+ year lifespan
-- Clay tile: $12-$18/sq ft, 75+ year lifespan
-- Requires structural evaluation for weight
-- Best for: Spanish/Mediterranean style homes
-
-**Flat Roofing (Commercial/Some Residential)**
-- TPO membrane: $5-$8/sq ft
-- Modified bitumen: $4-$7/sq ft
-- Commonly used on additions and low-slope sections`
-      },
-      {
-        type: "local_info",
-        heading: "Storm Damage and Insurance Claims in Navarro County",
-        content: `After severe weather, Navarro County sees an influx of roofing contractors—some reputable, many not. Here's how to navigate storm damage repairs:
-
-**Documenting Damage**
-- Photograph damage from ground level before anyone walks on roof
-- Note date and time of storm event
-- Keep any debris (hailstones in freezer, fallen branches)
-- Document interior damage (water stains, leaks)
-
-**Insurance Process**
-- File claim promptly (most policies require reporting within 1 year)
-- Your insurance company will send an adjuster
-- Get independent estimates before accepting settlement
-- Understand your deductible (many policies have separate wind/hail deductibles)
-
-**Avoiding Storm Chaser Scams**
-- Never sign contracts with door-knockers immediately after storms
-- Verify Texas contractor license and local business address
-- Don't pay large deposits upfront
-- Be wary of "free roof" or "we'll pay your deductible" claims (insurance fraud)
-- Check references with other Navarro County homeowners`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does a new roof cost in Navarro County?",
-        answer: "A new asphalt shingle roof on a typical 2,000 sq ft Navarro County home costs $8,000-$15,000 for architectural shingles. Metal roofing runs $15,000-$25,000. Factors affecting cost include roof pitch, accessibility, removal of old layers, and decking repairs. Most roofers offer free estimates."
-      },
-      {
-        question: "How do I know if my roof has hail damage?",
-        answer: "Signs include dented or cracked shingles, granules in gutters, dented metal vents/flashing, and damaged gutters. Hail damage isn't always visible from the ground. After a hailstorm, have a professional inspection—most reputable roofers offer free storm damage assessments."
-      },
-      {
-        question: "Will my homeowners insurance cover roof replacement?",
-        answer: "Texas homeowners insurance typically covers roof damage from covered perils (hail, wind, fallen trees) minus your deductible. Normal wear and aging are not covered. Some policies limit coverage on roofs over 10-15 years old. Review your policy and consider replacement before filing claims on older roofs."
-      }
-    ],
-    relatedServices: ["gutter", "siding", "exterior-painting", "home-inspector"],
-    externalResources: [
-      { name: "Texas Department of Insurance", url: "https://www.tdi.texas.gov/" },
-      { name: "Better Business Bureau - Dallas", url: "https://www.bbb.org/us/tx/dallas" }
-    ],
-    claimedBusinessId: null,
-    status: "active"
-  },
+  },,
 
   {
     slug: "pest-control",
@@ -1956,7 +1079,7 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "landscaping",
@@ -2046,7 +1169,7 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "fence-builder",
@@ -2124,11 +1247,8 @@ Call 811 before digging! Navarro County has underground utilities, especially in
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // PROFESSIONAL SERVICES
-  // ============================================
   {
     slug: "attorney",
     title: "Attorney",
@@ -2227,7 +1347,7 @@ Local attorney fees vary by practice area:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "accountant",
@@ -2316,7 +1436,7 @@ Local attorney fees vary by practice area:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "realtor",
@@ -2403,11 +1523,8 @@ Local attorney fees vary by practice area:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // AUTOMOTIVE
-  // ============================================
   {
     slug: "auto-repair",
     title: "Auto Repair",
@@ -2515,7 +1632,7 @@ Local attorney fees vary by practice area:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "towing",
@@ -2607,11 +1724,8 @@ Local attorney fees vary by practice area:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // HEALTH & WELLNESS
-  // ============================================
   {
     slug: "dentist",
     title: "Dentist",
@@ -2707,7 +1821,7 @@ Local attorney fees vary by practice area:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "chiropractor",
@@ -2797,11 +1911,8 @@ Initial care for acute conditions may require 2-3 visits per week. As symptoms i
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // AGRICULTURE & RURAL
-  // ============================================
   {
     slug: "veterinarian",
     title: "Veterinarian",
@@ -2901,7 +2012,7 @@ Lifestyle vaccines (based on risk):
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "large-animal-vet",
@@ -3001,7 +2112,7 @@ Texas summers are brutal on livestock:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "feed-store",
@@ -3106,11 +2217,8 @@ Texas summers are brutal on livestock:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // EVENTS & ENTERTAINMENT
-  // ============================================
   {
     slug: "wedding-venue",
     title: "Wedding Venue",
@@ -3212,7 +2320,7 @@ Texas summers are brutal on livestock:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "dj",
@@ -3311,11 +2419,8 @@ Texas summers are brutal on livestock:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // CONSTRUCTION & TRADES
-  // ============================================
   {
     slug: "general-contractor",
     title: "General Contractor",
@@ -3423,7 +2528,7 @@ Texas summers are brutal on livestock:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "concrete",
@@ -3530,11 +2635,8 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // BEAUTY & PERSONAL CARE
-  // ============================================
   {
     slug: "hair-salon",
     title: "Hair Salon",
@@ -3607,7 +2709,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "barbershop",
@@ -3667,11 +2769,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // EDUCATION & CHILDCARE
-  // ============================================
   {
     slug: "daycare",
     title: "Daycare Center",
@@ -3763,7 +2862,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "tutoring",
@@ -3858,11 +2957,8 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // RETAIL
-  // ============================================
   {
     slug: "furniture-store",
     title: "Furniture Store",
@@ -3933,11 +3029,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // LODGING & TRAVEL
-  // ============================================
   {
     slug: "hotel",
     title: "Hotel",
@@ -3998,11 +3091,8 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // INDUSTRIAL & COMMERCIAL
-  // ============================================
   {
     slug: "commercial-cleaning",
     title: "Commercial Cleaning",
@@ -4070,7 +3160,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "moving-company",
@@ -4165,11 +3255,8 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // MORE HOME SERVICES
-  // ============================================
   {
     slug: "handyman",
     title: "Handyman Services",
@@ -4238,7 +3325,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "garage-door",
@@ -4307,7 +3394,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "lawn-care",
@@ -4375,7 +3462,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "cleaning",
@@ -4444,7 +3531,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "pool-service",
@@ -4512,11 +3599,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // MORE PROFESSIONAL SERVICES
-  // ============================================
   {
     slug: "insurance-agent",
     title: "Insurance Agent",
@@ -4588,7 +3672,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "home-inspector",
@@ -4654,7 +3738,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "notary",
@@ -4717,7 +3801,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "locksmith",
@@ -4787,11 +3871,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // MORE AUTOMOTIVE
-  // ============================================
   {
     slug: "tire-shop",
     title: "Tire Shop",
@@ -4850,7 +3931,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "auto-body",
@@ -4915,7 +3996,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "oil-change",
@@ -4975,11 +4056,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // FOOD & BEVERAGE
-  // ============================================
   {
     slug: "catering",
     title: "Catering",
@@ -5050,7 +4128,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "bakery",
@@ -5119,11 +4197,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // MORE HEALTH & WELLNESS
-  // ============================================
   {
     slug: "massage-therapist",
     title: "Massage Therapist",
@@ -5188,7 +4263,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "personal-trainer",
@@ -5250,11 +4325,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // MORE CONSTRUCTION & TRADES
-  // ============================================
   {
     slug: "welder",
     title: "Welding Service",
@@ -5322,7 +4394,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "pole-barn",
@@ -5386,11 +4458,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // MORE AGRICULTURE & RURAL
-  // ============================================
   {
     slug: "pet-groomer",
     title: "Pet Grooming",
@@ -5455,7 +4524,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "excavator",
@@ -5527,7 +4596,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "farrier",
@@ -5594,11 +4663,8 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // MORE EVENTS & ENTERTAINMENT
-  // ============================================
   {
     slug: "photographer",
     title: "Photographer",
@@ -5665,7 +4731,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "florist",
@@ -5732,7 +4798,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "party-rental",
@@ -5808,136 +4874,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
-
-  // ============================================
-  // BEAUTY & PERSONAL CARE
-  // ============================================
-  {
-    slug: "hair-salon",
-    title: "Hair Salon",
-    category: "beauty_personal",
-    subcategory: "hair",
-    layout: 1,
-    icon: "Scissors",
-    iconColor: "pink",
-    metaTitle: "Hair Salon in Navarro County, TX | Haircuts & Styling Corsicana",
-    metaDescription: "Hair salons in Corsicana and Navarro County. Professional haircuts, coloring, styling, highlights, and treatments for men and women.",
-    metaKeywords: "hair salon Corsicana, haircut Navarro County, hair color, highlights, hair styling, balayage",
-    heroContent: `A great haircut transforms how you look and feel. Navarro County hair salons offer professional styling services from experienced stylists who stay current with trends while understanding the practical needs of their clients.`,
-    localContext: `Corsicana and Navarro County salons range from family-friendly shops offering quick cuts to full-service salons providing color, treatments, and special occasion styling. Many local stylists have years of experience and loyal client bases, while newer salons bring fresh techniques and trends to the area. Texas heat and humidity are considerations local stylists understand well when recommending styles and products.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Salon Services",
-        content: `**Haircuts**
-- Women's haircuts
-- Men's haircuts
-- Children's haircuts
-- Bang trims
-- Specialty cuts
-
-**Color Services**
-- Single-process color
-- Highlights and lowlights
-- Balayage and ombre
-- Color correction
-- Gray coverage
-- Fashion colors
-
-**Treatments**
-- Deep conditioning
-- Keratin treatments
-- Brazilian blowouts
-- Scalp treatments
-- Olaplex treatments
-
-**Styling**
-- Blowouts
-- Updos
-- Special occasion styling
-- Wedding hair`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much is a haircut at a local salon?",
-        answer: "Women's haircuts in Navarro County range from $25-$60 depending on the salon and stylist experience. Men's cuts run $15-$35. Children's cuts are typically $12-$25. Color services vary widely—single-process color starts around $60-$85, highlights range from $75-$150+. Specialty treatments and balayage can run $100-$250."
-      },
-      {
-        question: "How often should I get my hair cut?",
-        answer: "For maintaining a specific style, every 4-6 weeks is typical. If you're growing your hair out, every 8-12 weeks for trims helps keep ends healthy. Short styles and men's cuts often need refreshing every 3-4 weeks. Your stylist can recommend the best schedule based on your hair type and style."
-      },
-      {
-        question: "Should I wash my hair before a salon visit?",
-        answer: "For a regular haircut, clean hair is ideal—wash the day of or the day before. For color appointments, check with your stylist; some prefer slightly dirty hair (24-48 hours unwashed) as natural oils can protect the scalp during processing. Always arrive with product-free hair if possible."
-      }
-    ],
-    relatedServices: ["barbershop", "nail-salon", "spa", "makeup-artist"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
-
-  {
-    slug: "barbershop",
-    title: "Barbershop",
-    category: "beauty_personal",
-    subcategory: "hair",
-    layout: 2,
-    icon: "Scissors",
-    iconColor: "blue",
-    metaTitle: "Barbershop in Navarro County, TX | Men's Haircuts Corsicana",
-    metaDescription: "Barbershops in Corsicana and Navarro County. Traditional and modern men's haircuts, beard trims, fades, and hot towel shaves.",
-    metaKeywords: "barbershop Corsicana, barber Navarro County, mens haircut, fade, beard trim, hot shave",
-    heroContent: `A good barber knows your preferences before you sit down. Navarro County barbershops offer traditional and modern men's grooming services in comfortable settings where locals catch up while getting a fresh cut.`,
-    localContext: `Barbershops have been community gathering spots in Corsicana for generations. Today's Navarro County barbers blend classic techniques with modern styles, from traditional tapered cuts to sharp fades. Many shops take walk-ins, while busier locations recommend appointments for popular barbers.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Barbershop Services",
-        content: `**Haircuts**
-- Traditional cuts
-- Fades (low, mid, high)
-- Tapers
-- Buzz cuts
-- Scissor cuts
-- Style cuts
-
-**Facial Hair**
-- Beard trims
-- Beard shaping
-- Hot towel shaves
-- Mustache trims
-- Line-ups
-
-**Additional**
-- Eyebrow cleanup
-- Ear and nose hair
-- Hair designs/patterns
-- Kids cuts
-- Senior cuts`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does a barbershop haircut cost?",
-        answer: "Standard men's haircuts in Navarro County run $15-$30 at most barbershops. Fades and more detailed work may cost $20-$35. Beard trims add $10-$20. Hot towel shaves range from $20-$40. Many shops offer senior and kids discounts. Pricing varies by shop and barber experience."
-      },
-      {
-        question: "Do I need an appointment or can I walk in?",
-        answer: "Most traditional barbershops in Navarro County accept walk-ins on a first-come, first-served basis. Wait times vary—Saturday mornings and after-work hours are typically busiest. Some shops and specific barbers take appointments. Calling ahead can save you wait time."
-      },
-      {
-        question: "How often should men get haircuts?",
-        answer: "For fades and short styles, every 2-3 weeks keeps the look sharp. Traditional cuts typically need trimming every 4-6 weeks. Buzz cuts can go longer between visits. Your barber can recommend a schedule based on how quickly your hair grows and your preferred style."
-      }
-    ],
-    relatedServices: ["hair-salon", "spa"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
+  },,
 
   {
     slug: "nail-salon",
@@ -6003,7 +4940,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "spa",
@@ -6068,7 +5005,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "med-spa",
@@ -6132,7 +5069,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "tanning-salon",
@@ -6190,7 +5127,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "makeup-artist",
@@ -6248,7 +5185,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "eyelash-extensions",
@@ -6304,7 +5241,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "microblading",
@@ -6360,7 +5297,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "waxing",
@@ -6418,7 +5355,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "tattoo-parlor",
@@ -6477,7 +5414,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "piercing",
@@ -6539,7 +5476,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "teeth-whitening",
@@ -6594,7 +5531,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "esthetician",
@@ -6654,7 +5591,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "laser-hair-removal",
@@ -6711,75 +5648,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
-
-  // ============================================
-  // EDUCATION & CHILDCARE
-  // ============================================
-  {
-    slug: "daycare",
-    title: "Daycare Center",
-    category: "education_childcare",
-    subcategory: "childcare",
-    layout: 1,
-    icon: "Baby",
-    iconColor: "sky",
-    metaTitle: "Daycare in Navarro County, TX | Childcare Center Corsicana",
-    metaDescription: "Licensed daycare centers in Corsicana and Navarro County. Quality childcare, early learning programs, and safe environments for infants through pre-K.",
-    metaKeywords: "daycare Corsicana, childcare Navarro County, licensed daycare, infant care, toddler care",
-    heroContent: `Quality childcare provides peace of mind while you work, knowing your child is safe, engaged, and learning. Navarro County daycare centers offer nurturing environments with age-appropriate activities, qualified staff, and the structure children need to thrive.`,
-    localContext: `Finding the right daycare is one of the most important decisions Navarro County parents make. Local centers range from home-based facilities to larger commercial operations, each offering different philosophies, schedules, and services. Texas requires licensing for centers caring for more than 3 unrelated children, and parents can verify licensing status online.`,
-    sections: [
-      {
-        type: "guide",
-        heading: "What to Look for in a Daycare",
-        content: `**Licensing & Safety**
-- Current Texas HHS license
-- Clean inspection history
-- Staff background checks
-- Safety protocols and training
-- Secure entry/exit
-
-**Staff Quality**
-- Low child-to-staff ratios
-- Trained and experienced caregivers
-- Low staff turnover
-- Warm interactions with children
-
-**Environment**
-- Clean, organized spaces
-- Age-appropriate equipment
-- Outdoor play area
-- Separate areas for different ages
-
-**Programs**
-- Structured daily schedule
-- Age-appropriate curriculum
-- Meals and snacks provided
-- Communication with parents`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does daycare cost in Navarro County?",
-        answer: "Full-time daycare in Navarro County typically ranges from $600-$1,000 per month depending on the child's age (infants cost more), facility type, and services included. Home-based care may be less expensive. Some facilities offer part-time options. Ask about registration fees, supply fees, and late pickup charges."
-      },
-      {
-        question: "How do I check a daycare's license and inspection history?",
-        answer: "Texas Health and Human Services maintains a searchable database at hhs.texas.gov/childcare where you can verify licensing, view inspection reports, and see any violations or corrective actions. This should be your first step when evaluating any childcare facility."
-      },
-      {
-        question: "What are the required staff-to-child ratios in Texas?",
-        answer: "Texas requires specific ratios: 1:4 for infants (0-17 months), 1:5 for toddlers (18-23 months), 1:9 for 2-year-olds, 1:11 for 3-year-olds, 1:15 for 4-year-olds, and 1:18 for 5-year-olds. Better facilities often maintain lower ratios than the minimum requirements."
-      }
-    ],
-    relatedServices: ["preschool", "babysitter", "nanny", "after-school-care"],
-    externalResources: [
-      { name: "Texas Child Care Licensing Search", url: "https://www.hhs.texas.gov/doing-business-hhs/provider-portals/protective-services-providers/child-care-licensing" }
-    ],
-    claimedBusinessId: null,
-    status: "active"
-  },
+  },,
 
   {
     slug: "preschool",
@@ -6838,7 +5707,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "after-school-care",
@@ -6896,7 +5765,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "babysitter",
@@ -6955,7 +5824,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "nanny",
@@ -7015,67 +5884,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
-
-  {
-    slug: "tutoring",
-    title: "Tutoring",
-    category: "education_childcare",
-    subcategory: "education",
-    layout: 1,
-    icon: "BookOpen",
-    iconColor: "green",
-    metaTitle: "Tutoring in Navarro County, TX | Academic Tutors Corsicana",
-    metaDescription: "Tutoring services in Corsicana and Navarro County. Math, reading, and subject tutoring for elementary through high school students.",
-    metaKeywords: "tutoring Corsicana, tutor Navarro County, math tutor, reading tutor, homework help",
-    heroContent: `Every student learns differently, and sometimes classroom instruction isn't enough. Tutoring provides personalized attention that helps students master challenging subjects, build confidence, and achieve their academic potential.`,
-    localContext: `Navarro County tutors work with students from Corsicana ISD and surrounding districts, offering support from elementary basics through high school advanced courses. Whether your student needs help catching up, staying on grade level, or preparing for college, local tutors provide customized assistance.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Tutoring Services",
-        content: `**Subject Tutoring**
-- Math (all levels)
-- Reading and phonics
-- Writing and grammar
-- Science
-- History/social studies
-- Foreign languages
-
-**Test Preparation**
-- SAT prep
-- ACT prep
-- STAAR test help
-- College entrance exams
-- GED preparation
-
-**Specialized Support**
-- Learning differences
-- Study skills
-- Organization
-- Homework help
-- Enrichment`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does tutoring cost?",
-        answer: "Individual tutoring in Navarro County typically costs $25-$60 per hour depending on the tutor's qualifications and subject complexity. Test prep specialists may charge more. Small group tutoring can be less expensive per student. Some tutors offer package discounts. Learning centers charge monthly fees."
-      },
-      {
-        question: "How often should my child be tutored?",
-        answer: "Most students benefit from 1-2 sessions per week for consistent progress. More intensive needs might require more frequent sessions initially. Consistency matters more than frequency—regular weekly sessions are more effective than sporadic intensive ones. Discuss your child's needs with the tutor."
-      },
-      {
-        question: "How do I find a good tutor?",
-        answer: "Ask for recommendations from teachers or other parents. Verify qualifications and experience with your child's specific needs. Request references and check them. Look for tutors who explain their approach and communicate regularly about progress. A good personality fit with your child matters."
-      }
-    ],
-    relatedServices: ["test-prep", "music-lessons", "language-school"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
+  },,
 
   {
     slug: "music-lessons",
@@ -7135,7 +5944,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "piano-lessons",
@@ -7193,7 +6002,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "guitar-lessons",
@@ -7253,7 +6062,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "dance-studio",
@@ -7314,7 +6123,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "martial-arts",
@@ -7373,7 +6182,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "driving-school",
@@ -7431,7 +6240,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "art-classes",
@@ -7491,72 +6300,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
-
-  // ============================================
-  // RETAIL
-  // ============================================
-  {
-    slug: "furniture-store",
-    title: "Furniture Store",
-    category: "retail",
-    subcategory: "home",
-    layout: 1,
-    icon: "Armchair",
-    iconColor: "brown",
-    metaTitle: "Furniture Store in Navarro County, TX | Home Furniture Corsicana",
-    metaDescription: "Furniture stores in Corsicana and Navarro County. Living room, bedroom, dining, and outdoor furniture with delivery and financing options.",
-    metaKeywords: "furniture store Corsicana, furniture Navarro County, living room furniture, bedroom sets, mattress",
-    heroContent: `Quality furniture transforms a house into a home. Navarro County furniture stores offer a range of styles and price points, from budget-friendly basics to premium furnishings, with local delivery and setup services.`,
-    localContext: `Shopping for furniture locally in Navarro County means you can see and feel pieces before buying, receive faster delivery than online ordering, and support local businesses. From national chains to family-owned stores, you'll find options for every room and budget.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Furniture Categories",
-        content: `**Living Room**
-- Sofas and sectionals
-- Recliners
-- Coffee and end tables
-- Entertainment centers
-- Accent chairs
-
-**Bedroom**
-- Bedroom sets
-- Mattresses
-- Dressers and nightstands
-- Headboards and frames
-
-**Dining**
-- Dining tables and chairs
-- Bar stools
-- Buffets and servers
-
-**Other**
-- Home office furniture
-- Outdoor/patio furniture
-- Kids' furniture
-- Accent pieces`
-      }
-    ],
-    faqs: [
-      {
-        question: "Do furniture stores offer financing?",
-        answer: "Most furniture stores offer financing options including 0% interest promotions for qualified buyers. Terms vary from 6 months to several years. Store credit cards, third-party financing, and layaway programs are common. Read all terms carefully, as deferred interest can be significant if not paid off in the promotional period."
-      },
-      {
-        question: "How long does furniture delivery take?",
-        answer: "In-stock items often deliver within 1-2 weeks. Special orders and custom pieces may take 6-12 weeks. Delivery fees in Navarro County typically run $50-$150 depending on distance and whether setup is included. Some stores offer free delivery on purchases over a certain amount."
-      },
-      {
-        question: "Should I buy furniture online or in-store?",
-        answer: "In-store shopping lets you test comfort, see actual colors/textures, and avoid shipping hassles. Local stores offer delivery and may resolve issues more easily. Online can offer more selection and sometimes lower prices. For major purchases like sofas, testing in person is recommended."
-      }
-    ],
-    relatedServices: ["appliance-store", "mattress-store", "interior-painting"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
+  },,
 
   {
     slug: "appliance-store",
@@ -7614,7 +6358,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "mattress-store",
@@ -7674,7 +6418,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "thrift-store",
@@ -7732,7 +6476,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "pawn-shop",
@@ -7790,7 +6534,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "jewelry-store",
@@ -7850,7 +6594,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "gun-shop",
@@ -7909,7 +6653,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "sporting-goods",
@@ -7970,7 +6714,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "pet-store",
@@ -8030,7 +6774,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "nursery-garden",
@@ -8090,70 +6834,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
-
-  // ============================================
-  // LODGING & TRAVEL
-  // ============================================
-  {
-    slug: "hotel",
-    title: "Hotel",
-    category: "lodging_travel",
-    subcategory: "lodging",
-    layout: 1,
-    icon: "Building2",
-    iconColor: "blue",
-    metaTitle: "Hotels in Navarro County, TX | Hotel Accommodations Corsicana",
-    metaDescription: "Hotels in Corsicana and Navarro County. Comfortable accommodations for business travelers, families, and visitors to the region.",
-    metaKeywords: "hotel Corsicana, hotels Navarro County, accommodations, stay, lodging",
-    heroContent: `Whether you're visiting for business, attending an event, or exploring the area, Navarro County hotels provide comfortable accommodations with modern amenities. Options range from budget-friendly to full-service properties.`,
-    localContext: `Corsicana and Navarro County host visitors year-round—business travelers, families visiting loved ones, hunters in season, and tourists exploring Texas history. Hotels along I-45 offer convenient access, while properties in town put you closer to local restaurants and attractions.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Hotel Amenities",
-        content: `**Common Amenities**
-- Free WiFi
-- Breakfast (many hotels)
-- Pool
-- Fitness center
-- Business center
-- Pet-friendly (some)
-
-**Room Features**
-- Comfortable beds
-- Television
-- Coffee maker
-- Refrigerator
-- Microwave
-- Iron/ironing board
-
-**Services**
-- 24-hour front desk
-- Meeting rooms (some)
-- Laundry facilities
-- Guest services`
-      }
-    ],
-    faqs: [
-      {
-        question: "What hotels are near I-45 in Corsicana?",
-        answer: "Several national chain hotels are located near I-45 exits in Corsicana, providing easy highway access. Brands include Holiday Inn Express, Hampton Inn, Best Western, and budget options like Super 8 and Motel 6. Check current availability and rates directly with hotels or through booking sites."
-      },
-      {
-        question: "Do Corsicana hotels allow pets?",
-        answer: "Some hotels in Navarro County are pet-friendly, though policies and fees vary. Expect pet fees of $15-$50 per night. Weight limits and breed restrictions may apply. Always confirm pet policies when booking—not all properties that claim pet-friendly accept all animals."
-      },
-      {
-        question: "Is there a hotel near Navarro College?",
-        answer: "Hotels in Corsicana are a short drive from Navarro College's campus. During events like graduation or orientation, hotels fill quickly—book well in advance. Some properties offer discounts for visiting families; ask when reserving."
-      }
-    ],
-    relatedServices: ["motel", "bed-breakfast", "vacation-rental"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
+  },,
 
   {
     slug: "motel",
@@ -8210,7 +6891,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "bed-breakfast",
@@ -8267,7 +6948,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "vacation-rental",
@@ -8327,7 +7008,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "rv-park",
@@ -8386,7 +7067,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "cabin-rental",
@@ -8445,7 +7126,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "travel-agent",
@@ -8505,7 +7186,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "airport-shuttle",
@@ -8563,7 +7244,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "taxi",
@@ -8622,7 +7303,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "charter-bus",
@@ -8681,11 +7362,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // INDUSTRIAL & COMMERCIAL
-  // ============================================
   {
     slug: "machine-shop",
     title: "Machine Shop",
@@ -8744,7 +7422,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "cnc-machining",
@@ -8804,68 +7482,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
-
-  {
-    slug: "commercial-cleaning",
-    title: "Commercial Cleaning",
-    category: "industrial_commercial",
-    subcategory: "commercial",
-    layout: 3,
-    icon: "SprayCan",
-    iconColor: "cyan",
-    metaTitle: "Commercial Cleaning in Navarro County, TX | Office Cleaning Corsicana",
-    metaDescription: "Commercial cleaning services in Corsicana and Navarro County. Office cleaning, retail maintenance, and professional janitorial services.",
-    metaKeywords: "commercial cleaning Corsicana, office cleaning Navarro County, janitorial, business cleaning",
-    heroContent: `A clean workplace promotes productivity, health, and professional image. Commercial cleaning services in Navarro County keep offices, retail spaces, and commercial buildings maintained with professional cleaning tailored to business needs.`,
-    localContext: `Navarro County businesses—from downtown Corsicana offices to retail spaces and industrial facilities—rely on commercial cleaning to maintain professional environments. Local cleaning companies understand the needs of different business types and provide flexible scheduling to minimize disruption.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Commercial Cleaning Services",
-        content: `**Regular Cleaning**
-- Office cleaning
-- Restroom sanitation
-- Trash removal
-- Vacuuming and mopping
-- Surface dusting and wiping
-- Break room cleaning
-
-**Additional Services**
-- Window cleaning
-- Carpet cleaning
-- Floor waxing
-- Deep cleaning
-- Post-construction cleanup
-
-**Industries**
-- Office buildings
-- Retail stores
-- Medical offices
-- Churches
-- Schools
-- Industrial facilities`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does commercial cleaning cost?",
-        answer: "Commercial cleaning is typically priced per square foot or by the hour. Small offices (under 2,000 sq ft) might cost $100-$300 per cleaning. Larger spaces are often quoted per square foot ($0.05-$0.20). Frequency, scope of work, and special requirements affect pricing. Get quotes for your specific needs."
-      },
-      {
-        question: "How often should a business be cleaned?",
-        answer: "Most offices need cleaning 2-3 times per week. High-traffic retail may need daily cleaning. Medical facilities require daily service with specific protocols. Some small offices maintain weekly service. Frequency depends on foot traffic, industry requirements, and budget."
-      },
-      {
-        question: "Are commercial cleaning companies insured?",
-        answer: "Reputable commercial cleaners carry liability insurance and bonding. This protects your business if accidents occur or items are damaged. Ask for proof of insurance before hiring. Worker's compensation coverage is also important—you could be liable if an uninsured worker is injured on your property."
-      }
-    ],
-    relatedServices: ["janitorial", "carpet-cleaning", "window-cleaning", "pressure-washing"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
+  },,
 
   {
     slug: "janitorial",
@@ -8924,7 +7541,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "storage-units",
@@ -8984,68 +7601,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
-
-  {
-    slug: "moving-company",
-    title: "Moving Company",
-    category: "industrial_commercial",
-    subcategory: "storage",
-    layout: 1,
-    icon: "Truck",
-    iconColor: "blue",
-    metaTitle: "Moving Company in Navarro County, TX | Movers Corsicana",
-    metaDescription: "Moving companies in Corsicana and Navarro County. Local and long-distance moving, packing services, and professional relocation assistance.",
-    metaKeywords: "moving company Corsicana, movers Navarro County, local moving, packing service, relocation",
-    heroContent: `Moving is stressful, but professional movers make it manageable. Navarro County moving companies handle local moves within the area and long-distance relocations, with options from basic loading help to full-service packing and unpacking.`,
-    localContext: `Whether relocating within Corsicana, moving to Navarro County from elsewhere, or heading to a new city, local moving companies understand the logistics. They navigate narrow streets, older homes with tight doorways, and long rural driveways that out-of-area movers might struggle with.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Moving Services",
-        content: `**Moving Types**
-- Local moves
-- Long-distance moves
-- Apartment moves
-- House moves
-- Office relocation
-- Senior moves
-
-**Services**
-- Loading and unloading
-- Furniture disassembly/reassembly
-- Packing services
-- Unpacking services
-- Specialty item handling
-- Storage options
-
-**Specialty Items**
-- Piano moving
-- Gun safe moving
-- Antiques
-- Hot tubs
-- Large appliances`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does hiring movers cost?",
-        answer: "Local moving rates typically run $80-$150 per hour for a 2-person crew with truck. A typical local move (3-bedroom house) takes 4-8 hours. Long-distance moves are priced by weight and distance. Packing services, specialty items, and difficult access add to costs. Get written quotes from multiple companies."
-      },
-      {
-        question: "How far in advance should I book movers?",
-        answer: "Book 2-4 weeks ahead for most moves. Month-end and summer (peak moving season) require earlier booking—sometimes 4-6 weeks. Last-minute moves are possible but limit your options and may cost more. Get quotes early even if your date isn't confirmed."
-      },
-      {
-        question: "Should I tip movers?",
-        answer: "Tipping isn't required but is appreciated for good service. Standard tips range from $20-$50 per mover for a full-day move, or $10-$20 for shorter jobs. Consider the difficulty of the move, care taken with your belongings, and overall service quality when deciding."
-      }
-    ],
-    relatedServices: ["storage-units", "junk-removal", "packing-services"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
+  },,
 
   {
     slug: "freight-shipping",
@@ -9106,7 +7662,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "warehousing",
@@ -9165,7 +7721,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "commercial-hvac",
@@ -9226,7 +7782,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "commercial-plumbing",
@@ -9286,7 +7842,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "commercial-electrical",
@@ -9347,7 +7903,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "industrial-painting",
@@ -9408,7 +7964,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "sandblasting",
@@ -9470,7 +8026,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "crane-service",
@@ -9529,7 +8085,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "forklift-service",
@@ -9589,11 +8145,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // MORE HOME SERVICES
-  // ============================================
   {
     slug: "water-heater",
     title: "Water Heater Service",
@@ -9651,7 +8204,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "water-softener",
@@ -9712,7 +8265,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "water-filtration",
@@ -9770,7 +8323,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "ceiling-fan-installation",
@@ -9828,7 +8381,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "lighting-installation",
@@ -9887,7 +8440,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "electrical-panel-upgrade",
@@ -9945,7 +8498,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "duct-cleaning",
@@ -10003,7 +8556,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "air-quality",
@@ -10061,7 +8614,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "gutter",
@@ -10119,72 +8672,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  {
-    slug: "garage-door",
-    title: "Garage Door Service",
-    category: "home_services",
-    subcategory: "exterior",
-    layout: 5,
-    icon: "DoorOpen",
-    iconColor: "slate",
-    metaTitle: "Garage Door Service in Navarro County, TX | Garage Door Repair Corsicana",
-    metaDescription: "Garage door installation and repair in Corsicana and Navarro County. Garage door openers, spring replacement, and emergency service.",
-    metaKeywords: "garage door repair Corsicana, garage door Navarro County, garage door opener, spring replacement",
-    heroContent: `The garage door is the largest moving part of your home and is used thousands of times per year. When it breaks, you need fast, reliable service. Navarro County garage door technicians handle installations, repairs, and emergency service.`,
-    localContext: `Texas heat affects garage door components, especially springs under constant tension. Navarro County garage door companies understand local conditions and stock parts for common problems. Many offer same-day service for situations leaving cars trapped or homes unsecured.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Garage Door Services",
-        content: `**Doors**
-- New door installation
-- Door replacement
-- Insulated doors
-- Steel doors
-- Wood doors
-- Custom doors
-
-**Openers**
-- Opener installation
-- Opener repair
-- Belt/chain drive
-- Smart openers
-- Battery backup
-
-**Repairs**
-- Spring replacement
-- Cable repair
-- Track alignment
-- Panel replacement
-- Weatherstripping
-- Safety sensor adjustment`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does garage door spring replacement cost?",
-        answer: "Spring replacement typically costs $150-$350 for a single spring, $200-$450 for both springs. Always replace both springs together—when one breaks, the other is likely to follow soon. Never attempt DIY spring replacement—springs under tension are extremely dangerous."
-      },
-      {
-        question: "How long do garage door openers last?",
-        answer: "Garage door openers typically last 10-15 years depending on usage and quality. Signs of failure include slow operation, reversing unexpectedly, or intermittent function. Modern openers have improved security features, battery backup, and smartphone control that may make early upgrade worthwhile."
-      },
-      {
-        question: "Why won't my garage door close?",
-        answer: "Common causes: blocked or misaligned safety sensors (check for obstructions and blinking lights), limit switch issues (door reverses immediately), or remote/wall button problems. If the motor runs but the door doesn't move, a spring may be broken. For safety sensor issues, clean lenses and check alignment."
-      }
-    ],
-    relatedServices: ["electrician", "locksmith", "home-inspector"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
-
-  // ============================================
-  // MORE PROFESSIONAL SERVICES
-  // ============================================
   {
     slug: "family-lawyer",
     title: "Family Lawyer",
@@ -10243,7 +8732,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "criminal-lawyer",
@@ -10302,7 +8791,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "personal-injury-lawyer",
@@ -10361,7 +8850,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "estate-attorney",
@@ -10419,7 +8908,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "business-attorney",
@@ -10478,7 +8967,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "tax-preparer",
@@ -10540,7 +9029,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "bookkeeper",
@@ -10599,7 +9088,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "financial-advisor",
@@ -10659,7 +9148,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "payroll-service",
@@ -10718,71 +9207,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  {
-    slug: "insurance-agent",
-    title: "Insurance Agent",
-    category: "professional_services",
-    subcategory: "financial",
-    layout: 5,
-    icon: "Shield",
-    iconColor: "blue",
-    metaTitle: "Insurance Agent in Navarro County, TX | Insurance Corsicana",
-    metaDescription: "Insurance agents in Corsicana and Navarro County. Home, auto, life, business, and health insurance with personalized local service.",
-    metaKeywords: "insurance agent Corsicana, insurance Navarro County, home insurance, auto insurance, life insurance",
-    heroContent: `Insurance protects what matters most—your family, home, vehicle, and business. Local insurance agents understand Navarro County's specific risks and help you find appropriate coverage at competitive rates, with personal service when you need to file a claim.`,
-    localContext: `Navarro County's mix of urban and rural properties, agricultural operations, and hail-prone weather creates specific insurance needs. Local agents understand these factors and represent carriers familiar with our area's claims history.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Insurance Products",
-        content: `**Personal**
-- Homeowners
-- Auto
-- Life
-- Umbrella
-- Renters
-- Flood
-
-**Business**
-- General liability
-- Commercial property
-- Workers' compensation
-- Commercial auto
-- Professional liability
-
-**Specialty**
-- Farm and ranch
-- Mobile home
-- Motorcycle/RV
-- Boat
-- Health/Medicare`
-      }
-    ],
-    faqs: [
-      {
-        question: "Should I use an independent agent or a captive agent?",
-        answer: "Independent agents represent multiple companies and can shop for the best rates. Captive agents work for one company but know their products deeply. Both can provide good service. Consider independent agents for comparison shopping, captive agents if you prefer a specific company."
-      },
-      {
-        question: "How can I lower my insurance premiums?",
-        answer: "Bundle policies (home + auto), increase deductibles, maintain good credit, ask about discounts (security systems, good driver, etc.), and shop rates every few years. However, don't sacrifice needed coverage to save money—the cheapest policy isn't always the best value."
-      },
-      {
-        question: "Do I need flood insurance in Navarro County?",
-        answer: "Standard homeowners insurance doesn't cover flooding. While not all of Navarro County is in a flood zone, flash flooding can occur anywhere. If your mortgage requires flood insurance, you need it. Even if not required, consider it—flood damage is devastating and policies are relatively affordable."
-      }
-    ],
-    relatedServices: ["realtor", "accountant", "auto-repair"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
-
-  // ============================================
-  // MORE HEALTH & WELLNESS
-  // ============================================
   {
     slug: "family-doctor",
     title: "Family Doctor",
@@ -10840,7 +9266,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "pediatrician",
@@ -10901,7 +9327,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "urgent-care",
@@ -10962,67 +9388,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
-
-  {
-    slug: "chiropractor",
-    title: "Chiropractor",
-    category: "health_wellness",
-    subcategory: "specialist",
-    layout: 4,
-    icon: "Activity",
-    iconColor: "green",
-    metaTitle: "Chiropractor in Navarro County, TX | Chiropractic Care Corsicana",
-    metaDescription: "Chiropractors in Corsicana and Navarro County. Spinal adjustments, back pain treatment, and wellness care for pain relief and improved function.",
-    metaKeywords: "chiropractor Corsicana, chiropractic Navarro County, back pain, spinal adjustment, neck pain",
-    heroContent: `Chiropractic care focuses on the spine and musculoskeletal system, using manual adjustments to restore proper alignment and relieve pain. Navarro County chiropractors treat back pain, neck pain, headaches, and other conditions without surgery or drugs.`,
-    localContext: `Many Navarro County residents seek chiropractic care for work-related injuries, vehicle accident recovery, and chronic pain management. Local chiropractors work with other healthcare providers and insurance companies to provide coordinated care.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Chiropractic Services",
-        content: `**Conditions**
-- Back pain
-- Neck pain
-- Headaches/migraines
-- Sciatica
-- Whiplash
-- Sports injuries
-
-**Treatments**
-- Spinal adjustments
-- Soft tissue therapy
-- Therapeutic exercises
-- Spinal decompression
-- Electrical stimulation
-- Ultrasound therapy
-
-**Wellness**
-- Posture correction
-- Ergonomic advice
-- Wellness care
-- Preventive treatment`
-      }
-    ],
-    faqs: [
-      {
-        question: "Does chiropractic treatment hurt?",
-        answer: "Most adjustments are painless. You may hear popping sounds (like knuckle cracking) as joints are adjusted. Some patients experience mild soreness after initial treatments, similar to starting a new exercise. Chiropractors adjust technique based on patient comfort and condition."
-      },
-      {
-        question: "Does insurance cover chiropractic care?",
-        answer: "Many health insurance plans cover chiropractic care, though visit limits may apply. Medicare covers chiropractic for specific conditions. Auto insurance covers treatment for accident injuries. Workers' comp covers work-related injuries. Check your plan's specifics and any referral requirements."
-      },
-      {
-        question: "How often do I need chiropractic treatment?",
-        answer: "Initial treatment for acute conditions might be 2-3 times weekly for several weeks, then tapering. Chronic conditions may need ongoing maintenance. Some people benefit from regular wellness visits (monthly or as needed). Your chiropractor will recommend a treatment plan based on your condition."
-      }
-    ],
-    relatedServices: ["physical-therapist", "massage-therapist", "personal-injury-lawyer"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
+  },,
 
   {
     slug: "physical-therapist",
@@ -11081,7 +9447,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "optometrist",
@@ -11139,7 +9505,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "therapist",
@@ -11198,7 +9564,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "gym",
@@ -11257,7 +9623,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "nutritionist",
@@ -11316,7 +9682,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "assisted-living",
@@ -11375,7 +9741,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "senior-care",
@@ -11434,7 +9800,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "home-health-care",
@@ -11491,11 +9857,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // MORE AUTOMOTIVE
-  // ============================================
   {
     slug: "brake-repair",
     title: "Brake Repair",
@@ -11548,7 +9911,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "transmission",
@@ -11604,7 +9967,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "auto-detailing",
@@ -11664,65 +10027,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
-
-  {
-    slug: "towing",
-    title: "Towing Service",
-    category: "automotive",
-    subcategory: "services",
-    layout: 4,
-    icon: "Truck",
-    iconColor: "orange",
-    metaTitle: "Towing in Navarro County, TX | Tow Truck Corsicana",
-    metaDescription: "Towing services in Corsicana and Navarro County. 24-hour towing, roadside assistance, accident recovery, and vehicle transport.",
-    metaKeywords: "towing Corsicana, tow truck Navarro County, 24 hour towing, roadside assistance",
-    heroContent: `When your vehicle breaks down or you're in an accident, you need fast, reliable towing. Navarro County towing companies provide 24/7 service for everything from jump starts to heavy-duty recovery.`,
-    localContext: `I-45 and rural roads throughout Navarro County see breakdowns and accidents regularly. Local towing companies know the area, respond quickly, and work with insurance companies and law enforcement to get you taken care of.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Towing Services",
-        content: `**Towing**
-- Light duty towing
-- Medium duty towing
-- Flatbed towing
-- Motorcycle towing
-- Long distance transport
-
-**Roadside Assistance**
-- Jump starts
-- Lockouts
-- Fuel delivery
-- Tire changes
-- Winching
-
-**Specialty**
-- Accident recovery
-- Heavy equipment
-- RV and trailer towing
-- Off-road recovery`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does towing cost?",
-        answer: "Most towing companies charge a hook-up fee ($50-$100) plus per-mile charges ($3-$8/mile). Short tows in town run $75-$150. Longer distance or after-hours calls cost more. Roadside assistance (jumpstart, tire change) is typically $50-$100. Insurance or roadside programs may cover costs."
-      },
-      {
-        question: "How do I get towed if I don't have cash?",
-        answer: "Most towing companies accept credit/debit cards. If you have roadside assistance through insurance, AAA, or your vehicle manufacturer, they may cover the cost. Some shops offer \"tow in\" with paid repairs. Without payment options, vehicles may be held until payment is made."
-      },
-      {
-        question: "What should I do after an accident?",
-        answer: "Ensure safety first, call 911 if needed, and exchange information with other drivers. Police may call a specific towing company for accidents. You generally have the right to request your own tow company. Document the scene with photos and contact your insurance company."
-      }
-    ],
-    relatedServices: ["auto-repair", "auto-body", "roadside-assistance"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
+  },,
 
   {
     slug: "diesel-mechanic",
@@ -11780,70 +10085,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
-
-  // ============================================
-  // MORE EVENTS & ENTERTAINMENT
-  // ============================================
-  {
-    slug: "wedding-venue",
-    title: "Wedding Venue",
-    category: "events_entertainment",
-    subcategory: "wedding",
-    layout: 1,
-    icon: "Heart",
-    iconColor: "rose",
-    metaTitle: "Wedding Venue in Navarro County, TX | Wedding Reception Corsicana",
-    metaDescription: "Wedding venues in Corsicana and Navarro County. Indoor and outdoor venues for ceremonies, receptions, and wedding celebrations.",
-    metaKeywords: "wedding venue Corsicana, wedding reception Navarro County, event venue, barn wedding",
-    heroContent: `Your wedding venue sets the stage for one of life's most memorable days. Navarro County offers diverse venue options from rustic barns to elegant ballrooms, outdoor settings to historic buildings.`,
-    localContext: `Navarro County's landscapes provide beautiful backdrops for weddings, from open countryside to lakeside settings. Local venues understand Texas weather and have contingency plans for our unpredictable spring and summer storms.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Wedding Venues",
-        content: `**Venue Types**
-- Barn and ranch venues
-- Ballrooms and hotels
-- Gardens and estates
-- Lakeside properties
-- Historic buildings
-- Restaurant private rooms
-
-**Packages May Include**
-- Ceremony and reception space
-- Tables, chairs, linens
-- Catering or caterer access
-- Bar services
-- Coordinator
-- Bridal suite
-
-**Capacity**
-- Intimate (under 50)
-- Medium (50-150)
-- Large (150-300)
-- Grand (300+)`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much do wedding venues cost in Navarro County?",
-        answer: "Venue costs vary widely: simple spaces start around $500-$1,500. Mid-range venues run $2,000-$5,000. Premium venues with extensive services cost $5,000-$15,000+. All-inclusive packages may seem expensive but can save money overall. Get itemized quotes to compare true costs."
-      },
-      {
-        question: "When should I book my wedding venue?",
-        answer: "Book 9-12 months ahead for popular dates (weekends in spring/fall). Less popular dates (winter, weekdays) may have shorter-notice availability. Popular venues on peak dates may book 12-18 months out. Start looking early to have the best selection."
-      },
-      {
-        question: "What should I ask when touring venues?",
-        answer: "Ask about: capacity limits, rental period, what's included, catering requirements, alcohol policies, rain backup plans, parking, setup/cleanup expectations, deposit and payment schedules, cancellation policies, and restrictions (no open flame, noise ordinances, etc.)."
-      }
-    ],
-    relatedServices: ["wedding-planner", "catering", "florist", "photographer"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
+  },,
 
   {
     slug: "wedding-planner",
@@ -11902,67 +10144,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
-
-  {
-    slug: "dj",
-    title: "DJ Services",
-    category: "events_entertainment",
-    subcategory: "music",
-    layout: 3,
-    icon: "Music",
-    iconColor: "purple",
-    metaTitle: "DJ in Navarro County, TX | DJ Services Corsicana",
-    metaDescription: "DJ services in Corsicana and Navarro County. Wedding DJs, party entertainment, MC services, and sound equipment for events.",
-    metaKeywords: "DJ Corsicana, DJ Navarro County, wedding DJ, party DJ, event entertainment",
-    heroContent: `A great DJ does more than play music—they read the crowd, create energy, and make moments memorable. Navarro County DJs provide entertainment for weddings, parties, and events of all types.`,
-    localContext: `From country to hip-hop to the classics, local DJs know how to get Navarro County crowds moving. They bring professional sound equipment and often provide MC services, keeping events flowing smoothly.`,
-    sections: [
-      {
-        type: "services",
-        heading: "DJ Services",
-        content: `**Event Types**
-- Weddings
-- Corporate events
-- Birthday parties
-- Quinceañeras
-- School dances
-- Holiday parties
-
-**Services**
-- Music programming
-- MC and announcements
-- Dance floor lighting
-- Sound system
-- Wireless microphones
-- Song requests
-
-**Extras**
-- Photo booth packages
-- Uplighting
-- Custom playlists
-- Video screens`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much do DJ services cost?",
-        answer: "Wedding DJs typically charge $500-$1,500 for 4-6 hours. Party and event DJs run $200-$600 for shorter events. Experienced DJs with premium equipment cost more. Extras like lighting, photo booths, and extended hours add to costs. Get quotes in writing with all inclusions specified."
-      },
-      {
-        question: "When should I book a DJ?",
-        answer: "For weddings, book 6-12 months ahead, especially for popular dates. Other events can book 1-3 months out. Holiday season and graduation weekends fill up quickly. Meet with DJs before booking to ensure personality fit and discuss your event vision."
-      },
-      {
-        question: "What should I ask when hiring a DJ?",
-        answer: "Ask about: experience with your event type, equipment they bring, backup equipment, MC services included, how they handle requests, their music library, whether they take breaks, cancellation policy, and whether they'll be the actual DJ (not a subcontractor)."
-      }
-    ],
-    relatedServices: ["wedding-planner", "event-venue", "party-rental", "photographer"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
+  },,
 
   {
     slug: "event-venue",
@@ -12024,7 +10206,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "bounce-house",
@@ -12083,69 +10265,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
-
-  // ============================================
-  // MORE AGRICULTURE & RURAL
-  // ============================================
-  {
-    slug: "large-animal-vet",
-    title: "Large Animal Vet",
-    category: "agriculture_rural",
-    subcategory: "animal",
-    layout: 1,
-    icon: "Stethoscope",
-    iconColor: "green",
-    metaTitle: "Large Animal Vet in Navarro County, TX | Livestock Veterinarian Corsicana",
-    metaDescription: "Large animal veterinarians in Corsicana and Navarro County. Cattle, horse, and livestock care including emergency services and herd health.",
-    metaKeywords: "large animal vet Corsicana, livestock vet Navarro County, cattle vet, horse vet, equine",
-    heroContent: `Livestock and horses are significant investments that require specialized veterinary care. Navarro County large animal vets provide farm calls, herd health programs, and emergency services for cattle, horses, and other livestock.`,
-    localContext: `Agriculture is fundamental to Navarro County's economy, and livestock owners need accessible veterinary care. Local large animal vets understand our area's common species, diseases, and management practices, providing essential services for ranchers and horse owners.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Large Animal Veterinary Services",
-        content: `**Species Served**
-- Cattle (beef and dairy)
-- Horses
-- Goats and sheep
-- Pigs
-- Llamas and alpacas
-
-**Services**
-- Wellness exams
-- Vaccinations
-- Herd health programs
-- Reproduction services
-- Surgery (farm and clinic)
-- Emergency care
-
-**Specialty**
-- Pre-purchase exams
-- Coggins testing
-- Health certificates
-- Lameness evaluation`
-      }
-    ],
-    faqs: [
-      {
-        question: "Do large animal vets make farm calls?",
-        answer: "Yes, most large animal veterinary care happens on-farm. Vets bring mobile equipment for exams, treatments, and procedures. Farm call fees typically run $50-$100+ depending on distance. Some clinics have facilities for procedures better done at the clinic."
-      },
-      {
-        question: "How much does livestock veterinary care cost?",
-        answer: "Basic cattle vaccinations run $3-$15 per head. Pregnancy checks are $5-$10 per head. Horse exams cost $50-$100 plus procedures. Emergency calls are more expensive, especially after-hours. Herd health programs can provide volume discounts for regular services."
-      },
-      {
-        question: "What vaccinations do cattle need?",
-        answer: "Core cattle vaccines typically include: respiratory complex (IBR, BVD, PI3, BRSV), clostridial diseases (blackleg, etc.), and may include leptospirosis and others based on your operation. Your vet can recommend a protocol based on your herd's risk factors and management."
-      }
-    ],
-    relatedServices: ["veterinarian", "farrier", "feed-store"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
+  },,
 
   {
     slug: "pet-boarding",
@@ -12204,7 +10324,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "dog-trainer",
@@ -12262,65 +10382,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
-
-  {
-    slug: "feed-store",
-    title: "Feed Store",
-    category: "agriculture_rural",
-    subcategory: "farm",
-    layout: 4,
-    icon: "Wheat",
-    iconColor: "amber",
-    metaTitle: "Feed Store in Navarro County, TX | Animal Feed Corsicana",
-    metaDescription: "Feed stores in Corsicana and Navarro County. Livestock feed, pet food, farm supplies, and expert advice for animal nutrition.",
-    metaKeywords: "feed store Corsicana, animal feed Navarro County, livestock feed, hay, farm supply",
-    heroContent: `Quality nutrition keeps animals healthy and productive. Navarro County feed stores carry feeds for every animal from cattle to chickens to dogs, along with supplies, supplements, and the expertise to help you choose what's right for your animals.`,
-    localContext: `Feed stores have served Navarro County's agricultural community for generations. They understand local conditions, common livestock, and the nutritional needs of animals in our area. Staff can advise on feed programs and troubleshoot nutrition issues.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Feed Store Products",
-        content: `**Livestock Feed**
-- Cattle feed and minerals
-- Horse feed and supplements
-- Goat and sheep feed
-- Pig feed
-- Poultry feed
-
-**Pet Food**
-- Dog food
-- Cat food
-- Bird seed
-- Small animal food
-
-**Supplies**
-- Hay and straw
-- Fencing supplies
-- Farm hardware
-- Feeders and waterers
-- Animal health products`
-      }
-    ],
-    faqs: [
-      {
-        question: "Do feed stores deliver?",
-        answer: "Many feed stores offer delivery for bulk orders (typically 1 ton or more). Delivery fees vary by distance and order size. Some stores have free delivery within a certain radius for large orders. Call ahead to arrange delivery and confirm availability."
-      },
-      {
-        question: "What kind of hay is best for my animals?",
-        answer: "It depends on the animal. Horses often do well with timothy or coastal hay. Cattle can use lower-quality grass hay supplemented with grain. Goats prefer leafy hay. Quality matters more than type—look for green color, no mold, and minimal dust. Your feed store can advise based on your specific animals."
-      },
-      {
-        question: "How do I choose the right feed?",
-        answer: "Consider: species, age, weight, activity level, and purpose (maintenance, growth, production). Feed bags provide nutritional analysis. Store staff can recommend appropriate products. Start with established brands and consult your vet or extension agent for specific nutritional questions."
-      }
-    ],
-    relatedServices: ["farm-supply", "veterinarian", "large-animal-vet"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
+  },,
 
   {
     slug: "tractor-repair",
@@ -12380,7 +10442,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "land-clearing",
@@ -12440,7 +10502,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "dirt-work",
@@ -12499,7 +10561,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "pond-construction",
@@ -12558,69 +10620,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
-
-  // ============================================
-  // MORE CONSTRUCTION & TRADES
-  // ============================================
-  {
-    slug: "general-contractor",
-    title: "General Contractor",
-    category: "construction_trades",
-    subcategory: "construction",
-    layout: 1,
-    icon: "Hammer",
-    iconColor: "amber",
-    metaTitle: "General Contractor in Navarro County, TX | Home Builder Corsicana",
-    metaDescription: "General contractors in Corsicana and Navarro County. New construction, remodeling, and construction management for residential and commercial projects.",
-    metaKeywords: "general contractor Corsicana, home builder Navarro County, construction, remodeling contractor",
-    heroContent: `General contractors manage construction projects from start to finish, coordinating subcontractors, materials, and schedules. Whether building new or remodeling existing structures, Navarro County GCs handle the complexity so you don't have to.`,
-    localContext: `Building in Navarro County requires understanding our clay soil conditions, local building codes, and reliable subcontractor networks. Local general contractors have established relationships and know which approaches work best in our area.`,
-    sections: [
-      {
-        type: "services",
-        heading: "General Contractor Services",
-        content: `**New Construction**
-- Custom homes
-- Spec homes
-- Commercial buildings
-- Agricultural buildings
-- Accessory structures
-
-**Remodeling**
-- Whole-house renovation
-- Room additions
-- Kitchen and bath remodels
-- Structural modifications
-- Second stories
-
-**Project Management**
-- Subcontractor coordination
-- Permit acquisition
-- Material procurement
-- Schedule management
-- Quality control`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does it cost to build a house in Navarro County?",
-        answer: "New construction costs typically range from $150-$300+ per square foot depending on finishes, complexity, and site conditions. A 2,000 sq ft home might cost $300,000-$600,000+. Get detailed quotes based on your specific plans—costs vary significantly by design choices and market conditions."
-      },
-      {
-        question: "Do I need a licensed contractor in Texas?",
-        answer: "Texas doesn't require a statewide contractor license, but Corsicana and some areas require local registration. However, specific trades (electrical, plumbing, HVAC) require licensed professionals. Always verify insurance, references, and check for complaints regardless of licensing requirements."
-      },
-      {
-        question: "How do I verify a contractor is legitimate?",
-        answer: "Request proof of liability insurance and workers' compensation. Get references and actually call them. Check for BBB complaints. Verify any specialty licenses. Visit projects they've completed. Get detailed written contracts. Trust your instincts—good contractors welcome scrutiny."
-      }
-    ],
-    relatedServices: ["home-builder", "remodeling", "concrete", "roofing"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
+  },,
 
   {
     slug: "home-builder",
@@ -12680,7 +10680,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "remodeling",
@@ -12739,65 +10739,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
-
-  {
-    slug: "concrete",
-    title: "Concrete Work",
-    category: "construction_trades",
-    subcategory: "specialty",
-    layout: 4,
-    icon: "Grid3X3",
-    iconColor: "gray",
-    metaTitle: "Concrete Work in Navarro County, TX | Concrete Contractor Corsicana",
-    metaDescription: "Concrete contractors in Corsicana and Navarro County. Driveways, patios, foundations, and decorative concrete services.",
-    metaKeywords: "concrete Corsicana, concrete contractor Navarro County, driveway, patio, foundation",
-    heroContent: `Concrete provides durable, low-maintenance surfaces for driveways, patios, foundations, and more. Navarro County concrete contractors handle everything from simple slabs to decorative stamped concrete, with expertise in our soil conditions.`,
-    localContext: `Navarro County's clay soil affects concrete work significantly—proper base preparation and control joints are essential to prevent cracking. Local concrete contractors understand these conditions and build accordingly.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Concrete Services",
-        content: `**Flatwork**
-- Driveways
-- Patios
-- Sidewalks
-- Pool decks
-- Garage floors
-
-**Structural**
-- Foundations
-- Stem walls
-- Retaining walls
-- Footings
-
-**Decorative**
-- Stamped concrete
-- Stained concrete
-- Exposed aggregate
-- Colored concrete
-- Concrete overlays`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does a concrete driveway cost?",
-        answer: "Concrete driveways in Navarro County typically cost $6-$12 per square foot for standard work. A typical two-car driveway (400-600 sq ft) runs $3,000-$7,000. Decorative options, thick slabs, or challenging site conditions increase costs. Get quotes for your specific project."
-      },
-      {
-        question: "How long does concrete last?",
-        answer: "Properly installed concrete lasts 25-50+ years. Longevity depends on mix quality, installation practices, sub-base preparation, and maintenance. Sealing every few years helps protect surfaces. Our clay soil makes proper installation particularly important for long-term performance."
-      },
-      {
-        question: "When is the best time to pour concrete?",
-        answer: "Spring and fall offer ideal temperatures in Navarro County. Summer pours require careful timing (early morning) and curing procedures. Winter pours need cold weather precautions. Avoid pouring during rain or when freeze is expected within 48 hours of placement."
-      }
-    ],
-    relatedServices: ["general-contractor", "driveway-contractor", "patio"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
+  },,
 
   {
     slug: "masonry",
@@ -12856,7 +10798,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "steel-building",
@@ -12915,64 +10857,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
-
-  {
-    slug: "pole-barn",
-    title: "Pole Barn Builder",
-    category: "construction_trades",
-    subcategory: "specialty",
-    layout: 2,
-    icon: "Home",
-    iconColor: "brown",
-    metaTitle: "Pole Barn in Navarro County, TX | Pole Building Corsicana",
-    metaDescription: "Pole barn builders in Corsicana and Navarro County. Post-frame construction for barns, workshops, and agricultural buildings.",
-    metaKeywords: "pole barn Corsicana, pole building Navarro County, post frame, barn builder",
-    heroContent: `Pole barns (post-frame buildings) offer economical, versatile structures for agricultural, commercial, and residential use. Navarro County pole barn builders construct durable buildings quickly and cost-effectively.`,
-    localContext: `Pole barns are common throughout Navarro County for livestock shelters, equipment storage, workshops, and even homes (barndominiums). Their post-frame construction suits our conditions and provides flexible, open interiors.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Pole Barn Applications",
-        content: `**Agricultural**
-- Hay barns
-- Livestock shelters
-- Equipment storage
-- Riding arenas
-- Grain storage
-
-**Residential**
-- Workshops
-- Garages
-- Hobby buildings
-- Barndominiums
-- Guest houses
-
-**Commercial**
-- Warehouses
-- Retail buildings
-- Storage facilities`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does a pole barn cost?",
-        answer: "Basic pole barn shells cost $15-$30 per square foot. Finished buildings with concrete, insulation, and utilities run $30-$60+ per square foot. A 40x60 basic barn might cost $25,000-$50,000; finished for residential use, $80,000-$150,000+."
-      },
-      {
-        question: "What's the difference between pole barns and steel buildings?",
-        answer: "Pole barns use wood posts embedded in the ground with wood or metal framing. Steel buildings use metal framing and columns. Pole barns often cost less for smaller buildings. Steel buildings offer larger clear spans. Both work well; choice depends on use, size, and aesthetics."
-      },
-      {
-        question: "Can I live in a pole barn (barndominium)?",
-        answer: "Yes, properly designed pole barns can be finished as homes (barndominiums). They require proper insulation, HVAC, plumbing, and electrical like any home. Building codes and financing may differ from traditional homes. Many Navarro County families enjoy barndominium living."
-      }
-    ],
-    relatedServices: ["steel-building", "general-contractor", "barn-builder"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
+  },,
 
   {
     slug: "outdoor-kitchen",
@@ -13031,7 +10916,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "pergola",
@@ -13090,7 +10975,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "commercial-construction",
@@ -13149,11 +11034,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // MORE HOME SERVICES - PEST & OUTDOOR
-  // ============================================
   {
     slug: "termite-control",
     title: "Termite Control",
@@ -13209,7 +11091,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "wildlife-removal",
@@ -13269,7 +11151,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "mosquito-control",
@@ -13324,7 +11206,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "irrigation",
@@ -13382,7 +11264,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "stump-grinder",
@@ -13439,7 +11321,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "deck-builder",
@@ -13498,7 +11380,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "patio",
@@ -13557,7 +11439,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "outdoor-lighting",
@@ -13615,128 +11497,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
-
-  {
-    slug: "pool-service",
-    title: "Pool Service",
-    category: "home_services",
-    subcategory: "outdoor",
-    layout: 4,
-    icon: "Waves",
-    iconColor: "blue",
-    metaTitle: "Pool Service in Navarro County, TX | Pool Cleaning Corsicana",
-    metaDescription: "Pool service and maintenance in Corsicana and Navarro County. Weekly cleaning, chemical balancing, equipment repair, and pool care.",
-    metaKeywords: "pool service Corsicana, pool cleaning Navarro County, pool maintenance, pool repair",
-    heroContent: `Pools require consistent maintenance to stay clean, safe, and enjoyable. Navarro County pool service companies provide weekly maintenance, equipment repairs, and the expertise to keep your pool crystal clear all season.`,
-    localContext: `Texas pools run hard from April through October, with hot sun promoting algae and debris from nearby trees. Local pool services understand our specific challenges and keep pools swim-ready throughout our extended season.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Pool Services",
-        content: `**Weekly Maintenance**
-- Surface skimming
-- Vacuuming
-- Brush walls and tile
-- Chemical testing
-- Chemical balancing
-- Filter cleaning
-- Equipment check
-
-**Repairs**
-- Pump repair
-- Filter repair
-- Heater service
-- Leak detection
-- Light replacement
-
-**Additional**
-- Opening and closing
-- Green pool recovery
-- Acid washing
-- Equipment upgrades`
-      }
-    ],
-    faqs: [
-      {
-        question: "How much does pool service cost?",
-        answer: "Weekly pool service in Navarro County typically costs $100-$200/month depending on pool size and service level. Chemicals may be included or separate ($30-$75/month). One-time cleanings run $75-$150. Equipment repairs and major services are quoted separately."
-      },
-      {
-        question: "How often does a pool need service?",
-        answer: "During swim season, pools benefit from weekly service to maintain proper chemistry and cleanliness. DIY owners should test water 2-3 times weekly and skim daily. In winter, bi-weekly or monthly service may suffice, depending on activity level."
-      },
-      {
-        question: "Can I maintain my own pool?",
-        answer: "Yes, with proper knowledge and commitment. Learn proper chemical testing and adjustment, run the pump adequately (8-12 hours daily in summer), skim and vacuum regularly, and clean filters monthly. Many owners maintain their own pools; others prefer the convenience of service."
-      }
-    ],
-    relatedServices: ["hot-tub-service", "landscaping"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
-
-  // ============================================
-  // MORE HEALTH & WELLNESS - DENTAL
-  // ============================================
-  {
-    slug: "dentist",
-    title: "Dentist",
-    category: "health_wellness",
-    subcategory: "dental",
-    layout: 1,
-    icon: "Smile",
-    iconColor: "blue",
-    metaTitle: "Dentist in Navarro County, TX | Dental Care Corsicana",
-    metaDescription: "Dentists in Corsicana and Navarro County. General dentistry, cleanings, fillings, and comprehensive dental care for all ages.",
-    metaKeywords: "dentist Corsicana, dental care Navarro County, teeth cleaning, dental checkup",
-    heroContent: `Regular dental care prevents problems and maintains a healthy smile. Navarro County dentists provide comprehensive dental services from routine cleanings to restorative work, serving patients of all ages.`,
-    localContext: `Dental care is accessible in Corsicana and surrounding communities. Local dental practices offer general dentistry for families, with some specializing in specific areas. Many accept various insurance plans and offer payment options.`,
-    sections: [
-      {
-        type: "services",
-        heading: "Dental Services",
-        content: `**Preventive**
-- Exams and cleanings
-- X-rays
-- Fluoride treatments
-- Sealants
-- Oral cancer screening
-
-**Restorative**
-- Fillings
-- Crowns
-- Bridges
-- Root canals
-- Dentures
-
-**Cosmetic**
-- Teeth whitening
-- Veneers
-- Bonding
-- Smile makeovers`
-      }
-    ],
-    faqs: [
-      {
-        question: "How often should I see the dentist?",
-        answer: "Most people should have checkups and cleanings every six months. Those with gum disease may need more frequent visits (every 3-4 months). Children should start dental visits by age 1 or when first teeth appear. Your dentist will recommend appropriate frequency based on your oral health."
-      },
-      {
-        question: "Does dental insurance cover everything?",
-        answer: "Dental insurance typically covers preventive care (cleanings, exams) at 100%, basic procedures (fillings) at 80%, and major work (crowns, root canals) at 50%. Annual maximums often cap coverage at $1,000-$2,500. Cosmetic procedures usually aren't covered. Know your plan's specifics."
-      },
-      {
-        question: "What if I'm afraid of the dentist?",
-        answer: "Dental anxiety is common and understandable. Many practices offer sedation options (nitrous oxide, oral sedation) for anxious patients. Communicate your concerns—good dentists accommodate anxious patients with slower pacing, explanations, and gentle techniques."
-      }
-    ],
-    relatedServices: ["orthodontist", "oral-surgeon", "cosmetic-dentist"],
-    externalResources: [],
-    claimedBusinessId: null,
-    status: "active"
-  },
+  },,
 
   {
     slug: "orthodontist",
@@ -13791,7 +11552,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "cosmetic-dentist",
@@ -13847,11 +11608,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // ADDITIONAL HOME SERVICES
-  // ============================================
   {
     slug: "structural-engineer",
     title: "Structural Engineer",
@@ -13907,7 +11665,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "house-leveling",
@@ -13964,7 +11722,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "drain-cleaning",
@@ -14022,7 +11780,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "slab-leak-repair",
@@ -14078,7 +11836,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "well-drilling",
@@ -14137,7 +11895,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "generator",
@@ -14194,7 +11952,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "solar",
@@ -14253,7 +12011,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "ev-charger",
@@ -14310,7 +12068,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "ac-repair",
@@ -14368,7 +12126,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "furnace-repair",
@@ -14425,7 +12183,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "insulation",
@@ -14484,7 +12242,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "siding",
@@ -14543,7 +12301,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "window-installation",
@@ -14601,7 +12359,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "door-installation",
@@ -14659,7 +12417,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "exterior-painting",
@@ -14717,7 +12475,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "pressure-washing",
@@ -14775,7 +12533,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "interior-painting",
@@ -14834,7 +12592,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "drywall",
@@ -14892,7 +12650,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "flooring",
@@ -14951,7 +12709,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "carpet",
@@ -15009,7 +12767,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "tile",
@@ -15068,7 +12826,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "hardwood-floor",
@@ -15127,7 +12885,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "cabinet-installation",
@@ -15185,7 +12943,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "countertop",
@@ -15246,7 +13004,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "carpet-cleaning",
@@ -15305,7 +13063,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "window-cleaning",
@@ -15363,7 +13121,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "junk-removal",
@@ -15420,7 +13178,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "home-organizer",
@@ -15478,7 +13236,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "bee-removal",
@@ -15536,7 +13294,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "hot-tub-service",
@@ -15594,11 +13352,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // MORE PROFESSIONAL SERVICES
-  // ============================================
   {
     slug: "immigration-lawyer",
     title: "Immigration Lawyer",
@@ -15655,7 +13410,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "mortgage-lender",
@@ -15713,7 +13468,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "title-company",
@@ -15771,7 +13526,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "appraiser",
@@ -15828,7 +13583,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "property-manager",
@@ -15887,7 +13642,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "process-server",
@@ -15945,7 +13700,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "private-investigator",
@@ -16003,7 +13758,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "security-guard",
@@ -16061,7 +13816,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "courier",
@@ -16120,7 +13875,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "computer-repair",
@@ -16178,7 +13933,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "it-support",
@@ -16237,7 +13992,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "web-design",
@@ -16296,7 +14051,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "marketing-agency",
@@ -16355,7 +14110,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "seo-services",
@@ -16414,7 +14169,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "social-media-manager",
@@ -16473,7 +14228,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "business-consultant",
@@ -16532,7 +14287,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "hr-consultant",
@@ -16591,7 +14346,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "career-coach",
@@ -16650,7 +14405,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "life-coach",
@@ -16709,11 +14464,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // MORE HEALTH & WELLNESS
-  // ============================================
   {
     slug: "oral-surgeon",
     title: "Oral Surgeon",
@@ -16768,7 +14520,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "pediatric-dentist",
@@ -16826,7 +14578,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "pharmacy",
@@ -16885,7 +14637,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "acupuncture",
@@ -16943,7 +14695,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "audiologist",
@@ -17001,7 +14753,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "podiatrist",
@@ -17059,7 +14811,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "psychiatrist",
@@ -17118,7 +14870,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "addiction-counselor",
@@ -17177,7 +14929,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "marriage-counselor",
@@ -17235,7 +14987,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "yoga-instructor",
@@ -17293,7 +15045,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "weight-loss-clinic",
@@ -17351,7 +15103,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "nursing-home",
@@ -17410,7 +15162,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "hospice",
@@ -17467,11 +15219,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // MORE AUTOMOTIVE
-  // ============================================
   {
     slug: "auto-electric",
     title: "Auto Electrical",
@@ -17529,7 +15278,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "muffler-exhaust",
@@ -17586,7 +15335,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "ac-repair-auto",
@@ -17643,7 +15392,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "engine-repair",
@@ -17701,7 +15450,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "auto-paint",
@@ -17759,7 +15508,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "windshield-repair",
@@ -17817,7 +15566,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "dent-repair",
@@ -17875,7 +15624,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "window-tinting",
@@ -17932,7 +15681,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "wheel-alignment",
@@ -17988,7 +15737,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "roadside-assistance",
@@ -18045,7 +15794,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "car-wash",
@@ -18102,7 +15851,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "auto-glass",
@@ -18160,7 +15909,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "used-cars",
@@ -18217,7 +15966,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "car-rental",
@@ -18274,7 +16023,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "motorcycle-repair",
@@ -18332,7 +16081,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "rv-repair",
@@ -18390,11 +16139,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // EVENTS & ENTERTAINMENT
-  // ============================================
   {
     slug: "wedding-photographer",
     title: "Wedding Photographer",
@@ -18452,7 +16198,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "bridal-shop",
@@ -18510,7 +16256,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "wedding-cake",
@@ -18568,7 +16314,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "videographer",
@@ -18626,7 +16372,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "photo-booth",
@@ -18685,7 +16431,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "drone-photography",
@@ -18742,7 +16488,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "live-band",
@@ -18800,7 +16546,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "event-planner",
@@ -18858,7 +16604,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "party-bus",
@@ -18916,11 +16662,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // FOOD & BEVERAGE
-  // ============================================
   {
     slug: "bbq-catering",
     title: "BBQ Catering",
@@ -18978,7 +16721,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "food-truck",
@@ -19036,7 +16779,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "personal-chef",
@@ -19093,7 +16836,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "meal-prep",
@@ -19151,7 +16894,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "specialty-cakes",
@@ -19209,11 +16952,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // CONSTRUCTION & TRADES
-  // ============================================
   {
     slug: "kitchen-remodel",
     title: "Kitchen Remodeling",
@@ -19270,7 +17010,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "bathroom-remodel",
@@ -19328,7 +17068,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "room-addition",
@@ -19387,7 +17127,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "carport",
@@ -19443,7 +17183,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "demolition",
@@ -19501,11 +17241,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // EDUCATION & CHILDCARE
-  // ============================================
   {
     slug: "language-school",
     title: "Language School",
@@ -19560,7 +17297,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "test-prep",
@@ -19619,11 +17356,8 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
-  // ============================================
-  // REMAINING SERVICES
-  // ============================================
   {
     slug: "bartender",
     title: "Bartender Service",
@@ -19679,7 +17413,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "pet-sitter",
@@ -19737,7 +17471,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "horse-trainer",
@@ -19795,7 +17529,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "farm-supply",
@@ -19857,7 +17591,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "custom-farming",
@@ -19914,7 +17648,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "hay-service",
@@ -19970,7 +17704,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "cattle-hauling",
@@ -20026,7 +17760,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "fencing-agricultural",
@@ -20084,7 +17818,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "hunting-lease",
@@ -20142,7 +17876,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "framing",
@@ -20199,7 +17933,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "fabrication",
@@ -20257,7 +17991,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "ironwork",
@@ -20315,7 +18049,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "trailer-repair",
@@ -20373,7 +18107,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "gazebo",
@@ -20431,7 +18165,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "barn-builder",
@@ -20489,7 +18223,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "commercial-roofing",
@@ -20548,7 +18282,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "parking-lot",
@@ -20605,7 +18339,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "asphalt-paving",
@@ -20662,11 +18396,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
-
-  // ============================================
-  // FINAL MISSING SERVICES
-  // ============================================
+  },,
 
   {
     slug: "balloon-artist",
@@ -20724,7 +18454,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "banquet-hall",
@@ -20784,7 +18514,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "butcher",
@@ -20843,7 +18573,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "coffee-shop",
@@ -20903,7 +18633,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "conference-room",
@@ -20963,7 +18693,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "event-furniture-rental",
@@ -21028,7 +18758,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "face-painter",
@@ -21087,7 +18817,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "food-delivery",
@@ -21144,7 +18874,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "grocery-delivery",
@@ -21202,7 +18932,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "ice-cream",
@@ -21260,7 +18990,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "karaoke",
@@ -21318,7 +19048,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "liquor-store",
@@ -21376,7 +19106,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "magician",
@@ -21434,7 +19164,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "tent-rental",
@@ -21498,7 +19228,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },
+  },,
 
   {
     slug: "vending-machine",
