@@ -24,6 +24,24 @@ function jsonExtract(field) {
   return `json_extract(data, '$.${field}')`;
 }
 
+// Helper to get JSON extract for sorting (handles numeric fields)
+function jsonExtractForSort(field) {
+  const dbType = getDatabaseType();
+  // Known numeric fields that need special handling
+  const numericFields = ['population', 'price', 'lat', 'lng', 'rating', 'count', 'order', 'sort_order'];
+  const isNumeric = numericFields.includes(field);
+  
+  if (dbType === 'mysql') {
+    if (isNumeric) {
+      // Cast to DECIMAL for proper numeric sorting
+      return `CAST(JSON_EXTRACT(data, '$.${field}') AS DECIMAL(20,6))`;
+    }
+    return `JSON_UNQUOTE(JSON_EXTRACT(data, '$.${field}'))`;
+  }
+  // SQLite handles JSON numbers correctly
+  return `json_extract(data, '$.${field}')`;
+}
+
 export class EntityModel {
   static async findById(entityType, id) {
     const row = await dbQuery.get(
@@ -56,7 +74,7 @@ export class EntityModel {
       if (validatedField === 'created_date' || validatedField === 'updated_date') {
         orderBy = `${validatedField} ${sortOrder}`;
       } else {
-        orderBy = `${jsonExtract(validatedField)} ${sortOrder}`;
+        orderBy = `${jsonExtractForSort(validatedField)} ${sortOrder}`;
       }
     }
 
@@ -122,7 +140,7 @@ export class EntityModel {
       if (validatedField === 'created_date' || validatedField === 'updated_date') {
         orderBy = `${validatedField} ${sortOrder}`;
       } else {
-        orderBy = `${jsonExtract(validatedField)} ${sortOrder}`;
+        orderBy = `${jsonExtractForSort(validatedField)} ${sortOrder}`;
       }
     }
 
