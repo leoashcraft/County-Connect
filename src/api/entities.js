@@ -115,6 +115,12 @@ export const EntityNavigationItem = localClient.entities.EntityNavigationItem;
 // Photo Galleries for entities
 export const EntityPhoto = localClient.entities.EntityPhoto;
 
+// Service Pages (monetizable local service landing pages)
+export const ServicePage = localClient.entities.ServicePage;
+
+// Service Page Inquiries (public-facing claim/contact requests)
+export const ServiceInquiry = localClient.entities.ServiceInquiry;
+
 // Export local auth
 export const User = localClient.auth;
 

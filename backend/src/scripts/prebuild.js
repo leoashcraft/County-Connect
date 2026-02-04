@@ -31,6 +31,7 @@ import { towns } from '../seeds/data/towns.js';
 import { pages } from '../seeds/data/pages.js';
 import { siteSettings } from '../seeds/data/site-settings.js';
 import { publicServices } from '../seeds/data/public-services.js';
+import servicePages from '../seeds/data/service-pages.js';
 
 async function prebuild() {
   console.log('╔══════════════════════════════════════════════════╗');
@@ -129,7 +130,12 @@ async function runSeed() {
     await bulkInsertEntities('Page', pages);
   }
 
-  // 4. Site Settings - insert as SiteSetting entities
+  // 4. Service Pages (Monetization)
+  if (servicePages?.length) {
+    await bulkInsertEntities('ServicePage', servicePages);
+  }
+
+  // 5. Site Settings - insert as SiteSetting entities
   if (siteSettings) {
     console.log('\nSeeding site settings...');
     for (const [key, value] of Object.entries(siteSettings)) {
@@ -173,7 +179,7 @@ async function runSeed() {
 
   // Final counts
   console.log('\n📊 Seeded entity counts:');
-  for (const type of ['Church', 'School', 'Restaurant', 'FoodTruck', 'CommunityResource', 'Attraction', 'SportsTeam', 'Town', 'Page']) {
+  for (const type of ['Church', 'School', 'Restaurant', 'FoodTruck', 'CommunityResource', 'Attraction', 'SportsTeam', 'Town', 'Page', 'ServicePage']) {
     const count = await getEntityCount(type);
     console.log(`   ${type}: ${count}`);
   }

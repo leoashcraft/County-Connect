@@ -254,6 +254,12 @@ import AdminPages from "./AdminPages";
 import EditPage from "./EditPage";
 import CustomPage from "./CustomPage";
 
+// Service Pages CMS (Monetization)
+import AdminServicePages from "./AdminServicePages";
+import EditServicePage from "./EditServicePage";
+import ServicePageView from "./ServicePageView";
+import ServiceInquiry from "./ServiceInquiry";
+
 import { BrowserRouter as Router, Route, Routes, useLocation } from 'react-router-dom';
 
 const PAGES = {
@@ -509,6 +515,12 @@ const PAGES = {
     AdminPages: AdminPages,
     EditPage: EditPage,
     CustomPage: CustomPage,
+
+    // Service Pages CMS (Monetization)
+    AdminServicePages: AdminServicePages,
+    EditServicePage: EditServicePage,
+    ServicePageView: ServicePageView,
+    ServiceInquiry: ServiceInquiry,
 
 }
 
@@ -816,7 +828,16 @@ function PagesContent() {
                 <Route path="/AdminPages" element={<AdminPages />} />
                 <Route path="/EditPage" element={<EditPage />} />
 
-                {/* Custom Page Renderer - Catches page slugs before town slugs */}
+                {/* Service Pages CMS (Monetization) */}
+                <Route path="/AdminServicePages" element={<AdminServicePages />} />
+                <Route path="/EditServicePage" element={<EditServicePage />} />
+                <Route path="/ServiceInquiry" element={<ServiceInquiry />} />
+                
+                {/* Dynamic Service Page Renderer */}
+                <Route path="/service/:serviceSlug" element={<ServicePageView />} />
+
+                {/* Custom Page Renderer - Catches page slugs and service page slugs */}
+                {/* CustomPage checks if slug is a Page first, then falls back to ServicePageView */}
                 <Route path="/:pageSlug" element={<CustomPage />} />
 
                     </Routes>

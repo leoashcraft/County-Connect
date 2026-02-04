@@ -28,7 +28,8 @@ import {
   Shield,
   GraduationCap,
   BarChart3,
-  FileText
+  FileText,
+  Briefcase
 } from "lucide-react";
 
 export default function AdminDashboard() {
@@ -364,6 +365,16 @@ export default function AdminDashboard() {
                 <FileText className="w-12 h-12 mx-auto mb-3 text-cyan-600" />
                 <h3 className="font-bold text-gray-900 mb-1">Page Management</h3>
                 <p className="text-sm text-gray-500">Create & edit custom pages</p>
+              </CardContent>
+            </Card>
+          </Link>
+
+          <Link to={createPageUrl("AdminServicePages")}>
+            <Card className="border-2 border-orange-100 hover:shadow-lg transition-all cursor-pointer">
+              <CardContent className="p-6 text-center">
+                <Briefcase className="w-12 h-12 mx-auto mb-3 text-orange-600" />
+                <h3 className="font-bold text-gray-900 mb-1">Service Pages</h3>
+                <p className="text-sm text-gray-500">Monetizable local service pages</p>
               </CardContent>
             </Card>
           </Link>

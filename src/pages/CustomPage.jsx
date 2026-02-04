@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Page, Town } from "@/api/entities";
+import { Page, Town, ServicePage } from "@/api/entities";
 import { useParams, useNavigate } from "react-router-dom";
 import { createPageUrl } from "@/utils";
 import { Button } from "@/components/ui/button";
@@ -10,8 +10,9 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
 
-// Import TownDetail as a fallback
+// Import TownDetail and ServicePageView as fallbacks
 import TownDetail from "./TownDetail";
+import ServicePageView from "./ServicePageView";
 
 export default function CustomPage() {
   const { pageSlug } = useParams();
@@ -21,6 +22,7 @@ export default function CustomPage() {
   const [loading, setLoading] = useState(true);
   const [notFound, setNotFound] = useState(false);
   const [isTownSlug, setIsTownSlug] = useState(false);
+  const [isServicePageSlug, setIsServicePageSlug] = useState(false);
 
   useEffect(() => {
     loadPage();
@@ -30,6 +32,7 @@ export default function CustomPage() {
     setLoading(true);
     setNotFound(false);
     setIsTownSlug(false);
+    setIsServicePageSlug(false);
 
     try {
       // First, check if this is a custom page
@@ -49,7 +52,15 @@ export default function CustomPage() {
         return;
       }
 
-      // Neither page nor town found
+      // If not a town, check if it's a service page slug
+      const servicePages = await ServicePage.filter({ slug: pageSlug });
+      if (servicePages.length > 0 && servicePages[0].status === 'active') {
+        setIsServicePageSlug(true);
+        setLoading(false);
+        return;
+      }
+
+      // None found
       setNotFound(true);
     } catch (error) {
       console.error("Error loading page:", error);
@@ -61,6 +72,11 @@ export default function CustomPage() {
   // If it's a town slug, render TownDetail
   if (isTownSlug) {
     return <TownDetail />;
+  }
+
+  // If it's a service page slug, render ServicePageView
+  if (isServicePageSlug) {
+    return <ServicePageView />;
   }
 
   if (loading) {
