@@ -240,6 +240,8 @@ export default function AdminSupport() {
       billing: 'bg-green-100 text-green-800',
       product: 'bg-blue-100 text-blue-800',
       account: 'bg-yellow-100 text-yellow-800',
+      duplicate_listing: 'bg-red-100 text-red-800',
+      service_page_claim: 'bg-orange-100 text-orange-800',
       other: 'bg-gray-100 text-gray-800'
     };
     return colors[category] || colors.other;
@@ -360,6 +362,8 @@ export default function AdminSupport() {
                   <SelectItem value="billing">Billing</SelectItem>
                   <SelectItem value="product">Product</SelectItem>
                   <SelectItem value="account">Account</SelectItem>
+                  <SelectItem value="duplicate_listing">Duplicate Listing</SelectItem>
+                  <SelectItem value="service_page_claim">Service Page Claim</SelectItem>
                   <SelectItem value="other">Other</SelectItem>
                 </SelectContent>
               </Select>

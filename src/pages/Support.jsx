@@ -236,6 +236,7 @@ export default function SupportPage() {
                       <SelectItem value="product">Product Question</SelectItem>
                       <SelectItem value="account">Account Help</SelectItem>
                       <SelectItem value="duplicate_listing">Duplicate Listing</SelectItem>
+                      <SelectItem value="service_page_claim">Service Page Claim</SelectItem>
                       <SelectItem value="other">Other</SelectItem>
                     </SelectContent>
                   </Select>
