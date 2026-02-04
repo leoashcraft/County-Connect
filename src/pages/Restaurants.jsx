@@ -17,6 +17,7 @@ import { useLocationFilter } from "@/hooks/useLocationFilter";
 import { applyLocationFilter } from "@/utils/locationFilter";
 import MetaTags from "@/components/seo/MetaTags";
 import { useSiteSettings } from "@/hooks/useSiteSettings";
+import { FeaturedSpotSection } from "@/components/FeaturedSpot";
 
 // Fix for default marker icons in leaflet
 delete L.Icon.Default.prototype._getIconUrl;
@@ -59,7 +60,10 @@ export default function Restaurants() {
       }
 
       const allRestaurants = await Restaurant.filter({ status: "active" }, '-created_date');
-      setRestaurants(allRestaurants);
+      // Separate featured restaurants
+      const featured = allRestaurants.filter(r => r.is_featured);
+      const regular = allRestaurants.filter(r => !r.is_featured);
+      setRestaurants([...featured, ...regular]); // Featured first, then regular
 
       // Load food trucks for toggle feature
       const allTrucks = await FoodTruck.filter({ status: "active" }, '-created_date');
@@ -295,6 +299,37 @@ export default function Restaurants() {
           userTown={userTown}
           towns={towns}
           itemName="restaurants"
+        />
+
+        {/* Featured Restaurants */}
+        <FeaturedSpotSection
+          title="Featured Restaurants"
+          spotType="restaurant"
+          featuredItems={restaurants.filter(r => r.is_featured).slice(0, 3)}
+          icon={Utensils}
+          renderItem={(restaurant) => (
+            <Card
+              className="border-2 border-orange-100 hover:shadow-lg transition-shadow cursor-pointer h-full"
+              onClick={() => navigate(createPageUrl(`RestaurantDetail?id=${restaurant.id}`))}
+            >
+              {restaurant.logo_url && (
+                <div className="h-32 bg-gray-200 overflow-hidden">
+                  <img src={restaurant.logo_url} alt={restaurant.name} className="w-full h-full object-cover" />
+                </div>
+              )}
+              <CardContent className="p-4">
+                <h3 className="font-bold text-gray-900 mb-1">{restaurant.name}</h3>
+                {restaurant.cuisine_types && (
+                  <p className="text-sm text-gray-600">{restaurant.cuisine_types.map(c => c.charAt(0).toUpperCase() + c.slice(1)).join(', ')}</p>
+                )}
+                {restaurant.address && (
+                  <p className="text-xs text-gray-500 mt-1 flex items-center gap-1">
+                    <MapPin className="w-3 h-3" /> {restaurant.address}
+                  </p>
+                )}
+              </CardContent>
+            </Card>
+          )}
         />
 
         {/* Filters */}

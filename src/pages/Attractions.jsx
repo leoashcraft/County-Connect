@@ -20,6 +20,7 @@ import { useLocationFilter } from "@/hooks/useLocationFilter";
 import { applyLocationFilter } from "@/utils/locationFilter";
 import MetaTags from "@/components/seo/MetaTags";
 import { useSiteSettings } from "@/hooks/useSiteSettings";
+import { FeaturedSpotSection } from "@/components/FeaturedSpot";
 
 delete L.Icon.Default.prototype._getIconUrl;
 L.Icon.Default.mergeOptions({
@@ -169,6 +170,37 @@ export default function Attractions() {
             userTown={userTown}
             towns={towns}
             itemName="attractions"
+          />
+
+          {/* Featured Attractions */}
+          <FeaturedSpotSection
+            title="Featured Attractions"
+            spotType="attraction"
+            featuredItems={attractions.filter(a => a.is_featured).slice(0, 3)}
+            icon={Landmark}
+            renderItem={(attraction) => (
+              <Card
+                className="border-2 border-amber-100 hover:shadow-lg transition-shadow cursor-pointer h-full"
+                onClick={() => navigate(createPageUrl(`AttractionDetail?id=${attraction.id}`))}
+              >
+                {attraction.image_url && (
+                  <div className="h-32 bg-gray-200 overflow-hidden">
+                    <img src={attraction.image_url} alt={attraction.name} className="w-full h-full object-cover" />
+                  </div>
+                )}
+                <CardContent className="p-4">
+                  <Badge className={getCategoryColor(attraction.category) + " text-xs mb-2"}>
+                    {getCategoryLabel(attraction.category)}
+                  </Badge>
+                  <h3 className="font-bold text-gray-900 mb-1">{attraction.name}</h3>
+                  {attraction.address && (
+                    <p className="text-xs text-gray-500 flex items-center gap-1">
+                      <MapPin className="w-3 h-3" /> {attraction.address}
+                    </p>
+                  )}
+                </CardContent>
+              </Card>
+            )}
           />
 
           {/* Filters */}

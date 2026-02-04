@@ -14,6 +14,7 @@ import { useLocationFilter } from "@/hooks/useLocationFilter";
 import { applyLocationFilter } from "@/utils/locationFilter";
 import MetaTags from "@/components/seo/MetaTags";
 import { useSiteSettings } from "@/hooks/useSiteSettings";
+import { FeaturedSpotSection } from "@/components/FeaturedSpot";
 
 export default function Realty() {
   const navigate = useNavigate();
@@ -170,6 +171,45 @@ export default function Realty() {
             userTown={userTown}
             towns={towns}
             itemName="listings"
+          />
+
+          {/* Featured Real Estate */}
+          <FeaturedSpotSection
+            title="Featured Properties"
+            spotType="realty"
+            featuredItems={listings.filter(l => l.is_featured).slice(0, 3)}
+            icon={Home}
+            renderItem={(listing) => (
+              <Card
+                className="border-2 border-green-100 hover:shadow-lg transition-shadow cursor-pointer h-full"
+                onClick={() => navigate(createPageUrl(`RealtyDetail?id=${listing.id}`))}
+              >
+                {listing.image_url ? (
+                  <div className="h-32 bg-gray-200 overflow-hidden">
+                    <img src={listing.image_url} alt={listing.title} className="w-full h-full object-cover" />
+                  </div>
+                ) : (
+                  <div className="h-32 bg-gradient-to-br from-green-100 to-emerald-100 flex items-center justify-center">
+                    <Home className="w-12 h-12 text-green-300" />
+                  </div>
+                )}
+                <CardContent className="p-4">
+                  <div className="flex items-center justify-between mb-2">
+                    <Badge className={getTypeColor(listing.listing_type) + " text-xs"}>
+                      {getTypeLabel(listing.listing_type)}
+                    </Badge>
+                    <span className="text-sm font-bold text-green-600">
+                      {formatPrice(listing.price, listing.listing_type)}
+                    </span>
+                  </div>
+                  <h3 className="font-bold text-gray-900 mb-1 line-clamp-1">{listing.title}</h3>
+                  <div className="flex items-center gap-2 text-xs text-gray-500">
+                    {listing.bedrooms && <span>{listing.bedrooms} bed</span>}
+                    {listing.bathrooms && <span>{listing.bathrooms} bath</span>}
+                  </div>
+                </CardContent>
+              </Card>
+            )}
           />
 
           {/* Filters */}

@@ -15,6 +15,7 @@ import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet';
 import LocationFilter from "@/components/LocationFilter";
 import { useLocationFilter } from "@/hooks/useLocationFilter";
 import { applyLocationFilter } from "@/utils/locationFilter";
+import { FeaturedSpotSection } from "@/components/FeaturedSpot";
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
 
@@ -244,6 +245,37 @@ export default function FoodTrucks() {
           userTown={userTown}
           towns={towns}
           itemName="food trucks"
+        />
+
+        {/* Featured Food Trucks */}
+        <FeaturedSpotSection
+          title="Featured Food Trucks"
+          spotType="foodtruck"
+          featuredItems={trucks.filter(t => t.is_featured).slice(0, 3)}
+          icon={Truck}
+          renderItem={(truck) => (
+            <Card
+              className="border-2 border-orange-100 hover:shadow-lg transition-shadow cursor-pointer h-full"
+              onClick={() => navigate(createPageUrl(`FoodTruckDetail?id=${truck.id}`))}
+            >
+              {truck.logo_url && (
+                <div className="h-32 bg-gray-200 overflow-hidden">
+                  <img src={truck.logo_url} alt={truck.name} className="w-full h-full object-cover" />
+                </div>
+              )}
+              <CardContent className="p-4">
+                <h3 className="font-bold text-gray-900 mb-1">{truck.name}</h3>
+                {truck.cuisine_types && (
+                  <p className="text-sm text-gray-600">{truck.cuisine_types.join(', ')}</p>
+                )}
+                {truck.base_town && (
+                  <p className="text-xs text-gray-500 mt-1 flex items-center gap-1">
+                    <MapPin className="w-3 h-3" /> Based in {truck.base_town}
+                  </p>
+                )}
+              </CardContent>
+            </Card>
+          )}
         />
 
         {/* Filters */}

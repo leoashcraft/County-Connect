@@ -17,6 +17,7 @@ import { useLocationFilter } from "@/hooks/useLocationFilter";
 import { applyLocationFilter } from "@/utils/locationFilter";
 import MetaTags from "@/components/seo/MetaTags";
 import { useSiteSettings } from "@/hooks/useSiteSettings";
+import { FeaturedSpotSection } from "@/components/FeaturedSpot";
 
 delete L.Icon.Default.prototype._getIconUrl;
 L.Icon.Default.mergeOptions({
@@ -169,6 +170,37 @@ export default function Schools() {
           userTown={userTown}
           towns={towns}
           itemName="schools"
+        />
+
+        {/* Featured Schools */}
+        <FeaturedSpotSection
+          title="Featured Schools & Childcare"
+          spotType="school"
+          featuredItems={schools.filter(s => s.is_featured).slice(0, 3)}
+          icon={GraduationCap}
+          renderItem={(school) => (
+            <Card
+              className="border-2 border-blue-100 hover:shadow-lg transition-shadow cursor-pointer h-full"
+              onClick={() => navigate(createPageUrl(`SchoolDetail?id=${school.id}`))}
+            >
+              {school.image_url && (
+                <div className="h-32 bg-gray-200 overflow-hidden">
+                  <img src={school.image_url} alt={school.name} className="w-full h-full object-cover" />
+                </div>
+              )}
+              <CardContent className="p-4">
+                <div className="flex flex-wrap gap-1 mb-2">
+                  {(school.school_types || [school.school_type]).filter(Boolean).slice(0, 2).map(type => (
+                    <Badge key={type} className={getTypeColor(type) + " text-xs"}>
+                      {getTypeLabel(type)}
+                    </Badge>
+                  ))}
+                </div>
+                <h3 className="font-bold text-gray-900 mb-1">{school.name}</h3>
+                {school.district && <p className="text-sm text-gray-600">{school.district}</p>}
+              </CardContent>
+            </Card>
+          )}
         />
 
         {/* Filters */}

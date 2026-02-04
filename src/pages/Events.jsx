@@ -14,6 +14,7 @@ import { useLocationFilter } from "@/hooks/useLocationFilter";
 import { applyLocationFilter } from "@/utils/locationFilter";
 import MetaTags from "@/components/seo/MetaTags";
 import { useSiteSettings } from "@/hooks/useSiteSettings";
+import { FeaturedSpotSection } from "@/components/FeaturedSpot";
 
 export default function Events() {
   const navigate = useNavigate();
@@ -146,6 +147,40 @@ export default function Events() {
           userTown={userTown}
           towns={towns}
           itemName="events"
+        />
+
+        {/* Featured Events */}
+        <FeaturedSpotSection
+          title="Featured Events"
+          spotType="event"
+          featuredItems={events.filter(e => e.is_featured && isFuture(new Date(e.event_date))).slice(0, 3)}
+          icon={Calendar}
+          renderItem={(event) => {
+            const eventDate = new Date(event.event_date);
+            return (
+              <Card
+                className="border-2 border-orange-100 hover:shadow-lg transition-shadow cursor-pointer h-full"
+                onClick={() => navigate(createPageUrl(`EventDetail?id=${event.id}`))}
+              >
+                {event.image_url && (
+                  <div className="h-32 bg-gray-200 overflow-hidden">
+                    <img src={event.image_url} alt={event.name} className="w-full h-full object-cover" />
+                  </div>
+                )}
+                <CardContent className="p-4">
+                  <Badge className="bg-blue-100 text-blue-800 text-xs mb-2">
+                    {format(eventDate, 'MMM d, yyyy')}
+                  </Badge>
+                  <h3 className="font-bold text-gray-900 mb-1">{event.name}</h3>
+                  {event.location && (
+                    <p className="text-xs text-gray-500 flex items-center gap-1">
+                      <MapPin className="w-3 h-3" /> {event.location}
+                    </p>
+                  )}
+                </CardContent>
+              </Card>
+            );
+          }}
         />
 
         {/* Filters */}

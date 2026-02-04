@@ -208,6 +208,26 @@ import AboutNavarroCounty from "./AboutNavarroCounty";
 import AboutCounty from "./AboutCounty";
 import Home from "./Home";
 
+// Monetization Pages
+import ClaimListing from "./ClaimListing";
+
+// Service Pages (Monetizable)
+import NotaryServices from "./services/NotaryServices";
+import LocksmithServices from "./services/LocksmithServices";
+import PlumberServices from "./services/PlumberServices";
+import ElectricianServices from "./services/ElectricianServices";
+import HvacServices from "./services/HvacServices";
+import RoofingServices from "./services/RoofingServices";
+import PestControlServices from "./services/PestControlServices";
+import LandscapingServices from "./services/LandscapingServices";
+import AutoRepairServices from "./services/AutoRepairServices";
+import TowingServices from "./services/TowingServices";
+import CleaningServices from "./services/CleaningServices";
+import PhotographyServices from "./services/PhotographyServices";
+import CateringServices from "./services/CateringServices";
+import DjServices from "./services/DjServices";
+import WeddingVenueServices from "./services/WeddingVenueServices";
+
 // Admin Site Settings
 import AdminSiteSettings from "./AdminSiteSettings";
 
@@ -443,6 +463,26 @@ const PAGES = {
     AboutNavarroCounty: AboutNavarroCounty,
     AboutCounty: AboutCounty,
     Home: Home,
+
+    // Monetization Pages
+    ClaimListing: ClaimListing,
+
+    // Service Pages
+    NotaryServices: NotaryServices,
+    LocksmithServices: LocksmithServices,
+    PlumberServices: PlumberServices,
+    ElectricianServices: ElectricianServices,
+    HvacServices: HvacServices,
+    RoofingServices: RoofingServices,
+    PestControlServices: PestControlServices,
+    LandscapingServices: LandscapingServices,
+    AutoRepairServices: AutoRepairServices,
+    TowingServices: TowingServices,
+    CleaningServices: CleaningServices,
+    PhotographyServices: PhotographyServices,
+    CateringServices: CateringServices,
+    DjServices: DjServices,
+    WeddingVenueServices: WeddingVenueServices,
 
     // Admin Site Settings
     AdminSiteSettings: AdminSiteSettings,
@@ -718,6 +758,41 @@ function PagesContent() {
                 <Route path="/AboutNavarroCounty" element={<AboutCounty />} />
                 <Route path="/AboutCounty" element={<AboutCounty />} />
                 <Route path="/about-:countySlug-county" element={<AboutCounty />} />
+
+                {/* Monetization Pages */}
+                <Route path="/ClaimListing" element={<ClaimListing />} />
+
+                {/* Service Pages (SEO + Monetization) */}
+                <Route path="/notary" element={<NotaryServices />} />
+                <Route path="/NotaryServices" element={<NotaryServices />} />
+                <Route path="/locksmith" element={<LocksmithServices />} />
+                <Route path="/LocksmithServices" element={<LocksmithServices />} />
+                <Route path="/plumber" element={<PlumberServices />} />
+                <Route path="/PlumberServices" element={<PlumberServices />} />
+                <Route path="/electrician" element={<ElectricianServices />} />
+                <Route path="/ElectricianServices" element={<ElectricianServices />} />
+                <Route path="/hvac" element={<HvacServices />} />
+                <Route path="/HvacServices" element={<HvacServices />} />
+                <Route path="/roofing" element={<RoofingServices />} />
+                <Route path="/RoofingServices" element={<RoofingServices />} />
+                <Route path="/pest-control" element={<PestControlServices />} />
+                <Route path="/PestControlServices" element={<PestControlServices />} />
+                <Route path="/landscaping" element={<LandscapingServices />} />
+                <Route path="/LandscapingServices" element={<LandscapingServices />} />
+                <Route path="/auto-repair" element={<AutoRepairServices />} />
+                <Route path="/AutoRepairServices" element={<AutoRepairServices />} />
+                <Route path="/towing" element={<TowingServices />} />
+                <Route path="/TowingServices" element={<TowingServices />} />
+                <Route path="/cleaning" element={<CleaningServices />} />
+                <Route path="/CleaningServices" element={<CleaningServices />} />
+                <Route path="/photography" element={<PhotographyServices />} />
+                <Route path="/PhotographyServices" element={<PhotographyServices />} />
+                <Route path="/catering" element={<CateringServices />} />
+                <Route path="/CateringServices" element={<CateringServices />} />
+                <Route path="/dj" element={<DjServices />} />
+                <Route path="/DjServices" element={<DjServices />} />
+                <Route path="/wedding-venues" element={<WeddingVenueServices />} />
+                <Route path="/WeddingVenueServices" element={<WeddingVenueServices />} />
 
                 {/* Admin Site Settings */}
                 <Route path="/AdminSiteSettings" element={<AdminSiteSettings />} />
