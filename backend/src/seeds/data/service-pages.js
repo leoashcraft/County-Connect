@@ -10180,6 +10180,1317 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
+  },
+
+  // ============================================
+  // MORE PROFESSIONAL SERVICES
+  // ============================================
+  {
+    slug: "family-lawyer",
+    title: "Family Lawyer",
+    category: "professional_services",
+    subcategory: "legal",
+    layout: 1,
+    icon: "Scale",
+    iconColor: "blue",
+    metaTitle: "Family Lawyer in Navarro County, TX | Family Law Attorney Corsicana",
+    metaDescription: "Family lawyers in Corsicana and Navarro County. Divorce, child custody, adoption, and family law services with local court experience.",
+    metaKeywords: "family lawyer Corsicana, divorce attorney Navarro County, child custody, family law",
+    heroContent: `Family legal matters are deeply personal and emotionally challenging. A family lawyer guides you through divorce, custody disputes, and other family issues with legal expertise and compassionate understanding. Navarro County family attorneys know local courts and judges.`,
+    localContext: `Navarro County family law cases are heard in the district courts in Corsicana. Local family lawyers have experience with area judges, understand the local legal community, and can guide clients through what to expect in our court system.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Family Law Services",
+        content: \`**Divorce**
+- Contested divorce
+- Uncontested divorce
+- Property division
+- Spousal support
+- Collaborative divorce
+- Mediation
+
+**Children**
+- Child custody
+- Child support
+- Visitation/possession
+- Modification
+- Paternity
+
+**Other**
+- Adoption
+- Prenuptial agreements
+- Protective orders
+- Guardianship
+- Name changes\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a divorce cost in Texas?",
+        answer: "Uncontested divorces with agreements on all issues can cost $1,500-$3,500 in attorney fees. Contested divorces requiring negotiation or trial can cost $5,000-$25,000+. Court filing fees in Navarro County add $300-$400. Mediation can help reduce costs compared to litigation."
+      },
+      {
+        question: "How is child custody decided in Texas?",
+        answer: "Texas courts decide custody based on the child's best interests, considering factors including parental abilities, child's preferences (if 12+), stability, and any history of family violence. Most cases result in one parent as primary custodian with the other having specified access periods."
+      },
+      {
+        question: "How long does divorce take in Texas?",
+        answer: "Texas requires a 60-day waiting period from filing to final divorce. Uncontested divorces can finalize shortly after 60 days. Contested divorces take 6-12 months or longer depending on issues involved. Complex property or custody disputes extend timelines significantly."
+      }
+    ],
+    relatedServices: ["attorney", "criminal-lawyer", "estate-attorney"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "criminal-lawyer",
+    title: "Criminal Defense Lawyer",
+    category: "professional_services",
+    subcategory: "legal",
+    layout: 2,
+    icon: "Shield",
+    iconColor: "slate",
+    metaTitle: "Criminal Defense Lawyer in Navarro County, TX | Criminal Attorney Corsicana",
+    metaDescription: "Criminal defense lawyers in Corsicana and Navarro County. DWI, assault, drug charges, and felony defense with local court experience.",
+    metaKeywords: "criminal lawyer Corsicana, DWI attorney Navarro County, criminal defense, felony lawyer",
+    heroContent: `Facing criminal charges is frightening. A criminal defense lawyer protects your rights, builds your defense, and works to achieve the best possible outcome. Navarro County criminal attorneys have daily experience in local courts and understand how cases are handled here.`,
+    localContext: `Criminal cases in Navarro County are prosecuted by the District Attorney's office and heard in county and district courts. Local criminal defense attorneys know the prosecutors, understand their negotiating tendencies, and can effectively advocate for their clients in our court system.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Criminal Defense Services",
+        content: \`**DWI/DUI**
+- First offense DWI
+- Repeat DWI
+- Intoxication assault
+- License suspension
+- ALR hearings
+
+**Felonies**
+- Drug charges
+- Assault/family violence
+- Theft crimes
+- Weapons charges
+- White collar crimes
+
+**Other Charges**
+- Misdemeanors
+- Traffic violations
+- Juvenile offenses
+- Expunctions
+- Probation violations\`
+      }
+    ],
+    faqs: [
+      {
+        question: "Should I hire a lawyer for a first DWI?",
+        answer: "Yes. Even first DWI carries serious consequences: jail time, fines, license suspension, and a permanent criminal record. A skilled attorney may be able to get charges reduced, identify problems with the stop or testing, or achieve dismissal. The costs of conviction far exceed attorney fees."
+      },
+      {
+        question: "What happens if I can't afford a lawyer?",
+        answer: "If you can't afford an attorney, you can request a court-appointed lawyer. Navarro County provides appointed counsel for defendants who qualify financially. However, you may want to explore payment plans with private attorneys who can dedicate more time and resources to your case."
+      },
+      {
+        question: "Will a criminal charge show up on background checks?",
+        answer: "Arrests may show up even without conviction. Convictions appear on background checks for employers, landlords, and licensing boards. Some charges can be expunged (erased) or sealed from records if the case was dismissed or you completed deferred adjudication. Ask your attorney about expunction eligibility."
+      }
+    ],
+    relatedServices: ["attorney", "bail-bonds", "family-lawyer"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "personal-injury-lawyer",
+    title: "Personal Injury Lawyer",
+    category: "professional_services",
+    subcategory: "legal",
+    layout: 3,
+    icon: "Heart",
+    iconColor: "red",
+    metaTitle: "Personal Injury Lawyer in Navarro County, TX | Injury Attorney Corsicana",
+    metaDescription: "Personal injury lawyers in Corsicana and Navarro County. Car accidents, work injuries, medical malpractice, and wrongful death claims.",
+    metaKeywords: "personal injury lawyer Corsicana, car accident attorney Navarro County, injury claim, slip and fall",
+    heroContent: `If you've been injured due to someone else's negligence, you deserve fair compensation. Personal injury lawyers fight for your rights against insurance companies and at-fault parties, handling your claim while you focus on recovery.`,
+    localContext: `I-45 and other highways through Navarro County see regular accidents. Local personal injury attorneys handle cases ranging from car accidents to workplace injuries to premises liability. Most work on contingency—you don't pay unless they win your case.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Personal Injury Cases",
+        content: \`**Motor Vehicle**
+- Car accidents
+- Truck accidents
+- Motorcycle accidents
+- Pedestrian accidents
+- Rideshare accidents
+
+**Other Injuries**
+- Slip and fall
+- Work injuries
+- Dog bites
+- Product liability
+- Medical malpractice
+
+**Damages**
+- Medical expenses
+- Lost wages
+- Pain and suffering
+- Disability
+- Wrongful death\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do personal injury lawyers charge?",
+        answer: "Most personal injury lawyers work on contingency—they take a percentage (typically 33-40%) of your settlement or verdict, plus costs. You pay nothing upfront and nothing if you don't recover. This arrangement makes legal help accessible when you're already dealing with injury expenses."
+      },
+      {
+        question: "How long do I have to file an injury claim in Texas?",
+        answer: "Texas has a two-year statute of limitations for most personal injury claims, running from the date of injury. Some exceptions apply. Waiting too long means losing your right to sue. Contact an attorney promptly—evidence and witness memories fade over time."
+      },
+      {
+        question: "Should I accept the insurance company's first offer?",
+        answer: "Initial offers are typically low. Insurance companies profit by paying as little as possible. An attorney can evaluate whether an offer fairly compensates your damages, negotiate for more, or take your case to trial if needed. Never sign releases before consulting a lawyer."
+      }
+    ],
+    relatedServices: ["attorney", "chiropractor", "physical-therapist"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "estate-attorney",
+    title: "Estate Planning Attorney",
+    category: "professional_services",
+    subcategory: "legal",
+    layout: 4,
+    icon: "FileText",
+    iconColor: "amber",
+    metaTitle: "Estate Planning Attorney in Navarro County, TX | Wills & Trusts Corsicana",
+    metaDescription: "Estate planning attorneys in Corsicana and Navarro County. Wills, trusts, powers of attorney, and probate services for asset protection.",
+    metaKeywords: "estate planning Corsicana, wills Navarro County, trusts, probate attorney, power of attorney",
+    heroContent: `Estate planning protects your assets and ensures your wishes are followed. Whether you need a simple will or complex trust planning, estate attorneys help you provide for loved ones and minimize complications after you're gone.`,
+    localContext: `Navarro County residents with farms, ranches, or family businesses have particular estate planning needs. Local estate attorneys understand Texas property laws, community property rules, and how to structure plans that work for our area's common situations.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Estate Planning Services",
+        content: \`**Documents**
+- Wills
+- Living trusts
+- Medical power of attorney
+- Financial power of attorney
+- Living wills/directives
+
+**Planning**
+- Asset protection
+- Business succession
+- Tax planning
+- Charitable giving
+- Special needs planning
+
+**Administration**
+- Probate
+- Trust administration
+- Estate settlement
+- Will contests\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a will cost?",
+        answer: "Simple wills typically cost $200-$500. More complex estate plans with trusts, powers of attorney, and other documents run $1,500-$5,000+. While online templates exist, an attorney ensures your documents meet Texas requirements and work together as intended."
+      },
+      {
+        question: "Do I need a trust or just a will?",
+        answer: "Trusts can avoid probate, provide privacy, and offer more control over asset distribution. However, they cost more and require maintenance. For many Navarro County families, a proper will with transfer-on-death designations for accounts meets their needs. An attorney can advise based on your situation."
+      },
+      {
+        question: "What happens if I die without a will in Texas?",
+        answer: "Texas intestacy laws determine who inherits your property. This may not match your wishes—especially for unmarried partners, stepchildren, or specific bequests. Your estate will go through probate, possibly with court-appointed administrators. A will is the only way to ensure your intentions are followed."
+      }
+    ],
+    relatedServices: ["attorney", "financial-advisor", "accountant"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "business-attorney",
+    title: "Business Attorney",
+    category: "professional_services",
+    subcategory: "legal",
+    layout: 5,
+    icon: "Briefcase",
+    iconColor: "blue",
+    metaTitle: "Business Attorney in Navarro County, TX | Business Lawyer Corsicana",
+    metaDescription: "Business attorneys in Corsicana and Navarro County. Business formation, contracts, employment law, and litigation for local businesses.",
+    metaKeywords: "business attorney Corsicana, business lawyer Navarro County, contracts, LLC formation",
+    heroContent: `Every business needs legal guidance at some point. Business attorneys help with formation, contracts, employment issues, and disputes. Having a lawyer who understands your business can prevent problems and resolve issues efficiently.`,
+    localContext: `Small businesses drive Navarro County's economy. Local business attorneys serve everyone from sole proprietors to established companies, understanding the legal challenges businesses face in our community and providing practical, cost-effective counsel.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Business Legal Services",
+        content: \`**Formation**
+- Entity selection
+- LLC formation
+- Corporation setup
+- Partnership agreements
+- Operating agreements
+
+**Contracts**
+- Contract drafting
+- Contract review
+- Lease negotiations
+- Vendor agreements
+- Employment contracts
+
+**Ongoing Counsel**
+- Employment law
+- Regulatory compliance
+- Collections
+- Business disputes
+- Litigation defense\`
+      }
+    ],
+    faqs: [
+      {
+        question: "Do I need an LLC for my small business?",
+        answer: "LLCs provide liability protection, separating personal assets from business debts. For most small businesses, an LLC is appropriate and affordable to form ($300 filing fee plus attorney fees). Sole proprietorships are simpler but offer no liability protection. An attorney can advise on what's right for your situation."
+      },
+      {
+        question: "How much does a business attorney cost?",
+        answer: "Simple tasks like LLC formation run $500-$1,500. Contract review might cost $200-$500. Ongoing representation varies widely. Some attorneys offer flat fees for routine matters or monthly retainers for ongoing access. Discuss fee structures upfront to find an arrangement that works."
+      },
+      {
+        question: "When should I consult a business attorney?",
+        answer: "Before signing significant contracts, when forming or changing business structure, if you're hiring employees, when buying or selling a business, and when disputes arise. Early consultation prevents costly problems. Building a relationship with an attorney before emergencies makes getting help easier."
+      }
+    ],
+    relatedServices: ["attorney", "accountant", "insurance-agent"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "tax-preparer",
+    title: "Tax Preparation",
+    category: "professional_services",
+    subcategory: "financial",
+    layout: 1,
+    icon: "Calculator",
+    iconColor: "green",
+    metaTitle: "Tax Preparation in Navarro County, TX | Tax Preparer Corsicana",
+    metaDescription: "Tax preparation services in Corsicana and Navarro County. Individual and business tax returns, IRS representation, and year-round tax help.",
+    metaKeywords: "tax preparer Corsicana, tax preparation Navarro County, income tax, tax return, CPA",
+    heroContent: `Accurate tax preparation maximizes your refund or minimizes your liability while ensuring IRS compliance. Navarro County tax preparers handle individual and business returns, from simple W-2 filings to complex situations with self-employment, investments, and business income.`,
+    localContext: `Agricultural income, mineral rights, and small business ownership create complex tax situations for many Navarro County residents. Local tax preparers understand these specific needs and the tax implications of activities common in our area.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Tax Services",
+        content: \`**Individual**
+- W-2 returns
+- Self-employment
+- Investments and dividends
+- Rental income
+- Farm income
+- Multi-state returns
+
+**Business**
+- Sole proprietor (Schedule C)
+- LLC and partnership returns
+- S-Corporation returns
+- C-Corporation returns
+- Nonprofit returns
+
+**Additional**
+- Tax planning
+- IRS representation
+- Amended returns
+- Prior year returns
+- Audit support\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does tax preparation cost?",
+        answer: "Simple individual returns (W-2, standard deduction) cost $100-$200. Itemized returns run $200-$400. Self-employment adds $100-$200. Business returns range from $300-$1,000+. Free options exist (VITA sites) for qualifying taxpayers. Prices vary by preparer and complexity."
+      },
+      {
+        question: "When should I receive my W-2 and 1099 forms?",
+        answer: "W-2s must be sent by January 31. 1099 forms are also due by January 31 in most cases. If you haven't received forms by mid-February, contact the payer. You can file with your last pay stub if necessary, though this requires care to ensure accuracy."
+      },
+      {
+        question: "What's the difference between a CPA and other tax preparers?",
+        answer: "CPAs (Certified Public Accountants) have passed rigorous exams and meet continuing education requirements. Enrolled Agents are IRS-licensed tax specialists. Other preparers may have varying credentials. All can prepare returns; CPAs and EAs can represent you before the IRS in audits and disputes."
+      }
+    ],
+    relatedServices: ["accountant", "bookkeeper", "financial-advisor"],
+    externalResources: [
+      { name: "IRS Free File", url: "https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "bookkeeper",
+    title: "Bookkeeper",
+    category: "professional_services",
+    subcategory: "financial",
+    layout: 2,
+    icon: "BookOpen",
+    iconColor: "slate",
+    metaTitle: "Bookkeeper in Navarro County, TX | Bookkeeping Services Corsicana",
+    metaDescription: "Bookkeeping services in Corsicana and Navarro County. QuickBooks, payroll, accounts payable/receivable, and financial record keeping.",
+    metaKeywords: "bookkeeper Corsicana, bookkeeping Navarro County, QuickBooks, payroll, accounts",
+    heroContent: `Accurate bookkeeping is essential for business success, tax preparation, and financial decision-making. Navarro County bookkeepers help small businesses maintain organized financial records without the cost of a full-time employee.`,
+    localContext: `Many Navarro County small businesses and self-employed individuals need bookkeeping support but can't justify full-time staff. Local bookkeepers provide flexible services—from monthly reconciliation to full-service financial management—tailored to each client's needs.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Bookkeeping Services",
+        content: \`**Basic Bookkeeping**
+- Transaction entry
+- Bank reconciliation
+- Credit card reconciliation
+- Account maintenance
+- Monthly reports
+
+**Advanced Services**
+- Accounts receivable
+- Accounts payable
+- Payroll processing
+- Financial statements
+- Cash flow management
+
+**Software**
+- QuickBooks (Online/Desktop)
+- Xero
+- FreshBooks
+- Wave
+- Custom solutions\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does bookkeeping cost?",
+        answer: "Bookkeeping costs vary by transaction volume and services needed. Basic monthly bookkeeping runs $200-$500 for small businesses. More active businesses or those needing payroll, A/P, and A/R management pay $500-$1,500+. Some bookkeepers charge hourly ($25-$75/hour)."
+      },
+      {
+        question: "What's the difference between bookkeeping and accounting?",
+        answer: "Bookkeeping focuses on day-to-day transaction recording and categorization. Accounting involves analyzing financial data, preparing tax returns, and providing strategic advice. Bookkeepers maintain records; accountants interpret them. Many businesses need both, often from different providers."
+      },
+      {
+        question: "Should I use QuickBooks or another software?",
+        answer: "QuickBooks dominates small business bookkeeping because of its features and accountant familiarity. QuickBooks Online works well for most small businesses. However, industry-specific software may serve specialized needs better. Your bookkeeper can recommend what works best for your business."
+      }
+    ],
+    relatedServices: ["accountant", "tax-preparer", "payroll-service"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "financial-advisor",
+    title: "Financial Advisor",
+    category: "professional_services",
+    subcategory: "financial",
+    layout: 3,
+    icon: "TrendingUp",
+    iconColor: "green",
+    metaTitle: "Financial Advisor in Navarro County, TX | Investment Advisor Corsicana",
+    metaDescription: "Financial advisors in Corsicana and Navarro County. Retirement planning, investment management, and wealth building strategies.",
+    metaKeywords: "financial advisor Corsicana, investment Navarro County, retirement planning, wealth management",
+    heroContent: `Planning for retirement, managing investments, and building wealth require expertise most people don't have time to develop. Financial advisors create personalized strategies to help you reach your financial goals and secure your future.`,
+    localContext: `Navarro County residents have diverse financial planning needs—from young families starting out to retirees managing nest eggs to farmers planning succession. Local financial advisors understand our community and provide accessible advice without big-city minimums.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Financial Planning Services",
+        content: \`**Planning**
+- Retirement planning
+- Investment management
+- Education funding
+- Estate planning
+- Tax planning
+- Insurance analysis
+
+**Investments**
+- Portfolio management
+- 401(k) advice
+- IRA rollovers
+- Asset allocation
+- Risk assessment
+
+**Life Stages**
+- Young families
+- Mid-career
+- Pre-retirement
+- Retirement income
+- Wealth transfer\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How do financial advisors get paid?",
+        answer: "Advisors may charge fees (flat, hourly, or percentage of assets), commissions on products sold, or combinations. Fee-only advisors charge only for advice, avoiding commission conflicts. Understand how your advisor is compensated before engaging—it affects the advice you receive."
+      },
+      {
+        question: "How much money do I need to work with an advisor?",
+        answer: "Some advisors have high minimums ($250,000+), but many serve clients with more modest assets. Fee-only advisors often work on an hourly or flat-fee basis regardless of assets. Don't assume you need significant wealth to get help—ask about minimums and fee structures."
+      },
+      {
+        question: "What's the difference between a financial advisor and a financial planner?",
+        answer: "Terms overlap significantly. Certified Financial Planner (CFP) is a specific credential indicating comprehensive training and fiduciary responsibility. \"Financial advisor\" is a general term that includes various credentials and compensation models. Ask about qualifications and fiduciary status."
+      }
+    ],
+    relatedServices: ["accountant", "insurance-agent", "estate-attorney"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "payroll-service",
+    title: "Payroll Services",
+    category: "professional_services",
+    subcategory: "financial",
+    layout: 4,
+    icon: "Wallet",
+    iconColor: "blue",
+    metaTitle: "Payroll Service in Navarro County, TX | Payroll Processing Corsicana",
+    metaDescription: "Payroll services in Corsicana and Navarro County. Payroll processing, tax deposits, W-2s, and employee management for small businesses.",
+    metaKeywords: "payroll service Corsicana, payroll Navarro County, payroll processing, payroll taxes",
+    heroContent: `Payroll involves complex calculations, strict deadlines, and serious penalties for mistakes. Payroll services handle the details—calculating pay, withholding taxes, making deposits, and filing reports—so you can focus on running your business.`,
+    localContext: `Many Navarro County small businesses start handling payroll themselves, then realize how time-consuming and risky it is. Local payroll services offer affordable solutions that ensure compliance, save time, and avoid costly errors.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Payroll Services",
+        content: \`**Processing**
+- Payroll calculation
+- Direct deposit
+- Check printing
+- Pay stub delivery
+- Wage garnishments
+
+**Tax Services**
+- Tax withholding
+- Tax deposits
+- Quarterly filings
+- Year-end W-2/1099
+- State filings
+
+**Additional**
+- Time tracking
+- PTO management
+- New hire reporting
+- Workers' comp
+- HR support\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does payroll service cost?",
+        answer: "Basic payroll services cost $20-$50 base fee plus $2-$10 per employee per pay period. Full-service options with tax filing run $50-$150+ monthly for small businesses. Pricing varies by features, number of employees, and pay frequency. Compare total costs including all fees."
+      },
+      {
+        question: "What payroll taxes do employers pay?",
+        answer: "Employers pay 6.2% Social Security and 1.45% Medicare (matching employee withholding), plus federal (FUTA) and state (TWC) unemployment taxes. Texas has no state income tax to withhold. Deposits are due monthly or semi-weekly depending on liability levels."
+      },
+      {
+        question: "When are payroll taxes due?",
+        answer: "Deposit schedules depend on your tax liability. Most small businesses deposit monthly (by the 15th of the following month). Larger employers deposit semi-weekly. Quarterly Form 941 is due by month-end following the quarter. W-2s are due to employees by January 31. Penalties for late deposits are significant."
+      }
+    ],
+    relatedServices: ["bookkeeper", "accountant", "hr-consultant"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "insurance-agent",
+    title: "Insurance Agent",
+    category: "professional_services",
+    subcategory: "financial",
+    layout: 5,
+    icon: "Shield",
+    iconColor: "blue",
+    metaTitle: "Insurance Agent in Navarro County, TX | Insurance Corsicana",
+    metaDescription: "Insurance agents in Corsicana and Navarro County. Home, auto, life, business, and health insurance with personalized local service.",
+    metaKeywords: "insurance agent Corsicana, insurance Navarro County, home insurance, auto insurance, life insurance",
+    heroContent: `Insurance protects what matters most—your family, home, vehicle, and business. Local insurance agents understand Navarro County's specific risks and help you find appropriate coverage at competitive rates, with personal service when you need to file a claim.`,
+    localContext: `Navarro County's mix of urban and rural properties, agricultural operations, and hail-prone weather creates specific insurance needs. Local agents understand these factors and represent carriers familiar with our area's claims history.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Insurance Products",
+        content: \`**Personal**
+- Homeowners
+- Auto
+- Life
+- Umbrella
+- Renters
+- Flood
+
+**Business**
+- General liability
+- Commercial property
+- Workers' compensation
+- Commercial auto
+- Professional liability
+
+**Specialty**
+- Farm and ranch
+- Mobile home
+- Motorcycle/RV
+- Boat
+- Health/Medicare\`
+      }
+    ],
+    faqs: [
+      {
+        question: "Should I use an independent agent or a captive agent?",
+        answer: "Independent agents represent multiple companies and can shop for the best rates. Captive agents work for one company but know their products deeply. Both can provide good service. Consider independent agents for comparison shopping, captive agents if you prefer a specific company."
+      },
+      {
+        question: "How can I lower my insurance premiums?",
+        answer: "Bundle policies (home + auto), increase deductibles, maintain good credit, ask about discounts (security systems, good driver, etc.), and shop rates every few years. However, don't sacrifice needed coverage to save money—the cheapest policy isn't always the best value."
+      },
+      {
+        question: "Do I need flood insurance in Navarro County?",
+        answer: "Standard homeowners insurance doesn't cover flooding. While not all of Navarro County is in a flood zone, flash flooding can occur anywhere. If your mortgage requires flood insurance, you need it. Even if not required, consider it—flood damage is devastating and policies are relatively affordable."
+      }
+    ],
+    relatedServices: ["realtor", "accountant", "auto-repair"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // MORE HEALTH & WELLNESS
+  // ============================================
+  {
+    slug: "family-doctor",
+    title: "Family Doctor",
+    category: "health_wellness",
+    subcategory: "medical",
+    layout: 1,
+    icon: "Stethoscope",
+    iconColor: "blue",
+    metaTitle: "Family Doctor in Navarro County, TX | Primary Care Corsicana",
+    metaDescription: "Family doctors in Corsicana and Navarro County. Primary care for all ages, preventive care, chronic disease management, and same-day sick visits.",
+    metaKeywords: "family doctor Corsicana, primary care Navarro County, physician, doctor, healthcare",
+    heroContent: `A family doctor provides comprehensive primary care for all ages—from newborns to seniors. They know your medical history, coordinate care, and are your first contact for health concerns. Having a regular doctor improves health outcomes.`,
+    localContext: `Navarro County has primary care providers in Corsicana and surrounding communities. Family medicine clinics accept most insurance plans and offer services ranging from wellness checks to chronic disease management to same-day sick visits.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Primary Care Services",
+        content: \`**Preventive Care**
+- Annual physicals
+- Well-child visits
+- Immunizations
+- Health screenings
+- Cancer screenings
+
+**Acute Care**
+- Same-day sick visits
+- Minor injuries
+- Infections
+- Allergies
+- Flu and cold
+
+**Chronic Care**
+- Diabetes management
+- Hypertension
+- Heart disease
+- Thyroid disorders
+- Arthritis\`
+      }
+    ],
+    faqs: [
+      {
+        question: "Are family doctors taking new patients?",
+        answer: "Most Navarro County family medicine practices accept new patients, though some popular doctors have waitlists. Call practices directly to check availability and whether they accept your insurance. New patient appointments may take 2-4 weeks to schedule; established patients often get quicker access."
+      },
+      {
+        question: "What's the difference between a family doctor and internist?",
+        answer: "Family doctors treat patients of all ages, from children to elderly. Internists (internal medicine doctors) focus on adults only. Both provide comprehensive primary care. If you need a doctor for your whole family, including children, choose family medicine."
+      },
+      {
+        question: "Can I see a doctor without insurance?",
+        answer: "Yes. Many clinics offer self-pay rates, often with discounts for paying at the time of service. Federally qualified health centers provide care on sliding fee scales. Urgent care and telehealth options also serve uninsured patients. Don't skip necessary care—ask about payment options."
+      }
+    ],
+    relatedServices: ["pediatrician", "urgent-care", "pharmacy"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "pediatrician",
+    title: "Pediatrician",
+    category: "health_wellness",
+    subcategory: "medical",
+    layout: 2,
+    icon: "Baby",
+    iconColor: "sky",
+    metaTitle: "Pediatrician in Navarro County, TX | Children's Doctor Corsicana",
+    metaDescription: "Pediatricians in Corsicana and Navarro County. Well-child care, immunizations, sick visits, and specialized care for infants through adolescents.",
+    metaKeywords: "pediatrician Corsicana, children's doctor Navarro County, kids doctor, baby doctor",
+    heroContent: `Children have unique healthcare needs that differ from adults. Pediatricians specialize in caring for infants, children, and adolescents, understanding their development and the conditions that affect young patients.`,
+    localContext: `Navarro County families have access to pediatric care in Corsicana. Pediatricians work closely with schools, daycares, and families to keep children healthy, offering well-child visits, immunizations, and treatment for childhood illnesses.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Pediatric Services",
+        content: \`**Well-Child Care**
+- Newborn care
+- Developmental screenings
+- Growth monitoring
+- Immunizations
+- School and sports physicals
+
+**Sick Visits**
+- Fever and infections
+- Ear infections
+- Rashes
+- Respiratory illness
+- GI problems
+
+**Specialized Care**
+- ADHD evaluation
+- Asthma management
+- Allergies
+- Behavioral concerns
+- Chronic conditions\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How often should my child see the pediatrician?",
+        answer: "Newborns have frequent visits (several in the first months). First year: 2 weeks, 2, 4, 6, 9, and 12 months. Ages 1-3: every 6-12 months. After age 3: annual well-child visits. Additional visits are scheduled for illnesses, concerns, or ongoing conditions. Follow your pediatrician's recommendations."
+      },
+      {
+        question: "When should I take my child to the pediatrician vs. urgent care?",
+        answer: "See your pediatrician for routine care, minor illnesses, and non-emergency concerns—they know your child's history. Urgent care works for after-hours minor issues. Go to the ER for serious emergencies: difficulty breathing, severe allergic reactions, high fevers in infants, or significant injuries."
+      },
+      {
+        question: "What immunizations does my child need for school?",
+        answer: "Texas requires specific vaccines for school entry, including DTaP, polio, MMR, hepatitis B, and varicella. Requirements vary by age and school level. Your pediatrician tracks immunizations and provides the records schools require. Religious or medical exemptions require specific documentation."
+      }
+    ],
+    relatedServices: ["family-doctor", "daycare", "pharmacy"],
+    externalResources: [
+      { name: "Texas Immunization Requirements", url: "https://www.dshs.texas.gov/immunize/school/default.shtm" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "urgent-care",
+    title: "Urgent Care",
+    category: "health_wellness",
+    subcategory: "medical",
+    layout: 3,
+    icon: "Clock",
+    iconColor: "red",
+    metaTitle: "Urgent Care in Navarro County, TX | Walk-In Clinic Corsicana",
+    metaDescription: "Urgent care clinics in Corsicana and Navarro County. Walk-in treatment for minor emergencies, injuries, and illnesses without appointments.",
+    metaKeywords: "urgent care Corsicana, walk-in clinic Navarro County, after hours doctor, minor emergency",
+    heroContent: `Urgent care bridges the gap between your regular doctor and the emergency room. For non-life-threatening illnesses and injuries that can't wait for a regular appointment, urgent care provides convenient, walk-in treatment.`,
+    localContext: `Urgent care centers in Navarro County offer extended hours and weekend availability, providing an alternative to ER visits for minor issues. Most accept insurance and offer self-pay rates, making them accessible for various situations.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Urgent Care Services",
+        content: \`**Common Conditions**
+- Cold and flu
+- Sore throat
+- Ear infections
+- Urinary infections
+- Allergies
+- Rashes
+
+**Minor Injuries**
+- Sprains and strains
+- Minor cuts
+- Burns
+- Fractures
+- Bites and stings
+
+**Services**
+- X-rays
+- Lab tests
+- Stitches
+- Splinting
+- Injections
+- Physicals\`
+      }
+    ],
+    faqs: [
+      {
+        question: "When should I go to urgent care vs. the ER?",
+        answer: "Go to urgent care for non-life-threatening issues: minor injuries, common illnesses, simple fractures. Go to the ER for: chest pain, difficulty breathing, severe bleeding, head injuries, stroke symptoms, or anything life-threatening. When in doubt, call ahead—urgent care can advise if they can help."
+      },
+      {
+        question: "How much does urgent care cost?",
+        answer: "With insurance, expect $25-$75 copays depending on your plan. Self-pay visits typically run $100-$200 for the visit, plus additional costs for labs, X-rays, or procedures. This is significantly less than ER visits, which can be thousands of dollars."
+      },
+      {
+        question: "Do I need an appointment for urgent care?",
+        answer: "Most urgent cares accept walk-ins, which is their purpose. However, many now offer online check-in or reservation systems that reduce wait times. Check-in online, then arrive when it's close to your turn. Wait times vary—evenings and weekends are typically busiest."
+      }
+    ],
+    relatedServices: ["family-doctor", "pharmacy", "chiropractor"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "chiropractor",
+    title: "Chiropractor",
+    category: "health_wellness",
+    subcategory: "specialist",
+    layout: 4,
+    icon: "Activity",
+    iconColor: "green",
+    metaTitle: "Chiropractor in Navarro County, TX | Chiropractic Care Corsicana",
+    metaDescription: "Chiropractors in Corsicana and Navarro County. Spinal adjustments, back pain treatment, and wellness care for pain relief and improved function.",
+    metaKeywords: "chiropractor Corsicana, chiropractic Navarro County, back pain, spinal adjustment, neck pain",
+    heroContent: `Chiropractic care focuses on the spine and musculoskeletal system, using manual adjustments to restore proper alignment and relieve pain. Navarro County chiropractors treat back pain, neck pain, headaches, and other conditions without surgery or drugs.`,
+    localContext: `Many Navarro County residents seek chiropractic care for work-related injuries, vehicle accident recovery, and chronic pain management. Local chiropractors work with other healthcare providers and insurance companies to provide coordinated care.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Chiropractic Services",
+        content: \`**Conditions**
+- Back pain
+- Neck pain
+- Headaches/migraines
+- Sciatica
+- Whiplash
+- Sports injuries
+
+**Treatments**
+- Spinal adjustments
+- Soft tissue therapy
+- Therapeutic exercises
+- Spinal decompression
+- Electrical stimulation
+- Ultrasound therapy
+
+**Wellness**
+- Posture correction
+- Ergonomic advice
+- Wellness care
+- Preventive treatment\`
+      }
+    ],
+    faqs: [
+      {
+        question: "Does chiropractic treatment hurt?",
+        answer: "Most adjustments are painless. You may hear popping sounds (like knuckle cracking) as joints are adjusted. Some patients experience mild soreness after initial treatments, similar to starting a new exercise. Chiropractors adjust technique based on patient comfort and condition."
+      },
+      {
+        question: "Does insurance cover chiropractic care?",
+        answer: "Many health insurance plans cover chiropractic care, though visit limits may apply. Medicare covers chiropractic for specific conditions. Auto insurance covers treatment for accident injuries. Workers' comp covers work-related injuries. Check your plan's specifics and any referral requirements."
+      },
+      {
+        question: "How often do I need chiropractic treatment?",
+        answer: "Initial treatment for acute conditions might be 2-3 times weekly for several weeks, then tapering. Chronic conditions may need ongoing maintenance. Some people benefit from regular wellness visits (monthly or as needed). Your chiropractor will recommend a treatment plan based on your condition."
+      }
+    ],
+    relatedServices: ["physical-therapist", "massage-therapist", "personal-injury-lawyer"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "physical-therapist",
+    title: "Physical Therapist",
+    category: "health_wellness",
+    subcategory: "specialist",
+    layout: 5,
+    icon: "HeartPulse",
+    iconColor: "red",
+    metaTitle: "Physical Therapist in Navarro County, TX | Physical Therapy Corsicana",
+    metaDescription: "Physical therapists in Corsicana and Navarro County. Rehabilitation, injury recovery, pain management, and movement restoration.",
+    metaKeywords: "physical therapist Corsicana, physical therapy Navarro County, PT, rehabilitation, injury",
+    heroContent: `Physical therapy helps you recover from injuries, surgeries, and conditions that affect movement. Therapists use exercises, manual therapy, and education to restore function, reduce pain, and prevent future problems.`,
+    localContext: `Navarro County physical therapy clinics help patients recover from orthopedic surgeries, sports injuries, work injuries, and stroke. Physical therapists work with physicians and insurance companies to provide rehabilitation that gets you back to normal activities.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Physical Therapy Services",
+        content: \`**Orthopedic**
+- Post-surgical rehab
+- Joint replacement
+- Sports injuries
+- Sprains and strains
+- Fracture recovery
+
+**Neurological**
+- Stroke recovery
+- Brain injury
+- Balance disorders
+- Parkinson's
+- MS treatment
+
+**Other**
+- Back and neck pain
+- Work injuries
+- Chronic pain
+- Pediatric PT
+- Vestibular therapy\`
+      }
+    ],
+    faqs: [
+      {
+        question: "Do I need a referral for physical therapy?",
+        answer: "Texas allows direct access to physical therapists without a physician referral for up to 10 consecutive treatment days. After that, or for certain conditions, a referral is needed. Your insurance may have its own referral requirements. Check with both your insurance and the PT clinic."
+      },
+      {
+        question: "How long is physical therapy treatment?",
+        answer: "Treatment length varies by condition. Simple sprains might need 4-6 visits over a few weeks. Post-surgical rehab typically runs 8-12 weeks. Chronic conditions may need longer treatment. Therapists establish goals and timelines, adjusting as you progress."
+      },
+      {
+        question: "What should I wear to physical therapy?",
+        answer: "Wear comfortable, loose clothing that allows movement and provides access to the treatment area. Athletic wear works well. For leg/knee treatment, shorts are helpful. For shoulder issues, tank tops or loose shirts work best. Closed-toe athletic shoes are appropriate for most sessions."
+      }
+    ],
+    relatedServices: ["chiropractor", "massage-therapist", "orthopedic-surgeon"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "optometrist",
+    title: "Optometrist",
+    category: "health_wellness",
+    subcategory: "specialist",
+    layout: 1,
+    icon: "Eye",
+    iconColor: "blue",
+    metaTitle: "Optometrist in Navarro County, TX | Eye Doctor Corsicana",
+    metaDescription: "Optometrists in Corsicana and Navarro County. Eye exams, glasses, contacts, and treatment for eye conditions and vision problems.",
+    metaKeywords: "optometrist Corsicana, eye doctor Navarro County, eye exam, glasses, contacts",
+    heroContent: `Optometrists provide comprehensive eye care—from prescribing glasses and contacts to detecting and treating eye diseases. Regular eye exams protect your vision and can reveal other health conditions like diabetes and high blood pressure.`,
+    localContext: `Navarro County optometrists offer complete eye care services including exams, corrective lenses, and treatment for common eye conditions. Many offices include optical shops for convenient glasses selection and fitting.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Eye Care Services",
+        content: \`**Exams**
+- Comprehensive eye exams
+- Contact lens fitting
+- Pediatric eye exams
+- Vision screenings
+- Pre-operative exams
+
+**Corrective Lenses**
+- Glasses prescriptions
+- Contact lens prescriptions
+- Specialty contacts
+- Sunglasses
+
+**Treatment**
+- Dry eye treatment
+- Glaucoma management
+- Diabetic eye exams
+- Eye infections
+- Foreign body removal\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How often should I get an eye exam?",
+        answer: "Adults with no vision problems should have exams every 1-2 years. Those with glasses/contacts, over 60, or with health conditions like diabetes should have annual exams. Children should have exams before starting school and regularly thereafter. Your optometrist will recommend appropriate frequency."
+      },
+      {
+        question: "Does insurance cover eye exams?",
+        answer: "Vision insurance typically covers annual exams with copays of $10-$40, plus allowances for glasses or contacts. Medical insurance may cover exams for medical conditions (diabetes, glaucoma) differently than routine vision. Understand what your plan covers before your appointment."
+      },
+      {
+        question: "What's the difference between an optometrist and ophthalmologist?",
+        answer: "Optometrists (OD) provide primary eye care: exams, glasses/contacts, and treat many conditions. Ophthalmologists (MD) are medical doctors who perform surgery and treat complex eye diseases. Most people see optometrists for routine care and are referred to ophthalmologists when surgery or specialized treatment is needed."
+      }
+    ],
+    relatedServices: ["family-doctor", "pediatrician"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "therapist",
+    title: "Therapist / Counselor",
+    category: "health_wellness",
+    subcategory: "mental_health",
+    layout: 2,
+    icon: "MessageCircle",
+    iconColor: "purple",
+    metaTitle: "Therapist in Navarro County, TX | Counseling Corsicana",
+    metaDescription: "Therapists and counselors in Corsicana and Navarro County. Individual, couples, and family counseling for mental health and life challenges.",
+    metaKeywords: "therapist Corsicana, counselor Navarro County, mental health, counseling, therapy",
+    heroContent: `Everyone faces challenges that can benefit from professional support. Therapists and counselors provide a safe space to work through depression, anxiety, relationship issues, grief, and other life challenges. Seeking help is a sign of strength.`,
+    localContext: `Mental health services are available in Navarro County through private practices, community mental health centers, and telehealth. Finding the right therapist matters—many offer free consultations to ensure a good fit.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Counseling Services",
+        content: \`**Individual Therapy**
+- Depression
+- Anxiety
+- Trauma/PTSD
+- Grief and loss
+- Life transitions
+- Stress management
+
+**Relationship**
+- Couples counseling
+- Marriage therapy
+- Family therapy
+- Pre-marital counseling
+- Divorce support
+
+**Specialized**
+- Child and adolescent
+- Faith-based counseling
+- LGBTQ+ affirming
+- Career counseling\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I find the right therapist?",
+        answer: "Look for someone specializing in your concerns with credentials you're comfortable with (LPC, LMFT, LCSW, PhD). Many offer free phone consultations. The relationship matters—a good fit means you feel comfortable and understood. It's okay to try different therapists before committing."
+      },
+      {
+        question: "Does insurance cover therapy?",
+        answer: "Most health insurance covers mental health services, though copays and session limits vary. Some therapists don't accept insurance but provide superbills for out-of-network reimbursement. Community mental health centers offer sliding-scale fees. Ask about costs and payment options upfront."
+      },
+      {
+        question: "How long does therapy take?",
+        answer: "It depends on your concerns and goals. Some issues resolve in 6-12 sessions; others benefit from longer-term work. You're in control—discuss goals and progress with your therapist regularly. Therapy ends when you've achieved your goals and developed skills to maintain progress."
+      }
+    ],
+    relatedServices: ["psychiatrist", "marriage-counselor", "addiction-counselor"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "gym",
+    title: "Gym / Fitness Center",
+    category: "health_wellness",
+    subcategory: "fitness",
+    layout: 3,
+    icon: "Dumbbell",
+    iconColor: "orange",
+    metaTitle: "Gym in Navarro County, TX | Fitness Center Corsicana",
+    metaDescription: "Gyms and fitness centers in Corsicana and Navarro County. Workout facilities, group classes, personal training, and membership options.",
+    metaKeywords: "gym Corsicana, fitness center Navarro County, workout, exercise, health club",
+    heroContent: `Regular exercise improves health, energy, and mood. Navarro County gyms offer the equipment, classes, and motivation to reach your fitness goals, from casual exercisers to serious athletes.`,
+    localContext: `Fitness options in Navarro County range from national chains to locally-owned gyms, each with different equipment, classes, and atmospheres. Some focus on general fitness while others specialize in areas like strength training, group fitness, or CrossFit-style workouts.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Gym Facilities",
+        content: \`**Equipment**
+- Cardio machines
+- Free weights
+- Weight machines
+- Functional training
+- Stretching areas
+
+**Classes**
+- Group fitness
+- Spinning/cycling
+- Yoga and pilates
+- HIIT classes
+- Zumba
+
+**Services**
+- Personal training
+- Fitness assessments
+- Locker rooms
+- Showers
+- Childcare (some)\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a gym membership cost?",
+        answer: "Basic gym memberships in Navarro County run $20-$50/month. Premium facilities with more amenities and classes cost $50-$100+. Many gyms offer no-contract options, though contracts may have lower monthly rates. Watch for enrollment fees and cancellation policies."
+      },
+      {
+        question: "What should I look for in a gym?",
+        answer: "Consider location (you'll go more if it's convenient), hours, equipment you'll use, cleanliness, atmosphere, and whether classes are included. Tour during the time you'd typically work out to see how crowded it is. Try a guest pass before committing."
+      },
+      {
+        question: "Do I need personal training?",
+        answer: "Personal training isn't required but can help beginners learn proper form, those with specific goals create effective programs, and anyone needing accountability. Even a few sessions to learn the basics can be valuable. Trainers cost $40-$80+ per session, though packages offer discounts."
+      }
+    ],
+    relatedServices: ["personal-trainer", "yoga-instructor", "nutritionist", "martial-arts"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "nutritionist",
+    title: "Nutritionist / Dietitian",
+    category: "health_wellness",
+    subcategory: "fitness",
+    layout: 4,
+    icon: "Apple",
+    iconColor: "green",
+    metaTitle: "Nutritionist in Navarro County, TX | Dietitian Corsicana",
+    metaDescription: "Nutritionists and registered dietitians in Corsicana and Navarro County. Personalized nutrition plans, weight management, and medical nutrition therapy.",
+    metaKeywords: "nutritionist Corsicana, dietitian Navarro County, nutrition counseling, weight loss, diet",
+    heroContent: `Nutrition affects every aspect of health. Registered dietitians and nutritionists create personalized eating plans for weight management, medical conditions, sports performance, and general wellness. Evidence-based guidance helps you make lasting changes.`,
+    localContext: `Navarro County residents can access nutrition services through healthcare facilities, private practices, and telehealth. Registered dietitians work with individuals and families to address specific health goals and conditions.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Nutrition Services",
+        content: \`**Weight Management**
+- Weight loss programs
+- Healthy weight gain
+- Metabolic assessment
+- Behavior modification
+- Long-term maintenance
+
+**Medical Nutrition**
+- Diabetes management
+- Heart disease
+- Digestive disorders
+- Food allergies
+- Kidney disease
+
+**Specialty**
+- Sports nutrition
+- Pediatric nutrition
+- Eating disorders
+- Pregnancy nutrition
+- Senior nutrition\`
+      }
+    ],
+    faqs: [
+      {
+        question: "What's the difference between a nutritionist and dietitian?",
+        answer: "Registered Dietitians (RD or RDN) have completed accredited education, supervised practice, and passed a national exam—they're the clinical gold standard. \"Nutritionist\" is less regulated and may indicate various training levels. For medical conditions, seek an RD. Both can help with general wellness and weight management."
+      },
+      {
+        question: "Does insurance cover nutrition counseling?",
+        answer: "Insurance often covers medical nutrition therapy when provided by an RD for conditions like diabetes, kidney disease, or eating disorders. Coverage for weight loss or general wellness varies. Medicare covers certain nutrition services. Check your plan's specifics and get referrals if required."
+      },
+      {
+        question: "How often do I need to see a nutritionist?",
+        answer: "Initial consultations establish goals and create plans. Follow-up frequency depends on your situation—weekly visits help with accountability for major changes; monthly check-ins work for maintenance. Many people benefit from ongoing support even after reaching initial goals."
+      }
+    ],
+    relatedServices: ["personal-trainer", "weight-loss-clinic", "family-doctor"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "assisted-living",
+    title: "Assisted Living",
+    category: "health_wellness",
+    subcategory: "senior",
+    layout: 5,
+    icon: "Home",
+    iconColor: "rose",
+    metaTitle: "Assisted Living in Navarro County, TX | Senior Living Corsicana",
+    metaDescription: "Assisted living facilities in Corsicana and Navarro County. Senior housing with care services, meals, activities, and 24-hour support.",
+    metaKeywords: "assisted living Corsicana, senior living Navarro County, elderly care, retirement home",
+    heroContent: `Assisted living provides seniors who need some help with daily activities a supportive environment while maintaining independence. Residents receive meals, housekeeping, medication management, and personal care assistance in a community setting.`,
+    localContext: `Navarro County has assisted living options ranging from smaller residential facilities to larger communities. Families can choose settings that match their loved one's needs and preferences while staying close to home.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Assisted Living Services",
+        content: \`**Care Services**
+- Medication management
+- Bathing and dressing help
+- Mobility assistance
+- Health monitoring
+- 24-hour staff
+
+**Amenities**
+- Private apartments
+- Meals and dining
+- Housekeeping
+- Laundry service
+- Transportation
+
+**Activities**
+- Social programs
+- Exercise classes
+- Outings and events
+- Spiritual services
+- Entertainment\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does assisted living cost?",
+        answer: "Assisted living in Texas averages $3,500-$5,500/month depending on location, room type, and care level needed. Costs increase with higher care needs. Medicare doesn't cover assisted living; Medicaid has limited programs. Long-term care insurance and VA benefits may help cover costs."
+      },
+      {
+        question: "What's the difference between assisted living and nursing homes?",
+        answer: "Assisted living provides help with daily activities but not skilled medical care. Nursing homes (skilled nursing facilities) provide 24-hour medical care for those needing rehabilitation or complex medical management. Assisted living residents are generally more independent; nursing home residents need more intensive care."
+      },
+      {
+        question: "How do I choose an assisted living facility?",
+        answer: "Visit multiple facilities. Observe cleanliness, staff interactions, and resident engagement. Talk to residents and families. Ask about staff ratios, care levels available, and what's included in costs. Check state inspection reports. Trust your instincts about the environment and culture."
+      }
+    ],
+    relatedServices: ["nursing-home", "senior-care", "home-health-care"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "senior-care",
+    title: "Senior Home Care",
+    category: "health_wellness",
+    subcategory: "senior",
+    layout: 1,
+    icon: "Heart",
+    iconColor: "pink",
+    metaTitle: "Senior Home Care in Navarro County, TX | In-Home Care Corsicana",
+    metaDescription: "Senior home care services in Corsicana and Navarro County. In-home caregivers, companionship, and assistance for aging in place.",
+    metaKeywords: "senior home care Corsicana, in-home care Navarro County, elderly care, caregiver, aging in place",
+    heroContent: `Many seniors prefer to age in their own homes. Home care services provide assistance with daily activities, companionship, and monitoring while allowing seniors to maintain their independence and familiar surroundings.`,
+    localContext: `Navarro County families seeking to keep loved ones at home can access home care agencies and independent caregivers. Services range from a few hours of companion care to round-the-clock assistance, matching care levels to individual needs.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Home Care Services",
+        content: \`**Personal Care**
+- Bathing and hygiene
+- Dressing assistance
+- Medication reminders
+- Mobility help
+- Toileting assistance
+
+**Companion Care**
+- Companionship
+- Conversation
+- Light housekeeping
+- Meal preparation
+- Errands and shopping
+
+**Specialized**
+- Dementia care
+- Respite care
+- Post-hospital care
+- Overnight care
+- Live-in care\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does in-home care cost?",
+        answer: "Home care in Texas typically costs $18-$28 per hour depending on care level and agency vs. private hire. Full-time care (40+ hours weekly) runs $3,000-$5,000/month. Live-in care costs more. Medicare doesn't cover non-medical home care; Medicaid has limited programs. Long-term care insurance may help."
+      },
+      {
+        question: "Should I hire through an agency or directly?",
+        answer: "Agencies handle screening, payroll, and backup coverage if a caregiver is sick—easier but more expensive. Direct hiring costs less but makes you the employer responsible for taxes, insurance, and finding substitutes. Consider your capacity to manage employment relationships."
+      },
+      {
+        question: "How many hours of care does my loved one need?",
+        answer: "Start by assessing what help is needed: personal care, meal prep, medication reminders, companionship, or supervision. Some need just a few hours daily; others require 24-hour care. A care assessment from an agency can help determine appropriate care levels. Needs often increase over time."
+      }
+    ],
+    relatedServices: ["assisted-living", "home-health-care", "hospice"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "home-health-care",
+    title: "Home Health Care",
+    category: "health_wellness",
+    subcategory: "medical",
+    layout: 2,
+    icon: "Stethoscope",
+    iconColor: "blue",
+    metaTitle: "Home Health Care in Navarro County, TX | Medical Home Care Corsicana",
+    metaDescription: "Home health care services in Corsicana and Navarro County. Skilled nursing, physical therapy, and medical care in your home.",
+    metaKeywords: "home health care Corsicana, home nursing Navarro County, skilled nursing, home PT",
+    heroContent: `Home health care provides skilled medical services in your home—nursing, therapy, and other clinical care. Often following hospitalization or for chronic conditions, home health helps patients recover and manage health without facility stays.`,
+    localContext: `Home health agencies serve Navarro County residents who need medical care but prefer to receive it at home. These Medicare-certified services are typically ordered by physicians and covered by insurance when medically necessary.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Home Health Services",
+        content: \`**Skilled Nursing**
+- Wound care
+- IV therapy
+- Medication management
+- Disease education
+- Vital sign monitoring
+
+**Therapy**
+- Physical therapy
+- Occupational therapy
+- Speech therapy
+- Rehabilitation
+
+**Other Services**
+- Medical social work
+- Home health aides
+- Nutrition counseling
+- Chronic disease management\`
+      }
+    ],
+    faqs: [
+      {
+        question: "What's the difference between home health and home care?",
+        answer: "Home health provides skilled medical services (nursing, therapy) ordered by a physician—covered by Medicare when medically necessary. Home care provides non-medical assistance (personal care, companionship, housekeeping)—typically not covered by Medicare. Different needs may require one or both."
+      },
+      {
+        question: "Does Medicare cover home health care?",
+        answer: "Yes, Medicare covers home health when: you're homebound, need skilled nursing or therapy, a doctor orders services, and care is from a Medicare-certified agency. Coverage includes nursing, therapy, and some home health aide services. No copays for covered services."
+      },
+      {
+        question: "How do I get home health care started?",
+        answer: "Your physician orders home health based on medical need. The agency contacts you to schedule an assessment and begin services. Medicare requires periodic reauthorization. You can request specific agencies or ask your doctor for recommendations."
+      }
+    ],
+    relatedServices: ["senior-care", "physical-therapist", "hospice", "family-doctor"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
   }
 ];
 
