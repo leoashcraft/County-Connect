@@ -15,8 +15,9 @@
  *   SKIP_SEED - Set to 'true' to skip seeding
  */
 
+import { v4 as uuidv4 } from 'uuid';
 import { initDatabase, closeDatabase, dbQuery, getDatabaseType } from '../models/database.js';
-import { initSeed, closeSeed, bulkInsertEntities, insertSiteSetting, getEntityCount } from '../seeds/seed-helper.js';
+import { initSeed, closeSeed, bulkInsertEntities, insertSiteSetting, getEntityCount, getTimestamp } from '../seeds/seed-helper.js';
 
 // Import seed data
 import { churches } from '../seeds/data/churches.js';
@@ -122,11 +123,45 @@ async function runSeed() {
     await bulkInsertEntities('Page', pages);
   }
 
-  // 4. Site Settings
+  // 4. Site Settings - insert as SiteSetting entities
   if (siteSettings) {
     console.log('\nSeeding site settings...');
     for (const [key, value] of Object.entries(siteSettings)) {
-      await insertSiteSetting(key, value);
+      // Check if setting already exists
+      const dbType = getDatabaseType();
+      let existing;
+      if (dbType === 'mysql') {
+        existing = await dbQuery.get(
+          `SELECT id FROM entities WHERE entity_type = 'SiteSetting' AND JSON_UNQUOTE(JSON_EXTRACT(data, '$.setting_key')) = ?`,
+          [key]
+        );
+      } else {
+        existing = await dbQuery.get(
+          `SELECT id FROM entities WHERE entity_type = 'SiteSetting' AND json_extract(data, '$.setting_key') = ?`,
+          [key]
+        );
+      }
+      
+      if (existing) {
+        console.log(`  [SKIP] SiteSetting: ${key} (already exists)`);
+        continue;
+      }
+      
+      const id = uuidv4();
+      const now = getTimestamp();
+      const settingData = {
+        id,
+        setting_key: key,
+        setting_value: value,
+        created_date: now
+      };
+      
+      await dbQuery.run(
+        `INSERT INTO entities (id, entity_type, data, created_date, updated_date)
+         VALUES (?, ?, ?, ?, ?)`,
+        [id, 'SiteSetting', JSON.stringify(settingData), now, now]
+      );
+      console.log(`  [ADD] SiteSetting: ${key}`);
     }
   }
 

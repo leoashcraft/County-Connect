@@ -12,7 +12,7 @@ let initialized = false;
  * Get current timestamp in database-appropriate format
  * MySQL needs 'YYYY-MM-DD HH:MM:SS', SQLite accepts ISO 8601
  */
-function getTimestamp() {
+export function getTimestamp() {
   const now = new Date();
   if (getDatabaseType() === 'mysql') {
     return now.toISOString().slice(0, 19).replace('T', ' ');
