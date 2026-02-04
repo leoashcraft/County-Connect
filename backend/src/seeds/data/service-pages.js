@@ -1783,10 +1783,1754 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
     ],
     claimedBusinessId: null,
     status: "active"
-  }
+  },
 
-  // Additional pages would continue following this same pattern...
-  // The full file would contain all 245 service pages with unique, localized content
+  // ============================================
+  // MORE HOME SERVICES
+  // ============================================
+  {
+    slug: "roofing",
+    title: "Roofing",
+    category: "home_services",
+    subcategory: "exterior",
+    layout: 1,
+    icon: "Home",
+    iconColor: "amber",
+    metaTitle: "Roofing Contractors in Navarro County, TX | Roof Repair Corsicana",
+    metaDescription: "Professional roofing services in Corsicana and Navarro County. Storm damage repair, roof replacement, shingle and metal roofing for Texas weather.",
+    metaKeywords: "roofing Corsicana, roof repair Navarro County, storm damage roof, metal roofing Texas, shingle roof replacement",
+    heroContent: `Navarro County's position in North Central Texas means our roofs face everything from scorching summer heat to severe spring thunderstorms, occasional hail, and the rare ice storm. Finding a reliable roofing contractor who understands these challenges—and who will be here after the storm chasers leave—is essential for protecting your home.`,
+    localContext: `The Corsicana area averages 3-5 significant hail events per year, with spring storms bringing the highest risk. Our hot summers, with 80+ days above 90°F, cause thermal expansion and UV degradation that shortens roof life. Many Navarro County homes built in the 1970s-1990s are now on their second or third roof. The 2021 winter storm revealed how ice dams can damage roofs not designed for extended freezing conditions.`,
+    sections: [
+      {
+        type: "guide",
+        heading: "Roofing Options for Navarro County Homes",
+        content: \`**Asphalt Shingles (Most Common)**
+- 3-tab shingles: $3-$4/sq ft installed, 15-20 year lifespan
+- Architectural shingles: $4-$6/sq ft, 25-30 year lifespan
+- Impact-resistant shingles: $5-$7/sq ft, may reduce insurance premiums 5-10%
+- Best for: Budget-conscious homeowners, traditional aesthetics
+
+**Metal Roofing (Growing in Popularity)**
+- Standing seam: $10-$14/sq ft, 40-70 year lifespan
+- Metal shingles: $7-$10/sq ft, 30-50 year lifespan
+- Corrugated/R-panel: $5-$8/sq ft, 25-40 year lifespan
+- Best for: Longevity, energy efficiency, rural properties
+
+**Tile Roofing**
+- Concrete tile: $8-$12/sq ft, 50+ year lifespan
+- Clay tile: $12-$18/sq ft, 75+ year lifespan
+- Requires structural evaluation for weight
+- Best for: Spanish/Mediterranean style homes
+
+**Flat Roofing (Commercial/Some Residential)**
+- TPO membrane: $5-$8/sq ft
+- Modified bitumen: $4-$7/sq ft
+- Commonly used on additions and low-slope sections\`
+      },
+      {
+        type: "local_info",
+        heading: "Storm Damage and Insurance Claims in Navarro County",
+        content: \`After severe weather, Navarro County sees an influx of roofing contractors—some reputable, many not. Here's how to navigate storm damage repairs:
+
+**Documenting Damage**
+- Photograph damage from ground level before anyone walks on roof
+- Note date and time of storm event
+- Keep any debris (hailstones in freezer, fallen branches)
+- Document interior damage (water stains, leaks)
+
+**Insurance Process**
+- File claim promptly (most policies require reporting within 1 year)
+- Your insurance company will send an adjuster
+- Get independent estimates before accepting settlement
+- Understand your deductible (many policies have separate wind/hail deductibles)
+
+**Avoiding Storm Chaser Scams**
+- Never sign contracts with door-knockers immediately after storms
+- Verify Texas contractor license and local business address
+- Don't pay large deposits upfront
+- Be wary of "free roof" or "we'll pay your deductible" claims (insurance fraud)
+- Check references with other Navarro County homeowners\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a new roof cost in Navarro County?",
+        answer: "A new asphalt shingle roof on a typical 2,000 sq ft Navarro County home costs $8,000-$15,000 for architectural shingles. Metal roofing runs $15,000-$25,000. Factors affecting cost include roof pitch, accessibility, removal of old layers, and decking repairs. Most roofers offer free estimates."
+      },
+      {
+        question: "How do I know if my roof has hail damage?",
+        answer: "Signs include dented or cracked shingles, granules in gutters, dented metal vents/flashing, and damaged gutters. Hail damage isn't always visible from the ground. After a hailstorm, have a professional inspection—most reputable roofers offer free storm damage assessments."
+      },
+      {
+        question: "Will my homeowners insurance cover roof replacement?",
+        answer: "Texas homeowners insurance typically covers roof damage from covered perils (hail, wind, fallen trees) minus your deductible. Normal wear and aging are not covered. Some policies limit coverage on roofs over 10-15 years old. Review your policy and consider replacement before filing claims on older roofs."
+      }
+    ],
+    relatedServices: ["gutter", "siding", "exterior-painting", "home-inspector"],
+    externalResources: [
+      { name: "Texas Department of Insurance", url: "https://www.tdi.texas.gov/" },
+      { name: "Better Business Bureau - Dallas", url: "https://www.bbb.org/us/tx/dallas" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "pest-control",
+    title: "Pest Control",
+    category: "home_services",
+    subcategory: "pest",
+    layout: 2,
+    icon: "Bug",
+    iconColor: "green",
+    metaTitle: "Pest Control in Navarro County, TX | Exterminator Services Corsicana",
+    metaDescription: "Professional pest control in Corsicana and Navarro County. Treatment for fire ants, termites, roaches, rodents, mosquitoes, and seasonal Texas pests.",
+    metaKeywords: "pest control Corsicana, exterminator Navarro County, fire ant treatment, termite inspection, mosquito control Texas",
+    heroContent: `Central Texas is home to a diverse array of pests that thrive in our warm, humid climate. From fire ants that make outdoor living miserable to termites silently damaging structures, Navarro County homeowners face year-round pest pressure that requires professional management.`,
+    localContext: `Navarro County's agricultural surroundings and warm climate create ideal conditions for pests. Our location in the Cross Timbers ecoregion means we see both prairie and woodland pest species. The Richland Chambers Reservoir and numerous stock ponds support robust mosquito populations. Fire ants, introduced to Texas in the 1950s, have thoroughly colonized our area—expect them in every yard not actively treated.`,
+    sections: [
+      {
+        type: "guide",
+        heading: "Common Pests in Navarro County",
+        content: \`**Year-Round Pests**
+- Fire ants: Aggressive, painful stings, damage electrical equipment
+- German cockroaches: Indoor pest, multiplies rapidly, triggers allergies
+- American cockroaches: Large "water bugs," enter from outdoors
+- Rodents (mice, rats): Seek shelter in fall/winter, damage wiring and insulation
+- Spiders: Brown recluse and black widow are venomous species present locally
+
+**Seasonal Pests**
+- Termites: Swarm in spring (March-May), active year-round underground
+- Mosquitoes: Peak April-October, carry West Nile and other diseases
+- Wasps/hornets: Most aggressive late summer through fall
+- Fleas/ticks: Heaviest spring through fall, linked to wildlife and pets
+- Scorpions: Active warm months, striped bark scorpions common in rural areas
+
+**Agricultural/Rural Pests**
+- Cattle flies: Horn flies, stable flies affect livestock
+- Stored product pests: Weevils, moths in feed and grain
+- Wildlife: Raccoons, opossums, armadillos cause property damage\`
+      },
+      {
+        type: "services",
+        heading: "Pest Control Services Available",
+        content: \`**Residential Programs**
+- Quarterly pest control (most popular, $100-$150/visit)
+- Monthly service for severe infestations
+- One-time treatments for specific issues
+- New construction pre-treatments
+
+**Specialty Services**
+- Termite inspections (often required for home sales)
+- Termite treatment: Liquid barrier ($1,500-$3,000) or bait systems ($1,200-$2,500)
+- Fire ant yard treatments
+- Mosquito misting systems and recurring treatments
+- Bed bug heat treatments ($1,000-$3,000)
+- Wildlife exclusion and removal
+
+**Commercial Services**
+- Restaurant and food service pest management
+- Property management programs
+- Agricultural pest consulting\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does pest control cost in Navarro County?",
+        answer: "One-time treatments typically run $150-$300 depending on the pest and home size. Quarterly service plans average $100-$150 per visit ($400-$600 annually). Termite treatments cost $1,200-$3,000 depending on method and home size. Many companies offer free inspections and quotes."
+      },
+      {
+        question: "How often should I have pest control service?",
+        answer: "In Navarro County's climate, quarterly service provides effective year-round protection for most homes. Properties with heavy pest pressure, wooded lots, or previous infestations may benefit from bi-monthly service. New homes should establish a program within the first year."
+      },
+      {
+        question: "Are pest control chemicals safe for my family and pets?",
+        answer: "Modern pest control products, when applied by licensed professionals following label directions, pose minimal risk. Most treatments require only brief re-entry intervals (2-4 hours after drying). Inform your technician about pets, children, and any sensitivities. Many companies offer reduced-risk or organic options."
+      }
+    ],
+    relatedServices: ["termite-control", "mosquito-control", "wildlife-removal", "lawn-care"],
+    externalResources: [
+      { name: "Texas A&M AgriLife Extension - Urban Entomology", url: "https://extensionentomology.tamu.edu/" },
+      { name: "Texas Structural Pest Control Board", url: "https://www.spcb.texas.gov/" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "landscaping",
+    title: "Landscaping",
+    category: "home_services",
+    subcategory: "outdoor",
+    layout: 3,
+    icon: "Leaf",
+    iconColor: "green",
+    metaTitle: "Landscaping in Navarro County, TX | Landscape Design Corsicana",
+    metaDescription: "Professional landscaping services in Corsicana and Navarro County. Landscape design, installation, hardscaping, and drought-tolerant Texas native plants.",
+    metaKeywords: "landscaping Corsicana, landscape design Navarro County, Texas native plants, xeriscaping, hardscape installation",
+    heroContent: `Creating beautiful outdoor spaces in Navarro County requires understanding our unique growing conditions. From the Blackland Prairie clay soils to our hot, dry summers and unpredictable rainfall, successful landscaping here demands plants and designs suited to Central Texas.`,
+    localContext: `Navarro County straddles two ecoregions—the Blackland Prairies to the east and the Cross Timbers to the west—giving us access to diverse native plant palettes. Our USDA hardiness zone (8a, with winter lows to 10°F) supports a wide range of ornamentals. However, summer drought is the defining challenge: July and August typically see less than 2 inches of rain combined while temperatures exceed 100°F. Water-wise landscaping isn't just environmentally responsible—it's practical.`,
+    sections: [
+      {
+        type: "guide",
+        heading: "Landscaping Services for Navarro County Properties",
+        content: \`**Design Services**
+- Full landscape design and master planning
+- 3D renderings and plant selection
+- Irrigation system design
+- Outdoor living space planning
+
+**Installation Services**
+- Trees, shrubs, and perennial installation
+- Sod and seeding (Bermuda, St. Augustine, Zoysia)
+- Mulch and bed preparation
+- Boulder and decorative stone placement
+
+**Hardscaping**
+- Patios (flagstone, pavers, concrete)
+- Retaining walls
+- Outdoor kitchens
+- Fire pits and fireplaces
+- Walkways and driveways
+- Drainage solutions
+
+**Water Features**
+- Ponds and waterfalls
+- Fountains
+- Rainwater harvesting systems\`
+      },
+      {
+        type: "local_info",
+        heading: "Plants That Thrive in Navarro County",
+        content: \`**Native Trees**
+- Live Oak (Quercus virginiana) - Iconic Texas shade tree
+- Cedar Elm (Ulmus crassifolia) - Drought tolerant, yellow fall color
+- Texas Red Oak (Quercus buckleyi) - Brilliant red fall color
+- Bur Oak (Quercus macrocarpa) - Large, stately, tolerates clay
+- Pecan (Carya illinoinensis) - Texas state tree, edible nuts
+
+**Native Shrubs**
+- Texas Sage (Leucophyllum frutescens) - Purple blooms after rain
+- Yaupon Holly (Ilex vomitoria) - Evergreen, bird-friendly
+- Flame Acanthus (Anisacanthus quadrifidus) - Hummingbird magnet
+- Aromatic Sumac (Rhus aromatica) - Fall color, erosion control
+
+**Perennials and Grasses**
+- Black-eyed Susan (Rudbeckia hirta)
+- Salvia greggii (Autumn sage)
+- Gulf Muhly (Muhlenbergia capillaris) - Pink plumes in fall
+- Lindheimer's Muhly
+- Purple Coneflower (Echinacea purpurea)
+- Mealy Blue Sage (Salvia farinacea)\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does landscaping cost in Navarro County?",
+        answer: "Basic landscaping (beds, mulch, shrubs) runs $2,000-$5,000 for an average front yard. Full landscape installations with hardscaping typically cost $10,000-$30,000+. Design fees range from $500-$2,000 depending on scope. Most landscapers provide free consultations and estimates."
+      },
+      {
+        question: "When is the best time to plant in Navarro County?",
+        answer: "Fall (October-November) is ideal for trees, shrubs, and perennials—roots establish during mild weather before summer stress. Spring (March-April) is second best. Avoid planting in summer heat. Sod can be installed spring through early fall with proper irrigation."
+      },
+      {
+        question: "How can I reduce water use in my landscape?",
+        answer: "Choose native and adapted plants, group plants by water needs, use drip irrigation, apply 3-4 inches of mulch, and water deeply but infrequently. Consider rain gardens and rainwater harvesting. A well-designed xeriscape can reduce outdoor water use by 50-75%."
+      }
+    ],
+    relatedServices: ["lawn-care", "irrigation", "tree-service", "fence-builder", "outdoor-lighting"],
+    externalResources: [
+      { name: "Texas A&M AgriLife - Earth-Kind Landscaping", url: "https://aggie-horticulture.tamu.edu/earthkind/" },
+      { name: "Lady Bird Johnson Wildflower Center", url: "https://www.wildflower.org/" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "fence-builder",
+    title: "Fence Installation",
+    category: "home_services",
+    subcategory: "outdoor",
+    layout: 4,
+    icon: "Fence",
+    iconColor: "amber",
+    metaTitle: "Fence Installation in Navarro County, TX | Fencing Contractors Corsicana",
+    metaDescription: "Professional fence installation in Corsicana and Navarro County. Wood, chain link, iron, and ranch fencing for residential and agricultural properties.",
+    metaKeywords: "fence installation Corsicana, fencing contractor Navarro County, wood fence, ranch fencing, iron fence Texas",
+    heroContent: `Whether you need to contain livestock, secure your property, add privacy, or enhance curb appeal, quality fencing is essential for Navarro County properties. Our mix of suburban neighborhoods, rural acreages, and working ranches means diverse fencing needs—and local fence builders who understand them.`,
+    localContext: `Navarro County's Blackland Prairie clay soil presents unique challenges for fence installation. Posts set in this expansive soil can heave and shift without proper depth and concrete. Our hot summers weather wood rapidly, while winter freezes can crack improperly cured concrete. Wind loads from spring storms test fence integrity. Local fence contractors understand these conditions and build accordingly.`,
+    sections: [
+      {
+        type: "guide",
+        heading: "Fencing Options for Navarro County Properties",
+        content: \`**Residential Fencing**
+- Cedar privacy fence: $25-$35/linear foot, 15-20 year lifespan
+- Pine privacy fence: $18-$25/linear foot, 10-15 years with treatment
+- Ornamental iron/aluminum: $30-$50/linear foot, 20+ years
+- Chain link: $12-$20/linear foot, 15-20 years
+- Vinyl/PVC: $25-$40/linear foot, 20-30 years
+
+**Agricultural/Ranch Fencing**
+- Barbed wire (5-strand): $2-$4/linear foot
+- T-post and field fence: $4-$6/linear foot
+- Pipe fencing: $15-$25/linear foot
+- High-tensile wire: $1.50-$3/linear foot
+- Board fence (horse): $12-$20/linear foot
+
+**Specialty Fencing**
+- Pool fencing (code-compliant): $20-$35/linear foot
+- Deer fencing (8'+): $6-$10/linear foot
+- Electric fence: $1-$3/linear foot
+- Game fencing: $8-$15/linear foot\`
+      },
+      {
+        type: "local_info",
+        heading: "Fence Installation Considerations in Navarro County",
+        content: \`**Soil and Post Setting**
+In Navarro County's expansive clay, fence posts should be set 30-36 inches deep minimum. Concrete footings help stabilize posts but must cure properly. Some installers use gravel drainage beneath concrete to reduce heaving. Steel posts may be preferred in areas with severe soil movement.
+
+**Property Lines and Surveys**
+Before installing a fence, know your exact property boundaries. Navarro County Appraisal District has property maps, but for expensive fencing, consider a professional survey. Discuss fence placement with neighbors—Texas law generally requires fences to be set on or inside your property line.
+
+**HOA and City Requirements**
+- City of Corsicana: Permits typically not required for residential fences under 8 feet, but check setback requirements
+- HOA communities: May restrict fence height, style, and materials
+- Pool fencing: Must meet Texas Health and Safety Code requirements (4+ feet height, self-closing gates)
+
+**Utility Lines**
+Call 811 before digging! Navarro County has underground utilities, especially in developed areas. Hitting a gas or electric line is dangerous and expensive.\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a fence cost in Navarro County?",
+        answer: "A standard 6-foot cedar privacy fence costs $25-$35 per linear foot installed, so a typical 200 linear foot backyard fence runs $5,000-$7,000. Chain link is more affordable at $2,400-$4,000 for the same length. Ranch fencing varies widely—barbed wire may cost $1,000-$2,000 per mile while pipe fencing costs $15,000-$25,000 per mile."
+      },
+      {
+        question: "How long does fence installation take?",
+        answer: "A typical residential fence (150-250 linear feet) takes 1-3 days to install. Larger ranch fencing projects may take weeks. Weather delays are common in spring storm season. Most installers can provide scheduling estimates after assessing your property."
+      },
+      {
+        question: "Do I need a permit for a fence in Navarro County?",
+        answer: "In unincorporated Navarro County, permits are generally not required for standard fencing. Within Corsicana city limits, fences typically don't require permits unless over 8 feet tall, but setback rules apply. Always check with your HOA if applicable, and confirm requirements with local building departments for your specific location."
+      }
+    ],
+    relatedServices: ["deck-builder", "landscaping", "fencing-agricultural", "gate-installation"],
+    externalResources: [
+      { name: "Texas 811 - Call Before You Dig", url: "https://www.texas811.org/" },
+      { name: "Navarro County Appraisal District", url: "https://www.navarrocad.com/" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // PROFESSIONAL SERVICES
+  // ============================================
+  {
+    slug: "attorney",
+    title: "Attorney",
+    category: "professional_services",
+    subcategory: "legal",
+    layout: 5,
+    icon: "Scale",
+    iconColor: "slate",
+    metaTitle: "Attorney in Navarro County, TX | Lawyers in Corsicana",
+    metaDescription: "Find attorneys in Corsicana and Navarro County. Family law, criminal defense, personal injury, estate planning, and business law services.",
+    metaKeywords: "attorney Corsicana, lawyer Navarro County, family lawyer, criminal defense, personal injury attorney Texas",
+    heroContent: `Legal matters require experienced representation familiar with local courts, judges, and procedures. Navarro County attorneys handle cases in the 13th District Court, County Courts, and Justice of the Peace courts, bringing knowledge of local practice that out-of-area lawyers simply don't have.`,
+    localContext: `The Navarro County Courthouse in downtown Corsicana, built in 1905 and listed on the National Register of Historic Places, remains the center of local legal proceedings. The 13th Judicial District Court handles felonies and major civil matters, while County Courts at Law handle misdemeanors and smaller civil cases. Having an attorney familiar with these courts, their staff, and their procedures can significantly impact case outcomes.`,
+    sections: [
+      {
+        type: "guide",
+        heading: "Legal Services Available in Navarro County",
+        content: \`**Family Law**
+- Divorce (contested and uncontested)
+- Child custody and visitation
+- Child support modifications
+- Adoption
+- Prenuptial agreements
+- Protective orders
+
+**Criminal Defense**
+- DWI/DUI defense
+- Drug charges
+- Assault and violent crimes
+- Theft and property crimes
+- Probation violations
+- Expunctions and non-disclosures
+
+**Personal Injury**
+- Car accidents
+- Truck accidents
+- Workplace injuries
+- Premises liability
+- Product liability
+- Wrongful death
+
+**Estate Planning**
+- Wills and trusts
+- Powers of attorney
+- Probate administration
+- Estate litigation
+- Guardianship
+
+**Business Law**
+- Business formation
+- Contract review and drafting
+- Employment law
+- Real estate transactions
+- Business litigation\`
+      },
+      {
+        type: "local_info",
+        heading: "Navarro County Legal Resources",
+        content: \`**Court Information**
+- Navarro County Courthouse: 300 W. 3rd Ave, Corsicana
+- District Clerk: (903) 654-3035
+- County Clerk: (903) 654-3036
+
+**Legal Aid Resources**
+- Lone Star Legal Aid serves low-income Navarro County residents
+- Texas RioGrande Legal Aid for certain civil matters
+- Navarro County Bar Association lawyer referral
+
+**Attorney Fees**
+Local attorney fees vary by practice area:
+- Consultations: Many offer free initial consultations
+- Hourly rates: $150-$350/hour typical for Navarro County
+- Flat fees: Common for simple matters (uncontested divorce, simple wills)
+- Contingency: Personal injury cases typically 33-40% of recovery
+- Retainers: Criminal and family law often require upfront retainers\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I find a good attorney in Navarro County?",
+        answer: "Start with referrals from friends, family, or other professionals. Check the State Bar of Texas website to verify licensing and disciplinary history. Many attorneys offer free consultations—meet with several before deciding. Consider experience in your specific legal issue and comfort level with the attorney."
+      },
+      {
+        question: "How much does a lawyer cost in Corsicana?",
+        answer: "Navarro County attorneys typically charge $150-$350 per hour depending on experience and practice area. Simple matters like basic wills ($300-$800) or uncontested divorces ($1,500-$3,000) often have flat fees. Personal injury attorneys work on contingency (no fee unless you win). Criminal defense retainers typically start at $2,500-$5,000."
+      },
+      {
+        question: "When do I need an attorney vs. handling something myself?",
+        answer: "Consider an attorney for: any criminal charge, contested divorce or custody, significant personal injury, business disputes, estate planning beyond simple wills, and real estate issues. Small claims court (up to $20,000 in Texas) is designed for self-representation, and simple matters like name changes can often be done pro se with court assistance."
+      }
+    ],
+    relatedServices: ["family-lawyer", "criminal-lawyer", "personal-injury-lawyer", "estate-attorney", "notary"],
+    externalResources: [
+      { name: "State Bar of Texas - Find a Lawyer", url: "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer" },
+      { name: "Navarro County District Clerk", url: "https://www.co.navarro.tx.us/page/navarro.DistrictClerk" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "accountant",
+    title: "Accountant",
+    category: "professional_services",
+    subcategory: "financial",
+    layout: 1,
+    icon: "Calculator",
+    iconColor: "blue",
+    metaTitle: "Accountant in Navarro County, TX | CPA Services Corsicana",
+    metaDescription: "Professional accounting services in Corsicana and Navarro County. Tax preparation, bookkeeping, payroll, business accounting, and financial planning.",
+    metaKeywords: "accountant Corsicana, CPA Navarro County, tax preparation, bookkeeping, business accounting Texas",
+    heroContent: `Whether you're filing personal taxes, managing a small business, or need comprehensive financial planning, Navarro County accountants provide the expertise local residents and businesses need. From agricultural operations to oil and gas interests to Main Street retail, local CPAs understand the unique financial landscape of our community.`,
+    localContext: `Navarro County's economy includes significant agricultural operations, oil and gas production, small businesses, and commuters working in the Dallas-Fort Worth metroplex. This diversity creates complex tax situations—farm income, royalty payments, home office deductions, and small business accounting all require specialized knowledge. Local accountants familiar with Texas-specific issues like franchise tax and agricultural exemptions provide valuable expertise.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Accounting Services in Navarro County",
+        content: \`**Tax Services**
+- Individual tax preparation
+- Business tax returns (partnerships, S-corps, C-corps)
+- Farm and ranch tax returns
+- Oil and gas royalty reporting
+- Tax planning and strategy
+- IRS representation and audit support
+- Back taxes and amendments
+
+**Business Accounting**
+- Bookkeeping (monthly, quarterly)
+- Payroll processing
+- Financial statement preparation
+- Cash flow management
+- Budgeting and forecasting
+- Business entity selection
+- QuickBooks setup and training
+
+**Specialized Services**
+- Agricultural accounting
+- Estate and trust taxation
+- Non-profit accounting
+- New business setup
+- Business valuations
+- Forensic accounting\`
+      },
+      {
+        type: "guide",
+        heading: "Choosing an Accountant in Navarro County",
+        content: \`**Credentials to Look For**
+- CPA (Certified Public Accountant): Licensed by Texas State Board, required for audits and certain services
+- EA (Enrolled Agent): Federally licensed, specializes in tax matters
+- Bookkeeper: May not be licensed, suitable for basic bookkeeping
+
+**Questions to Ask**
+- What is your experience with my type of situation (farm, small business, oil/gas)?
+- How do you charge—hourly, flat fee, or value-based?
+- What is your availability during tax season?
+- Do you offer year-round tax planning or just annual preparation?
+- How do you handle IRS notices or audits?
+- What accounting software do you support?
+
+**Red Flags**
+- Promises of unusually large refunds
+- Fees based on refund percentage
+- Unwillingness to sign tax returns
+- No verifiable credentials\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does tax preparation cost in Navarro County?",
+        answer: "Simple individual returns (W-2 income, standard deduction) typically cost $150-$300. Returns with self-employment, rental income, or itemized deductions run $300-$600. Business returns range from $500 for simple sole proprietors to $1,500+ for complex corporations. Farm returns often fall in the $400-$800 range."
+      },
+      {
+        question: "What's the difference between a CPA, EA, and tax preparer?",
+        answer: "CPAs are state-licensed accountants who can perform audits, prepare taxes, and provide comprehensive financial services. EAs are federally licensed tax specialists who can represent clients before the IRS. Tax preparers may have no specific license—while many are competent, they cannot represent you in audits or perform certain services."
+      },
+      {
+        question: "When should I hire an accountant vs. using tax software?",
+        answer: "Consider professional help if you: own a business or have self-employment income, have rental properties, received an inheritance, have complex investments, own farm/ranch operations, have oil and gas royalties, or experienced major life changes (marriage, divorce, home purchase). Software works fine for simple W-2 returns with standard deductions."
+      }
+    ],
+    relatedServices: ["tax-preparer", "bookkeeper", "payroll-service", "financial-advisor"],
+    externalResources: [
+      { name: "Texas State Board of Public Accountancy", url: "https://www.tsbpa.texas.gov/" },
+      { name: "IRS Free File", url: "https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "realtor",
+    title: "Realtor",
+    category: "professional_services",
+    subcategory: "real_estate",
+    layout: 2,
+    icon: "Home",
+    iconColor: "rose",
+    metaTitle: "Realtor in Navarro County, TX | Real Estate Agents Corsicana",
+    metaDescription: "Find realtors in Corsicana and Navarro County. Experienced real estate agents for buying, selling homes, land, farms, and investment properties.",
+    metaKeywords: "realtor Corsicana, real estate agent Navarro County, homes for sale, land for sale, farm ranch real estate Texas",
+    heroContent: `Buying or selling property in Navarro County requires an agent who understands our diverse real estate market—from historic Corsicana homes to rural acreages, lakefront properties on Richland Chambers, and working farms and ranches. Local realtors bring market knowledge that online searches simply can't provide.`,
+    localContext: `Navarro County's real estate market includes everything from $80,000 starter homes to multi-million dollar ranches. Corsicana's historic districts feature turn-of-the-century homes, while newer subdivisions offer modern construction. Rural properties dominate much of the county, with land prices varying significantly based on water access, highway frontage, and agricultural value. Richland Chambers Reservoir, Texas's third-largest lake, drives a strong market for waterfront and water-view properties.`,
+    sections: [
+      {
+        type: "guide",
+        heading: "Real Estate Services in Navarro County",
+        content: \`**Buyer Services**
+- Property search and showing coordination
+- Market analysis and pricing guidance
+- Offer negotiation
+- Contract management
+- Closing coordination
+- First-time homebuyer guidance
+
+**Seller Services**
+- Comparative market analysis (CMA)
+- Pricing strategy
+- Professional photography and marketing
+- MLS listing and syndication
+- Showing management
+- Offer negotiation and closing
+
+**Specialized Markets**
+- Farm and ranch properties
+- Waterfront/lake properties (Richland Chambers)
+- Land and acreage
+- Commercial properties
+- Investment properties
+- Historic homes\`
+      },
+      {
+        type: "local_info",
+        heading: "Navarro County Real Estate Market Overview",
+        content: \`**Market Areas**
+- **Corsicana:** County seat, most services, schools, and amenities. Historic districts, established neighborhoods, and new construction.
+- **Kerens:** Small-town feel, more affordable, good schools
+- **Richland Chambers Area:** Lake properties, vacation homes, retirement community
+- **Rural Navarro County:** Farms, ranches, acreages, privacy
+
+**What Buyers Should Know**
+- Property taxes vary by location and exemptions
+- Many rural properties use well water and septic systems
+- Flood zones exist near creeks and the reservoir
+- Agricultural exemptions significantly reduce property taxes on qualifying land
+- Oil and gas mineral rights may or may not convey with property
+
+**What Sellers Should Know**
+- Proper pricing is crucial in our market
+- Professional photos dramatically increase showing requests
+- Disclosure requirements include known defects, flood history, HOA details
+- Foundation issues are common and should be addressed before listing\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do realtors charge in Navarro County?",
+        answer: "Real estate commissions in Navarro County typically total 5-6% of the sale price, split between buyer's and seller's agents. On a $250,000 home, that's $12,500-$15,000 total. Sellers typically pay the commission. Some agents offer reduced rates for certain situations. Buyer's agent services are generally free to buyers."
+      },
+      {
+        question: "Do I need a realtor to buy a home?",
+        answer: "While not legally required, a buyer's agent provides valuable services at no direct cost to you (the seller pays commissions). Agents provide market expertise, handle negotiations, coordinate inspections, and manage paperwork. For FSBO purchases or new construction, having your own representation is especially important."
+      },
+      {
+        question: "How long does it take to sell a house in Navarro County?",
+        answer: "Average days on market varies by price point and property type. Well-priced homes under $300,000 often sell within 30-60 days. Higher-priced homes and specialized properties (farms, commercial) may take longer. Market conditions fluctuate—your agent can provide current data for your specific situation."
+      }
+    ],
+    relatedServices: ["home-inspector", "mortgage-lender", "title-company", "appraiser", "property-manager"],
+    externalResources: [
+      { name: "Texas Real Estate Commission", url: "https://www.trec.texas.gov/" },
+      { name: "Navarro County Appraisal District", url: "https://www.navarrocad.com/" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // AUTOMOTIVE
+  // ============================================
+  {
+    slug: "auto-repair",
+    title: "Auto Repair",
+    category: "automotive",
+    subcategory: "repair",
+    layout: 3,
+    icon: "Car",
+    iconColor: "red",
+    metaTitle: "Auto Repair in Navarro County, TX | Mechanic Services Corsicana",
+    metaDescription: "Reliable auto repair in Corsicana and Navarro County. Full service mechanic for brakes, engines, transmissions, AC, diagnostics, and maintenance.",
+    metaKeywords: "auto repair Corsicana, mechanic Navarro County, car repair, brake service, engine repair, transmission service",
+    heroContent: `When your vehicle needs repair, you want a mechanic you can trust—someone who'll diagnose the actual problem, explain your options honestly, and get you back on the road safely. Navarro County auto repair shops serve everyone from daily commuters to farmers needing work trucks running for harvest season.`,
+    localContext: `With many Navarro County residents commuting to Dallas, Waco, or Tyler for work, reliable transportation is essential. Our hot summers are brutal on cooling systems and batteries, while dusty rural roads accelerate air filter and brake wear. Local mechanics understand these conditions and can recommend maintenance schedules suited to Texas driving.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Auto Repair Services Available",
+        content: \`**Engine Services**
+- Diagnostics and check engine light
+- Tune-ups and spark plug replacement
+- Timing belt/chain replacement
+- Engine repair and rebuilding
+- Fuel system service
+- Oil leaks and gasket replacement
+
+**Drivetrain**
+- Transmission service and repair
+- Clutch replacement
+- CV joints and axles
+- Differential service
+- Transfer case service (4WD)
+
+**Brake System**
+- Brake pad and rotor replacement
+- Brake line repair
+- ABS diagnostics
+- Brake fluid flush
+- Emergency brake adjustment
+
+**Cooling and AC**
+- Radiator repair and replacement
+- AC recharge and repair
+- Heater core service
+- Thermostat replacement
+- Cooling system flush
+
+**Electrical**
+- Battery testing and replacement
+- Alternator and starter repair
+- Electrical diagnostics
+- Lighting repairs
+- Power window/lock repair
+
+**Steering and Suspension**
+- Alignment
+- Shocks and struts
+- Ball joints and tie rods
+- Power steering service
+- Wheel bearing replacement\`
+      },
+      {
+        type: "guide",
+        heading: "Choosing an Auto Repair Shop",
+        content: \`**What to Look For**
+- ASE-certified technicians
+- Clear written estimates before work begins
+- Warranty on parts and labor
+- Clean, organized facility
+- Willingness to show you the problem
+- Transparent pricing
+
+**Questions to Ask**
+- What is your diagnostic fee, and does it apply to repairs?
+- Do you use OEM or aftermarket parts?
+- What warranty do you offer?
+- How long will the repair take?
+- Do you offer loaner vehicles or shuttle service?
+
+**Red Flags**
+- Pressure to decide immediately
+- Vague estimates or "it depends"
+- Unwillingness to explain the repair
+- Dirty, disorganized shop
+- No written documentation\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does auto repair cost in Navarro County?",
+        answer: "Labor rates in Navarro County typically run $80-$120 per hour, lower than Dallas-area shops. Common repairs: oil change $40-$80, brake pads $150-$300 per axle, alternator $300-$600, transmission service $150-$300. Major repairs like engine or transmission rebuild range from $2,000-$5,000+. Always get written estimates."
+      },
+      {
+        question: "How do I know if a mechanic is honest?",
+        answer: "Trustworthy shops: provide written estimates, explain problems in understandable terms, show you worn parts, don't pressure you, have verifiable reviews, and are willing to let you get a second opinion. Ask friends and neighbors for recommendations—reputation matters in a community like Navarro County."
+      },
+      {
+        question: "Should I go to the dealer or an independent shop?",
+        answer: "Dealers have factory training and equipment but charge $150-$200+ per hour. Independent shops offer competitive pricing and often equal quality. For warranty work or complex electronic issues, dealers may be necessary. For routine maintenance and common repairs, a trusted independent shop typically saves 30-50%."
+      }
+    ],
+    relatedServices: ["oil-change", "brake-repair", "transmission", "towing", "tire-shop"],
+    externalResources: [
+      { name: "ASE - Automotive Service Excellence", url: "https://www.ase.com/" },
+      { name: "Texas DMV", url: "https://www.txdmv.gov/" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "towing",
+    title: "Towing Service",
+    category: "automotive",
+    subcategory: "services",
+    layout: 4,
+    icon: "Truck",
+    iconColor: "orange",
+    metaTitle: "Towing Service in Navarro County, TX | 24/7 Tow Truck Corsicana",
+    metaDescription: "24/7 towing services in Corsicana and Navarro County. Emergency towing, roadside assistance, flatbed towing, and heavy duty towing for all vehicles.",
+    metaKeywords: "towing Corsicana, tow truck Navarro County, 24 hour towing, roadside assistance, flatbed towing Texas",
+    heroContent: `When your vehicle breaks down on I-45, Highway 31, or a rural county road, you need a towing company that responds quickly and handles your vehicle with care. Navarro County towing services provide 24/7 emergency response for everything from passenger cars to heavy equipment.`,
+    localContext: `Navarro County's location along I-45 between Dallas and Houston means significant traffic and frequent needs for emergency towing. Rural roads throughout the county can leave stranded motorists far from help, making responsive local towing services essential. Major highways 287, 31, and 22 also see regular demand for towing and roadside assistance.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Towing Services Available",
+        content: \`**Standard Towing**
+- Local towing (within Navarro County)
+- Long-distance towing
+- Flatbed towing (recommended for AWD, luxury, lowered vehicles)
+- Wheel-lift towing
+- Dollies for front/rear-wheel drive
+
+**Heavy Duty Towing**
+- Semi-trucks and trailers
+- Buses and RVs
+- Construction equipment
+- Agricultural equipment
+- Load shifts and recovery
+
+**Roadside Assistance**
+- Battery jump starts
+- Flat tire changes
+- Fuel delivery
+- Lockout service
+- Winch-outs (stuck vehicles)
+
+**Specialty Services**
+- Accident recovery
+- Impound services
+- Motorcycle towing
+- Classic car transport
+- Equipment hauling\`
+      },
+      {
+        type: "guide",
+        heading: "What to Do When You Need a Tow",
+        content: \`**If You Break Down**
+1. Pull off the road as far as safely possible
+2. Turn on hazard lights
+3. Set up reflective triangles if you have them
+4. Call for assistance from a safe location
+5. Stay with your vehicle unless it's dangerous
+
+**Information to Provide**
+- Your exact location (highway, mile marker, cross streets)
+- Vehicle type, make, model, and color
+- What happened (won't start, flat tire, accident, etc.)
+- Where you want vehicle towed
+- Your phone number
+
+**Insurance and Roadside Coverage**
+- Many insurance policies include towing coverage
+- AAA and similar memberships cover towing
+- Credit cards sometimes include roadside assistance
+- Check your coverage limits and preferred providers\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does towing cost in Navarro County?",
+        answer: "Local towing (within 10-15 miles) typically costs $75-$150 for standard vehicles. Longer distances add $3-$5 per mile. After-hours calls may include $50+ extra. Heavy-duty towing starts around $200-$300. Roadside assistance (jump start, tire change, lockout) usually runs $50-$100. Always confirm pricing before agreeing to service."
+      },
+      {
+        question: "How long will it take for a tow truck to arrive?",
+        answer: "In Corsicana and along major highways, response time is typically 30-60 minutes. Rural areas of Navarro County may take longer, especially during peak times or bad weather. Ask for an estimated arrival time when you call, and inform them if you're in an unsafe location."
+      },
+      {
+        question: "Should I use a flatbed or wheel-lift tow truck?",
+        answer: "Flatbed towing is recommended for: AWD/4WD vehicles, lowered or sports cars, luxury vehicles, motorcycles, vehicles with transmission problems, and long-distance towing. Wheel-lift is adequate for most standard front or rear-wheel drive vehicles for short local tows."
+      }
+    ],
+    relatedServices: ["roadside-assistance", "auto-repair", "tire-shop", "auto-body"],
+    externalResources: [
+      { name: "Texas Department of Motor Vehicles", url: "https://www.txdmv.gov/" },
+      { name: "Texas Department of Licensing and Regulation - Tow Companies", url: "https://www.tdlr.texas.gov/towing/towing.htm" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // HEALTH & WELLNESS
+  // ============================================
+  {
+    slug: "dentist",
+    title: "Dentist",
+    category: "health_wellness",
+    subcategory: "dental",
+    layout: 5,
+    icon: "Smile",
+    iconColor: "sky",
+    metaTitle: "Dentist in Navarro County, TX | Dental Care Corsicana",
+    metaDescription: "Find dentists in Corsicana and Navarro County. Family dentistry, cleanings, fillings, crowns, implants, and emergency dental care for all ages.",
+    metaKeywords: "dentist Corsicana, dental care Navarro County, family dentist, teeth cleaning, dental implants, emergency dentist",
+    heroContent: `Good dental health is essential for overall well-being, and finding a dentist you trust makes all the difference. Navarro County dental practices offer comprehensive care for the whole family, from children's first dental visits to complex restorative work for adults.`,
+    localContext: `Navarro County residents have access to a range of dental providers in Corsicana and surrounding communities. Many practices accept Medicaid and CHIP for children's dental care, and community health resources help connect uninsured residents with affordable options. Local dentists understand the importance of building long-term relationships with patients and their families.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Dental Services Available",
+        content: \`**Preventive Care**
+- Routine cleanings and exams
+- Digital X-rays
+- Fluoride treatments
+- Dental sealants
+- Oral cancer screenings
+- Gum disease prevention
+
+**Restorative Dentistry**
+- Fillings (composite and amalgam)
+- Crowns and bridges
+- Root canal therapy
+- Dentures and partials
+- Dental implants
+- Extractions
+
+**Cosmetic Dentistry**
+- Teeth whitening
+- Veneers
+- Bonding
+- Smile makeovers
+- Invisalign/clear aligners
+
+**Specialty Services**
+- Pediatric dentistry
+- Periodontal treatment
+- TMJ/jaw pain treatment
+- Sleep apnea appliances
+- Sedation dentistry
+- Emergency dental care\`
+      },
+      {
+        type: "guide",
+        heading: "Choosing a Dentist in Navarro County",
+        content: \`**What to Consider**
+- Location and office hours
+- Insurance acceptance
+- Payment plans available
+- Experience with your specific needs
+- Comfort with children (if applicable)
+- Emergency availability
+
+**Your First Visit**
+- Bring insurance cards and ID
+- Arrive early to complete paperwork
+- List current medications
+- Note any dental concerns or fears
+- Ask about treatment philosophy
+
+**Dental Insurance in Texas**
+- Many employers offer dental insurance
+- Individual plans available through marketplace
+- Medicaid covers children's dental (CHIP)
+- Adult Medicaid dental is limited
+- Dental discount plans are an alternative to insurance\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a dental visit cost without insurance?",
+        answer: "A routine cleaning and exam in Navarro County typically costs $150-$300 without insurance. X-rays add $75-$150. Fillings run $150-$400 depending on size and material. Crowns cost $800-$1,500. Root canals range from $700-$1,200. Many practices offer payment plans and discounts for uninsured patients."
+      },
+      {
+        question: "How often should I go to the dentist?",
+        answer: "Most people should have dental checkups and cleanings every 6 months. Those with gum disease may need visits every 3-4 months. People at low risk for dental problems might extend to annual visits with their dentist's approval. Children should start dental visits by age 1 or when first teeth appear."
+      },
+      {
+        question: "What should I do for a dental emergency?",
+        answer: "For severe pain, swelling, or knocked-out teeth, call your dentist immediately—many have after-hours emergency lines. For a knocked-out permanent tooth, keep it moist (in milk or saliva) and get to a dentist within 30 minutes if possible. For after-hours emergencies, some Navarro County dentists offer emergency service, or visit an ER for severe infections."
+      }
+    ],
+    relatedServices: ["orthodontist", "oral-surgeon", "pediatric-dentist", "teeth-whitening"],
+    externalResources: [
+      { name: "Texas State Board of Dental Examiners", url: "https://www.tsbde.texas.gov/" },
+      { name: "ADA - Find a Dentist", url: "https://www.ada.org/en/find-a-dentist" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "chiropractor",
+    title: "Chiropractor",
+    category: "health_wellness",
+    subcategory: "specialist",
+    layout: 1,
+    icon: "Activity",
+    iconColor: "green",
+    metaTitle: "Chiropractor in Navarro County, TX | Chiropractic Care Corsicana",
+    metaDescription: "Chiropractic care in Corsicana and Navarro County. Back pain relief, spinal adjustments, neck pain, sciatica, and sports injury treatment.",
+    metaKeywords: "chiropractor Corsicana, chiropractic Navarro County, back pain relief, spinal adjustment, neck pain treatment",
+    heroContent: `Chiropractic care offers a drug-free approach to treating back pain, neck pain, headaches, and other musculoskeletal conditions. Navarro County chiropractors serve patients seeking relief from chronic pain, recovery from injuries, and improved overall function.`,
+    localContext: `Many Navarro County residents work in physically demanding jobs—agriculture, oil and gas, construction, and manufacturing—that take a toll on the body. Others spend long hours commuting to Dallas-Fort Worth. Chiropractors here understand these common causes of back and neck problems and can recommend both treatment and preventive measures suited to local lifestyles.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Chiropractic Services Available",
+        content: \`**Core Chiropractic Care**
+- Spinal adjustments/manipulation
+- Extremity adjustments
+- Postural analysis and correction
+- Spinal decompression
+- Flexion-distraction technique
+
+**Common Conditions Treated**
+- Lower back pain
+- Neck pain
+- Headaches and migraines
+- Sciatica
+- Herniated/bulging discs
+- Whiplash injuries
+- Shoulder, hip, and knee pain
+- Carpal tunnel syndrome
+
+**Additional Services**
+- Massage therapy
+- Physical therapy modalities
+- Nutritional counseling
+- Exercise rehabilitation
+- Ergonomic assessment
+- Work injury treatment
+- Auto accident injuries\`
+      },
+      {
+        type: "guide",
+        heading: "What to Expect at a Chiropractic Visit",
+        content: \`**First Visit**
+- Health history review
+- Physical examination
+- Postural and movement assessment
+- X-rays if needed
+- Discussion of findings
+- Initial treatment (often)
+- Treatment plan recommendation
+
+**Typical Treatment Session**
+- Brief review of progress
+- Specific adjustments as needed
+- May include soft tissue work
+- Therapeutic exercises
+- Home care instructions
+- Usually 15-30 minutes
+
+**Treatment Frequency**
+Initial care for acute conditions may require 2-3 visits per week. As symptoms improve, frequency typically reduces to weekly, then bi-weekly, then monthly maintenance. Your chiropractor will recommend a plan based on your specific condition.\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a chiropractor cost in Navarro County?",
+        answer: "Initial consultations and exams typically run $75-$150. Regular adjustment visits cost $40-$75. X-rays, if needed, add $75-$200. Many chiropractors accept insurance, including most PPOs and some Medicare plans. Many also offer affordable cash rates and package pricing for treatment plans."
+      },
+      {
+        question: "Is chiropractic care safe?",
+        answer: "Chiropractic care has an excellent safety record when performed by licensed practitioners. Serious complications are rare. Common side effects like temporary soreness or fatigue are typically mild and short-lived. Discuss any concerns with your chiropractor, especially if you have osteoporosis, spinal abnormalities, or take blood thinners."
+      },
+      {
+        question: "How many visits will I need?",
+        answer: "Treatment length varies by condition. Acute problems like a recent injury might resolve in 6-12 visits. Chronic conditions or long-standing postural issues may require more extensive care. Many patients choose periodic maintenance visits even after symptoms resolve. Your chiropractor will provide a specific recommendation after examination."
+      }
+    ],
+    relatedServices: ["massage-therapist", "physical-therapist", "acupuncture", "personal-trainer"],
+    externalResources: [
+      { name: "Texas Board of Chiropractic Examiners", url: "https://www.tbce.state.tx.us/" },
+      { name: "American Chiropractic Association", url: "https://www.acatoday.org/" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // AGRICULTURE & RURAL
+  // ============================================
+  {
+    slug: "veterinarian",
+    title: "Veterinarian",
+    category: "agriculture_rural",
+    subcategory: "animal",
+    layout: 2,
+    icon: "Heart",
+    iconColor: "red",
+    metaTitle: "Veterinarian in Navarro County, TX | Pet & Animal Vet Corsicana",
+    metaDescription: "Veterinary services in Corsicana and Navarro County. Small animal vet care, pet surgery, vaccinations, dental, and emergency animal care.",
+    metaKeywords: "veterinarian Corsicana, vet Navarro County, animal hospital, pet care, dog vet, cat vet, pet vaccinations",
+    heroContent: `Your pets are family members who deserve quality healthcare. Navarro County veterinarians provide comprehensive care for dogs, cats, and other companion animals, from routine wellness visits to emergency care and specialized treatments.`,
+    localContext: `Navarro County pet owners have access to both small animal clinics in Corsicana and mixed-practice veterinarians who can treat pets alongside farm animals. Rural properties often have both companion animals and livestock, making versatile veterinary care valuable. Local vets are familiar with regional health concerns including heartworm (requiring year-round prevention in Texas), tick-borne diseases, and rattlesnake encounters.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Veterinary Services Available",
+        content: \`**Wellness Care**
+- Annual exams
+- Vaccinations (rabies, distemper, parvo, etc.)
+- Parasite prevention (heartworm, flea, tick)
+- Microchipping
+- Nutritional counseling
+- Senior pet care
+
+**Medical Services**
+- Illness diagnosis and treatment
+- Laboratory testing
+- Digital X-rays
+- Ultrasound
+- Dental cleanings and extractions
+- Allergy treatment
+- Chronic disease management
+
+**Surgical Services**
+- Spay and neuter
+- Mass/tumor removal
+- Orthopedic surgery
+- Soft tissue surgery
+- Emergency surgery
+- Dental surgery
+
+**Additional Services**
+- Boarding
+- Grooming
+- Prescription diets
+- Pharmacy
+- End of life care
+- Pet cremation services\`
+      },
+      {
+        type: "guide",
+        heading: "Pet Health Essentials for Navarro County",
+        content: \`**Year-Round Prevention (Essential in Texas)**
+- Heartworm prevention: Monthly, year-round—Texas mosquitoes transmit heartworm 12 months a year
+- Flea and tick prevention: Year-round, especially important with our mild winters
+- Intestinal parasite prevention: Regular deworming and fecal testing
+
+**Vaccinations**
+Core vaccines (all pets):
+- Rabies (required by Texas law)
+- Distemper/parvo combo (dogs)
+- FVRCP (cats)
+
+Lifestyle vaccines (based on risk):
+- Bordetella (dogs in contact with other dogs)
+- Leptospirosis (dogs with outdoor/water exposure)
+- Rattlesnake vaccine (dogs in rural areas)
+- Feline leukemia (outdoor cats)
+
+**Common Local Health Concerns**
+- Heartworm disease (prevalent in Texas)
+- Tick diseases (Ehrlichia, Rocky Mountain Spotted Fever)
+- Rattlesnake bites (especially rural areas)
+- Foxtails and grass awns (seasonal)
+- Heat-related illness (summer)\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a vet visit cost in Navarro County?",
+        answer: "Wellness exam visits typically cost $50-$80. Annual vaccines run $75-$150 depending on which are needed. Spay/neuter surgery costs $200-$500 depending on pet size and sex. Emergency visits start around $100-$150 for the exam plus treatment costs. Many vets offer wellness plans to spread costs throughout the year."
+      },
+      {
+        question: "How often should my pet see the vet?",
+        answer: "Healthy adult pets should have annual wellness exams. Puppies and kittens need visits every 3-4 weeks until 16 weeks old for vaccinations. Senior pets (7+ years) benefit from twice-yearly exams. Pets with chronic conditions may need more frequent monitoring."
+      },
+      {
+        question: "What should I do if my pet has an emergency after hours?",
+        answer: "Some Navarro County vets offer after-hours emergency service—check with your regular vet. For serious emergencies (trauma, difficulty breathing, suspected poisoning, bloat), the nearest 24-hour emergency hospital may be in the Dallas-Fort Worth area. Keep emergency vet contact information readily available."
+      }
+    ],
+    relatedServices: ["large-animal-vet", "pet-groomer", "pet-boarding", "dog-trainer", "pet-store"],
+    externalResources: [
+      { name: "Texas State Board of Veterinary Medical Examiners", url: "https://www.veterinary.texas.gov/" },
+      { name: "ASPCA Animal Poison Control", url: "https://www.aspca.org/pet-care/animal-poison-control" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "large-animal-vet",
+    title: "Large Animal Vet",
+    category: "agriculture_rural",
+    subcategory: "animal",
+    layout: 3,
+    icon: "Heart",
+    iconColor: "amber",
+    metaTitle: "Large Animal Vet in Navarro County, TX | Livestock Veterinarian",
+    metaDescription: "Large animal veterinary services in Navarro County. Cattle, horse, sheep, and goat vet care. Farm calls, herd health, reproduction, and emergency livestock care.",
+    metaKeywords: "large animal vet Navarro County, cattle vet, horse vet, livestock veterinarian, farm vet Corsicana, equine vet",
+    heroContent: `Agriculture is central to Navarro County's economy, and healthy livestock is essential for productive operations. Large animal veterinarians provide the herd health management, emergency care, and reproductive services that cattle ranchers, horse owners, and other livestock producers need.`,
+    localContext: `Navarro County's agricultural sector includes significant cattle operations, horse properties, and smaller livestock operations raising sheep, goats, and pigs. Local large animal vets understand the specific challenges of Central Texas ranching—seasonal parasite pressure, heat stress, and diseases prevalent in our region. They provide both routine herd health and emergency farm calls throughout the county.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Large Animal Veterinary Services",
+        content: \`**Cattle Services**
+- Herd health programs
+- Vaccination protocols
+- Pregnancy checking
+- Calving assistance
+- Castration and dehorning
+- Treatment of sick animals
+- Nutrition consulting
+- Pre-purchase exams
+
+**Equine Services**
+- Wellness exams and vaccinations
+- Dental floating
+- Lameness evaluation
+- Pre-purchase exams
+- Emergency colic treatment
+- Wound care
+- Reproductive services
+- Coggins testing
+
+**Small Ruminant (Sheep/Goat)**
+- Flock health programs
+- Parasite management
+- Foot rot treatment
+- Kidding/lambing assistance
+- Castration and disbudding
+
+**Additional Services**
+- Health certificates for transport
+- Brand inspection coordination
+- 4-H and FFA project animal care
+- Euthanasia services\`
+      },
+      {
+        type: "guide",
+        heading: "Livestock Health Management in Navarro County",
+        content: \`**Vaccination Schedules**
+Cattle:
+- Calves: Blackleg/7-way at branding/weaning, boosted at weaning
+- Breeding females: Pre-breeding reproductive vaccines
+- Bulls: Annual fertility testing
+
+Horses:
+- Core vaccines: Rabies, Tetanus, EEE/WEE, West Nile (annual)
+- Risk-based: Influenza, Rhino, Strangles (as needed)
+- Coggins test required for travel/events
+
+**Parasite Control**
+- Strategic deworming based on fecal testing
+- Pasture rotation when possible
+- Avoid overuse of dewormers (resistance concerns)
+
+**Heat Stress Prevention**
+Texas summers are brutal on livestock:
+- Provide shade and ample water
+- Handle cattle in early morning only
+- Watch for signs of heat stress
+- Consider summer breeding programs carefully\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a large animal vet farm call cost?",
+        answer: "Farm call fees in Navarro County typically run $50-$100 plus mileage, on top of treatment costs. Routine procedures like pregnancy checking cost $5-$15 per head. Emergency calls, especially after hours, cost significantly more. Many vets offer herd health programs with reduced per-head costs for scheduled visits."
+      },
+      {
+        question: "How often should cattle be checked by a vet?",
+        answer: "Most commercial cattle operations should have at least two scheduled vet visits per year: pre-breeding for cows and bulls, and pre-weaning for calves. Seedstock operations and horses typically need more frequent care. Sick animals need prompt attention—don't wait for scheduled visits."
+      },
+      {
+        question: "Do large animal vets also treat small animals?",
+        answer: "Many rural large animal vets are mixed-practice, treating both livestock and pets. This is convenient for farm families. However, some specialize exclusively in large animals or equine. Ask about their practice focus when selecting a vet."
+      }
+    ],
+    relatedServices: ["veterinarian", "farrier", "feed-store", "cattle-hauling", "hay-service"],
+    externalResources: [
+      { name: "Texas Animal Health Commission", url: "https://www.tahc.texas.gov/" },
+      { name: "Texas A&M AgriLife Extension - Beef", url: "https://beef.tamu.edu/" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "feed-store",
+    title: "Feed Store",
+    category: "agriculture_rural",
+    subcategory: "farm",
+    layout: 4,
+    icon: "Wheat",
+    iconColor: "amber",
+    metaTitle: "Feed Store in Navarro County, TX | Livestock Feed & Farm Supply",
+    metaDescription: "Feed stores in Corsicana and Navarro County. Livestock feed, horse feed, pet food, hay, farm supplies, and ranch equipment for local agriculture.",
+    metaKeywords: "feed store Corsicana, livestock feed Navarro County, horse feed, cattle feed, farm supply, hay supplier",
+    heroContent: `Feed stores are the backbone of rural Navarro County, providing everything from livestock nutrition to fencing supplies, pet food, and gardening needs. Whether you're running a cattle operation, boarding horses, or raising backyard chickens, local feed stores offer products and expertise suited to Central Texas agriculture.`,
+    localContext: `Navarro County's feed stores serve a diverse customer base—from large cattle operations to hobby farms to suburban pet owners. Local stores stock products appropriate for our regional conditions, including feeds formulated for Texas heat stress and supplements addressing local forage deficiencies. Many also serve as community gathering spots where farmers exchange information and advice.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Products and Services Available",
+        content: \`**Livestock Feed**
+- Cattle feed and supplements (range cubes, protein tubs, minerals)
+- Horse feed (performance, senior, complete feeds)
+- Sheep and goat feed
+- Pig feed
+- Poultry feed (layer, broiler, game bird)
+- Rabbit feed
+
+**Pet Food**
+- Premium dog and cat food
+- Bird seed and supplies
+- Fish and aquarium supplies
+- Small animal food
+
+**Hay and Forage**
+- Coastal bermuda (square and round bales)
+- Alfalfa
+- Timothy (for horses)
+- Hay delivery available (often)
+
+**Farm Supplies**
+- Fencing (wire, T-posts, panels)
+- Water troughs and tanks
+- Feeders
+- Medications and vaccines
+- Fly control
+- Grooming supplies
+- Tack and horse supplies
+
+**Additional Products**
+- Garden and lawn supplies
+- Work clothing and boots
+- Wildlife feed (deer corn, feeders)
+- Propane exchange\`
+      },
+      {
+        type: "guide",
+        heading: "Choosing the Right Feed",
+        content: \`**Cattle Nutrition Basics**
+- Range cubes (20% protein) for winter supplementation
+- Protein tubs for free-choice grazing supplement
+- Complete feeds for confined cattle
+- Mineral supplements (loose or block) year-round
+- Consider selenium supplementation (Texas soils are often deficient)
+
+**Horse Feed Selection**
+- Match feed to workload (maintenance vs. performance)
+- Senior feeds for older horses
+- Complete feeds for horses with dental issues
+- Limit grain, maximize quality forage
+- Always introduce feed changes gradually
+
+**Poultry Feed**
+- Layer feed (16% protein) for laying hens
+- Starter feed for chicks
+- Grower feed for pullets
+- Scratch grains as treat only (not complete nutrition)
+
+**Feed Storage Tips**
+- Store in cool, dry location
+- Use within 60 days for vitamin potency
+- Protect from rodents and moisture
+- Check for mold before feeding\`
+      }
+    ],
+    faqs: [
+      {
+        question: "Do feed stores offer delivery?",
+        answer: "Many Navarro County feed stores offer delivery for large orders, especially hay and bulk feed. Delivery fees vary based on distance and order size. Some offer free delivery over certain amounts. Call ahead to arrange delivery and confirm pricing."
+      },
+      {
+        question: "How do I know what feed my animals need?",
+        answer: "Feed store staff can provide general guidance, but consult your veterinarian or agricultural extension agent for specific nutritional plans. Factors include animal age, production stage (growing, lactating, etc.), available forage quality, and health status. Many feed companies also have nutritionists available for consultation."
+      },
+      {
+        question: "Can I buy hay by the bale or do I need to buy in bulk?",
+        answer: "Most feed stores sell hay by the bale for small-quantity buyers. Prices are typically lower for larger quantities (pallet or trailer loads). Quality varies by cutting and storage—ask about current hay quality and test results if available. During shortages, availability may be limited."
+      }
+    ],
+    relatedServices: ["farm-supply", "large-animal-vet", "hay-service", "tractor-repair", "farrier"],
+    externalResources: [
+      { name: "Texas A&M AgriLife Extension - Animal Science", url: "https://animalscience.tamu.edu/" },
+      { name: "Texas Farm Bureau", url: "https://texasfarmbureau.org/" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // EVENTS & ENTERTAINMENT
+  // ============================================
+  {
+    slug: "wedding-venue",
+    title: "Wedding Venue",
+    category: "events_entertainment",
+    subcategory: "wedding",
+    layout: 5,
+    icon: "Heart",
+    iconColor: "rose",
+    metaTitle: "Wedding Venues in Navarro County, TX | Event Spaces Corsicana",
+    metaDescription: "Beautiful wedding venues in Corsicana and Navarro County. Barns, ranches, historic buildings, and waterfront locations for Texas weddings and events.",
+    metaKeywords: "wedding venue Corsicana, wedding venue Navarro County, barn wedding, ranch wedding, event space Texas",
+    heroContent: `Navarro County offers couples a variety of wedding venue options, from rustic barns and working ranches to historic buildings and lakeside settings. Whether you envision an intimate gathering or a grand celebration, local venues provide beautiful backdrops for your special day with the warmth of Texas hospitality.`,
+    localContext: `The Corsicana area has become increasingly popular for weddings, offering more affordable venue options than Dallas-Fort Worth while remaining accessible to metroplex guests. Local venues showcase Central Texas charm—sprawling live oaks, rolling pastures, historic architecture, and proximity to Richland Chambers Reservoir. The mild fall and spring weather makes outdoor ceremonies possible for much of the year.`,
+    sections: [
+      {
+        type: "guide",
+        heading: "Types of Wedding Venues in Navarro County",
+        content: \`**Barn & Ranch Venues**
+- Rustic barn settings with modern amenities
+- Working ranch properties
+- Open-air pavilions
+- Capacity typically 100-300 guests
+- Often include outdoor ceremony sites
+
+**Historic Venues**
+- Downtown Corsicana historic buildings
+- Restored churches and chapels
+- Heritage homes and estates
+- Unique character and photo opportunities
+
+**Waterfront Venues**
+- Richland Chambers lakefront properties
+- Pond and creek settings
+- Beautiful natural backdrops
+- Popular for outdoor ceremonies
+
+**Traditional Venues**
+- Country clubs
+- Hotel ballrooms
+- Church fellowship halls
+- Community centers
+
+**Unique Options**
+- Wineries and vineyards
+- Gardens and parks
+- Private estates
+- Farms with agricultural themes\`
+      },
+      {
+        type: "checklist",
+        heading: "Questions to Ask Wedding Venues",
+        content: \`**Basics**
+- What is included in the venue rental?
+- What is the guest capacity (ceremony vs. reception)?
+- What are the available dates?
+- What are rain/weather backup options?
+- How long is the rental period?
+
+**Vendors & Services**
+- Is catering in-house or can we bring our own?
+- Are there preferred vendor lists?
+- Is there a venue coordinator included?
+- What audio/visual equipment is available?
+- Is there a bridal suite for getting ready?
+
+**Logistics**
+- What time can vendors arrive for setup?
+- What are noise restrictions and end times?
+- Is there adequate parking?
+- Are there accommodations nearby for guests?
+- What is the deposit and payment schedule?
+- What is the cancellation policy?
+
+**Restrictions**
+- Are there decor restrictions?
+- Is open flame (candles) allowed?
+- Are sparklers or fireworks permitted?
+- Are there pet policies?
+- Alcohol policies and requirements?\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do wedding venues cost in Navarro County?",
+        answer: "Venue costs in Navarro County range widely: $1,500-$3,500 for basic spaces, $4,000-$8,000 for mid-range venues with amenities, and $8,000-$15,000+ for premium properties. These are often significantly less than comparable Dallas-area venues. Most require deposits of 25-50% to secure your date."
+      },
+      {
+        question: "How far in advance should I book a venue?",
+        answer: "Popular venues book 12-18 months in advance for peak wedding season (spring and fall in Texas). Less popular dates (summer, winter, weekdays) may have more availability. If you have a specific venue in mind, begin inquiring as soon as you set your date."
+      },
+      {
+        question: "What's included in typical venue rental packages?",
+        answer: "Packages vary significantly. Basic rentals may include just the space for a set number of hours. Many venues include tables, chairs, and basic setup. Premium packages might include catering, day-of coordination, decorations, and more. Always get detailed written lists of what's included."
+      }
+    ],
+    relatedServices: ["wedding-planner", "wedding-photographer", "catering", "florist", "dj"],
+    externalResources: [
+      { name: "Navarro County Tourism", url: "https://www.visitcorsicana.com/" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "dj",
+    title: "DJ Services",
+    category: "events_entertainment",
+    subcategory: "music",
+    layout: 1,
+    icon: "Music",
+    iconColor: "purple",
+    metaTitle: "DJ Services in Navarro County, TX | Wedding & Event DJ Corsicana",
+    metaDescription: "Professional DJ services in Corsicana and Navarro County. Wedding DJs, party DJs, corporate events, quinceañeras, and special occasions.",
+    metaKeywords: "DJ Corsicana, wedding DJ Navarro County, event DJ, party DJ, quinceañera DJ Texas",
+    heroContent: `The right DJ makes or breaks an event. Beyond playing music, professional DJs serve as emcees, manage event flow, read the crowd, and keep energy high. Navarro County DJs bring experience with local venues and understand what works for Texas celebrations.`,
+    localContext: `From Corsicana weddings to quinceañeras to company parties, Navarro County events benefit from DJs familiar with local venues and their unique acoustic properties. Many local DJs have working relationships with area wedding coordinators and venue managers, ensuring smooth events. They're also familiar with the musical preferences spanning our diverse community.`,
+    sections: [
+      {
+        type: "services",
+        heading: "DJ Services for Every Event",
+        content: \`**Wedding DJ Services**
+- Ceremony music
+- Cocktail hour atmosphere
+- Reception entertainment
+- Emcee services
+- Dance floor lighting
+- Coordination with vendors
+- First dance and special moments
+
+**Party & Celebration DJs**
+- Birthday parties
+- Quinceañeras
+- Sweet 16s
+- Anniversary celebrations
+- Holiday parties
+- Family reunions
+
+**Corporate & Professional**
+- Company parties
+- Awards ceremonies
+- Grand openings
+- Trade shows
+- School events
+- Fundraisers
+
+**Equipment Options**
+- Professional sound systems
+- Wireless microphones
+- Uplighting and effects lighting
+- Dance floor lighting
+- Photo booth add-ons
+- Live music integration\`
+      },
+      {
+        type: "guide",
+        heading: "Choosing the Right DJ",
+        content: \`**What to Look For**
+- Experience with your type of event
+- Professional equipment (backups available)
+- Liability insurance
+- Contract and clear pricing
+- Positive reviews from local events
+- Willingness to learn your preferences
+
+**Questions to Ask**
+- How do you handle music requests (and non-requests)?
+- What is your backup plan for equipment failure?
+- How do you dress for events?
+- Will you personally DJ our event or might it be an associate?
+- Can we see you in action at another event?
+- How do you structure the evening/event flow?
+- What happens if you're sick or have an emergency?
+
+**Red Flags**
+- No contract or vague pricing
+- Unable to provide references
+- Doesn't ask about your preferences
+- Poor communication
+- Unprofessional appearance or demeanor
+- No backup equipment plan\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a DJ cost in Navarro County?",
+        answer: "DJ services in Navarro County typically range from $500-$1,500 for most events. Wedding DJs providing full services (ceremony through reception) often charge $800-$2,000. Basic party DJs might start around $300-$500 for shorter events. Premium DJs with extensive lighting and equipment can cost $2,000+. Always get detailed quotes including all services."
+      },
+      {
+        question: "How far in advance should I book a DJ?",
+        answer: "For weddings, book 6-12 months in advance, especially for popular dates. Good DJs book up quickly during wedding season (spring and fall). For other events, 2-3 months is typically sufficient, though last-minute bookings are sometimes possible. Earlier booking often provides better selection."
+      },
+      {
+        question: "Can I give the DJ a playlist?",
+        answer: "Most professional DJs welcome client input—must-play songs, do-not-play lists, and genre preferences. Good DJs will discuss your musical vision and work within your wishes while also reading the room. Be clear about expectations upfront, especially for weddings where you want specific songs for key moments."
+      }
+    ],
+    relatedServices: ["wedding-venue", "photographer", "event-planner", "live-band", "karaoke"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // CONSTRUCTION & TRADES
+  // ============================================
+  {
+    slug: "general-contractor",
+    title: "General Contractor",
+    category: "construction_trades",
+    subcategory: "construction",
+    layout: 2,
+    icon: "Hammer",
+    iconColor: "amber",
+    metaTitle: "General Contractor in Navarro County, TX | Home Builder Corsicana",
+    metaDescription: "Licensed general contractors in Corsicana and Navarro County. New home construction, remodeling, additions, and commercial building services.",
+    metaKeywords: "general contractor Corsicana, home builder Navarro County, remodeling contractor, home addition, custom home builder",
+    heroContent: `Whether you're building a new home, adding space, or remodeling your existing property, a qualified general contractor manages the complex process of bringing your vision to life. Navarro County contractors understand local building codes, soil conditions, and climate considerations essential for successful construction in Central Texas.`,
+    localContext: `Building in Navarro County requires understanding our unique conditions. The expansive Blackland Prairie clay soil demands proper foundation engineering—many local builders now use post-tension slabs or pier systems as standard. Hot summers mean HVAC systems must be properly sized, and construction schedules often shift to complete exterior work before extreme heat. Local contractors have relationships with area subcontractors and suppliers, keeping projects on track.`,
+    sections: [
+      {
+        type: "services",
+        heading: "General Contractor Services",
+        content: \`**New Construction**
+- Custom home building
+- Spec home construction
+- Barndominium construction
+- Agricultural buildings
+- Commercial buildings
+- Multi-family construction
+
+**Remodeling**
+- Whole-house renovation
+- Kitchen remodeling
+- Bathroom remodeling
+- Basement/attic finishing
+- Historic home restoration
+- ADA accessibility modifications
+
+**Additions**
+- Room additions
+- Second stories
+- Garage additions
+- Sunrooms and enclosed porches
+- Mother-in-law suites
+- Workshop/studio buildings
+
+**Project Management**
+- Permit acquisition
+- Subcontractor coordination
+- Material procurement
+- Budget management
+- Timeline oversight
+- Quality control
+- Warranty service\`
+      },
+      {
+        type: "guide",
+        heading: "Hiring a Contractor in Navarro County",
+        content: \`**Credentials to Verify**
+- Verify with Navarro County/city if licenses required for your project
+- General liability insurance ($1M minimum recommended)
+- Workers' compensation insurance
+- BBB rating and complaint history
+- References from completed local projects
+
+**Getting Bids**
+- Get 3+ written bids for significant projects
+- Bids should be detailed and itemized
+- Be wary of bids significantly lower than others
+- Ask about allowances and how overages are handled
+
+**Contract Essentials**
+- Detailed scope of work
+- Payment schedule tied to milestones
+- Start and completion dates
+- Change order procedures
+- Warranty terms
+- Insurance certificates
+- Permit responsibilities
+- Cleanup and debris removal
+
+**Red Flags**
+- Requires large upfront payments
+- No written contract
+- Cannot provide references
+- Pressures you to decide quickly
+- No physical business address
+- Recently established (less than 3 years)
+- Quotes without seeing the project\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a general contractor charge?",
+        answer: "General contractors typically charge 10-20% of project cost as their fee, or they mark up subcontractor and material costs. New home construction in Navarro County runs $150-$250+ per square foot depending on finishes. Remodeling costs $100-$300 per square foot. Always get detailed written estimates before committing."
+      },
+      {
+        question: "Do I need a permit for my project?",
+        answer: "In Corsicana city limits, permits are required for new construction, additions, structural modifications, electrical work, plumbing work, and HVAC replacement. In unincorporated Navarro County, requirements are less stringent but septic permits and some other regulations still apply. Your contractor should handle permit acquisition."
+      },
+      {
+        question: "How long does construction take?",
+        answer: "New home construction typically takes 6-12 months depending on size and complexity. Major remodels run 2-4 months. Kitchen or bathroom remodels take 4-8 weeks. Room additions average 2-3 months. Weather delays, material availability, and permit processing can extend timelines. Get realistic estimates in writing."
+      }
+    ],
+    relatedServices: ["home-builder", "remodeling", "concrete", "framing", "roofing"],
+    externalResources: [
+      { name: "Texas Residential Construction Commission (information)", url: "https://www.tdi.texas.gov/" },
+      { name: "Better Business Bureau - Dallas", url: "https://www.bbb.org/us/tx/dallas" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "concrete",
+    title: "Concrete Work",
+    category: "construction_trades",
+    subcategory: "specialty",
+    layout: 3,
+    icon: "Square",
+    iconColor: "gray",
+    metaTitle: "Concrete Contractors in Navarro County, TX | Concrete Work Corsicana",
+    metaDescription: "Professional concrete services in Corsicana and Navarro County. Driveways, patios, foundations, sidewalks, stamped concrete, and concrete repair.",
+    metaKeywords: "concrete contractor Corsicana, concrete work Navarro County, driveway, patio, foundation, stamped concrete",
+    heroContent: `Quality concrete work requires skill, proper preparation, and understanding of local conditions. Navarro County concrete contractors handle everything from residential driveways and patios to commercial foundations and agricultural structures, with expertise in working with our challenging soil conditions.`,
+    localContext: `Concrete work in Navarro County's expansive clay soil presents unique challenges. Proper site preparation, adequate base material, and reinforcement are essential to prevent cracking and settling. Local contractors understand that our extreme temperature swings—from summer highs above 100°F to occasional winter freezes—require appropriate concrete mixes and finishing techniques. Timing pours to avoid rapid evaporation in summer heat is also critical.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Concrete Services Available",
+        content: \`**Residential Concrete**
+- Driveways (plain, colored, stamped)
+- Patios and pool decks
+- Sidewalks and walkways
+- Garage floors
+- Foundations (with proper engineering)
+- Retaining walls
+
+**Agricultural/Rural**
+- Barn floors
+- Feed pads
+- Livestock working facilities
+- Shop floors
+- Equipment pads
+- Irrigation structures
+
+**Commercial**
+- Parking lots
+- Loading docks
+- Industrial floors
+- Foundation work
+- Curb and gutter
+- ADA-compliant sidewalks
+
+**Decorative Concrete**
+- Stamped patterns
+- Colored concrete
+- Exposed aggregate
+- Acid staining
+- Concrete overlays
+- Polished concrete
+
+**Repair Services**
+- Crack repair
+- Leveling (mudjacking/foam)
+- Resurfacing
+- Expansion joint repair
+- Spalling repair\`
+      },
+      {
+        type: "guide",
+        heading: "Concrete Work Considerations in Navarro County",
+        content: \`**Soil Preparation**
+Our clay soils require:
+- Removal of organic material and topsoil
+- Compacted fill or base material (4"+ crushed limestone)
+- Proper drainage away from concrete
+- Allowance for soil movement
+
+**Reinforcement Options**
+- Wire mesh: Basic reinforcement for light-duty applications
+- Rebar: Stronger, required for driveways and high-load areas
+- Fiber reinforcement: Reduces surface cracking
+- Post-tension cables: For foundations (specialty work)
+
+**Weather Considerations**
+- Avoid pouring in extreme heat (rapid evaporation)
+- Protect fresh concrete from rain
+- Winter pours require precautions below 40°F
+- Curing compounds essential in our climate
+
+**Maintenance Tips**
+- Seal concrete every 2-3 years
+- Keep drainage clear
+- Avoid deicing chemicals (rare need here)
+- Address cracks promptly before they spread\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does concrete work cost in Navarro County?",
+        answer: "Basic concrete (plain gray, broom finish) runs $8-$12 per square foot installed. Colored or stamped concrete costs $12-$18 per square foot. A typical 20x20 foot driveway (400 sq ft) costs $3,200-$4,800 for basic work, $4,800-$7,200 for decorative. Removal of old concrete adds $2-$4 per square foot. Always get itemized quotes."
+      },
+      {
+        question: "How long does concrete take to cure?",
+        answer: "Concrete reaches about 70% strength in 7 days and full strength at 28 days. You can typically walk on new concrete after 24-48 hours and drive on it after 7 days. However, heavy loads should wait 28 days. Proper curing (keeping it moist) is crucial, especially in Texas heat—your contractor should apply curing compound or water cure."
+      },
+      {
+        question: "Why does concrete crack?",
+        answer: "Some cracking is normal in concrete—control joints are placed to direct where cracks occur. Excessive or random cracking usually results from: poor soil preparation, inadequate base material, insufficient reinforcement, improper curing, extreme temperature changes, or tree root pressure. Our clay soils make proper preparation especially important."
+      }
+    ],
+    relatedServices: ["foundation-repair", "general-contractor", "driveway-repair", "patio", "masonry"],
+    externalResources: [
+      { name: "American Concrete Institute", url: "https://www.concrete.org/" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  }
 ];
 
 // Export for seeding
