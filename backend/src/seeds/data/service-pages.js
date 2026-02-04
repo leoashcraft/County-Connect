@@ -207,7 +207,7 @@ Older cast iron plumbing, common in pre-1970s Navarro County homes, often develo
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "plumber",
@@ -371,7 +371,7 @@ Many Navarro County homes built between 1978-1995 have polybutylene (gray plasti
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "electrician",
@@ -529,7 +529,7 @@ Downtown Corsicana and other historic areas have homes with original wiring:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "hvac",
@@ -697,7 +697,7 @@ Uses ground temperature for heating and cooling. Very efficient but high install
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "roofing",
@@ -871,7 +871,7 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "tree-service",
@@ -931,7 +931,7 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "septic",
@@ -997,7 +997,7 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "pest-control",
@@ -1079,7 +1079,7 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "landscaping",
@@ -1169,7 +1169,7 @@ Texas Insurance Code requires insurers to offer discounts for Class 4 impact-res
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "fence-builder",
@@ -1247,7 +1247,7 @@ Call 811 before digging! Navarro County has underground utilities, especially in
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "attorney",
@@ -1347,7 +1347,7 @@ Local attorney fees vary by practice area:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "accountant",
@@ -1436,7 +1436,7 @@ Local attorney fees vary by practice area:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "realtor",
@@ -1523,7 +1523,7 @@ Local attorney fees vary by practice area:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "auto-repair",
@@ -1632,7 +1632,7 @@ Local attorney fees vary by practice area:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "towing",
@@ -1724,7 +1724,7 @@ Local attorney fees vary by practice area:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "dentist",
@@ -1821,7 +1821,7 @@ Local attorney fees vary by practice area:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "chiropractor",
@@ -1911,7 +1911,7 @@ Initial care for acute conditions may require 2-3 visits per week. As symptoms i
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "veterinarian",
@@ -2012,7 +2012,7 @@ Lifestyle vaccines (based on risk):
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "large-animal-vet",
@@ -2112,7 +2112,7 @@ Texas summers are brutal on livestock:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "feed-store",
@@ -2217,7 +2217,7 @@ Texas summers are brutal on livestock:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "wedding-venue",
@@ -2320,7 +2320,7 @@ Texas summers are brutal on livestock:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "dj",
@@ -2419,7 +2419,7 @@ Texas summers are brutal on livestock:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "general-contractor",
@@ -2528,7 +2528,7 @@ Texas summers are brutal on livestock:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "concrete",
@@ -2635,7 +2635,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "hair-salon",
@@ -2709,7 +2709,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "barbershop",
@@ -2769,7 +2769,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "daycare",
@@ -2862,7 +2862,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "tutoring",
@@ -2957,7 +2957,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "furniture-store",
@@ -3029,7 +3029,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "hotel",
@@ -3091,7 +3091,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "commercial-cleaning",
@@ -3160,7 +3160,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "moving-company",
@@ -3255,7 +3255,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "handyman",
@@ -3325,7 +3325,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "garage-door",
@@ -3394,7 +3394,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "lawn-care",
@@ -3462,7 +3462,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "cleaning",
@@ -3531,7 +3531,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "pool-service",
@@ -3599,7 +3599,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "insurance-agent",
@@ -3672,7 +3672,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "home-inspector",
@@ -3738,7 +3738,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "notary",
@@ -3801,7 +3801,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "locksmith",
@@ -3871,7 +3871,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "tire-shop",
@@ -3931,7 +3931,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "auto-body",
@@ -3996,7 +3996,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "oil-change",
@@ -4056,7 +4056,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "catering",
@@ -4128,7 +4128,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "bakery",
@@ -4197,7 +4197,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "massage-therapist",
@@ -4263,7 +4263,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "personal-trainer",
@@ -4325,7 +4325,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "welder",
@@ -4394,7 +4394,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "pole-barn",
@@ -4458,7 +4458,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "pet-groomer",
@@ -4524,7 +4524,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "excavator",
@@ -4596,7 +4596,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "farrier",
@@ -4663,7 +4663,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "photographer",
@@ -4731,7 +4731,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "florist",
@@ -4798,7 +4798,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "party-rental",
@@ -4874,7 +4874,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "nail-salon",
@@ -4940,7 +4940,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "spa",
@@ -5005,7 +5005,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "med-spa",
@@ -5069,7 +5069,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "tanning-salon",
@@ -5127,7 +5127,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "makeup-artist",
@@ -5185,7 +5185,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "eyelash-extensions",
@@ -5241,7 +5241,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "microblading",
@@ -5297,7 +5297,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "waxing",
@@ -5355,7 +5355,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "tattoo-parlor",
@@ -5414,7 +5414,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "piercing",
@@ -5476,7 +5476,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "teeth-whitening",
@@ -5531,7 +5531,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "esthetician",
@@ -5591,7 +5591,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "laser-hair-removal",
@@ -5648,7 +5648,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "preschool",
@@ -5707,7 +5707,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "after-school-care",
@@ -5765,7 +5765,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "babysitter",
@@ -5824,7 +5824,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "nanny",
@@ -5884,7 +5884,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "music-lessons",
@@ -5944,7 +5944,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "piano-lessons",
@@ -6002,7 +6002,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "guitar-lessons",
@@ -6062,7 +6062,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "dance-studio",
@@ -6123,7 +6123,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "martial-arts",
@@ -6182,7 +6182,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "driving-school",
@@ -6240,7 +6240,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "art-classes",
@@ -6300,7 +6300,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "appliance-store",
@@ -6358,7 +6358,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "mattress-store",
@@ -6418,7 +6418,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "thrift-store",
@@ -6476,7 +6476,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "pawn-shop",
@@ -6534,7 +6534,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "jewelry-store",
@@ -6594,7 +6594,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "gun-shop",
@@ -6653,7 +6653,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "sporting-goods",
@@ -6714,7 +6714,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "pet-store",
@@ -6774,7 +6774,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "nursery-garden",
@@ -6834,7 +6834,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "motel",
@@ -6891,7 +6891,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "bed-breakfast",
@@ -6948,7 +6948,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "vacation-rental",
@@ -7008,7 +7008,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "rv-park",
@@ -7067,7 +7067,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "cabin-rental",
@@ -7126,7 +7126,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "travel-agent",
@@ -7186,7 +7186,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "airport-shuttle",
@@ -7244,7 +7244,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "taxi",
@@ -7303,7 +7303,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "charter-bus",
@@ -7362,7 +7362,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "machine-shop",
@@ -7422,7 +7422,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "cnc-machining",
@@ -7482,7 +7482,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "janitorial",
@@ -7541,7 +7541,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "storage-units",
@@ -7601,7 +7601,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "freight-shipping",
@@ -7662,7 +7662,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "warehousing",
@@ -7721,7 +7721,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "commercial-hvac",
@@ -7782,7 +7782,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "commercial-plumbing",
@@ -7842,7 +7842,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "commercial-electrical",
@@ -7903,7 +7903,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "industrial-painting",
@@ -7964,7 +7964,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "sandblasting",
@@ -8026,7 +8026,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "crane-service",
@@ -8085,7 +8085,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "forklift-service",
@@ -8145,7 +8145,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "water-heater",
@@ -8204,7 +8204,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "water-softener",
@@ -8265,7 +8265,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "water-filtration",
@@ -8323,7 +8323,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "ceiling-fan-installation",
@@ -8381,7 +8381,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "lighting-installation",
@@ -8440,7 +8440,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "electrical-panel-upgrade",
@@ -8498,7 +8498,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "duct-cleaning",
@@ -8556,7 +8556,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "air-quality",
@@ -8614,7 +8614,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "gutter",
@@ -8672,7 +8672,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "family-lawyer",
@@ -8732,7 +8732,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "criminal-lawyer",
@@ -8791,7 +8791,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "personal-injury-lawyer",
@@ -8850,7 +8850,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "estate-attorney",
@@ -8908,7 +8908,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "business-attorney",
@@ -8967,7 +8967,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "tax-preparer",
@@ -9029,7 +9029,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "bookkeeper",
@@ -9088,7 +9088,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "financial-advisor",
@@ -9148,7 +9148,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "payroll-service",
@@ -9207,7 +9207,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "family-doctor",
@@ -9266,7 +9266,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "pediatrician",
@@ -9327,7 +9327,7 @@ Our clay soils require:
     ],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "urgent-care",
@@ -9388,7 +9388,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "physical-therapist",
@@ -9447,7 +9447,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "optometrist",
@@ -9505,7 +9505,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "therapist",
@@ -9564,7 +9564,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "gym",
@@ -9623,7 +9623,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "nutritionist",
@@ -9682,7 +9682,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "assisted-living",
@@ -9741,7 +9741,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "senior-care",
@@ -9800,7 +9800,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "home-health-care",
@@ -9857,7 +9857,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "brake-repair",
@@ -9911,7 +9911,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "transmission",
@@ -9967,7 +9967,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "auto-detailing",
@@ -10027,7 +10027,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "diesel-mechanic",
@@ -10085,7 +10085,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "wedding-planner",
@@ -10144,7 +10144,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "event-venue",
@@ -10206,7 +10206,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "bounce-house",
@@ -10265,7 +10265,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "pet-boarding",
@@ -10324,7 +10324,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "dog-trainer",
@@ -10382,7 +10382,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "tractor-repair",
@@ -10442,7 +10442,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "land-clearing",
@@ -10502,7 +10502,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "dirt-work",
@@ -10561,7 +10561,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "pond-construction",
@@ -10620,7 +10620,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "home-builder",
@@ -10680,7 +10680,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "remodeling",
@@ -10739,7 +10739,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "masonry",
@@ -10798,7 +10798,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "steel-building",
@@ -10857,7 +10857,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "outdoor-kitchen",
@@ -10916,7 +10916,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "pergola",
@@ -10975,7 +10975,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "commercial-construction",
@@ -11034,7 +11034,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "termite-control",
@@ -11091,7 +11091,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "wildlife-removal",
@@ -11151,7 +11151,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "mosquito-control",
@@ -11206,7 +11206,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "irrigation",
@@ -11264,7 +11264,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "stump-grinder",
@@ -11321,7 +11321,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "deck-builder",
@@ -11380,7 +11380,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "patio",
@@ -11439,7 +11439,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "outdoor-lighting",
@@ -11497,7 +11497,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "orthodontist",
@@ -11552,7 +11552,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "cosmetic-dentist",
@@ -11608,7 +11608,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "structural-engineer",
@@ -11665,7 +11665,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "house-leveling",
@@ -11722,7 +11722,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "drain-cleaning",
@@ -11780,7 +11780,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "slab-leak-repair",
@@ -11836,7 +11836,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "well-drilling",
@@ -11895,7 +11895,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "generator",
@@ -11952,7 +11952,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "solar",
@@ -12011,7 +12011,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "ev-charger",
@@ -12068,7 +12068,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "ac-repair",
@@ -12126,7 +12126,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "furnace-repair",
@@ -12183,7 +12183,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "insulation",
@@ -12242,7 +12242,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "siding",
@@ -12301,7 +12301,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "window-installation",
@@ -12359,7 +12359,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "door-installation",
@@ -12417,7 +12417,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "exterior-painting",
@@ -12475,7 +12475,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "pressure-washing",
@@ -12533,7 +12533,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "interior-painting",
@@ -12592,7 +12592,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "drywall",
@@ -12650,7 +12650,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "flooring",
@@ -12709,7 +12709,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "carpet",
@@ -12767,7 +12767,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "tile",
@@ -12826,7 +12826,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "hardwood-floor",
@@ -12885,7 +12885,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "cabinet-installation",
@@ -12943,7 +12943,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "countertop",
@@ -13004,7 +13004,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "carpet-cleaning",
@@ -13063,7 +13063,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "window-cleaning",
@@ -13121,7 +13121,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "junk-removal",
@@ -13178,7 +13178,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "home-organizer",
@@ -13236,7 +13236,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "bee-removal",
@@ -13294,7 +13294,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "hot-tub-service",
@@ -13352,7 +13352,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "immigration-lawyer",
@@ -13410,7 +13410,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "mortgage-lender",
@@ -13468,7 +13468,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "title-company",
@@ -13526,7 +13526,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "appraiser",
@@ -13583,7 +13583,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "property-manager",
@@ -13642,7 +13642,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "process-server",
@@ -13700,7 +13700,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "private-investigator",
@@ -13758,7 +13758,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "security-guard",
@@ -13816,7 +13816,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "courier",
@@ -13875,7 +13875,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "computer-repair",
@@ -13933,7 +13933,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "it-support",
@@ -13992,7 +13992,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "web-design",
@@ -14051,7 +14051,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "marketing-agency",
@@ -14110,7 +14110,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "seo-services",
@@ -14169,7 +14169,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "social-media-manager",
@@ -14228,7 +14228,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "business-consultant",
@@ -14287,7 +14287,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "hr-consultant",
@@ -14346,7 +14346,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "career-coach",
@@ -14405,7 +14405,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "life-coach",
@@ -14464,7 +14464,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "oral-surgeon",
@@ -14520,7 +14520,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "pediatric-dentist",
@@ -14578,7 +14578,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "pharmacy",
@@ -14637,7 +14637,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "acupuncture",
@@ -14695,7 +14695,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "audiologist",
@@ -14753,7 +14753,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "podiatrist",
@@ -14811,7 +14811,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "psychiatrist",
@@ -14870,7 +14870,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "addiction-counselor",
@@ -14929,7 +14929,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "marriage-counselor",
@@ -14987,7 +14987,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "yoga-instructor",
@@ -15045,7 +15045,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "weight-loss-clinic",
@@ -15103,7 +15103,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "nursing-home",
@@ -15162,7 +15162,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "hospice",
@@ -15219,7 +15219,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "auto-electric",
@@ -15278,7 +15278,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "muffler-exhaust",
@@ -15335,7 +15335,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "ac-repair-auto",
@@ -15392,7 +15392,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "engine-repair",
@@ -15450,7 +15450,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "auto-paint",
@@ -15508,7 +15508,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "windshield-repair",
@@ -15566,7 +15566,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "dent-repair",
@@ -15624,7 +15624,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "window-tinting",
@@ -15681,7 +15681,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "wheel-alignment",
@@ -15737,7 +15737,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "roadside-assistance",
@@ -15794,7 +15794,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "car-wash",
@@ -15851,7 +15851,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "auto-glass",
@@ -15909,7 +15909,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "used-cars",
@@ -15966,7 +15966,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "car-rental",
@@ -16023,7 +16023,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "motorcycle-repair",
@@ -16081,7 +16081,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "rv-repair",
@@ -16139,7 +16139,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "wedding-photographer",
@@ -16198,7 +16198,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "bridal-shop",
@@ -16256,7 +16256,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "wedding-cake",
@@ -16314,7 +16314,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "videographer",
@@ -16372,7 +16372,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "photo-booth",
@@ -16431,7 +16431,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "drone-photography",
@@ -16488,7 +16488,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "live-band",
@@ -16546,7 +16546,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "event-planner",
@@ -16604,7 +16604,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "party-bus",
@@ -16662,7 +16662,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "bbq-catering",
@@ -16721,7 +16721,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "food-truck",
@@ -16779,7 +16779,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "personal-chef",
@@ -16836,7 +16836,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "meal-prep",
@@ -16894,7 +16894,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "specialty-cakes",
@@ -16952,7 +16952,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "kitchen-remodel",
@@ -17010,7 +17010,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "bathroom-remodel",
@@ -17068,7 +17068,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "room-addition",
@@ -17127,7 +17127,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "carport",
@@ -17183,7 +17183,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "demolition",
@@ -17241,7 +17241,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "language-school",
@@ -17297,7 +17297,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "test-prep",
@@ -17356,7 +17356,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "bartender",
@@ -17413,7 +17413,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "pet-sitter",
@@ -17471,7 +17471,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "horse-trainer",
@@ -17529,7 +17529,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "farm-supply",
@@ -17591,7 +17591,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "custom-farming",
@@ -17648,7 +17648,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "hay-service",
@@ -17704,7 +17704,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "cattle-hauling",
@@ -17760,7 +17760,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "fencing-agricultural",
@@ -17818,7 +17818,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "hunting-lease",
@@ -17876,7 +17876,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "framing",
@@ -17933,7 +17933,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "fabrication",
@@ -17991,7 +17991,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "ironwork",
@@ -18049,7 +18049,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "trailer-repair",
@@ -18107,7 +18107,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "gazebo",
@@ -18165,7 +18165,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "barn-builder",
@@ -18223,7 +18223,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "commercial-roofing",
@@ -18282,7 +18282,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "parking-lot",
@@ -18339,7 +18339,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "asphalt-paving",
@@ -18396,7 +18396,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "balloon-artist",
@@ -18454,7 +18454,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "banquet-hall",
@@ -18514,7 +18514,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "butcher",
@@ -18573,7 +18573,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "coffee-shop",
@@ -18633,7 +18633,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "conference-room",
@@ -18693,7 +18693,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "event-furniture-rental",
@@ -18758,7 +18758,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "face-painter",
@@ -18817,7 +18817,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "food-delivery",
@@ -18874,7 +18874,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "grocery-delivery",
@@ -18932,7 +18932,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "ice-cream",
@@ -18990,7 +18990,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "karaoke",
@@ -19048,7 +19048,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "liquor-store",
@@ -19106,7 +19106,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "magician",
@@ -19164,7 +19164,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "tent-rental",
@@ -19228,7 +19228,7 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
-  },,
+  },
 
   {
     slug: "vending-machine",
