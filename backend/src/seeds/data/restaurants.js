@@ -25,7 +25,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0954,
     "lng": -96.4689,
-    "hours": "Mon-Sat: 7:00 AM - 2:00 PM, Sun: Closed"
+    "hours": "Mon-Sat: 7:00 AM - 2:00 PM, Sun: Closed",
+    "status": "active"
   },
   {
     "name": "Across the Street Bistro",
@@ -48,7 +49,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0956,
     "lng": -96.469,
-    "hours": "Tue-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 3:00 PM, Mon: Closed"
+    "hours": "Tue-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 3:00 PM, Mon: Closed",
+    "status": "active"
   },
   {
     "name": "K & K Bar-b-que",
@@ -69,7 +71,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0932,
     "lng": -96.4687,
-    "hours": "Tue-Sat: 11:00 AM - 8:00 PM, Sun-Mon: Closed"
+    "hours": "Tue-Sat: 11:00 AM - 8:00 PM, Sun-Mon: Closed",
+    "status": "active"
   },
   {
     "name": "Ms. Arlene's Kountry Kitchen Soul Food & More",
@@ -91,7 +94,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0812,
     "lng": -96.4521,
-    "hours": "Tue-Sat: 11:00 AM - 7:00 PM, Sun: 11:00 AM - 4:00 PM, Mon: Closed"
+    "hours": "Tue-Sat: 11:00 AM - 7:00 PM, Sun: 11:00 AM - 4:00 PM, Mon: Closed",
+    "status": "active"
   },
   {
     "name": "Ellinya Italian Restaurant",
@@ -112,7 +116,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0891,
     "lng": -96.4842,
-    "hours": "Tue-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 8:00 PM, Mon: Closed"
+    "hours": "Tue-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 8:00 PM, Mon: Closed",
+    "status": "active"
   },
   {
     "name": "Food Belly",
@@ -133,7 +138,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0874,
     "lng": -96.4701,
-    "hours": "Mon-Sat: 11:00 AM - 8:00 PM, Sun: Closed"
+    "hours": "Mon-Sat: 11:00 AM - 8:00 PM, Sun: Closed",
+    "status": "active"
   },
   {
     "name": "Olive Branch Eatery & Retail",
@@ -155,7 +161,8 @@ export const restaurants =
     "free_wifi": true,
     "lat": 32.0978,
     "lng": -96.4685,
-    "hours": "Tue-Sat: 11:00 AM - 3:00 PM, Sun-Mon: Closed"
+    "hours": "Tue-Sat: 11:00 AM - 3:00 PM, Sun-Mon: Closed",
+    "status": "active"
   },
   {
     "name": "Tastytown Cafe",
@@ -176,7 +183,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.1012,
     "lng": -96.4623,
-    "hours": "Mon-Sat: 6:00 AM - 2:00 PM, Sun: Closed"
+    "hours": "Mon-Sat: 6:00 AM - 2:00 PM, Sun: Closed",
+    "status": "active"
   },
   {
     "name": "Italian Village",
@@ -197,7 +205,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0989,
     "lng": -96.4912,
-    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 9:00 PM"
+    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "Bottlecap Alley Icehouse Grill",
@@ -221,7 +230,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0893,
     "lng": -96.4801,
-    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 8:00 PM"
+    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 8:00 PM",
+    "status": "active"
   },
   {
     "name": "Marshall's Tavern Corsicana",
@@ -244,7 +254,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0912,
     "lng": -96.4702,
-    "hours": "Tue-Sat: 4:00 PM - 12:00 AM, Sun-Mon: Closed"
+    "hours": "Tue-Sat: 4:00 PM - 12:00 AM, Sun-Mon: Closed",
+    "status": "active"
   },
   {
     "name": "Calle 7 Latin Cuisine",
@@ -265,7 +276,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0891,
     "lng": -96.4956,
-    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 8:00 PM"
+    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 8:00 PM",
+    "status": "active"
   },
   {
     "name": "Fuji Grill & Sushi Corsicana Inc",
@@ -288,7 +300,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0892,
     "lng": -96.4821,
-    "hours": "Mon-Thu: 11:00 AM - 9:30 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:30 AM - 9:00 PM"
+    "hours": "Mon-Thu: 11:00 AM - 9:30 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:30 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "Napoli's Italian Restaurant and Bar",
@@ -309,7 +322,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0945,
     "lng": -96.4681,
-    "hours": "Tue-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 9:00 PM, Mon: Closed"
+    "hours": "Tue-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 9:00 PM, Mon: Closed",
+    "status": "active"
   },
   {
     "name": "Pelican Grill",
@@ -333,7 +347,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0234,
     "lng": -96.3892,
-    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 8:00 PM"
+    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 8:00 PM",
+    "status": "active"
   },
   {
     "name": "Moontower at the Oaks",
@@ -355,7 +370,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.1134,
     "lng": -96.4512,
-    "hours": "Wed-Sat: 11:00 AM - 9:00 PM, Sun: 11:00 AM - 3:00 PM, Mon-Tue: Closed"
+    "hours": "Wed-Sat: 11:00 AM - 9:00 PM, Sun: 11:00 AM - 3:00 PM, Mon-Tue: Closed",
+    "status": "active"
   },
   {
     "name": "Smokin' Guns BBQ",
@@ -377,7 +393,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0889,
     "lng": -96.4989,
-    "hours": "Wed-Sat: 11:00 AM - 8:00 PM, Sun: 11:00 AM - 3:00 PM, Mon-Tue: Closed"
+    "hours": "Wed-Sat: 11:00 AM - 8:00 PM, Sun: 11:00 AM - 3:00 PM, Mon-Tue: Closed",
+    "status": "active"
   },
   {
     "name": "Billy's Grille",
@@ -398,7 +415,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0723,
     "lng": -96.4234,
-    "hours": "Tue-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun-Mon: Closed"
+    "hours": "Tue-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun-Mon: Closed",
+    "status": "active"
   },
   {
     "name": "Old Mexican Inn Restaurant & Cantina",
@@ -419,7 +437,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0891,
     "lng": -96.4958,
-    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 9:00 PM"
+    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "The Harbor Restaurant",
@@ -442,7 +461,8 @@ export const restaurants =
     "private_dining": true,
     "lat": 32.0198,
     "lng": -96.3756,
-    "hours": "Wed-Sat: 11:00 AM - 9:00 PM, Sun: 11:00 AM - 3:00 PM, Mon-Tue: Closed"
+    "hours": "Wed-Sat: 11:00 AM - 9:00 PM, Sun: 11:00 AM - 3:00 PM, Mon-Tue: Closed",
+    "status": "active"
   },
   {
     "name": "Tortilleria Matehuala y Restaurante",
@@ -462,7 +482,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0956,
     "lng": -96.4712,
-    "hours": "Mon-Sat: 6:00 AM - 8:00 PM, Sun: 7:00 AM - 3:00 PM"
+    "hours": "Mon-Sat: 6:00 AM - 8:00 PM, Sun: 7:00 AM - 3:00 PM",
+    "status": "active"
   },
   {
     "name": "The Gipsy Joint & BBQ",
@@ -484,7 +505,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0512,
     "lng": -96.4123,
-    "hours": "Thu-Sat: 11:00 AM - 8:00 PM, Sun: 11:00 AM - 3:00 PM, Mon-Wed: Closed"
+    "hours": "Thu-Sat: 11:00 AM - 8:00 PM, Sun: 11:00 AM - 3:00 PM, Mon-Wed: Closed",
+    "status": "active"
   },
   {
     "name": "Cotton Patch Cafe",
@@ -506,7 +528,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0893,
     "lng": -96.4803,
-    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 9:00 PM"
+    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "Cocina Las Tres Marias",
@@ -526,7 +549,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0967,
     "lng": -96.4678,
-    "hours": "Mon-Sun: 7:00 AM - 9:00 PM"
+    "hours": "Mon-Sun: 7:00 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "La Pradera",
@@ -547,7 +571,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0892,
     "lng": -96.4812,
-    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 8:00 PM"
+    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 8:00 PM",
+    "status": "active"
   },
   {
     "name": "Mas Queso Tex-Mex Restaurant",
@@ -568,7 +593,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0956,
     "lng": -96.4676,
-    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 8:00 PM"
+    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 8:00 PM",
+    "status": "active"
   },
   {
     "name": "OAK COVE CAFE",
@@ -589,7 +615,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0167,
     "lng": -96.3812,
-    "hours": "Wed-Mon: 7:00 AM - 2:00 PM, Tue: Closed"
+    "hours": "Wed-Mon: 7:00 AM - 2:00 PM, Tue: Closed",
+    "status": "active"
   },
   {
     "name": "Brick Streets Brewery",
@@ -611,7 +638,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0942,
     "lng": -96.4671,
-    "hours": "Wed-Thu: 4:00 PM - 9:00 PM, Fri: 4:00 PM - 10:00 PM, Sat: 12:00 PM - 10:00 PM, Sun: 12:00 PM - 6:00 PM, Mon-Tue: Closed"
+    "hours": "Wed-Thu: 4:00 PM - 9:00 PM, Fri: 4:00 PM - 10:00 PM, Sat: 12:00 PM - 10:00 PM, Sun: 12:00 PM - 6:00 PM, Mon-Tue: Closed",
+    "status": "active"
   },
   {
     "name": "Angelita Vineyard & Winery",
@@ -633,7 +661,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0234,
     "lng": -96.4123,
-    "hours": "Thu-Sat: 12:00 PM - 8:00 PM, Sun: 12:00 PM - 6:00 PM, Mon-Wed: Closed"
+    "hours": "Thu-Sat: 12:00 PM - 8:00 PM, Sun: 12:00 PM - 6:00 PM, Mon-Wed: Closed",
+    "status": "active"
   },
   {
     "name": "Collin Street Bakery",
@@ -656,7 +685,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0954,
     "lng": -96.4734,
-    "hours": "Mon-Sat: 7:00 AM - 6:00 PM, Sun: Closed"
+    "hours": "Mon-Sat: 7:00 AM - 6:00 PM, Sun: Closed",
+    "status": "active"
   },
   {
     "name": "7 Brew Coffee",
@@ -678,7 +708,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0944,
     "lng": -96.4756,
-    "hours": "Mon-Sat: 6:00 AM - 10:00 PM, Sun: 7:00 AM - 10:00 PM"
+    "hours": "Mon-Sat: 6:00 AM - 10:00 PM, Sun: 7:00 AM - 10:00 PM",
+    "status": "active"
   },
   {
     "name": "Chick-fil-A Corsicana",
@@ -703,7 +734,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0723,
     "lng": -96.4567,
-    "hours": "Mon-Sat: 6:30 AM - 10:00 PM, Sun: Closed"
+    "hours": "Mon-Sat: 6:30 AM - 10:00 PM, Sun: Closed",
+    "status": "active"
   },
   {
     "name": "Chili's Grill and Bar",
@@ -727,7 +759,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.1012,
     "lng": -96.4534,
-    "hours": "Mon-Thu: 11:00 AM - 10:00 PM, Fri-Sat: 11:00 AM - 11:00 PM, Sun: 11:00 AM - 10:00 PM"
+    "hours": "Mon-Thu: 11:00 AM - 10:00 PM, Fri-Sat: 11:00 AM - 11:00 PM, Sun: 11:00 AM - 10:00 PM",
+    "status": "active"
   },
   {
     "name": "Dickey's Barbecue Pit",
@@ -748,7 +781,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0891,
     "lng": -96.4834,
-    "hours": "Mon-Sun: 11:00 AM - 9:00 PM"
+    "hours": "Mon-Sun: 11:00 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "Waffle House",
@@ -769,7 +803,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0634,
     "lng": -96.4312,
-    "hours": "Open 24 Hours"
+    "hours": "Open 24 Hours",
+    "status": "active"
   },
   {
     "name": "Layne's Chicken Fingers",
@@ -791,7 +826,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0823,
     "lng": -96.5123,
-    "hours": "Mon-Sat: 10:30 AM - 9:00 PM, Sun: 11:00 AM - 9:00 PM"
+    "hours": "Mon-Sat: 10:30 AM - 9:00 PM, Sun: 11:00 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "Taco Casa",
@@ -813,7 +849,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0856,
     "lng": -96.4989,
-    "hours": "Mon-Sat: 7:00 AM - 9:00 PM, Sun: 8:00 AM - 9:00 PM"
+    "hours": "Mon-Sat: 7:00 AM - 9:00 PM, Sun: 8:00 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "Whataburger",
@@ -836,7 +873,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0891,
     "lng": -96.4856,
-    "hours": "Open 24 Hours"
+    "hours": "Open 24 Hours",
+    "status": "active"
   },
   {
     "name": "Sonic Drive-In",
@@ -858,7 +896,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0892,
     "lng": -96.4854,
-    "hours": "Mon-Sun: 6:00 AM - 11:00 PM"
+    "hours": "Mon-Sun: 6:00 AM - 11:00 PM",
+    "status": "active"
   },
   {
     "name": "McDonald's",
@@ -883,7 +922,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0867,
     "lng": -96.4712,
-    "hours": "Open 24 Hours"
+    "hours": "Open 24 Hours",
+    "status": "active"
   },
   {
     "name": "Wendy's",
@@ -906,7 +946,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0623,
     "lng": -96.4289,
-    "hours": "Mon-Sun: 6:30 AM - 11:00 PM"
+    "hours": "Mon-Sun: 6:30 AM - 11:00 PM",
+    "status": "active"
   },
   {
     "name": "KFC",
@@ -928,7 +969,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0951,
     "lng": -96.4767,
-    "hours": "Mon-Sun: 10:30 AM - 10:00 PM"
+    "hours": "Mon-Sun: 10:30 AM - 10:00 PM",
+    "status": "active"
   },
   {
     "name": "Pizza Hut",
@@ -949,7 +991,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0949,
     "lng": -96.4769,
-    "hours": "Mon-Thu: 11:00 AM - 10:00 PM, Fri-Sat: 11:00 AM - 11:00 PM, Sun: 11:00 AM - 10:00 PM"
+    "hours": "Mon-Thu: 11:00 AM - 10:00 PM, Fri-Sat: 11:00 AM - 11:00 PM, Sun: 11:00 AM - 10:00 PM",
+    "status": "active"
   },
   {
     "name": "Subway",
@@ -970,7 +1013,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0945,
     "lng": -96.4778,
-    "hours": "Mon-Sat: 8:00 AM - 9:00 PM, Sun: 9:00 AM - 8:00 PM"
+    "hours": "Mon-Sat: 8:00 AM - 9:00 PM, Sun: 9:00 AM - 8:00 PM",
+    "status": "active"
   },
   {
     "name": "Burger King",
@@ -992,7 +1036,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0812,
     "lng": -96.5098,
-    "hours": "Mon-Sun: 6:00 AM - 11:00 PM"
+    "hours": "Mon-Sun: 6:00 AM - 11:00 PM",
+    "status": "active"
   },
   {
     "name": "Popeyes Louisiana Kitchen",
@@ -1015,7 +1060,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0978,
     "lng": -96.4501,
-    "hours": "Mon-Sun: 10:30 AM - 10:00 PM"
+    "hours": "Mon-Sun: 10:30 AM - 10:00 PM",
+    "status": "active"
   },
   {
     "name": "Panda Express",
@@ -1037,7 +1083,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.1001,
     "lng": -96.4512,
-    "hours": "Mon-Sat: 10:30 AM - 9:30 PM, Sun: 11:00 AM - 9:00 PM"
+    "hours": "Mon-Sat: 10:30 AM - 9:30 PM, Sun: 11:00 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "Golden Chick",
@@ -1059,7 +1106,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0946,
     "lng": -96.4776,
-    "hours": "Mon-Sat: 10:30 AM - 9:30 PM, Sun: 11:00 AM - 9:00 PM"
+    "hours": "Mon-Sat: 10:30 AM - 9:30 PM, Sun: 11:00 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "Taco Bueno",
@@ -1081,7 +1129,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0892,
     "lng": -96.4818,
-    "hours": "Mon-Sun: 7:00 AM - 10:00 PM"
+    "hours": "Mon-Sun: 7:00 AM - 10:00 PM",
+    "status": "active"
   },
   {
     "name": "Freddy's Frozen Custard & Steakburgers",
@@ -1106,7 +1155,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0867,
     "lng": -96.5067,
-    "hours": "Mon-Sun: 10:30 AM - 10:00 PM"
+    "hours": "Mon-Sun: 10:30 AM - 10:00 PM",
+    "status": "active"
   },
   {
     "name": "Bush's Chicken",
@@ -1128,7 +1178,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0891,
     "lng": -96.4959,
-    "hours": "Mon-Sat: 10:30 AM - 9:00 PM, Sun: 11:00 AM - 9:00 PM"
+    "hours": "Mon-Sat: 10:30 AM - 9:00 PM, Sun: 11:00 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "Brookshire Food Store",
@@ -1149,7 +1200,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.1012,
     "lng": -96.4689,
-    "hours": "Mon-Sun: 6:00 AM - 10:00 PM"
+    "hours": "Mon-Sun: 6:00 AM - 10:00 PM",
+    "status": "active"
   },
   {
     "name": "HEB Grocery Company",
@@ -1171,7 +1223,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0945,
     "lng": -96.4812,
-    "hours": "Mon-Sun: 6:00 AM - 11:00 PM"
+    "hours": "Mon-Sun: 6:00 AM - 11:00 PM",
+    "status": "active"
   },
   {
     "name": "Hootin Holler Beer & Liquor",
@@ -1192,7 +1245,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.2434,
     "lng": -96.5012,
-    "hours": "Mon-Sat: 10:00 AM - 9:00 PM, Sun: 12:00 PM - 6:00 PM"
+    "hours": "Mon-Sat: 10:00 AM - 9:00 PM, Sun: 12:00 PM - 6:00 PM",
+    "status": "active"
   },
   {
     "name": "Rice Cafe",
@@ -1213,7 +1267,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.2441,
     "lng": -96.5023,
-    "hours": "Mon-Sat: 6:00 AM - 2:00 PM, Sun: Closed"
+    "hours": "Mon-Sat: 6:00 AM - 2:00 PM, Sun: Closed",
+    "status": "active"
   },
   {
     "name": "Kerens Cafe",
@@ -1234,7 +1289,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.1312,
     "lng": -96.2278,
-    "hours": "Mon-Sat: 6:00 AM - 2:00 PM, Sun: Closed"
+    "hours": "Mon-Sat: 6:00 AM - 2:00 PM, Sun: Closed",
+    "status": "active"
   },
   {
     "name": "Rocking RD Cattle CO Cafe",
@@ -1256,7 +1312,8 @@ export const restaurants =
     "lat": 32.0878,
     "lng": -96.7189,
     "description": "Family-owned cafe serving steaks, home-style cooking, and comfort food favorites. Connected to the Rocking RD cattle operation, known for quality beef and hearty Texas meals.",
-    "hours": "Mon-Sat: 8:00 AM - 7:30 PM, Sun: Closed"
+    "hours": "Mon-Sat: 8:00 AM - 7:30 PM, Sun: Closed",
+    "status": "active"
   },
   {
     "name": "Applebee's Grill & Bar",
@@ -1279,7 +1336,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0756,
     "lng": -96.4534,
-    "hours": "Mon-Thu: 11:00 AM - 10:00 PM, Fri-Sat: 11:00 AM - 11:00 PM, Sun: 11:00 AM - 10:00 PM"
+    "hours": "Mon-Thu: 11:00 AM - 10:00 PM, Fri-Sat: 11:00 AM - 11:00 PM, Sun: 11:00 AM - 10:00 PM",
+    "status": "active"
   },
   {
     "name": "Denny's",
@@ -1302,7 +1360,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0645,
     "lng": -96.4298,
-    "hours": "Open 24 Hours"
+    "hours": "Open 24 Hours",
+    "status": "active"
   },
   {
     "name": "Uniquely Yours Tea Room",
@@ -1326,7 +1385,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.1001,
     "lng": -96.4683,
-    "hours": "Tue-Sat: 11:00 AM - 3:00 PM, Sun-Mon: Closed"
+    "hours": "Tue-Sat: 11:00 AM - 3:00 PM, Sun-Mon: Closed",
+    "status": "active"
   },
   {
     "name": "China One",
@@ -1347,7 +1407,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0889,
     "lng": -96.5012,
-    "hours": "Mon-Thu: 11:00 AM - 9:30 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:30 AM - 9:00 PM"
+    "hours": "Mon-Thu: 11:00 AM - 9:30 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:30 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "Classic Wok Chinese Cafe",
@@ -1369,7 +1430,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0891,
     "lng": -96.4867,
-    "hours": "Mon-Sat: 11:00 AM - 9:00 PM, Sun: Closed"
+    "hours": "Mon-Sat: 11:00 AM - 9:00 PM, Sun: Closed",
+    "status": "active"
   },
   {
     "name": "Summer Palace",
@@ -1390,7 +1452,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.089,
     "lng": -96.4912,
-    "hours": "Mon-Thu: 11:00 AM - 9:30 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:30 AM - 9:00 PM"
+    "hours": "Mon-Thu: 11:00 AM - 9:30 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:30 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "Birrieria Aguinaga",
@@ -1412,7 +1475,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0891,
     "lng": -96.4869,
-    "hours": "Mon-Sun: 8:00 AM - 9:00 PM"
+    "hours": "Mon-Sun: 8:00 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "Cocina Azteca",
@@ -1432,7 +1496,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0967,
     "lng": -96.4701,
-    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 8:00 PM"
+    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 8:00 PM",
+    "status": "active"
   },
   {
     "name": "El Mexicano Grill",
@@ -1453,7 +1518,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0892,
     "lng": -96.4815,
-    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 8:00 PM"
+    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 8:00 PM",
+    "status": "active"
   },
   {
     "name": "Juliette's Taqueria",
@@ -1474,7 +1540,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.1089,
     "lng": -96.4534,
-    "hours": "Mon-Sat: 7:00 AM - 3:00 PM, Sun: Closed"
+    "hours": "Mon-Sat: 7:00 AM - 3:00 PM, Sun: Closed",
+    "status": "active"
   },
   {
     "name": "La Cabana Restaurant",
@@ -1494,7 +1561,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.1012,
     "lng": -96.4923,
-    "hours": "Mon-Sun: 7:00 AM - 10:00 PM"
+    "hours": "Mon-Sun: 7:00 AM - 10:00 PM",
+    "status": "active"
   },
   {
     "name": "Taco Bell",
@@ -1516,7 +1584,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0612,
     "lng": -96.4267,
-    "hours": "Mon-Sun: 7:00 AM - 1:00 AM"
+    "hours": "Mon-Sun: 7:00 AM - 1:00 AM",
+    "status": "active"
   },
   {
     "name": "Taco Shop",
@@ -1537,7 +1606,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0894,
     "lng": -96.4789,
-    "hours": "Mon-Sat: 7:00 AM - 9:00 PM, Sun: 8:00 AM - 8:00 PM"
+    "hours": "Mon-Sat: 7:00 AM - 9:00 PM, Sun: 8:00 AM - 8:00 PM",
+    "status": "active"
   },
   {
     "name": "Taco Station Food Truck",
@@ -1558,7 +1628,8 @@ export const restaurants =
     "family_friendly": true,
     "accepts_credit_cards": true,
     "lat": 32.0956,
-    "lng": -96.4723
+    "lng": -96.4723,
+    "status": "active"
   },
   {
     "name": "Los Agaves Mexican Grill & Bar",
@@ -1580,7 +1651,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0891,
     "lng": -96.4831,
-    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 8:00 PM"
+    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 8:00 PM",
+    "status": "active"
   },
   {
     "name": "Taqueria Las Comadres",
@@ -1601,7 +1673,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0978,
     "lng": -96.4801,
-    "hours": "Mon-Sun: 7:00 AM - 9:00 PM"
+    "hours": "Mon-Sun: 7:00 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "C&S Baking Co.",
@@ -1622,7 +1695,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0941,
     "lng": -96.4668,
-    "hours": "Tue-Fri: 7:00 AM - 5:00 PM, Sat: 8:00 AM - 2:00 PM, Sun-Mon: Closed"
+    "hours": "Tue-Fri: 7:00 AM - 5:00 PM, Sat: 8:00 AM - 2:00 PM, Sun-Mon: Closed",
+    "status": "active"
   },
   {
     "name": "Dutch Bros Coffee",
@@ -1644,7 +1718,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0823,
     "lng": -96.5134,
-    "hours": "Mon-Sun: 5:00 AM - 10:00 PM"
+    "hours": "Mon-Sun: 5:00 AM - 10:00 PM",
+    "status": "active"
   },
   {
     "name": "Mita's Coffee House",
@@ -1666,7 +1741,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0965,
     "lng": -96.4686,
-    "hours": "Mon-Fri: 7:00 AM - 5:00 PM, Sat: 8:00 AM - 3:00 PM, Sun: Closed"
+    "hours": "Mon-Fri: 7:00 AM - 5:00 PM, Sat: 8:00 AM - 3:00 PM, Sun: Closed",
+    "status": "active"
   },
   {
     "name": "Starbucks",
@@ -1690,7 +1766,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0734,
     "lng": -96.4578,
-    "hours": "Mon-Fri: 5:30 AM - 8:00 PM, Sat-Sun: 6:00 AM - 8:00 PM"
+    "hours": "Mon-Fri: 5:30 AM - 8:00 PM, Sat-Sun: 6:00 AM - 8:00 PM",
+    "status": "active"
   },
   {
     "name": "Navarro College Starbucks",
@@ -1712,7 +1789,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0945,
     "lng": -96.5023,
-    "hours": "Mon-Fri: 7:00 AM - 3:00 PM, Sat-Sun: Closed"
+    "hours": "Mon-Fri: 7:00 AM - 3:00 PM, Sat-Sun: Closed",
+    "status": "active"
   },
   {
     "name": "Timbers",
@@ -1736,7 +1814,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0942,
     "lng": -96.4669,
-    "hours": "Mon-Sat: 11:00 AM - 12:00 AM, Sun: 11:00 AM - 10:00 PM"
+    "hours": "Mon-Sat: 11:00 AM - 12:00 AM, Sun: 11:00 AM - 10:00 PM",
+    "status": "active"
   },
   {
     "name": "XOXO Boba",
@@ -1758,7 +1837,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0956,
     "lng": -96.4689,
-    "hours": "Mon-Sat: 11:00 AM - 9:00 PM, Sun: 12:00 PM - 8:00 PM"
+    "hours": "Mon-Sat: 11:00 AM - 9:00 PM, Sun: 12:00 PM - 8:00 PM",
+    "status": "active"
   },
   {
     "name": "Corsicana Steakhouse at the Opry",
@@ -1783,7 +1863,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0823,
     "lng": -96.5123,
-    "hours": "Thu-Sat: 5:00 PM - 10:00 PM, Sun: 11:00 AM - 3:00 PM, Mon-Wed: Closed"
+    "hours": "Thu-Sat: 5:00 PM - 10:00 PM, Sun: 11:00 AM - 3:00 PM, Mon-Wed: Closed",
+    "status": "active"
   },
   {
     "name": "Tucker Town BBQ",
@@ -1804,7 +1885,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0512,
     "lng": -96.4123,
-    "hours": "Thu-Sat: 11:00 AM - 7:00 PM, Sun: 11:00 AM - 3:00 PM, Mon-Wed: Closed"
+    "hours": "Thu-Sat: 11:00 AM - 7:00 PM, Sun: 11:00 AM - 3:00 PM, Mon-Wed: Closed",
+    "status": "active"
   },
   {
     "name": "Domino's Pizza",
@@ -1824,7 +1906,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0967,
     "lng": -96.4812,
-    "hours": "Mon-Thu: 10:30 AM - 11:00 PM, Fri-Sat: 10:30 AM - 12:00 AM, Sun: 10:30 AM - 11:00 PM"
+    "hours": "Mon-Thu: 10:30 AM - 11:00 PM, Fri-Sat: 10:30 AM - 12:00 AM, Sun: 10:30 AM - 11:00 PM",
+    "status": "active"
   },
   {
     "name": "Little Caesars Pizza",
@@ -1845,7 +1928,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0948,
     "lng": -96.4781,
-    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 9:00 PM"
+    "hours": "Mon-Thu: 11:00 AM - 9:00 PM, Fri-Sat: 11:00 AM - 10:00 PM, Sun: 11:00 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "Dairy Queen",
@@ -1868,7 +1952,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0891,
     "lng": -96.4859,
-    "hours": "Mon-Sun: 10:30 AM - 10:00 PM"
+    "hours": "Mon-Sun: 10:30 AM - 10:00 PM",
+    "status": "active"
   },
   {
     "name": "Arby's",
@@ -1890,7 +1975,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0812,
     "lng": -96.5089,
-    "hours": "Mon-Sun: 10:00 AM - 10:00 PM"
+    "hours": "Mon-Sun: 10:00 AM - 10:00 PM",
+    "status": "active"
   },
   {
     "name": "Jack in the Box",
@@ -1912,7 +1998,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0891,
     "lng": -96.4867,
-    "hours": "Open 24 Hours"
+    "hours": "Open 24 Hours",
+    "status": "active"
   },
   {
     "name": "Captain D's",
@@ -1934,7 +2021,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0892,
     "lng": -96.4813,
-    "hours": "Mon-Thu: 10:30 AM - 9:00 PM, Fri-Sat: 10:30 AM - 10:00 PM, Sun: 10:30 AM - 9:00 PM"
+    "hours": "Mon-Thu: 10:30 AM - 9:00 PM, Fri-Sat: 10:30 AM - 10:00 PM, Sun: 10:30 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "Braum's Ice Cream & Dairy Store",
@@ -1957,7 +2045,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0949,
     "lng": -96.4768,
-    "hours": "Mon-Thu: 6:00 AM - 10:30 PM, Fri-Sat: 6:00 AM - 11:00 PM, Sun: 6:00 AM - 10:30 PM"
+    "hours": "Mon-Thu: 6:00 AM - 10:30 PM, Fri-Sat: 6:00 AM - 11:00 PM, Sun: 6:00 AM - 10:30 PM",
+    "status": "active"
   },
   {
     "name": "Church's Texas Chicken",
@@ -1979,7 +2068,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0946,
     "lng": -96.4785,
-    "hours": "Mon-Sun: 10:30 AM - 10:00 PM"
+    "hours": "Mon-Sun: 10:30 AM - 10:00 PM",
+    "status": "active"
   },
   {
     "name": "Long John Silver's",
@@ -2001,7 +2091,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0891,
     "lng": -96.4843,
-    "hours": "Mon-Sun: 10:30 AM - 9:00 PM"
+    "hours": "Mon-Sun: 10:30 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "Wingstop",
@@ -2023,7 +2114,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0723,
     "lng": -96.4234,
-    "hours": "Mon-Sun: 11:00 AM - 12:00 AM"
+    "hours": "Mon-Sun: 11:00 AM - 12:00 AM",
+    "status": "active"
   },
   {
     "name": "Zaxby's",
@@ -2045,7 +2137,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.1001,
     "lng": -96.4519,
-    "hours": "Mon-Sat: 10:30 AM - 10:00 PM, Sun: 11:00 AM - 9:00 PM"
+    "hours": "Mon-Sat: 10:30 AM - 10:00 PM, Sun: 11:00 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "Raising Cane's Chicken Fingers",
@@ -2067,7 +2160,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0823,
     "lng": -96.5067,
-    "hours": "Mon-Sun: 10:00 AM - 11:00 PM"
+    "hours": "Mon-Sun: 10:00 AM - 11:00 PM",
+    "status": "active"
   },
   {
     "name": "Slim Chickens",
@@ -2089,7 +2183,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0723,
     "lng": -96.423,
-    "hours": "Mon-Sun: 10:30 AM - 10:00 PM"
+    "hours": "Mon-Sun: 10:30 AM - 10:00 PM",
+    "status": "active"
   },
   {
     "name": "Cracker Barrel Old Country Store",
@@ -2113,7 +2208,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0723,
     "lng": -96.4225,
-    "hours": "Mon-Sun: 7:00 AM - 9:00 PM"
+    "hours": "Mon-Sun: 7:00 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "Buc-ee's",
@@ -2138,7 +2234,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.0723,
     "lng": -96.4456,
-    "hours": "Open 24 Hours"
+    "hours": "Open 24 Hours",
+    "status": "active"
   },
   {
     "name": "Sonic Drive-In Kerens",
@@ -2160,7 +2257,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.1301,
     "lng": -96.2267,
-    "hours": "Mon-Sun: 7:00 AM - 10:00 PM"
+    "hours": "Mon-Sun: 7:00 AM - 10:00 PM",
+    "status": "active"
   },
   {
     "name": "DQ Grill & Chill Kerens",
@@ -2183,7 +2281,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.1323,
     "lng": -96.2278,
-    "hours": "Mon-Sun: 10:30 AM - 9:00 PM"
+    "hours": "Mon-Sun: 10:30 AM - 9:00 PM",
+    "status": "active"
   },
   {
     "name": "Pizza House Rice",
@@ -2204,7 +2303,8 @@ export const restaurants =
     "accepts_credit_cards": true,
     "lat": 32.2445,
     "lng": -96.5028,
-    "hours": "Mon-Sat: 11:00 AM - 9:00 PM, Sun: 12:00 PM - 8:00 PM"
+    "hours": "Mon-Sat: 11:00 AM - 9:00 PM, Sun: 12:00 PM - 8:00 PM",
+    "status": "active"
   },
   {
     "name": "The Grove Nutrition",
@@ -2225,7 +2325,7 @@ export const restaurants =
     "dine_in": true,
     "family_friendly": true,
     "accepts_credit_cards": true,
-    "hours": "Mon-Fri: 7:00 AM - 2:00 PM, Sat: 8:00 AM - 12:00 PM, Sun: Closed"
+    "hours": "Mon-Fri: 7:00 AM - 2:00 PM, Sat: 8:00 AM - 12:00 PM, Sun: Closed",
+    "status": "active"
   }
-]
-;
+];
