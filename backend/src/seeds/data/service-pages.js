@@ -4787,6 +4787,1027 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
+  },
+
+  // ============================================
+  // MORE AUTOMOTIVE
+  // ============================================
+  {
+    slug: "tire-shop",
+    title: "Tire Shop",
+    category: "automotive",
+    subcategory: "tires",
+    layout: 1,
+    icon: "Circle",
+    iconColor: "slate",
+    metaTitle: "Tire Shop in Navarro County, TX | Tire Sales & Service Corsicana",
+    metaDescription: "Tire shops in Corsicana and Navarro County. New tires, used tires, tire repair, mounting, balancing, rotation, and alignment services.",
+    metaKeywords: "tire shop Corsicana, tires Navarro County, tire repair, tire rotation, wheel alignment, flat repair",
+    heroContent: `Your tires are the only part of your vehicle that touches the road—they're essential for safety, handling, and fuel efficiency. Navarro County tire shops offer everything from budget-friendly options to premium performance tires, with professional installation and service.`,
+    localContext: `Texas roads and Navarro County's mix of highways and rural routes demand quality tires. Hot summer pavement accelerates tire wear, while debris on country roads causes frequent punctures. Local tire shops stock sizes and types suited to the trucks, SUVs, and work vehicles common in our area, and they understand the tire needs of both daily commuters and agricultural operations.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Tire Services Available",
+        content: \`**Tire Sales**
+- New tires (all brands and price points)
+- Used tires
+- Truck and SUV tires
+- Trailer tires
+- ATV and off-road tires
+- Commercial truck tires
+
+**Tire Services**
+- Mounting and balancing
+- Tire rotation
+- Flat repair
+- TPMS service
+- Tire inspection
+- Tire disposal
+
+**Related Services**
+- Wheel alignment
+- Brake inspection
+- Suspension check
+- Oil changes (some shops)\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do new tires cost?",
+        answer: "Tire prices vary widely by size, brand, and type. Budget tires start around $60-$80 each. Mid-range tires run $100-$150. Premium brands cost $150-$250+. Most Navarro County shops offer packages including mounting, balancing, and disposal, typically adding $60-$100 to the total. Don't forget alignment ($80-$120) when installing new tires."
+      },
+      {
+        question: "How often should tires be rotated?",
+        answer: "Most manufacturers recommend tire rotation every 5,000-7,500 miles—typically every other oil change. Regular rotation extends tire life by ensuring even wear. Many tire shops offer free rotation when you purchase tires from them. Front-wheel drive vehicles especially benefit from regular rotation."
+      },
+      {
+        question: "Can a tire be repaired or does it need replacement?",
+        answer: "Punctures in the tread area (not the sidewall) smaller than 1/4 inch can usually be repaired safely using a plug-patch combination. Sidewall damage, large punctures, and run-flat damage typically require replacement. Repairs should be done from inside the tire—plug-only repairs are temporary at best. A proper repair costs $20-$40."
+      }
+    ],
+    relatedServices: ["wheel-alignment", "auto-repair", "brake-repair", "oil-change"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "auto-body",
+    title: "Auto Body Shop",
+    category: "automotive",
+    subcategory: "body",
+    layout: 2,
+    icon: "Car",
+    iconColor: "red",
+    metaTitle: "Auto Body Shop in Navarro County, TX | Collision Repair Corsicana",
+    metaDescription: "Auto body shops in Corsicana and Navarro County. Collision repair, dent removal, auto painting, and insurance claim repairs for all vehicles.",
+    metaKeywords: "auto body Corsicana, collision repair Navarro County, auto painting, dent repair, body shop, insurance repair",
+    heroContent: `Accidents happen, and when they do, you need an auto body shop you can trust to restore your vehicle properly. Navarro County body shops handle everything from minor dents to major collision repair, working with all insurance companies to get you back on the road.`,
+    localContext: `With I-45 running through Navarro County and deer frequently crossing rural roads, collision repair is an ongoing need. Hail damage from spring storms keeps body shops busy seasonally. Local shops have experience with insurance claims from Texas insurers and maintain relationships that help smooth the repair process.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Auto Body Services",
+        content: \`**Collision Repair**
+- Frame straightening
+- Structural repair
+- Panel replacement
+- Bumper repair and replacement
+- Airbag replacement coordination
+- Complete collision restoration
+
+**Paint Services**
+- Full vehicle painting
+- Spot painting
+- Color matching
+- Clear coat restoration
+- Custom paint work
+
+**Dent Repair**
+- Paintless dent repair (PDR)
+- Conventional dent repair
+- Hail damage repair
+- Door ding removal
+
+**Additional Services**
+- Auto glass replacement
+- Insurance claim assistance
+- Rental car coordination
+- Detailing after repairs\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How long does collision repair take?",
+        answer: "Repair time depends on damage severity. Minor dent repairs may take 1-3 days. Moderate damage requiring panel replacement and painting typically takes 1-2 weeks. Major collision repair with frame work can take 3-4 weeks or more. Parts availability affects timeline—some parts require ordering. Your shop should provide an estimated completion date."
+      },
+      {
+        question: "Can I choose my own body shop for insurance repairs?",
+        answer: "Yes, Texas law allows you to choose any licensed body shop for insurance repairs. While insurers may recommend preferred shops, you're not required to use them. However, preferred shops may offer benefits like guaranteed repairs and streamlined claims. Research any shop before committing."
+      },
+      {
+        question: "Should I get multiple estimates for body work?",
+        answer: "For insurance claims, your insurer typically sends an adjuster or uses a preferred shop for the initial estimate. You can get supplemental estimates if you disagree. For out-of-pocket repairs, getting 2-3 estimates helps ensure fair pricing. Be wary of estimates significantly lower than others—quality shops use quality parts and proper repair procedures."
+      }
+    ],
+    relatedServices: ["auto-paint", "windshield-repair", "dent-repair", "auto-detailing", "auto-repair"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "oil-change",
+    title: "Oil Change Service",
+    category: "automotive",
+    subcategory: "repair",
+    layout: 3,
+    icon: "Droplet",
+    iconColor: "amber",
+    metaTitle: "Oil Change in Navarro County, TX | Quick Lube Service Corsicana",
+    metaDescription: "Oil change services in Corsicana and Navarro County. Quick oil changes, synthetic oil, filter replacement, and fluid services at convenient locations.",
+    metaKeywords: "oil change Corsicana, quick lube Navarro County, synthetic oil, oil filter, fluid service",
+    heroContent: `Regular oil changes are the most important maintenance for your engine's longevity. Navarro County oil change services offer quick, convenient service to keep your vehicle running smoothly—often while you wait.`,
+    localContext: `Texas heat is hard on motor oil. High operating temperatures in summer break down oil faster, making regular changes even more important. Dusty rural roads also put extra load on oil filters. Local quick lube shops and service stations understand these conditions and can recommend appropriate change intervals and oil types for Navarro County driving.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Oil Change Services",
+        content: \`**Oil Change Options**
+- Conventional oil change
+- High-mileage oil
+- Synthetic blend
+- Full synthetic oil
+- Diesel oil change
+
+**Included Services**
+- Oil filter replacement
+- Fluid level checks
+- Tire pressure check
+- Visual inspection
+- Windshield wash top-off
+
+**Additional Services**
+- Transmission fluid service
+- Coolant flush
+- Power steering flush
+- Brake fluid service
+- Air filter replacement
+- Cabin filter replacement\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does an oil change cost in Navarro County?",
+        answer: "Conventional oil changes typically run $30-$45. Synthetic blend costs $45-$60. Full synthetic oil changes run $60-$90. Diesel trucks cost more due to larger capacity. Prices include oil and filter. Quick lubes often run specials—check for coupons. Dealers and specialty shops may charge more but often include more thorough inspections."
+      },
+      {
+        question: "How often should I change my oil?",
+        answer: "Modern vehicles with synthetic oil can often go 7,500-10,000 miles between changes—check your owner's manual. Conventional oil typically needs changing every 3,000-5,000 miles. Severe driving conditions (towing, extreme heat, dusty roads—common in Navarro County) may warrant more frequent changes. When in doubt, more frequent changes won't hurt."
+      },
+      {
+        question: "Is synthetic oil worth the extra cost?",
+        answer: "For most modern vehicles, yes. Synthetic oil performs better in extreme temperatures, resists breakdown longer, and can extend change intervals. It's required for many newer vehicles. The longer intervals often offset the higher per-quart cost. For older vehicles with conventional oil, continuing with conventional is usually fine."
+      }
+    ],
+    relatedServices: ["auto-repair", "tire-shop", "transmission", "brake-repair"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // FOOD & BEVERAGE
+  // ============================================
+  {
+    slug: "catering",
+    title: "Catering",
+    category: "food_beverage",
+    subcategory: "catering",
+    layout: 4,
+    icon: "Utensils",
+    iconColor: "orange",
+    metaTitle: "Catering in Navarro County, TX | Event Catering Services Corsicana",
+    metaDescription: "Catering services in Corsicana and Navarro County. Wedding catering, corporate events, parties, BBQ catering, and full-service event food service.",
+    metaKeywords: "catering Corsicana, catering Navarro County, wedding catering, BBQ catering, event food, party catering",
+    heroContent: `Great food brings people together, and professional catering makes your event memorable while letting you enjoy it. Navarro County caterers serve everything from intimate dinner parties to large weddings, with menus ranging from Texas BBQ to elegant plated dinners.`,
+    localContext: `Navarro County events often feature Texas-style hospitality and food. Local caterers specialize in the BBQ, Tex-Mex, and Southern comfort food that Central Texans love, while also offering diverse menu options for various tastes and dietary needs. Many caterers work regularly with local venues and event coordinators, streamlining the planning process.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Catering Services Available",
+        content: \`**Event Types**
+- Wedding receptions
+- Corporate events and meetings
+- Holiday parties
+- Graduation celebrations
+- Family reunions
+- Church and community events
+- Funeral/memorial receptions
+- Private dinner parties
+
+**Service Styles**
+- Buffet service
+- Plated/seated dinners
+- Family-style service
+- Food stations
+- Cocktail/appetizer service
+- Box lunches
+- Drop-off/pickup
+
+**Cuisine Options**
+- Texas BBQ
+- Tex-Mex
+- Southern/comfort food
+- Italian
+- American classics
+- Vegetarian/vegan options
+- Custom menus
+
+**Additional Services**
+- Bar service/bartenders
+- Serving staff
+- Table/chair/linen rental coordination
+- Event planning assistance\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does catering cost in Navarro County?",
+        answer: "Catering costs vary widely based on menu and service level. Budget catering (BBQ buffet, minimal service) starts around $15-$25 per person. Mid-range options with diverse menu and some service run $25-$45 per person. Full-service catering with premium menu, wait staff, and bar service costs $50-$100+ per person. Get detailed quotes for your specific needs."
+      },
+      {
+        question: "How far in advance should I book a caterer?",
+        answer: "For weddings and large events, book 6-12 months in advance to secure your preferred caterer and date. Corporate events and moderate-sized parties should book 4-8 weeks ahead. Last-minute catering is sometimes possible for smaller events, but menu options may be limited. Earlier booking allows more menu customization."
+      },
+      {
+        question: "Do caterers provide equipment and serving staff?",
+        answer: "Full-service caterers typically provide chafing dishes, serving utensils, and serving staff. Some include table linens, plates, and flatware; others coordinate rentals. Drop-off or pickup catering usually includes only food and basic serving containers. Clarify exactly what's included in your quote—hidden equipment or staffing costs can add up."
+      }
+    ],
+    relatedServices: ["bbq-catering", "wedding-venue", "event-planner", "bartender"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "bakery",
+    title: "Bakery",
+    category: "food_beverage",
+    subcategory: "retail",
+    layout: 5,
+    icon: "Cake",
+    iconColor: "rose",
+    metaTitle: "Bakery in Navarro County, TX | Fresh Baked Goods Corsicana",
+    metaDescription: "Bakeries in Corsicana and Navarro County. Fresh bread, pastries, custom cakes, wedding cakes, cookies, and specialty baked goods.",
+    metaKeywords: "bakery Corsicana, bakery Navarro County, custom cake, wedding cake, pastries, fresh bread, cookies",
+    heroContent: `The aroma of fresh-baked bread and pastries is irresistible. Navarro County bakeries offer everything from daily bread and breakfast pastries to elaborate wedding cakes and custom creations for special occasions.`,
+    localContext: `Corsicana has a sweet history—it was once home to the Collin Street Bakery's famous DeLuxe Fruitcake, known worldwide. Local bakeries continue the tradition of quality baking, serving the community with fresh goods and custom creations. From kolaches reflecting our Czech heritage to elaborate quinceañera cakes, local bakeries understand Navarro County tastes.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Bakery Products and Services",
+        content: \`**Daily Baked Goods**
+- Fresh bread and rolls
+- Pastries and danishes
+- Kolaches and breakfast items
+- Cookies and brownies
+- Muffins and scones
+- Cinnamon rolls
+
+**Custom Cakes**
+- Birthday cakes
+- Wedding cakes
+- Graduation cakes
+- Anniversary cakes
+- Quinceañera cakes
+- Groom's cakes
+- Baby shower cakes
+
+**Specialty Items**
+- Pies
+- Cupcakes
+- Cake pops
+- Decorated cookies
+- Cheesecakes
+- Seasonal specials
+
+**Services**
+- Custom orders
+- Cake tastings (for large orders)
+- Delivery (many bakeries)
+- Setup services for events\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How far in advance should I order a custom cake?",
+        answer: "For wedding cakes, order 3-6 months ahead. Elaborate custom cakes for large events need 2-4 weeks notice. Standard birthday or celebration cakes typically need 1-2 weeks, though some bakeries can accommodate shorter timelines. During busy seasons (graduation, wedding season), order earlier. Always confirm lead times with your bakery."
+      },
+      {
+        question: "How much do custom cakes cost?",
+        answer: "Simple decorated cakes start around $3-$5 per serving. Custom design cakes run $4-$8 per serving. Wedding cakes typically cost $4-$12 per serving depending on complexity. Pricing is usually based on serving count and design difficulty. Fondant, multiple tiers, and intricate decorations add cost. Get quotes based on your specific design."
+      },
+      {
+        question: "Do bakeries offer gluten-free or specialty diet options?",
+        answer: "Many Navarro County bakeries now offer gluten-free, sugar-free, or vegan options, though availability varies. Some specialize in dietary restriction baking; others offer limited options. Call ahead to discuss your needs—specialty items often require advance ordering and may cost more due to ingredient costs and separate preparation requirements."
+      }
+    ],
+    relatedServices: ["specialty-cakes", "wedding-cake", "catering", "coffee-shop"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // MORE HEALTH & WELLNESS
+  // ============================================
+  {
+    slug: "massage-therapist",
+    title: "Massage Therapist",
+    category: "health_wellness",
+    subcategory: "specialist",
+    layout: 1,
+    icon: "Hand",
+    iconColor: "purple",
+    metaTitle: "Massage Therapist in Navarro County, TX | Massage Therapy Corsicana",
+    metaDescription: "Licensed massage therapists in Corsicana and Navarro County. Therapeutic massage, deep tissue, relaxation massage, sports massage, and pain relief.",
+    metaKeywords: "massage therapist Corsicana, massage Navarro County, deep tissue massage, therapeutic massage, sports massage",
+    heroContent: `Massage therapy offers both relaxation and therapeutic benefits—reducing stress, relieving muscle tension, improving circulation, and managing chronic pain. Navarro County's licensed massage therapists provide professional care for wellness, pain management, and injury recovery.`,
+    localContext: `Many Navarro County residents work in physically demanding jobs or commute long distances, leading to muscle tension and stress that massage therapy can address. Local therapists work in various settings—spas, chiropractic offices, physical therapy clinics, and independent practices—offering diverse options for different needs and preferences.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Massage Services Available",
+        content: \`**Massage Types**
+- Swedish/relaxation massage
+- Deep tissue massage
+- Sports massage
+- Therapeutic massage
+- Hot stone massage
+- Prenatal massage
+- Trigger point therapy
+- Myofascial release
+
+**Specialized Services**
+- Pain management
+- Injury recovery
+- Stress relief
+- Headache/migraine relief
+- TMJ therapy
+- Lymphatic drainage
+
+**Settings**
+- Day spas
+- Wellness centers
+- Chiropractic offices
+- Physical therapy clinics
+- Independent practitioners
+- Mobile/in-home services\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does massage therapy cost in Navarro County?",
+        answer: "Massage rates typically run $60-$90 for a 60-minute session. 90-minute sessions cost $90-$130. Spa settings may charge more; independent therapists or chiropractic offices may charge less. Some therapists offer package discounts for multiple sessions. Insurance rarely covers massage unless it's part of a prescribed treatment plan."
+      },
+      {
+        question: "How often should I get a massage?",
+        answer: "For general wellness and stress management, monthly sessions work well for many people. For chronic pain or specific conditions, more frequent sessions (weekly or bi-weekly) during initial treatment may be recommended, then reduced as improvement occurs. Listen to your body and your therapist's recommendations for your situation."
+      },
+      {
+        question: "Is massage therapy covered by insurance?",
+        answer: "Most health insurance doesn't cover massage therapy unless it's prescribed as part of treatment for a specific medical condition. Some auto insurance policies cover massage after accidents. HSA and FSA accounts often can be used for massage therapy with a prescription. Check your specific plan—coverage varies significantly."
+      }
+    ],
+    relatedServices: ["chiropractor", "physical-therapist", "spa", "acupuncture"],
+    externalResources: [
+      { name: "Texas Department of Licensing - Massage Therapy", url: "https://www.tdlr.texas.gov/mas/mas.htm" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "personal-trainer",
+    title: "Personal Trainer",
+    category: "health_wellness",
+    subcategory: "fitness",
+    layout: 2,
+    icon: "Dumbbell",
+    iconColor: "green",
+    metaTitle: "Personal Trainer in Navarro County, TX | Fitness Training Corsicana",
+    metaDescription: "Personal trainers in Corsicana and Navarro County. One-on-one fitness training, weight loss programs, strength training, and fitness coaching.",
+    metaKeywords: "personal trainer Corsicana, fitness trainer Navarro County, weight loss, strength training, fitness coaching",
+    heroContent: `Whether you're starting your fitness journey, training for a specific goal, or breaking through a plateau, a personal trainer provides the expertise, motivation, and accountability to help you succeed. Navarro County personal trainers work with clients of all fitness levels.`,
+    localContext: `Navarro County offers various fitness options, from traditional gyms to CrossFit-style training facilities. Personal trainers work in gym settings, private studios, and even outdoors taking advantage of our good weather. Many local trainers specialize in the needs of busy working adults, helping them fit effective workouts into demanding schedules.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Personal Training Services",
+        content: \`**Training Types**
+- One-on-one personal training
+- Small group training
+- Online/virtual coaching
+- In-home training
+- Sport-specific training
+
+**Focus Areas**
+- Weight loss
+- Muscle building/strength
+- General fitness
+- Athletic performance
+- Senior fitness
+- Post-rehabilitation
+- Prenatal/postnatal fitness
+
+**Services Included**
+- Fitness assessment
+- Custom program design
+- Exercise instruction
+- Progress tracking
+- Nutritional guidance (basic)
+- Motivation and accountability\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a personal trainer cost in Navarro County?",
+        answer: "Personal training in Navarro County typically costs $40-$75 per session, depending on trainer qualifications, session length, and location. Package rates reduce per-session cost—buying 10+ sessions might drop rates 10-20%. Small group training costs less per person. Premium trainers and specialized services may charge more."
+      },
+      {
+        question: "How often should I train with a personal trainer?",
+        answer: "For beginners, 2-3 sessions per week helps establish proper form and routine. As you progress, 1-2 weekly sessions maintain accountability while you train independently on other days. Some clients meet monthly for program updates. Your budget, goals, and self-motivation level determine the ideal frequency."
+      },
+      {
+        question: "What qualifications should a personal trainer have?",
+        answer: "Look for nationally recognized certifications (ACE, NASM, ACSM, NSCA are the most respected). CPR/AED certification is essential. Specialized certifications matter for specific needs (senior fitness, corrective exercise, etc.). College degrees in exercise science or related fields are a plus. Experience working with clients similar to you is valuable."
+      }
+    ],
+    relatedServices: ["gym", "nutritionist", "yoga-instructor", "weight-loss-clinic"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // MORE CONSTRUCTION & TRADES
+  // ============================================
+  {
+    slug: "welder",
+    title: "Welding Service",
+    category: "construction_trades",
+    subcategory: "metal",
+    layout: 3,
+    icon: "Flame",
+    iconColor: "orange",
+    metaTitle: "Welding Service in Navarro County, TX | Metal Fabrication Corsicana",
+    metaDescription: "Welding services in Corsicana and Navarro County. Custom fabrication, repair welding, agricultural equipment, gates, fences, and metal work.",
+    metaKeywords: "welding Corsicana, welder Navarro County, metal fabrication, custom welding, pipe welding, repair welding",
+    heroContent: `From repairing farm equipment to fabricating custom gates to structural steel work, professional welding serves countless needs in Navarro County. Local welders provide both mobile service for on-site repairs and shop facilities for fabrication projects.`,
+    localContext: `In agricultural Navarro County, welding is essential. Farm equipment breaks down, trailer frames crack, fences need gates, and livestock handling facilities require metal work. Local welders understand these needs and often provide mobile service that brings the welding shop to your location—crucial when equipment can't be easily transported.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Welding Services Available",
+        content: \`**Repair Welding**
+- Farm equipment repair
+- Trailer repair
+- Machinery repair
+- Structural repairs
+- Cast iron repair
+- Aluminum repair
+
+**Fabrication**
+- Custom gates and fences
+- Livestock equipment
+- Trailer building
+- Structural steel
+- Handrails and stairs
+- Custom projects
+
+**Welding Types**
+- MIG welding
+- TIG welding
+- Stick/arc welding
+- Flux core welding
+- Aluminum welding
+- Stainless steel welding
+
+**Additional Services**
+- Mobile welding service
+- Portable welding
+- Metal cutting
+- Blueprint fabrication
+- Design assistance\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does welding service cost?",
+        answer: "Shop welding rates typically run $50-$100 per hour depending on the type of work. Mobile welding service adds travel charges—often $50-$100 trip fee plus hourly rates. Fabrication projects are usually quoted per job based on complexity and materials. Simple repairs might cost $75-$150; complex fabrication runs hundreds to thousands."
+      },
+      {
+        question: "Can you weld aluminum or stainless steel?",
+        answer: "Not all welders work with aluminum or stainless—these require specialized equipment and skills. TIG welding is typically used for these materials. Ask specifically about experience with your material type. Aluminum welding is common for boat and trailer repairs; stainless is used for food equipment and decorative work."
+      },
+      {
+        question: "Do you offer mobile welding service?",
+        answer: "Many Navarro County welders offer mobile service, bringing welding equipment to your location. This is essential for farm equipment repairs, fence work, and items too large to transport. Mobile rates include travel time and setup. For small items, bringing work to a shop is usually more economical."
+      }
+    ],
+    relatedServices: ["fabrication", "trailer-repair", "ironwork", "fence-builder"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "pole-barn",
+    title: "Pole Barn Builder",
+    category: "construction_trades",
+    subcategory: "specialty",
+    layout: 4,
+    icon: "Warehouse",
+    iconColor: "amber",
+    metaTitle: "Pole Barn Builder in Navarro County, TX | Pole Buildings Corsicana",
+    metaDescription: "Pole barn construction in Corsicana and Navarro County. Agricultural buildings, workshops, garages, storage buildings, and riding arenas.",
+    metaKeywords: "pole barn Corsicana, pole building Navarro County, agricultural building, workshop, metal building, storage building",
+    heroContent: `Pole barns offer versatile, cost-effective building solutions for storage, workshops, livestock shelters, and more. Navarro County pole barn builders construct structures sized from small storage buildings to large agricultural facilities, customized to your needs.`,
+    localContext: `Navarro County's agricultural heritage makes pole barns common sights across the landscape. They shelter equipment, house livestock, provide workshop space, and serve as everything from hay storage to event venues. Local builders understand the soil conditions and wind loads that affect construction in our area, and they navigate the permitting process for unincorporated county land.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Pole Barn Construction Services",
+        content: \`**Building Types**
+- Equipment storage
+- Hay barns
+- Livestock shelters
+- Workshops and garages
+- Horse barns and riding arenas
+- Commercial storage
+- Hobby buildings
+
+**Features Available**
+- Various sizes and configurations
+- Metal or wood exterior
+- Overhead and walk doors
+- Windows and skylights
+- Concrete floor options
+- Electricity rough-in
+- Lean-tos and additions
+
+**Customization**
+- Building design assistance
+- Custom dimensions
+- Interior layouts
+- Insulation options
+- Color choices
+- Ventilation options\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a pole barn cost in Navarro County?",
+        answer: "Basic pole barns start around $12-$18 per square foot for simple open structures. Enclosed buildings with doors run $18-$30 per square foot. A 30x40 foot basic barn might cost $15,000-$25,000. Concrete floors, electrical, and custom features add to the cost. Get detailed quotes based on your specific needs and site conditions."
+      },
+      {
+        question: "Do I need a permit for a pole barn in Navarro County?",
+        answer: "In unincorporated Navarro County, permit requirements for agricultural buildings are minimal or none, but verify with the county. Within city limits like Corsicana, permits and inspections are typically required. Septic proximity, setbacks from property lines, and utility connections may have requirements regardless of location."
+      },
+      {
+        question: "How long does pole barn construction take?",
+        answer: "A basic pole barn (no concrete or electrical) can be completed in 1-2 weeks. Buildings with concrete floors and electrical take 3-4 weeks. Complex projects or large structures may take 6-8 weeks. Weather delays and material availability affect timelines. Your builder should provide a realistic schedule."
+      }
+    ],
+    relatedServices: ["barn-builder", "steel-building", "concrete", "general-contractor", "electrician"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // MORE AGRICULTURE & RURAL
+  // ============================================
+  {
+    slug: "pet-groomer",
+    title: "Pet Grooming",
+    category: "agriculture_rural",
+    subcategory: "animal",
+    layout: 5,
+    icon: "Scissors",
+    iconColor: "pink",
+    metaTitle: "Pet Grooming in Navarro County, TX | Dog Groomers Corsicana",
+    metaDescription: "Pet grooming services in Corsicana and Navarro County. Dog grooming, bathing, haircuts, nail trimming, and full-service pet salon care.",
+    metaKeywords: "pet grooming Corsicana, dog groomer Navarro County, pet bath, dog haircut, nail trimming, pet salon",
+    heroContent: `Regular grooming keeps pets healthy, comfortable, and looking great. Navarro County pet groomers offer services from basic baths to breed-specific styling, helping dogs and cats look and feel their best.`,
+    localContext: `Texas weather creates grooming challenges—burrs and grass seeds in summer, mud in spring, and dry winter skin. Rural Navarro County dogs often need more frequent bathing after outdoor adventures. Local groomers understand these regional factors and can recommend grooming schedules appropriate for your pet's lifestyle.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Pet Grooming Services",
+        content: \`**Basic Services**
+- Bath and dry
+- Brush out
+- Nail trimming
+- Ear cleaning
+- Sanitary trim
+
+**Full Grooming**
+- Full haircut (breed-specific or custom)
+- De-matting
+- De-shedding treatment
+- Teeth brushing
+- Paw pad care
+
+**Specialty Services**
+- Puppy's first groom
+- Senior pet care
+- Medicated baths
+- Flea treatment baths
+- Hot spot treatment
+- Creative styling
+
+**Cat Grooming**
+- Bath and brush
+- Lion cut
+- Mat removal
+- Nail trim\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does pet grooming cost in Navarro County?",
+        answer: "Grooming prices vary by pet size, coat type, and services. Small dog basic bath runs $25-$40. Full groom for small dogs costs $40-$65; medium dogs $50-$80; large dogs $65-$100+. Extra-large or heavily matted dogs cost more. Nail trim only is typically $10-$15. Prices are generally lower than metropolitan areas."
+      },
+      {
+        question: "How often should my dog be groomed?",
+        answer: "Dogs with continuously growing hair (poodles, shih tzus, etc.) need grooming every 4-6 weeks. Double-coated breeds benefit from professional de-shedding every 8-12 weeks. Short-coated breeds may only need occasional baths. Between full grooms, regular brushing at home maintains coat health. Your groomer can recommend a schedule."
+      },
+      {
+        question: "How do I prepare my pet for grooming?",
+        answer: "Walk your dog before the appointment so they're calmer. Don't feed a large meal right before. Inform the groomer of any skin conditions, sensitivities, or behavioral issues. If possible, get puppies accustomed to handling paws, ears, and tail. Consistency with the same groomer helps pets become comfortable with the process."
+      }
+    ],
+    relatedServices: ["veterinarian", "pet-boarding", "pet-store", "dog-trainer"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "excavator",
+    title: "Excavation Service",
+    category: "agriculture_rural",
+    subcategory: "land",
+    layout: 1,
+    icon: "Tractor",
+    iconColor: "amber",
+    metaTitle: "Excavation Service in Navarro County, TX | Dirt Work Corsicana",
+    metaDescription: "Excavation services in Corsicana and Navarro County. Land clearing, dirt work, grading, drainage, pad preparation, and pond construction.",
+    metaKeywords: "excavation Corsicana, dirt work Navarro County, land clearing, grading, drainage, pond construction",
+    heroContent: `From building pads to drainage solutions to pond construction, excavation work shapes the land for your needs. Navarro County excavation contractors have the heavy equipment and expertise to handle projects large and small.`,
+    localContext: `Navarro County's clay soils present both challenges and opportunities for excavation work. The material compacts well for building pads but requires proper drainage planning. Local excavation contractors understand how our soil behaves in wet and dry conditions, and they know where rock formations and water tables affect digging depth and cost.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Excavation Services",
+        content: \`**Site Preparation**
+- Building pad preparation
+- Driveway grading
+- Lot clearing
+- Topsoil stripping and stockpiling
+- Rough grading
+- Fine grading
+
+**Drainage Work**
+- French drains
+- Swales and channels
+- Culvert installation
+- Erosion control
+- Retention areas
+
+**Water Features**
+- Pond construction
+- Pond expansion
+- Stock tank pads
+- Dam repair
+- Pond cleanout
+
+**Land Clearing**
+- Brush removal
+- Tree clearing
+- Stump removal
+- Root raking
+- Debris removal
+
+**Utilities**
+- Septic excavation
+- Water line trenching
+- Utility installation support\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does excavation work cost?",
+        answer: "Excavation is typically charged hourly or by the job. Equipment rates run $150-$300+ per hour depending on machine size. A small skid steer might be $150/hour; a large excavator $250-$350/hour. Hauling fill or spoils adds cost. Pond construction might run $3,000-$10,000+ depending on size. Get project-specific quotes."
+      },
+      {
+        question: "Do I need permits for excavation work?",
+        answer: "In unincorporated Navarro County, excavation generally doesn't require permits unless it involves septic systems or impacts waterways. Within city limits, grading permits may be required. Ponds affecting streams may require state permits. Septic excavation always requires coordination with approved installers. Verify requirements for your specific project."
+      },
+      {
+        question: "How do soil conditions affect excavation in Navarro County?",
+        answer: "Our Blackland Prairie clay soil is extremely dense and sticky when wet, making excavation difficult after rain. When dry, it can be hard as concrete. Experienced local operators know to work in appropriate conditions. Clay also doesn't drain well—excavation projects must include proper drainage solutions. Rock formations exist in some areas, adding complexity and cost."
+      }
+    ],
+    relatedServices: ["land-clearing", "dirt-work", "pond-construction", "septic", "drainage"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "farrier",
+    title: "Farrier",
+    category: "agriculture_rural",
+    subcategory: "animal",
+    layout: 2,
+    icon: "Hammer",
+    iconColor: "gray",
+    metaTitle: "Farrier in Navarro County, TX | Horse Hoof Care & Shoeing",
+    metaDescription: "Farrier services in Corsicana and Navarro County. Horse shoeing, hoof trimming, corrective shoeing, and equine hoof care from certified farriers.",
+    metaKeywords: "farrier Corsicana, farrier Navarro County, horse shoeing, hoof trimming, corrective shoeing, horseshoe",
+    heroContent: `Proper hoof care is essential for horse health and soundness. Navarro County farriers provide the shoeing and trimming services that keep horses comfortable, whether they're working ranch horses, performance athletes, or beloved companions.`,
+    localContext: `Navarro County's horse community includes working ranches, recreational riders, and competitive equestrians. Local farriers serve this diverse clientele, traveling to farms and stables throughout the county. Understanding the wear patterns from Central Texas terrain—from rocky areas to soft sandy spots—helps farriers recommend appropriate shoeing or trimming schedules.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Farrier Services",
+        content: \`**Basic Services**
+- Hoof trimming (barefoot maintenance)
+- Full shoe reset
+- New shoe fitting
+- Pull shoes and trim
+
+**Specialty Shoeing**
+- Corrective shoeing
+- Therapeutic shoeing
+- Performance shoeing
+- Draft horse shoeing
+- Gaited horse shoeing
+
+**Hoof Health**
+- Abscess treatment
+- White line disease treatment
+- Hoof crack repair
+- Thrush treatment
+- Consultation with veterinarian
+
+**Materials**
+- Steel shoes
+- Aluminum shoes
+- Specialty shoes
+- Pads and packing
+- Glue-on shoes\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a farrier charge in Navarro County?",
+        answer: "Basic trim for barefoot horses typically costs $35-$50. Full reset (remove shoes, trim, replace same shoes) runs $80-$120. New shoes cost $120-$180 for a full set of steel shoes. Specialty or corrective shoeing costs more. Many farriers charge trip fees for single-horse visits; multi-horse appointments reduce per-horse cost."
+      },
+      {
+        question: "How often does my horse need farrier care?",
+        answer: "Most horses need hoof attention every 6-8 weeks. Shod horses may need resets every 6 weeks as shoes wear and hooves grow. Barefoot horses can sometimes stretch to 8-10 weeks depending on wear and growth rate. Young, old, and horses with hoof issues may need more frequent visits."
+      },
+      {
+        question: "Should my horse be shod or go barefoot?",
+        answer: "Many horses can go barefoot successfully, especially those with good hoof quality and moderate use on varied terrain. Horses worked regularly on hard or rocky ground, performance horses, and those with hoof issues often benefit from shoes. A good farrier can assess your horse's individual needs and make recommendations based on their work and hoof health."
+      }
+    ],
+    relatedServices: ["large-animal-vet", "horse-trainer", "feed-store", "pet-boarding"],
+    externalResources: [
+      { name: "American Farrier's Association", url: "https://www.americanfarriers.org/" }
+    ],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // MORE EVENTS & ENTERTAINMENT
+  // ============================================
+  {
+    slug: "photographer",
+    title: "Photographer",
+    category: "events_entertainment",
+    subcategory: "media",
+    layout: 3,
+    icon: "Camera",
+    iconColor: "purple",
+    metaTitle: "Photographer in Navarro County, TX | Photography Services Corsicana",
+    metaDescription: "Professional photographers in Corsicana and Navarro County. Portrait photography, family photos, event photography, senior pictures, and commercial work.",
+    metaKeywords: "photographer Corsicana, photography Navarro County, portrait photographer, family photos, senior pictures, event photographer",
+    heroContent: `Professional photography captures life's moments—from family milestones to professional headshots to special events. Navarro County photographers offer diverse styles and services, helping you preserve memories and present your best image.`,
+    localContext: `Navarro County offers beautiful backdrops for photography—from the historic downtown Corsicana courthouse square to rolling ranch landscapes to the shores of Richland Chambers Reservoir. Local photographers know the best locations, optimal lighting times, and how to work with our unpredictable Texas weather to create stunning images.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Photography Services",
+        content: \`**Portrait Photography**
+- Family portraits
+- Senior pictures
+- Children and baby photos
+- Professional headshots
+- Engagement photos
+- Maternity photos
+- Pet photography
+
+**Event Photography**
+- Weddings
+- Parties and celebrations
+- Corporate events
+- School events
+- Sports photography
+
+**Commercial Photography**
+- Product photography
+- Real estate photography
+- Business marketing images
+- Food photography
+- Agricultural photography
+
+**Additional Services**
+- Photo restoration
+- Canvas prints
+- Photo albums
+- Digital file delivery
+- Social media packages\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a photographer cost in Navarro County?",
+        answer: "Mini sessions (15-30 minutes) start around $100-$200. Standard portrait sessions (1-2 hours with multiple outfits/locations) run $200-$500. Wedding photography typically costs $1,500-$4,000 for full-day coverage. Commercial photography varies widely based on usage rights and complexity. Prices generally include digital images; prints are often additional."
+      },
+      {
+        question: "How do I choose a photographer?",
+        answer: "Review portfolios to find a style you like—photography styles vary significantly. Meet or talk with potential photographers to assess personality fit. Ask about their process, turnaround time, and what's included. Check reviews and references. For events, ensure they have backup equipment and a contingency plan."
+      },
+      {
+        question: "How should I prepare for a photo session?",
+        answer: "Coordinate outfits (solid colors often work best; avoid busy patterns). Get haircuts and touch-ups a week before, not the day of. Bring outfit changes and props. Eat beforehand so you're not hungry. For family sessions, schedule around little ones' best moods. Communicate your vision and any must-have shots to your photographer."
+      }
+    ],
+    relatedServices: ["videographer", "wedding-photographer", "drone-photography", "photo-booth"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "florist",
+    title: "Florist",
+    category: "events_entertainment",
+    subcategory: "wedding",
+    layout: 4,
+    icon: "Flower2",
+    iconColor: "rose",
+    metaTitle: "Florist in Navarro County, TX | Flower Shop Corsicana",
+    metaDescription: "Florists in Corsicana and Navarro County. Fresh flowers, wedding flowers, funeral arrangements, event florals, and flower delivery.",
+    metaKeywords: "florist Corsicana, flowers Navarro County, wedding flowers, flower delivery, funeral flowers, bouquets",
+    heroContent: `Flowers mark life's moments—celebrations, expressions of love, sympathy, and everyday beauty. Navarro County florists create arrangements for weddings, events, and all occasions, with delivery service throughout the area.`,
+    localContext: `Corsicana has maintained local florist shops that serve the community for all occasions. From downtown shops with decades of history to newer boutique florists, local flower shops provide personalized service that national delivery services can't match. They know local venues, work with area event planners, and understand regional flower preferences.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Floral Services",
+        content: \`**Occasion Arrangements**
+- Birthday flowers
+- Anniversary arrangements
+- Sympathy and funeral flowers
+- Get well arrangements
+- Congratulations
+- Just because
+
+**Event Florals**
+- Wedding flowers (bouquets, centerpieces, ceremony)
+- Reception decorations
+- Corporate events
+- Party arrangements
+- Church arrangements
+
+**Products**
+- Fresh cut flowers
+- Potted plants
+- Dish gardens
+- Balloon bouquets
+- Gift baskets
+- Silk/artificial arrangements
+
+**Services**
+- Same-day delivery (usually available)
+- Standing orders for businesses
+- Event consultation
+- Delivery throughout Navarro County\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do flowers cost?",
+        answer: "Small arrangements start around $35-$50. Standard bouquets and arrangements run $60-$100. Premium and large arrangements cost $100-$200+. Wedding flowers vary widely—bridal bouquets $150-$300, bridesmaid bouquets $75-$150, centerpieces $50-$150 each. Funeral sprays and casket pieces range from $100-$400+. Delivery fees add $10-$20 locally."
+      },
+      {
+        question: "How far in advance should I order flowers?",
+        answer: "For standard arrangements and delivery, same-day or next-day orders are usually fine. For specific flowers or colors, order 2-3 days ahead. Wedding and event flowers should be ordered 2-4 months in advance, with final details confirmed 2 weeks before. Holiday weeks (Valentine's, Mother's Day) require earlier ordering."
+      },
+      {
+        question: "Can I get flowers delivered on Sunday?",
+        answer: "Most local florists don't deliver on Sundays. For Sunday delivery, order by Saturday morning for Saturday delivery, or check if your florist offers Sunday delivery for funerals or special circumstances. For Sunday events, flowers are typically delivered Saturday with instructions for care."
+      }
+    ],
+    relatedServices: ["wedding-planner", "event-planner", "catering", "wedding-venue"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "party-rental",
+    title: "Party Equipment Rental",
+    category: "events_entertainment",
+    subcategory: "rental",
+    layout: 5,
+    icon: "Tent",
+    iconColor: "blue",
+    metaTitle: "Party Rental in Navarro County, TX | Event Equipment Corsicana",
+    metaDescription: "Party and event rentals in Corsicana and Navarro County. Tents, tables, chairs, linens, bounce houses, and event equipment for any occasion.",
+    metaKeywords: "party rental Corsicana, event rental Navarro County, tent rental, table rental, chair rental, bounce house",
+    heroContent: `From backyard birthday parties to elegant wedding receptions, event rentals provide the equipment that makes gatherings possible. Navarro County party rental companies supply everything from tables and chairs to tents, linens, and entertainment items.`,
+    localContext: `Navarro County's event venues often need supplemental equipment, and private property events require everything from the ground up. Local rental companies deliver throughout the county, with familiarity that helps them navigate rural addresses and farm gates. They understand the local event scene and can recommend appropriate quantities and equipment for various occasions.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Party Rental Equipment",
+        content: \`**Furniture**
+- Folding chairs
+- Chiavari chairs
+- Banquet tables
+- Round tables
+- Cocktail tables
+- Lounge furniture
+
+**Tents & Structures**
+- Pop-up canopies
+- Frame tents
+- Pole tents
+- Sidewalls and flooring
+- Heaters and fans
+
+**Linens & Decor**
+- Table linens
+- Chair covers
+- Napkins
+- Backdrops
+- Decorative items
+
+**Food Service**
+- Chafing dishes
+- Serving pieces
+- China and flatware
+- Glassware
+- Beverage dispensers
+- Coolers
+
+**Entertainment**
+- Bounce houses
+- Inflatable slides
+- Games
+- Dance floors
+- Audio equipment
+- Lighting\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does party rental equipment cost?",
+        answer: "Basic folding chairs rent for $1-$3 each. Banquet tables run $8-$15 each. Small pop-up tents start around $75-$150. Large frame tents cost $300-$1,000+ depending on size. Bounce houses rent for $150-$300 per day. Delivery and setup fees add to the base rental cost. Most rentals are for a weekend period."
+      },
+      {
+        question: "How far in advance should I reserve rental equipment?",
+        answer: "For weddings and large events, book 3-6 months ahead to ensure availability. Regular parties and smaller events should reserve 2-4 weeks out. Peak seasons (spring/fall wedding season, graduation) require earlier booking. Popular items like large tents and bounce houses book up quickly—don't wait until the last minute."
+      },
+      {
+        question: "Do rental companies deliver and set up?",
+        answer: "Most party rental companies offer delivery, setup, and pickup as part of their service, with fees based on location and order size. Some items (tables, chairs) may be delivered stacked for customer setup. Tents and complex items typically include professional setup. Confirm exactly what's included in your quote."
+      }
+    ],
+    relatedServices: ["tent-rental", "event-venue", "catering", "event-planner", "bounce-house"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
   }
 ];
 
