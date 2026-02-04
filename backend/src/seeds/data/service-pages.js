@@ -11491,6 +11491,1073 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
+  },
+
+  // ============================================
+  // MORE AUTOMOTIVE
+  // ============================================
+  {
+    slug: "brake-repair",
+    title: "Brake Repair",
+    category: "automotive",
+    subcategory: "repair",
+    layout: 1,
+    icon: "CircleDot",
+    iconColor: "red",
+    metaTitle: "Brake Repair in Navarro County, TX | Brake Service Corsicana",
+    metaDescription: "Brake repair and service in Corsicana and Navarro County. Brake pads, rotors, calipers, and complete brake system service.",
+    metaKeywords: "brake repair Corsicana, brakes Navarro County, brake pads, rotors, brake service",
+    heroContent: `Brakes are your vehicle's most critical safety system. When stopping distance increases, you hear grinding or squealing, or the brake pedal feels different, it's time for service. Navarro County mechanics provide complete brake diagnostics and repair.`,
+    localContext: `Stop-and-go traffic through Corsicana and highway driving on I-45 put demands on brake systems. Local mechanics see the effects of Texas heat on brake fluid and components and can recommend appropriate service intervals for our driving conditions.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Brake Services",
+        content: \`**Components**
+- Brake pads
+- Rotors
+- Calipers
+- Brake lines
+- Wheel cylinders
+- Brake drums
+
+**Services**
+- Brake inspection
+- Pad replacement
+- Rotor resurfacing or replacement
+- Brake fluid flush
+- Caliper service
+- Emergency brake adjustment\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a brake job cost?",
+        answer: "Basic brake pad replacement runs $150-$300 per axle. If rotors need replacement, add $100-$300 per axle. Complete brake jobs (pads, rotors, and caliper service) can run $400-$800+ per axle. Get a quote after inspection—actual costs depend on what's worn."
+      },
+      {
+        question: "How often do brakes need replacing?",
+        answer: "Brake pads typically last 25,000-70,000 miles depending on driving habits and conditions. Rotors last 50,000-70,000 miles. City driving with frequent stops wears brakes faster than highway driving. Have brakes inspected annually or when you notice changes."
+      },
+      {
+        question: "What are signs I need new brakes?",
+        answer: "Squealing when braking indicates pads are getting thin (wear indicators). Grinding means pads are completely worn—stop driving and get service immediately. Longer stopping distance, vibration when braking, or a soft brake pedal all indicate problems needing attention."
+      }
+    ],
+    relatedServices: ["auto-repair", "tire-shop", "oil-change"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "transmission",
+    title: "Transmission Service",
+    category: "automotive",
+    subcategory: "repair",
+    layout: 2,
+    icon: "Settings",
+    iconColor: "slate",
+    metaTitle: "Transmission Service in Navarro County, TX | Transmission Repair Corsicana",
+    metaDescription: "Transmission repair and service in Corsicana and Navarro County. Transmission flush, rebuild, replacement, and diagnostics.",
+    metaKeywords: "transmission repair Corsicana, transmission Navarro County, transmission flush, rebuild",
+    heroContent: `Transmission problems can leave you stranded and lead to expensive repairs if ignored. Whether your vehicle slips, hesitates, or makes unusual noises, Navarro County transmission specialists can diagnose issues and provide appropriate service.`,
+    localContext: `Texas heat is hard on transmissions, accelerating fluid breakdown and component wear. Local transmission shops understand the specific challenges of our climate and can advise on maintenance to extend transmission life.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Transmission Services",
+        content: \`**Maintenance**
+- Transmission fluid change
+- Transmission flush
+- Filter replacement
+- Fluid condition check
+
+**Repair**
+- Diagnostic scan
+- Shift solenoid repair
+- Clutch replacement
+- Torque converter service
+- Seal and gasket repair
+
+**Major Service**
+- Transmission rebuild
+- Transmission replacement
+- Performance upgrades\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does transmission repair cost?",
+        answer: "Minor repairs (solenoids, sensors) run $200-$500. Major repairs (clutch packs, internal damage) cost $1,500-$3,000. Complete rebuilds run $2,500-$5,000. Replacement transmissions cost $3,000-$7,000+ installed. Get diagnostics before assuming the worst—sometimes issues are minor."
+      },
+      {
+        question: "What are signs of transmission problems?",
+        answer: "Warning signs include: slipping (engine revs but car doesn't accelerate), hesitation before shifting, rough or delayed shifts, grinding noises, burning smell, transmission warning light, and fluid leaks (red or brown fluid). Address problems early—they worsen quickly."
+      },
+      {
+        question: "Should I get a transmission flush or fluid change?",
+        answer: "Regular fluid changes are generally recommended every 30,000-60,000 miles. Flushes exchange all fluid but are controversial for high-mileage vehicles that haven't been maintained. Consult your mechanic—for neglected transmissions, a simple fluid change may be safer than a flush."
+      }
+    ],
+    relatedServices: ["auto-repair", "diesel-mechanic", "towing"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "auto-detailing",
+    title: "Auto Detailing",
+    category: "automotive",
+    subcategory: "body",
+    layout: 3,
+    icon: "Sparkles",
+    iconColor: "blue",
+    metaTitle: "Auto Detailing in Navarro County, TX | Car Detailing Corsicana",
+    metaDescription: "Auto detailing services in Corsicana and Navarro County. Interior and exterior detailing, paint correction, and ceramic coating.",
+    metaKeywords: "auto detailing Corsicana, car detailing Navarro County, interior cleaning, paint correction",
+    heroContent: `Auto detailing goes beyond car washing to restore and protect your vehicle's appearance. Professional detailers clean every surface inside and out, correct paint imperfections, and apply protective coatings that keep your car looking new.`,
+    localContext: `Texas sun fades paint and damages interiors while dust and pollen coat everything. Navarro County detailers understand these challenges and provide services that protect vehicles from our harsh conditions.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Detailing Services",
+        content: \`**Interior**
+- Deep cleaning
+- Leather conditioning
+- Carpet shampooing
+- Odor elimination
+- Dashboard and console
+- Glass cleaning
+
+**Exterior**
+- Hand wash
+- Clay bar treatment
+- Paint polish
+- Wax or sealant
+- Tire and wheel
+- Trim restoration
+
+**Premium**
+- Paint correction
+- Ceramic coating
+- Paint protection film
+- Headlight restoration\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does car detailing cost?",
+        answer: "Basic interior/exterior detail runs $100-$200. Full details with paint correction start at $200-$400. Premium services like ceramic coating cost $500-$1,500+. Prices vary by vehicle size and condition. Severely neglected vehicles may cost more. Get quotes based on your specific vehicle."
+      },
+      {
+        question: "How often should I get my car detailed?",
+        answer: "Full details 2-4 times per year help maintain your vehicle. Between details, regular washing every 2-4 weeks protects paint. Interior cleaning depends on use—families with kids or pets may need more frequent attention. Show cars need more frequent maintenance."
+      },
+      {
+        question: "What is ceramic coating?",
+        answer: "Ceramic coating is a liquid polymer that bonds with your paint, creating a durable protective layer. It repels water, makes cleaning easier, and provides UV protection. Professional ceramic coating lasts 2-5 years versus months for wax. It requires proper prep and application."
+      }
+    ],
+    relatedServices: ["car-wash", "auto-body", "window-tinting"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "towing",
+    title: "Towing Service",
+    category: "automotive",
+    subcategory: "services",
+    layout: 4,
+    icon: "Truck",
+    iconColor: "orange",
+    metaTitle: "Towing in Navarro County, TX | Tow Truck Corsicana",
+    metaDescription: "Towing services in Corsicana and Navarro County. 24-hour towing, roadside assistance, accident recovery, and vehicle transport.",
+    metaKeywords: "towing Corsicana, tow truck Navarro County, 24 hour towing, roadside assistance",
+    heroContent: `When your vehicle breaks down or you're in an accident, you need fast, reliable towing. Navarro County towing companies provide 24/7 service for everything from jump starts to heavy-duty recovery.`,
+    localContext: `I-45 and rural roads throughout Navarro County see breakdowns and accidents regularly. Local towing companies know the area, respond quickly, and work with insurance companies and law enforcement to get you taken care of.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Towing Services",
+        content: \`**Towing**
+- Light duty towing
+- Medium duty towing
+- Flatbed towing
+- Motorcycle towing
+- Long distance transport
+
+**Roadside Assistance**
+- Jump starts
+- Lockouts
+- Fuel delivery
+- Tire changes
+- Winching
+
+**Specialty**
+- Accident recovery
+- Heavy equipment
+- RV and trailer towing
+- Off-road recovery\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does towing cost?",
+        answer: "Most towing companies charge a hook-up fee ($50-$100) plus per-mile charges ($3-$8/mile). Short tows in town run $75-$150. Longer distance or after-hours calls cost more. Roadside assistance (jumpstart, tire change) is typically $50-$100. Insurance or roadside programs may cover costs."
+      },
+      {
+        question: "How do I get towed if I don't have cash?",
+        answer: "Most towing companies accept credit/debit cards. If you have roadside assistance through insurance, AAA, or your vehicle manufacturer, they may cover the cost. Some shops offer \"tow in\" with paid repairs. Without payment options, vehicles may be held until payment is made."
+      },
+      {
+        question: "What should I do after an accident?",
+        answer: "Ensure safety first, call 911 if needed, and exchange information with other drivers. Police may call a specific towing company for accidents. You generally have the right to request your own tow company. Document the scene with photos and contact your insurance company."
+      }
+    ],
+    relatedServices: ["auto-repair", "auto-body", "roadside-assistance"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "diesel-mechanic",
+    title: "Diesel Mechanic",
+    category: "automotive",
+    subcategory: "specialty",
+    layout: 1,
+    icon: "Truck",
+    iconColor: "slate",
+    metaTitle: "Diesel Mechanic in Navarro County, TX | Diesel Repair Corsicana",
+    metaDescription: "Diesel mechanics in Corsicana and Navarro County. Diesel truck repair, maintenance, and service for personal and commercial vehicles.",
+    metaKeywords: "diesel mechanic Corsicana, diesel repair Navarro County, diesel truck, Powerstroke, Duramax",
+    heroContent: `Diesel engines require specialized knowledge and equipment for proper service. Navarro County diesel mechanics work on pickup trucks, commercial vehicles, and heavy equipment, providing the expertise diesel owners need.`,
+    localContext: `Diesel trucks are essential for farming, ranching, and businesses throughout Navarro County. Local diesel shops serve everyone from ranchers with work trucks to commercial operators with fleet vehicles, understanding the demands these engines face.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Diesel Services",
+        content: \`**Maintenance**
+- Oil and filter changes
+- Fuel filter service
+- Air filter replacement
+- DEF system service
+- Coolant service
+
+**Repair**
+- Fuel system repair
+- Turbocharger service
+- Injector service
+- Glow plug replacement
+- EGR and DPF issues
+
+**Diagnostics**
+- Computer diagnostics
+- Performance tuning
+- Delete services (off-road)
+- Emissions troubleshooting\`
+      }
+    ],
+    faqs: [
+      {
+        question: "Why do diesel repairs cost more than gas engine repairs?",
+        answer: "Diesel components are heavier-duty and more expensive. Fuel injectors cost $300-$800+ each versus $50-$150 for gas. Turbochargers run $1,500-$3,000+. Labor is similar, but parts drive costs. The trade-off is diesel engines typically last 300,000+ miles with proper maintenance."
+      },
+      {
+        question: "How often do diesel trucks need oil changes?",
+        answer: "Diesel trucks typically need oil changes every 5,000-7,500 miles, depending on the manufacturer's recommendations and driving conditions. Use the correct diesel-rated oil. Towing and severe conditions may require more frequent changes. Quality filters are essential for diesel longevity."
+      },
+      {
+        question: "What causes diesel emissions system problems?",
+        answer: "DPF (diesel particulate filter) and DEF (diesel exhaust fluid) system problems often stem from: short trips that don't allow regeneration, low-quality DEF, running low on DEF, or sensor failures. Proper driving habits and quality fluids help prevent issues."
+      }
+    ],
+    relatedServices: ["auto-repair", "towing", "transmission"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // MORE EVENTS & ENTERTAINMENT
+  // ============================================
+  {
+    slug: "wedding-venue",
+    title: "Wedding Venue",
+    category: "events_entertainment",
+    subcategory: "wedding",
+    layout: 1,
+    icon: "Heart",
+    iconColor: "rose",
+    metaTitle: "Wedding Venue in Navarro County, TX | Wedding Reception Corsicana",
+    metaDescription: "Wedding venues in Corsicana and Navarro County. Indoor and outdoor venues for ceremonies, receptions, and wedding celebrations.",
+    metaKeywords: "wedding venue Corsicana, wedding reception Navarro County, event venue, barn wedding",
+    heroContent: `Your wedding venue sets the stage for one of life's most memorable days. Navarro County offers diverse venue options from rustic barns to elegant ballrooms, outdoor settings to historic buildings.`,
+    localContext: `Navarro County's landscapes provide beautiful backdrops for weddings, from open countryside to lakeside settings. Local venues understand Texas weather and have contingency plans for our unpredictable spring and summer storms.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Wedding Venues",
+        content: \`**Venue Types**
+- Barn and ranch venues
+- Ballrooms and hotels
+- Gardens and estates
+- Lakeside properties
+- Historic buildings
+- Restaurant private rooms
+
+**Packages May Include**
+- Ceremony and reception space
+- Tables, chairs, linens
+- Catering or caterer access
+- Bar services
+- Coordinator
+- Bridal suite
+
+**Capacity**
+- Intimate (under 50)
+- Medium (50-150)
+- Large (150-300)
+- Grand (300+)\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do wedding venues cost in Navarro County?",
+        answer: "Venue costs vary widely: simple spaces start around $500-$1,500. Mid-range venues run $2,000-$5,000. Premium venues with extensive services cost $5,000-$15,000+. All-inclusive packages may seem expensive but can save money overall. Get itemized quotes to compare true costs."
+      },
+      {
+        question: "When should I book my wedding venue?",
+        answer: "Book 9-12 months ahead for popular dates (weekends in spring/fall). Less popular dates (winter, weekdays) may have shorter-notice availability. Popular venues on peak dates may book 12-18 months out. Start looking early to have the best selection."
+      },
+      {
+        question: "What should I ask when touring venues?",
+        answer: "Ask about: capacity limits, rental period, what's included, catering requirements, alcohol policies, rain backup plans, parking, setup/cleanup expectations, deposit and payment schedules, cancellation policies, and restrictions (no open flame, noise ordinances, etc.)."
+      }
+    ],
+    relatedServices: ["wedding-planner", "catering", "florist", "photographer"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "wedding-planner",
+    title: "Wedding Planner",
+    category: "events_entertainment",
+    subcategory: "wedding",
+    layout: 2,
+    icon: "Calendar",
+    iconColor: "pink",
+    metaTitle: "Wedding Planner in Navarro County, TX | Wedding Coordinator Corsicana",
+    metaDescription: "Wedding planners in Corsicana and Navarro County. Full-service planning, day-of coordination, and vendor management for perfect weddings.",
+    metaKeywords: "wedding planner Corsicana, wedding coordinator Navarro County, event planner, wedding design",
+    heroContent: `Wedding planners transform your vision into reality while managing the countless details that make events run smoothly. From full-service planning to day-of coordination, Navarro County planners help create your perfect celebration.`,
+    localContext: `Local wedding planners have relationships with Navarro County venues and vendors, often securing preferred pricing and ensuring smooth coordination. They understand local options and can recommend trusted professionals for every aspect of your wedding.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Planning Services",
+        content: \`**Full Planning**
+- Venue selection
+- Vendor recommendations
+- Budget management
+- Design and styling
+- Timeline creation
+- Complete coordination
+
+**Partial Planning**
+- Vendor selection assistance
+- Design consultation
+- Month-of coordination
+- Budget guidance
+
+**Day-of Coordination**
+- Timeline management
+- Vendor confirmation
+- Setup oversight
+- Problem-solving
+- Reception flow\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a wedding planner cost?",
+        answer: "Day-of coordinators charge $500-$1,500. Partial planning runs $1,500-$3,500. Full-service planners charge $3,000-$10,000+ or 10-15% of the wedding budget. Prices reflect the scope of services. Even budget-conscious couples often find day-of coordination worthwhile for stress reduction."
+      },
+      {
+        question: "What's the difference between a planner and day-of coordinator?",
+        answer: "Full planners help from engagement to honeymoon—venue selection, vendor hiring, design, and coordination. Day-of coordinators step in 4-8 weeks before to manage final details, confirm vendors, create timelines, and run the wedding day. They don't make major decisions or hire vendors."
+      },
+      {
+        question: "Do I need a wedding planner?",
+        answer: "It depends on your budget, available time, and stress tolerance. Planners save time, prevent problems, and often save money through vendor relationships and avoiding costly mistakes. At minimum, day-of coordination allows you and family to enjoy the wedding rather than manage logistics."
+      }
+    ],
+    relatedServices: ["wedding-venue", "event-planner", "florist", "catering"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "dj",
+    title: "DJ Services",
+    category: "events_entertainment",
+    subcategory: "music",
+    layout: 3,
+    icon: "Music",
+    iconColor: "purple",
+    metaTitle: "DJ in Navarro County, TX | DJ Services Corsicana",
+    metaDescription: "DJ services in Corsicana and Navarro County. Wedding DJs, party entertainment, MC services, and sound equipment for events.",
+    metaKeywords: "DJ Corsicana, DJ Navarro County, wedding DJ, party DJ, event entertainment",
+    heroContent: `A great DJ does more than play music—they read the crowd, create energy, and make moments memorable. Navarro County DJs provide entertainment for weddings, parties, and events of all types.`,
+    localContext: `From country to hip-hop to the classics, local DJs know how to get Navarro County crowds moving. They bring professional sound equipment and often provide MC services, keeping events flowing smoothly.`,
+    sections: [
+      {
+        type: "services",
+        heading: "DJ Services",
+        content: \`**Event Types**
+- Weddings
+- Corporate events
+- Birthday parties
+- Quinceañeras
+- School dances
+- Holiday parties
+
+**Services**
+- Music programming
+- MC and announcements
+- Dance floor lighting
+- Sound system
+- Wireless microphones
+- Song requests
+
+**Extras**
+- Photo booth packages
+- Uplighting
+- Custom playlists
+- Video screens\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do DJ services cost?",
+        answer: "Wedding DJs typically charge $500-$1,500 for 4-6 hours. Party and event DJs run $200-$600 for shorter events. Experienced DJs with premium equipment cost more. Extras like lighting, photo booths, and extended hours add to costs. Get quotes in writing with all inclusions specified."
+      },
+      {
+        question: "When should I book a DJ?",
+        answer: "For weddings, book 6-12 months ahead, especially for popular dates. Other events can book 1-3 months out. Holiday season and graduation weekends fill up quickly. Meet with DJs before booking to ensure personality fit and discuss your event vision."
+      },
+      {
+        question: "What should I ask when hiring a DJ?",
+        answer: "Ask about: experience with your event type, equipment they bring, backup equipment, MC services included, how they handle requests, their music library, whether they take breaks, cancellation policy, and whether they'll be the actual DJ (not a subcontractor)."
+      }
+    ],
+    relatedServices: ["wedding-planner", "event-venue", "party-rental", "photographer"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "event-venue",
+    title: "Event Venue",
+    category: "events_entertainment",
+    subcategory: "venue",
+    layout: 4,
+    icon: "Building",
+    iconColor: "amber",
+    metaTitle: "Event Venue in Navarro County, TX | Party Venue Corsicana",
+    metaDescription: "Event venues in Corsicana and Navarro County. Rental spaces for parties, meetings, celebrations, and special events.",
+    metaKeywords: "event venue Corsicana, party venue Navarro County, rental space, event space, celebration",
+    heroContent: `From birthday parties to business meetings, the right venue makes your event successful. Navarro County offers diverse event spaces to match any occasion, budget, and guest count.`,
+    localContext: `Corsicana and surrounding communities have venues ranging from community centers to private event spaces, restaurants with private rooms to outdoor pavilions. Local venues accommodate the various needs of Navarro County residents and businesses.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Venue Options",
+        content: \`**Venue Types**
+- Event halls
+- Community centers
+- Restaurant private rooms
+- Hotels and conference centers
+- Outdoor pavilions
+- Churches and fellowship halls
+
+**Events**
+- Birthday parties
+- Anniversary celebrations
+- Reunions
+- Baby and bridal showers
+- Retirement parties
+- Business meetings
+- Fundraisers
+
+**Features to Consider**
+- Capacity
+- Catering options
+- Audio/visual equipment
+- Parking
+- Accessibility\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does venue rental cost?",
+        answer: "Community centers and basic spaces rent for $100-$500. Mid-range event venues run $500-$1,500. Premium venues cost $1,500-$5,000+. Pricing depends on rental duration, what's included, and day of week. Many venues offer packages with catering and services."
+      },
+      {
+        question: "What's included in venue rental?",
+        answer: "Inclusions vary widely. Ask about: tables and chairs, linens, kitchen access, audio/visual equipment, setup and cleanup time, event staff, and any restrictions. Some venues are empty spaces; others provide almost everything. Compare total costs, not just rental fees."
+      },
+      {
+        question: "Can I bring my own food and alcohol?",
+        answer: "Policies vary by venue. Some require using their catering; others allow outside caterers or potluck. Alcohol policies range from BYOB to required bar services to no alcohol. Understand food and beverage rules before booking—they significantly affect total event cost."
+      }
+    ],
+    relatedServices: ["party-rental", "catering", "event-planner", "dj"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "bounce-house",
+    title: "Bounce House Rental",
+    category: "events_entertainment",
+    subcategory: "rental",
+    layout: 1,
+    icon: "Box",
+    iconColor: "yellow",
+    metaTitle: "Bounce House Rental in Navarro County, TX | Inflatables Corsicana",
+    metaDescription: "Bounce house and inflatable rentals in Corsicana and Navarro County. Bounce houses, slides, obstacle courses for parties and events.",
+    metaKeywords: "bounce house Corsicana, inflatable rental Navarro County, party rental, kids entertainment",
+    heroContent: `Bounce houses and inflatables are instant party favorites for kids of all ages. Navarro County rental companies deliver, set up, and pick up inflatable fun for birthday parties, church events, and community celebrations.`,
+    localContext: `Party rentals are popular throughout Navarro County for backyard birthday parties, school functions, and community events. Local companies understand our space constraints, ground conditions, and weather considerations for safe inflatable setup.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Inflatable Rentals",
+        content: \`**Types**
+- Standard bounce houses
+- Combo bouncers with slides
+- Water slides
+- Obstacle courses
+- Interactive games
+- Toddler units
+
+**Themes**
+- Princess/castle
+- Superhero
+- Sports
+- Tropical
+- Generic (all-occasion)
+
+**Services**
+- Delivery and setup
+- Pickup
+- Safety briefing
+- Generators (if needed)\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does bounce house rental cost?",
+        answer: "Basic bounce houses rent for $150-$250 per day. Larger combo units and slides run $250-$400. Obstacle courses and water slides cost $300-$500+. Delivery fees may be additional based on distance. Weekend premium pricing is common. Generator rental adds $50-$100 if needed."
+      },
+      {
+        question: "What do I need for setup?",
+        answer: "Inflatables need flat, clear ground and access to electricity within 100 feet. Standard outlets work for most units. You need enough space for the unit plus several feet clearance all around. Soft ground (grass) is ideal. Most companies won't set up on concrete. Clear the area of sharp objects."
+      },
+      {
+        question: "Are bounce houses safe?",
+        answer: "When properly set up and supervised, inflatables are safe. Adult supervision is required. Follow capacity limits and age/size recommendations. Don't allow flips or roughhousing. Remove shoes, glasses, and sharp objects before entering. Never use during wind or storms."
+      }
+    ],
+    relatedServices: ["party-rental", "event-planner"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // MORE AGRICULTURE & RURAL
+  // ============================================
+  {
+    slug: "large-animal-vet",
+    title: "Large Animal Vet",
+    category: "agriculture_rural",
+    subcategory: "animal",
+    layout: 1,
+    icon: "Stethoscope",
+    iconColor: "green",
+    metaTitle: "Large Animal Vet in Navarro County, TX | Livestock Veterinarian Corsicana",
+    metaDescription: "Large animal veterinarians in Corsicana and Navarro County. Cattle, horse, and livestock care including emergency services and herd health.",
+    metaKeywords: "large animal vet Corsicana, livestock vet Navarro County, cattle vet, horse vet, equine",
+    heroContent: `Livestock and horses are significant investments that require specialized veterinary care. Navarro County large animal vets provide farm calls, herd health programs, and emergency services for cattle, horses, and other livestock.`,
+    localContext: `Agriculture is fundamental to Navarro County's economy, and livestock owners need accessible veterinary care. Local large animal vets understand our area's common species, diseases, and management practices, providing essential services for ranchers and horse owners.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Large Animal Veterinary Services",
+        content: \`**Species Served**
+- Cattle (beef and dairy)
+- Horses
+- Goats and sheep
+- Pigs
+- Llamas and alpacas
+
+**Services**
+- Wellness exams
+- Vaccinations
+- Herd health programs
+- Reproduction services
+- Surgery (farm and clinic)
+- Emergency care
+
+**Specialty**
+- Pre-purchase exams
+- Coggins testing
+- Health certificates
+- Lameness evaluation\`
+      }
+    ],
+    faqs: [
+      {
+        question: "Do large animal vets make farm calls?",
+        answer: "Yes, most large animal veterinary care happens on-farm. Vets bring mobile equipment for exams, treatments, and procedures. Farm call fees typically run $50-$100+ depending on distance. Some clinics have facilities for procedures better done at the clinic."
+      },
+      {
+        question: "How much does livestock veterinary care cost?",
+        answer: "Basic cattle vaccinations run $3-$15 per head. Pregnancy checks are $5-$10 per head. Horse exams cost $50-$100 plus procedures. Emergency calls are more expensive, especially after-hours. Herd health programs can provide volume discounts for regular services."
+      },
+      {
+        question: "What vaccinations do cattle need?",
+        answer: "Core cattle vaccines typically include: respiratory complex (IBR, BVD, PI3, BRSV), clostridial diseases (blackleg, etc.), and may include leptospirosis and others based on your operation. Your vet can recommend a protocol based on your herd's risk factors and management."
+      }
+    ],
+    relatedServices: ["veterinarian", "farrier", "feed-store"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "pet-boarding",
+    title: "Pet Boarding / Kennel",
+    category: "agriculture_rural",
+    subcategory: "animal",
+    layout: 2,
+    icon: "Home",
+    iconColor: "amber",
+    metaTitle: "Pet Boarding in Navarro County, TX | Dog Boarding Corsicana",
+    metaDescription: "Pet boarding and kennels in Corsicana and Navarro County. Dog and cat boarding, daycare, and overnight care when you're away.",
+    metaKeywords: "pet boarding Corsicana, dog boarding Navarro County, kennel, pet daycare, dog hotel",
+    heroContent: `When you travel, your pets need reliable care. Navarro County boarding facilities provide safe, comfortable environments where dogs and cats receive attention, exercise, and supervision while you're away.`,
+    localContext: `Whether you're away for work, vacation, or emergencies, local boarding facilities offer peace of mind. Navarro County options range from basic kennels to premium facilities with amenities like webcams, grooming, and extended playtime.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Boarding Services",
+        content: \`**Accommodations**
+- Standard kennels
+- Suites and private rooms
+- Climate-controlled areas
+- Outdoor access
+- Cat quarters
+
+**Services**
+- Feeding (your food or theirs)
+- Medication administration
+- Exercise and playtime
+- Grooming services
+- Training options
+
+**Options**
+- Overnight boarding
+- Extended stays
+- Daycare
+- Puppy care
+- Senior pet care\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does pet boarding cost?",
+        answer: "Dog boarding typically costs $25-$55 per night depending on facility type and dog size. Premium accommodations with extra amenities cost more. Cat boarding is usually less ($15-$30/night). Daycare runs $15-$35 per day. Multi-pet discounts are common. Holidays may have higher rates."
+      },
+      {
+        question: "What should I bring for my pet's boarding stay?",
+        answer: "Bring your pet's regular food (avoid diet changes during boarding), medications with instructions, vaccination records, and a favorite toy or blanket with familiar scents. Most facilities require proof of current vaccinations including rabies and bordetella (kennel cough)."
+      },
+      {
+        question: "How do I prepare my dog for boarding?",
+        answer: "Ensure vaccinations are current (get them 2+ weeks before boarding). Try a daycare visit or short stay first if your dog hasn't boarded before. Maintain normal routines before drop-off. Provide clear feeding instructions and emergency contacts. Don't make long, emotional goodbyes."
+      }
+    ],
+    relatedServices: ["pet-groomer", "veterinarian", "dog-trainer"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "dog-trainer",
+    title: "Dog Training",
+    category: "agriculture_rural",
+    subcategory: "animal",
+    layout: 3,
+    icon: "Dog",
+    iconColor: "brown",
+    metaTitle: "Dog Trainer in Navarro County, TX | Dog Training Corsicana",
+    metaDescription: "Dog trainers in Corsicana and Navarro County. Obedience training, behavior modification, and puppy classes for well-mannered dogs.",
+    metaKeywords: "dog trainer Corsicana, dog training Navarro County, obedience training, puppy class, behavior",
+    heroContent: `A well-trained dog is happier and safer. Dog trainers help you build communication with your pet, address behavior problems, and develop the obedience skills that make dogs better companions and family members.`,
+    localContext: `Navarro County dog trainers work with pets ranging from new puppies to dogs with established behavior issues. Local trainers offer group classes, private lessons, and board-and-train programs to meet different needs and budgets.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Training Programs",
+        content: \`**Classes**
+- Puppy socialization
+- Basic obedience
+- Advanced obedience
+- Canine Good Citizen
+- Therapy dog prep
+
+**Private Training**
+- In-home lessons
+- One-on-one sessions
+- Behavior modification
+- Aggression issues
+- Anxiety issues
+
+**Specialty**
+- Board-and-train
+- Service dog training
+- Hunting dog training
+- Protection training\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does dog training cost?",
+        answer: "Group classes typically run $100-$200 for 6-8 week courses. Private lessons cost $50-$100 per session. Board-and-train programs range from $1,000-$3,000+ for 2-4 weeks. Prices vary by trainer experience and program intensity. Package deals often offer savings."
+      },
+      {
+        question: "At what age should I start training my puppy?",
+        answer: "Puppies can start learning immediately at home. Formal classes typically begin at 8-12 weeks (after first vaccinations). Early socialization (8-16 weeks) is critical for development. Basic obedience becomes more structured around 4-6 months. It's never too late to train older dogs."
+      },
+      {
+        question: "How long does it take to train a dog?",
+        answer: "Basic commands can be learned in a few weeks with consistent practice. Solid obedience takes 3-6 months of regular training. Behavior problems may take months to address. Training is ongoing—skills need regular reinforcement. The key is consistency and practice between lessons."
+      }
+    ],
+    relatedServices: ["pet-boarding", "veterinarian", "pet-groomer"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "feed-store",
+    title: "Feed Store",
+    category: "agriculture_rural",
+    subcategory: "farm",
+    layout: 4,
+    icon: "Wheat",
+    iconColor: "amber",
+    metaTitle: "Feed Store in Navarro County, TX | Animal Feed Corsicana",
+    metaDescription: "Feed stores in Corsicana and Navarro County. Livestock feed, pet food, farm supplies, and expert advice for animal nutrition.",
+    metaKeywords: "feed store Corsicana, animal feed Navarro County, livestock feed, hay, farm supply",
+    heroContent: `Quality nutrition keeps animals healthy and productive. Navarro County feed stores carry feeds for every animal from cattle to chickens to dogs, along with supplies, supplements, and the expertise to help you choose what's right for your animals.`,
+    localContext: `Feed stores have served Navarro County's agricultural community for generations. They understand local conditions, common livestock, and the nutritional needs of animals in our area. Staff can advise on feed programs and troubleshoot nutrition issues.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Feed Store Products",
+        content: \`**Livestock Feed**
+- Cattle feed and minerals
+- Horse feed and supplements
+- Goat and sheep feed
+- Pig feed
+- Poultry feed
+
+**Pet Food**
+- Dog food
+- Cat food
+- Bird seed
+- Small animal food
+
+**Supplies**
+- Hay and straw
+- Fencing supplies
+- Farm hardware
+- Feeders and waterers
+- Animal health products\`
+      }
+    ],
+    faqs: [
+      {
+        question: "Do feed stores deliver?",
+        answer: "Many feed stores offer delivery for bulk orders (typically 1 ton or more). Delivery fees vary by distance and order size. Some stores have free delivery within a certain radius for large orders. Call ahead to arrange delivery and confirm availability."
+      },
+      {
+        question: "What kind of hay is best for my animals?",
+        answer: "It depends on the animal. Horses often do well with timothy or coastal hay. Cattle can use lower-quality grass hay supplemented with grain. Goats prefer leafy hay. Quality matters more than type—look for green color, no mold, and minimal dust. Your feed store can advise based on your specific animals."
+      },
+      {
+        question: "How do I choose the right feed?",
+        answer: "Consider: species, age, weight, activity level, and purpose (maintenance, growth, production). Feed bags provide nutritional analysis. Store staff can recommend appropriate products. Start with established brands and consult your vet or extension agent for specific nutritional questions."
+      }
+    ],
+    relatedServices: ["farm-supply", "veterinarian", "large-animal-vet"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "tractor-repair",
+    title: "Tractor Repair",
+    category: "agriculture_rural",
+    subcategory: "farm",
+    layout: 5,
+    icon: "Tractor",
+    iconColor: "green",
+    metaTitle: "Tractor Repair in Navarro County, TX | Farm Equipment Service Corsicana",
+    metaDescription: "Tractor repair and farm equipment service in Corsicana and Navarro County. Maintenance, repairs, and restoration for agricultural equipment.",
+    metaKeywords: "tractor repair Corsicana, farm equipment Navarro County, John Deere, Kubota, tractor service",
+    heroContent: `Tractors and farm equipment are essential investments that need reliable maintenance and repair. Navarro County mechanics specialize in agricultural equipment, keeping the machinery that runs our farms operational.`,
+    localContext: `Agriculture depends on equipment that works when needed. Local tractor mechanics understand the time-sensitive nature of farm repairs and offer mobile service to minimize downtime during critical seasons.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Equipment Services",
+        content: \`**Tractors**
+- All makes and models
+- Engine repair
+- Transmission service
+- Hydraulic systems
+- Electrical repair
+- PTO service
+
+**Implements**
+- Mowers and cutters
+- Hay equipment
+- Tillage equipment
+- Loaders and backhoes
+- Attachments
+
+**Services**
+- Mobile repair
+- Shop service
+- Preventive maintenance
+- Pre-season inspection
+- Winterization\`
+      }
+    ],
+    faqs: [
+      {
+        question: "Do you work on all tractor brands?",
+        answer: "Most tractor mechanics work on common brands (John Deere, Kubota, New Holland, Case, Massey Ferguson, etc.). Some specialize in certain manufacturers. For very old or rare equipment, finding parts may be challenging. Call ahead to confirm experience with your specific equipment."
+      },
+      {
+        question: "Can you come to my farm for repairs?",
+        answer: "Many tractor mechanics offer mobile service, bringing tools and common parts to your location. This is convenient for large equipment that's difficult to transport. Mobile calls typically have trip charges in addition to hourly labor. Complex repairs may still require shop visits."
+      },
+      {
+        question: "How often should tractors be serviced?",
+        answer: "Follow manufacturer recommendations for oil changes (typically every 100-200 hours), filter replacement, and other maintenance. Annual inspections before busy seasons help prevent breakdowns. Keep daily checks on fluid levels, tire pressure, and general condition."
+      }
+    ],
+    relatedServices: ["machine-shop", "welder", "diesel-mechanic"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "land-clearing",
+    title: "Land Clearing",
+    category: "agriculture_rural",
+    subcategory: "land",
+    layout: 1,
+    icon: "TreeDeciduous",
+    iconColor: "green",
+    metaTitle: "Land Clearing in Navarro County, TX | Brush Clearing Corsicana",
+    metaDescription: "Land clearing services in Corsicana and Navarro County. Brush clearing, tree removal, and property preparation for development or agriculture.",
+    metaKeywords: "land clearing Corsicana, brush clearing Navarro County, tree clearing, property clearing",
+    heroContent: `Land clearing prepares property for development, agriculture, or improved use. Navarro County land clearing services remove trees, brush, and obstacles to transform overgrown land into usable space.`,
+    localContext: `Much of Navarro County features dense brush and trees that require clearing for pasture improvement, home sites, or development. Local land clearing operators have the equipment and experience to handle various terrain and vegetation types common in our area.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Land Clearing Services",
+        content: \`**Clearing Types**
+- Brush clearing
+- Tree removal
+- Cedar clearing
+- Right-of-way clearing
+- Fence line clearing
+- Pond site preparation
+
+**Methods**
+- Forestry mulching
+- Bulldozer clearing
+- Excavator work
+- Selective clearing
+- Complete clearing
+
+**Applications**
+- Pasture improvement
+- Building sites
+- Road access
+- Hunting land
+- Agricultural prep\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does land clearing cost?",
+        answer: "Costs vary by vegetation density, terrain, and method. Light brush clearing might run $500-$1,500 per acre. Heavy clearing with large trees costs $2,000-$5,000+ per acre. Forestry mulching is often more cost-effective than traditional bulldozing. Get quotes after on-site evaluation."
+      },
+      {
+        question: "What is forestry mulching?",
+        answer: "Forestry mulching uses a specialized machine to grind trees and brush into mulch on-site. It's typically faster than traditional clearing, leaves no burn piles, adds organic matter to soil, and causes less ground disturbance. It's ideal for smaller trees and brush but may not handle very large trees."
+      },
+      {
+        question: "Do I need permits for land clearing?",
+        answer: "In unincorporated Navarro County, permits typically aren't required for agricultural land clearing. However, clearing near waterways may have regulations. City limits may have tree ordinances. Check with the county or municipality before major clearing projects. Burn permits are required for burning debris."
+      }
+    ],
+    relatedServices: ["excavator", "tree-service", "dirt-work"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "dirt-work",
+    title: "Dirt Work",
+    category: "agriculture_rural",
+    subcategory: "land",
+    layout: 2,
+    icon: "Mountain",
+    iconColor: "amber",
+    metaTitle: "Dirt Work in Navarro County, TX | Grading and Excavation Corsicana",
+    metaDescription: "Dirt work and grading services in Corsicana and Navarro County. Lot preparation, driveways, drainage, and site work.",
+    metaKeywords: "dirt work Corsicana, grading Navarro County, lot preparation, driveway, drainage",
+    heroContent: `Proper site preparation is the foundation of any construction project. Dirt work contractors handle grading, drainage, and earthmoving to prepare land for buildings, driveways, and other improvements.`,
+    localContext: `Navarro County's clay soil presents specific challenges for grading and drainage. Local dirt work contractors understand these conditions and can prepare sites that handle our soil's behavior and drainage needs.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Dirt Work Services",
+        content: \`**Grading**
+- Lot preparation
+- Finish grading
+- Slope correction
+- Drainage grading
+- Pad preparation
+
+**Earthwork**
+- Excavation
+- Fill and compaction
+- Topsoil spreading
+- Rock/gravel placement
+- Demolition
+
+**Applications**
+- Home sites
+- Driveways
+- Parking areas
+- Agricultural pads
+- Sports fields\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does dirt work cost?",
+        answer: "Costs depend on scope and equipment needed. Small residential grading projects start around $500-$2,000. Driveway preparation runs $1,500-$5,000+. Large lot preparation can cost $5,000-$20,000+. Hauling material (in or out) adds significant cost. Get quotes after site evaluation."
+      },
+      {
+        question: "Do I need a survey before dirt work?",
+        answer: "For building sites, yes—surveys establish property lines, elevations, and setback requirements. For simple driveway or drainage work, surveys may not be required but can help. Your contractor or building department can advise on your specific project needs."
+      },
+      {
+        question: "What equipment is used for dirt work?",
+        answer: "Common equipment includes bulldozers for pushing and grading, excavators for digging and loading, skid steers for smaller work, dump trucks for hauling, and compactors for soil preparation. Your contractor selects equipment based on project scope and site access."
+      }
+    ],
+    relatedServices: ["excavator", "land-clearing", "concrete"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "pond-construction",
+    title: "Pond Construction",
+    category: "agriculture_rural",
+    subcategory: "land",
+    layout: 3,
+    icon: "Waves",
+    iconColor: "blue",
+    metaTitle: "Pond Construction in Navarro County, TX | Stock Ponds Corsicana",
+    metaDescription: "Pond construction in Corsicana and Navarro County. Stock ponds, fishing ponds, decorative ponds, and pond repair services.",
+    metaKeywords: "pond construction Corsicana, stock pond Navarro County, fishing pond, pond builder",
+    heroContent: `Ponds provide water for livestock, fishing recreation, and property aesthetics. Navarro County pond builders construct new ponds and repair existing ones, creating water features that serve your land's needs.`,
+    localContext: `Navarro County's landscape is well-suited for pond construction, with clay soils that hold water and terrain that allows for dam construction. Local pond builders understand our soil conditions and water table characteristics.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Pond Services",
+        content: \`**Pond Types**
+- Stock ponds
+- Fishing ponds
+- Decorative ponds
+- Irrigation ponds
+- Wildlife ponds
+
+**Construction**
+- Site selection advice
+- Dam construction
+- Spillway installation
+- Basin excavation
+- Core trenching
+
+**Improvements**
+- Pond deepening
+- Dam repair
+- Spillway repair
+- Vegetation control
+- Aeration systems\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does pond construction cost?",
+        answer: "Costs vary dramatically by size and site conditions. Small decorative ponds start around $5,000-$10,000. One-acre stock ponds typically run $10,000-$30,000+. Larger ponds with dams cost $20,000-$50,000+. Site conditions, soil type, and access affect pricing significantly."
+      },
+      {
+        question: "Do I need permits to build a pond?",
+        answer: "Requirements depend on pond size and water source. Small ponds typically don't need permits. Larger ponds, dams over certain heights, or ponds impounding water from streams may need state permits. Consult with your contractor and the local USDA-NRCS office about requirements."
+      },
+      {
+        question: "What makes a good pond site?",
+        answer: "Ideal sites have: clay soils that hold water, sufficient watershed to fill the pond, room for dam construction, proper slope for drainage, and accessible location for equipment. Avoid sites with sandy soils, springs that may cause seepage issues, or insufficient drainage area."
+      }
+    ],
+    relatedServices: ["excavator", "dirt-work", "land-clearing"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
   }
 ];
 
