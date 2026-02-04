@@ -12558,6 +12558,9005 @@ Our clay soils require:
     externalResources: [],
     claimedBusinessId: null,
     status: "active"
+  },
+
+  // ============================================
+  // MORE CONSTRUCTION & TRADES
+  // ============================================
+  {
+    slug: "general-contractor",
+    title: "General Contractor",
+    category: "construction_trades",
+    subcategory: "construction",
+    layout: 1,
+    icon: "Hammer",
+    iconColor: "amber",
+    metaTitle: "General Contractor in Navarro County, TX | Home Builder Corsicana",
+    metaDescription: "General contractors in Corsicana and Navarro County. New construction, remodeling, and construction management for residential and commercial projects.",
+    metaKeywords: "general contractor Corsicana, home builder Navarro County, construction, remodeling contractor",
+    heroContent: `General contractors manage construction projects from start to finish, coordinating subcontractors, materials, and schedules. Whether building new or remodeling existing structures, Navarro County GCs handle the complexity so you don't have to.`,
+    localContext: `Building in Navarro County requires understanding our clay soil conditions, local building codes, and reliable subcontractor networks. Local general contractors have established relationships and know which approaches work best in our area.`,
+    sections: [
+      {
+        type: "services",
+        heading: "General Contractor Services",
+        content: \`**New Construction**
+- Custom homes
+- Spec homes
+- Commercial buildings
+- Agricultural buildings
+- Accessory structures
+
+**Remodeling**
+- Whole-house renovation
+- Room additions
+- Kitchen and bath remodels
+- Structural modifications
+- Second stories
+
+**Project Management**
+- Subcontractor coordination
+- Permit acquisition
+- Material procurement
+- Schedule management
+- Quality control\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does it cost to build a house in Navarro County?",
+        answer: "New construction costs typically range from $150-$300+ per square foot depending on finishes, complexity, and site conditions. A 2,000 sq ft home might cost $300,000-$600,000+. Get detailed quotes based on your specific plans—costs vary significantly by design choices and market conditions."
+      },
+      {
+        question: "Do I need a licensed contractor in Texas?",
+        answer: "Texas doesn't require a statewide contractor license, but Corsicana and some areas require local registration. However, specific trades (electrical, plumbing, HVAC) require licensed professionals. Always verify insurance, references, and check for complaints regardless of licensing requirements."
+      },
+      {
+        question: "How do I verify a contractor is legitimate?",
+        answer: "Request proof of liability insurance and workers' compensation. Get references and actually call them. Check for BBB complaints. Verify any specialty licenses. Visit projects they've completed. Get detailed written contracts. Trust your instincts—good contractors welcome scrutiny."
+      }
+    ],
+    relatedServices: ["home-builder", "remodeling", "concrete", "roofing"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "home-builder",
+    title: "Home Builder",
+    category: "construction_trades",
+    subcategory: "construction",
+    layout: 2,
+    icon: "Home",
+    iconColor: "blue",
+    metaTitle: "Home Builder in Navarro County, TX | New Home Construction Corsicana",
+    metaDescription: "Home builders in Corsicana and Navarro County. Custom homes, new construction, and quality craftsmanship for your dream home.",
+    metaKeywords: "home builder Corsicana, new home Navarro County, custom home, house construction",
+    heroContent: `Building a home is one of life's biggest investments. Navarro County home builders bring expertise in design, construction, and local conditions to create quality homes that stand the test of time and meet your family's needs.`,
+    localContext: `Building a home in Navarro County requires knowledge of our expansive clay soils, foundation requirements, and local conditions. Experienced local builders design and construct homes that perform well in our specific environment.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Home Building Services",
+        content: \`**Home Types**
+- Custom homes
+- Semi-custom homes
+- Production homes
+- Barndominium construction
+- Log and timber homes
+
+**Process**
+- Plan design/selection
+- Site preparation
+- Foundation work
+- Framing and structure
+- Interior finishing
+- Final completion
+
+**Considerations**
+- Lot evaluation
+- Energy efficiency
+- Foundation type
+- Material selection
+- Budget planning\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How long does it take to build a house?",
+        answer: "Custom homes typically take 8-14 months from groundbreaking to move-in. Production homes may be faster at 6-9 months. Factors affecting timeline include plan complexity, weather, material availability, and permitting. Discuss realistic timelines with your builder before starting."
+      },
+      {
+        question: "Should I buy an existing home or build new?",
+        answer: "Building new offers customization, modern efficiency, and everything under warranty. Buying existing costs less, requires less time, and avoids construction stress. Consider your budget, timeline, customization desires, and available inventory. Land costs add significantly to new construction."
+      },
+      {
+        question: "What foundation type works best here?",
+        answer: "Navarro County's clay soil typically requires slab-on-grade foundations with proper engineering—often post-tension slabs or pier-and-beam designs. Foundation selection depends on specific soil conditions, which should be evaluated by geotechnical testing. Proper foundations prevent costly problems later."
+      }
+    ],
+    relatedServices: ["general-contractor", "foundation-repair", "realtor"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "remodeling",
+    title: "Remodeling Contractor",
+    category: "construction_trades",
+    subcategory: "construction",
+    layout: 3,
+    icon: "Hammer",
+    iconColor: "slate",
+    metaTitle: "Remodeling Contractor in Navarro County, TX | Home Renovation Corsicana",
+    metaDescription: "Remodeling contractors in Corsicana and Navarro County. Kitchen and bath remodels, room additions, and whole-house renovation.",
+    metaKeywords: "remodeling contractor Corsicana, renovation Navarro County, home remodel, kitchen bath",
+    heroContent: `Remodeling transforms existing spaces into something better suited to your needs. From kitchen updates to whole-house renovations, Navarro County remodeling contractors turn your vision into reality while managing the complexity of renovation work.`,
+    localContext: `Many Navarro County homes are older and benefit from updates—whether modernizing dated kitchens, adding bathrooms, or improving layouts. Local remodelers understand the common construction methods in our area and how to work with them.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Remodeling Services",
+        content: \`**Major Remodels**
+- Kitchen renovation
+- Bathroom remodel
+- Master suite addition
+- Room additions
+- Whole-house remodel
+
+**Updates**
+- Flooring replacement
+- Cabinet refacing/replacement
+- Countertop installation
+- Interior painting
+- Lighting upgrades
+
+**Structural**
+- Wall removal
+- Layout changes
+- Second story additions
+- Garage conversions
+- Basement finishing\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a kitchen remodel cost?",
+        answer: "Kitchen remodels in Navarro County range widely: cosmetic updates ($10,000-$25,000), mid-range renovations ($25,000-$60,000), and high-end overhauls ($60,000-$150,000+). Costs depend on layout changes, appliance quality, cabinet materials, and finishes. Get detailed quotes for your specific plans."
+      },
+      {
+        question: "How long does remodeling take?",
+        answer: "Timelines vary by project scope. Bathroom remodels take 2-4 weeks. Kitchen remodels run 4-8 weeks. Room additions take 8-12 weeks. Whole-house renovations may take 3-6+ months. Factors include permit timing, material lead times, and change orders."
+      },
+      {
+        question: "Should we live in the house during remodeling?",
+        answer: "It depends on the project scope. Minor updates are manageable. Kitchen remodels are challenging without cooking facilities. Major renovations with dust, noise, and no functional bathrooms may warrant temporary housing. Discuss logistics with your contractor and budget accordingly."
+      }
+    ],
+    relatedServices: ["kitchen-remodel", "bathroom-remodel", "general-contractor"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "concrete",
+    title: "Concrete Work",
+    category: "construction_trades",
+    subcategory: "specialty",
+    layout: 4,
+    icon: "Grid3X3",
+    iconColor: "gray",
+    metaTitle: "Concrete Work in Navarro County, TX | Concrete Contractor Corsicana",
+    metaDescription: "Concrete contractors in Corsicana and Navarro County. Driveways, patios, foundations, and decorative concrete services.",
+    metaKeywords: "concrete Corsicana, concrete contractor Navarro County, driveway, patio, foundation",
+    heroContent: `Concrete provides durable, low-maintenance surfaces for driveways, patios, foundations, and more. Navarro County concrete contractors handle everything from simple slabs to decorative stamped concrete, with expertise in our soil conditions.`,
+    localContext: `Navarro County's clay soil affects concrete work significantly—proper base preparation and control joints are essential to prevent cracking. Local concrete contractors understand these conditions and build accordingly.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Concrete Services",
+        content: \`**Flatwork**
+- Driveways
+- Patios
+- Sidewalks
+- Pool decks
+- Garage floors
+
+**Structural**
+- Foundations
+- Stem walls
+- Retaining walls
+- Footings
+
+**Decorative**
+- Stamped concrete
+- Stained concrete
+- Exposed aggregate
+- Colored concrete
+- Concrete overlays\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a concrete driveway cost?",
+        answer: "Concrete driveways in Navarro County typically cost $6-$12 per square foot for standard work. A typical two-car driveway (400-600 sq ft) runs $3,000-$7,000. Decorative options, thick slabs, or challenging site conditions increase costs. Get quotes for your specific project."
+      },
+      {
+        question: "How long does concrete last?",
+        answer: "Properly installed concrete lasts 25-50+ years. Longevity depends on mix quality, installation practices, sub-base preparation, and maintenance. Sealing every few years helps protect surfaces. Our clay soil makes proper installation particularly important for long-term performance."
+      },
+      {
+        question: "When is the best time to pour concrete?",
+        answer: "Spring and fall offer ideal temperatures in Navarro County. Summer pours require careful timing (early morning) and curing procedures. Winter pours need cold weather precautions. Avoid pouring during rain or when freeze is expected within 48 hours of placement."
+      }
+    ],
+    relatedServices: ["general-contractor", "driveway-contractor", "patio"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "masonry",
+    title: "Masonry",
+    category: "construction_trades",
+    subcategory: "specialty",
+    layout: 5,
+    icon: "LayoutGrid",
+    iconColor: "red",
+    metaTitle: "Masonry in Navarro County, TX | Brick and Stone Work Corsicana",
+    metaDescription: "Masonry contractors in Corsicana and Navarro County. Brick, stone, and block work for homes and commercial buildings.",
+    metaKeywords: "masonry Corsicana, brick Navarro County, stone work, block wall, mason",
+    heroContent: `Masonry adds durability, beauty, and value to homes and buildings. From brick veneer to stone accents to block walls, Navarro County masons provide skilled craftsmanship for new construction and repairs.`,
+    localContext: `Brick and stone construction has a long history in Navarro County, and many historic buildings showcase quality masonry work. Modern masons continue this tradition while also providing maintenance and repair for existing structures.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Masonry Services",
+        content: \`**New Construction**
+- Brick veneer
+- Stone veneer
+- Block walls
+- Outdoor fireplaces
+- Columns and pillars
+
+**Repair**
+- Tuckpointing
+- Brick replacement
+- Crack repair
+- Chimney repair
+- Mortar restoration
+
+**Decorative**
+- Stone accents
+- Arches and headers
+- Mailbox columns
+- Retaining walls
+- Landscape walls\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does brick work cost?",
+        answer: "Brick veneer for homes costs $8-$15 per square foot installed. Stone veneer runs $15-$30+ per square foot. Block walls cost $10-$20 per linear foot for standard heights. Decorative features and repairs are quoted individually based on scope."
+      },
+      {
+        question: "What causes brick to crack?",
+        answer: "In Navarro County, brick cracks often result from foundation movement due to clay soil expansion and contraction. Settling, thermal expansion, and structural issues also cause cracking. Stair-step cracks in mortar joints are classic signs of foundation movement."
+      },
+      {
+        question: "Can cracked brick be repaired?",
+        answer: "Yes, but first address the underlying cause (often foundation issues). Tuckpointing replaces damaged mortar. Severely cracked bricks can be replaced. However, repairs to moving structures will crack again unless the movement is stopped. Consult both a mason and foundation specialist."
+      }
+    ],
+    relatedServices: ["foundation-repair", "general-contractor", "concrete"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "steel-building",
+    title: "Steel Building Construction",
+    category: "construction_trades",
+    subcategory: "specialty",
+    layout: 1,
+    icon: "Factory",
+    iconColor: "slate",
+    metaTitle: "Steel Building in Navarro County, TX | Metal Building Corsicana",
+    metaDescription: "Steel building construction in Corsicana and Navarro County. Metal buildings, workshops, warehouses, and commercial structures.",
+    metaKeywords: "steel building Corsicana, metal building Navarro County, shop building, warehouse",
+    heroContent: `Steel buildings provide durable, versatile structures for workshops, storage, commercial use, and more. Navarro County steel building contractors erect pre-engineered metal buildings quickly and cost-effectively.`,
+    localContext: `Steel buildings are popular throughout Navarro County for agricultural buildings, workshops, and commercial uses. They handle our climate well and provide large clear-span spaces without interior columns.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Steel Building Types",
+        content: \`**Uses**
+- Workshops and garages
+- Agricultural buildings
+- Warehouses
+- Commercial buildings
+- Aircraft hangars
+- RV and boat storage
+
+**Features**
+- Clear-span interiors
+- Custom doors and windows
+- Insulation options
+- Climate control ready
+- Various sizes
+
+**Finishes**
+- Painted steel
+- Wainscot options
+- Brick or stone accents
+- Lean-to additions\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do steel buildings cost?",
+        answer: "Steel building costs vary by size, features, and finishing. Basic shells run $10-$20 per square foot. Finished buildings with insulation, concrete, and electrical run $25-$50+ per square foot. A 40x60 building might cost $30,000-$100,000+ depending on specifications."
+      },
+      {
+        question: "How long does steel building construction take?",
+        answer: "Pre-engineered steel buildings erect quickly once materials arrive. Foundation takes 1-2 weeks. The building shell may go up in 1-2 weeks. Interior finishing adds weeks to months. Total project time is typically 6-12 weeks, with material lead times adding 4-8 weeks upfront."
+      },
+      {
+        question: "Do steel buildings require permits?",
+        answer: "Yes, steel buildings generally require permits like any construction. Requirements include site plans, engineered drawings, and inspections. Building codes specify wind and snow load requirements. Permits ensure your building meets safety standards and can be insured."
+      }
+    ],
+    relatedServices: ["general-contractor", "concrete", "electrician"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "pole-barn",
+    title: "Pole Barn Builder",
+    category: "construction_trades",
+    subcategory: "specialty",
+    layout: 2,
+    icon: "Home",
+    iconColor: "brown",
+    metaTitle: "Pole Barn in Navarro County, TX | Pole Building Corsicana",
+    metaDescription: "Pole barn builders in Corsicana and Navarro County. Post-frame construction for barns, workshops, and agricultural buildings.",
+    metaKeywords: "pole barn Corsicana, pole building Navarro County, post frame, barn builder",
+    heroContent: `Pole barns (post-frame buildings) offer economical, versatile structures for agricultural, commercial, and residential use. Navarro County pole barn builders construct durable buildings quickly and cost-effectively.`,
+    localContext: `Pole barns are common throughout Navarro County for livestock shelters, equipment storage, workshops, and even homes (barndominiums). Their post-frame construction suits our conditions and provides flexible, open interiors.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Pole Barn Applications",
+        content: \`**Agricultural**
+- Hay barns
+- Livestock shelters
+- Equipment storage
+- Riding arenas
+- Grain storage
+
+**Residential**
+- Workshops
+- Garages
+- Hobby buildings
+- Barndominiums
+- Guest houses
+
+**Commercial**
+- Warehouses
+- Retail buildings
+- Storage facilities\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a pole barn cost?",
+        answer: "Basic pole barn shells cost $15-$30 per square foot. Finished buildings with concrete, insulation, and utilities run $30-$60+ per square foot. A 40x60 basic barn might cost $25,000-$50,000; finished for residential use, $80,000-$150,000+."
+      },
+      {
+        question: "What's the difference between pole barns and steel buildings?",
+        answer: "Pole barns use wood posts embedded in the ground with wood or metal framing. Steel buildings use metal framing and columns. Pole barns often cost less for smaller buildings. Steel buildings offer larger clear spans. Both work well; choice depends on use, size, and aesthetics."
+      },
+      {
+        question: "Can I live in a pole barn (barndominium)?",
+        answer: "Yes, properly designed pole barns can be finished as homes (barndominiums). They require proper insulation, HVAC, plumbing, and electrical like any home. Building codes and financing may differ from traditional homes. Many Navarro County families enjoy barndominium living."
+      }
+    ],
+    relatedServices: ["steel-building", "general-contractor", "barn-builder"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "outdoor-kitchen",
+    title: "Outdoor Kitchen Builder",
+    category: "construction_trades",
+    subcategory: "outdoor",
+    layout: 3,
+    icon: "Flame",
+    iconColor: "orange",
+    metaTitle: "Outdoor Kitchen in Navarro County, TX | Outdoor Kitchen Builder Corsicana",
+    metaDescription: "Outdoor kitchen builders in Corsicana and Navarro County. Custom outdoor kitchens, grills, and entertainment areas.",
+    metaKeywords: "outdoor kitchen Corsicana, outdoor grill Navarro County, backyard kitchen, BBQ island",
+    heroContent: `Outdoor kitchens extend your living space and make entertaining effortless. Navarro County builders create custom outdoor kitchens with grills, counters, refrigeration, and everything you need for outdoor cooking and entertaining.`,
+    localContext: `Texas weather allows outdoor cooking most of the year, making outdoor kitchens popular in Navarro County. From simple grill stations to elaborate outdoor rooms, local builders design spaces that work with our climate.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Outdoor Kitchen Features",
+        content: \`**Cooking**
+- Built-in grills
+- Smokers
+- Side burners
+- Pizza ovens
+- Rotisseries
+
+**Convenience**
+- Countertops
+- Sinks
+- Refrigerators
+- Ice makers
+- Storage cabinets
+
+**Structures**
+- Covered kitchens
+- Pergolas
+- Pavilions
+- Lighting
+- Fans and heaters\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does an outdoor kitchen cost?",
+        answer: "Simple grill islands start around $3,000-$8,000. Mid-range outdoor kitchens with multiple features run $8,000-$20,000. Elaborate outdoor rooms with coverage and full amenities cost $20,000-$50,000+. Costs depend on equipment, materials, and complexity."
+      },
+      {
+        question: "What materials work best for outdoor kitchens?",
+        answer: "Stone, brick, and stucco-finished block handle weather well. Granite, tile, and concrete countertops work outdoors. Stainless steel components resist rust. Avoid materials that absorb water and freeze (some natural stones). Quality outdoor-rated components cost more but last."
+      },
+      {
+        question: "Does an outdoor kitchen need permits?",
+        answer: "Gas, electrical, and plumbing work typically requires permits. Covered structures may need building permits. Setback requirements apply. Some simple grill islands may not require permits. Check with your contractor and local building department about your specific project."
+      }
+    ],
+    relatedServices: ["patio", "concrete", "landscaping"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "pergola",
+    title: "Pergola Builder",
+    category: "construction_trades",
+    subcategory: "outdoor",
+    layout: 4,
+    icon: "Grid2X2",
+    iconColor: "brown",
+    metaTitle: "Pergola in Navarro County, TX | Pergola Builder Corsicana",
+    metaDescription: "Pergola builders in Corsicana and Navarro County. Custom pergolas, arbors, and outdoor shade structures.",
+    metaKeywords: "pergola Corsicana, pergola builder Navarro County, arbor, shade structure, outdoor living",
+    heroContent: `Pergolas add beauty and filtered shade to outdoor spaces. Whether standing alone or attached to your home, pergolas define outdoor rooms and provide relief from the Texas sun while maintaining an open, airy feel.`,
+    localContext: `Pergolas are popular in Navarro County for creating shaded patios without the commitment of full roofs. They can be enhanced with vines, fabric, or added roofing for more complete shade as desired.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Pergola Options",
+        content: \`**Styles**
+- Attached pergolas
+- Freestanding pergolas
+- Arbors
+- Shade structures
+- Louvered pergolas
+
+**Materials**
+- Cedar
+- Redwood
+- Pressure-treated pine
+- Vinyl/composite
+- Aluminum
+
+**Features**
+- Lighting integration
+- Fan-ready beams
+- Retractable canopies
+- Privacy screens
+- Planter integration\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a pergola cost?",
+        answer: "Pre-fab pergola kits start around $1,500-$5,000. Custom-built wood pergolas run $3,000-$15,000+ depending on size and features. Louvered (adjustable) pergolas cost $15,000-$30,000+. Size, materials, and customization drive pricing."
+      },
+      {
+        question: "What's the best wood for pergolas in Texas?",
+        answer: "Cedar is the top choice—naturally rot-resistant and weathers to a silver-gray. Redwood is excellent but expensive. Pressure-treated pine is more affordable but requires more maintenance. Avoid untreated wood—it won't last in our climate."
+      },
+      {
+        question: "Do pergolas need permits?",
+        answer: "Requirements vary by location and size. Many jurisdictions don't require permits for open pergolas under certain sizes. Attached structures and electrical/fan installations may require permits. Check local requirements before building."
+      }
+    ],
+    relatedServices: ["deck-builder", "patio", "outdoor-kitchen"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "commercial-construction",
+    title: "Commercial Construction",
+    category: "construction_trades",
+    subcategory: "commercial",
+    layout: 5,
+    icon: "Building2",
+    iconColor: "blue",
+    metaTitle: "Commercial Construction in Navarro County, TX | Commercial Builder Corsicana",
+    metaDescription: "Commercial construction in Corsicana and Navarro County. Retail, office, industrial, and commercial building construction and renovation.",
+    metaKeywords: "commercial construction Corsicana, commercial builder Navarro County, office building, retail construction",
+    heroContent: `Commercial construction requires different expertise than residential work—larger scale, commercial codes, and business considerations. Navarro County commercial contractors build and renovate retail, office, and industrial spaces.`,
+    localContext: `As Navarro County grows, commercial construction provides the retail, office, and industrial spaces businesses need. Local commercial contractors understand our market and work with businesses to deliver functional, cost-effective facilities.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Commercial Construction",
+        content: \`**Building Types**
+- Retail buildings
+- Office buildings
+- Restaurants
+- Warehouses
+- Medical facilities
+- Churches
+
+**Services**
+- New construction
+- Tenant improvements
+- Renovations
+- Additions
+- Site development
+
+**Project Types**
+- Ground-up construction
+- Build-to-suit
+- Shell building
+- Interior finish-out\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does commercial construction cost?",
+        answer: "Commercial construction costs vary widely by type: warehouses and industrial buildings run $50-$100/sq ft; retail and office space costs $100-$200/sq ft; medical and specialty facilities cost $200-$400+/sq ft. Tenant improvements typically run $50-$150/sq ft."
+      },
+      {
+        question: "How long does commercial construction take?",
+        answer: "Timelines depend on project size and type. Small retail (5,000 sq ft) takes 4-8 months. Medium office buildings (10-20,000 sq ft) take 8-14 months. Large projects take 12-24+ months. Add 2-4 months for design and permitting before construction starts."
+      },
+      {
+        question: "What are tenant improvements?",
+        answer: "Tenant improvements (TI) customize shell space for specific tenant use—interior walls, finishes, specialty systems. In lease negotiations, landlords may provide a TI allowance toward build-out costs. Understanding TI expectations is important when negotiating commercial leases."
+      }
+    ],
+    relatedServices: ["general-contractor", "commercial-electrical", "commercial-hvac"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // MORE HOME SERVICES - PEST & OUTDOOR
+  // ============================================
+  {
+    slug: "termite-control",
+    title: "Termite Control",
+    category: "home_services",
+    subcategory: "pest",
+    layout: 1,
+    icon: "Bug",
+    iconColor: "amber",
+    metaTitle: "Termite Control in Navarro County, TX | Termite Treatment Corsicana",
+    metaDescription: "Termite control and treatment in Corsicana and Navarro County. Termite inspections, elimination, and prevention for home protection.",
+    metaKeywords: "termite control Corsicana, termite treatment Navarro County, termite inspection, pest control",
+    heroContent: `Termites cause billions in damage annually, often before homeowners know they're there. Navarro County pest control companies provide termite inspections, treatment, and prevention to protect your home investment.`,
+    localContext: `Texas is prime termite territory, and Navarro County homes are at risk. Subterranean termites are most common here, building mud tubes from soil to wood. Regular inspections and preventive treatment protect against these silent destroyers.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Termite Services",
+        content: \`**Inspections**
+- Real estate inspections (WDI reports)
+- Annual inspections
+- Damage assessments
+- Termite identification
+
+**Treatment**
+- Liquid barrier treatment
+- Bait station systems
+- Spot treatments
+- Fumigation (rare)
+- Prevention
+
+**Protection**
+- Pre-construction treatment
+- Ongoing monitoring
+- Warranties
+- Re-treatment guarantees\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does termite treatment cost?",
+        answer: "Termite treatment typically costs $800-$2,500 depending on home size, infestation extent, and treatment type. Liquid barrier treatments cost more upfront but provide immediate protection. Bait systems have lower initial cost but ongoing monitoring fees. Get quotes from multiple companies."
+      },
+      {
+        question: "How do I know if I have termites?",
+        answer: "Signs include: mud tubes on foundation walls, hollow-sounding wood, discarded wings near windows, damaged/bubbling paint, and frass (termite droppings). However, termites often go undetected without professional inspection. Annual inspections are recommended in our area."
+      },
+      {
+        question: "Does homeowners insurance cover termite damage?",
+        answer: "No, standard homeowners insurance doesn't cover termite damage—it's considered preventable with maintenance. This is why regular inspections and preventive treatment are important. Termite treatment warranties provide financial protection against future infestations."
+      }
+    ],
+    relatedServices: ["pest-control", "home-inspector", "foundation-repair"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "wildlife-removal",
+    title: "Wildlife Removal",
+    category: "home_services",
+    subcategory: "pest",
+    layout: 2,
+    icon: "Squirrel",
+    iconColor: "brown",
+    metaTitle: "Wildlife Removal in Navarro County, TX | Animal Control Corsicana",
+    metaDescription: "Wildlife removal services in Corsicana and Navarro County. Humane removal of raccoons, squirrels, skunks, opossums, and other nuisance wildlife.",
+    metaKeywords: "wildlife removal Corsicana, animal removal Navarro County, raccoon, squirrel, skunk removal",
+    heroContent: `Wildlife in your attic, under your deck, or around your property creates problems—damage, noise, odors, and health risks. Navarro County wildlife control operators humanely remove nuisance animals and prevent their return.`,
+    localContext: `Navarro County's mix of urban and rural areas creates frequent wildlife encounters. Common nuisance animals include raccoons, squirrels, skunks, opossums, and sometimes armadillos and snakes. Professional removal protects both you and the animals.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Wildlife Services",
+        content: \`**Animals Handled**
+- Raccoons
+- Squirrels
+- Skunks
+- Opossums
+- Armadillos
+- Snakes
+- Birds
+
+**Services**
+- Live trapping
+- Humane removal
+- Exclusion work
+- Damage repair
+- Odor treatment
+- Dead animal removal
+
+**Prevention**
+- Entry point sealing
+- Habitat modification
+- Ongoing monitoring\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does wildlife removal cost?",
+        answer: "Service calls typically cost $150-$300 for inspection and initial setup. Trapping runs $50-$150 per animal removed. Exclusion and repair work adds to costs based on scope. Full attic remediation (after raccoons, etc.) can cost $1,500-$5,000+. Get quotes after inspection."
+      },
+      {
+        question: "Is it legal to trap wildlife myself?",
+        answer: "Texas law allows property owners to trap certain nuisance wildlife causing damage. However, some species are protected, and relocation requirements vary. Professional wildlife operators know regulations and have proper equipment. DIY attempts often fail or create additional problems."
+      },
+      {
+        question: "Why do I need exclusion work after removal?",
+        answer: "Removing animals without sealing entry points invites new animals. Exclusion work—sealing holes, installing one-way doors, and reinforcing vulnerable areas—prevents future infestations. It's essential to complete exclusion while the area is clear of animals."
+      }
+    ],
+    relatedServices: ["pest-control", "attic-insulation", "roofing"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "mosquito-control",
+    title: "Mosquito Control",
+    category: "home_services",
+    subcategory: "pest",
+    layout: 3,
+    icon: "Bug",
+    iconColor: "slate",
+    metaTitle: "Mosquito Control in Navarro County, TX | Mosquito Treatment Corsicana",
+    metaDescription: "Mosquito control services in Corsicana and Navarro County. Yard treatments, misting systems, and mosquito reduction for outdoor comfort.",
+    metaKeywords: "mosquito control Corsicana, mosquito treatment Navarro County, mosquito spray, yard treatment",
+    heroContent: `Mosquitoes make outdoor time miserable and can transmit diseases. Navarro County mosquito control services treat your property to reduce mosquito populations, making your yard comfortable for family activities.`,
+    localContext: `Hot, humid Texas summers create ideal mosquito breeding conditions. Standing water from rain, lakes nearby, and dense vegetation in Navarro County contribute to significant mosquito populations. Regular treatment keeps populations manageable.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Mosquito Control Options",
+        content: \`**Treatments**
+- Barrier spray treatments
+- In2Care traps
+- Larvicide applications
+- Misting systems
+
+**Frequency**
+- One-time events
+- Monthly service
+- Seasonal programs
+- As-needed treatments
+
+**Additional**
+- Tick control
+- Breeding site elimination
+- Standing water treatment\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does mosquito control cost?",
+        answer: "One-time barrier treatments run $75-$150 per treatment. Monthly programs cost $75-$125/month for the season (typically April-October). Automated misting systems cost $2,000-$5,000+ installed plus ongoing solution costs. Choose options based on property size and mosquito pressure."
+      },
+      {
+        question: "How long does mosquito treatment last?",
+        answer: "Barrier treatments typically last 21-30 days, which is why monthly service is common. Rain can reduce effectiveness. Automated misting systems provide ongoing protection. Treatment provides significant reduction but doesn't eliminate every mosquito—especially after fresh hatches."
+      },
+      {
+        question: "Are mosquito treatments safe for pets and kids?",
+        answer: "Modern barrier treatments use EPA-registered products that are safe once dry (typically 30 minutes to 2 hours). Keep pets and children off treated areas until dry. Natural options exist but may be less effective. Discuss concerns with your provider about product choices."
+      }
+    ],
+    relatedServices: ["pest-control", "landscaping"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "irrigation",
+    title: "Irrigation Systems",
+    category: "home_services",
+    subcategory: "outdoor",
+    layout: 4,
+    icon: "Droplets",
+    iconColor: "blue",
+    metaTitle: "Irrigation Systems in Navarro County, TX | Sprinkler Install Corsicana",
+    metaDescription: "Irrigation system installation and repair in Corsicana and Navarro County. Sprinkler systems, drip irrigation, and smart water management.",
+    metaKeywords: "irrigation Corsicana, sprinkler system Navarro County, sprinkler repair, drip irrigation",
+    heroContent: `A properly designed irrigation system keeps your landscape healthy while conserving water. Navarro County irrigation contractors install, repair, and maintain sprinkler systems that deliver the right water at the right time.`,
+    localContext: `Navarro County's hot summers demand efficient irrigation to maintain healthy lawns and landscapes. Proper system design accounts for our clay soil, evaporation rates, and local water restrictions to maximize effectiveness while minimizing waste.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Irrigation Services",
+        content: \`**Installation**
+- New system design
+- Sprinkler installation
+- Drip irrigation
+- Smart controllers
+- Rain sensors
+
+**Repair**
+- Head repair/replacement
+- Valve replacement
+- Line repair
+- Controller programming
+- Zone adjustments
+
+**Maintenance**
+- Seasonal adjustments
+- Winterization
+- Spring activation
+- System audits\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does irrigation system installation cost?",
+        answer: "New irrigation systems typically cost $2,500-$5,000 for average yards, with larger properties running $5,000-$10,000+. Costs depend on yard size, zone count, and features like smart controllers. Drip irrigation for beds adds to the total. Get quotes based on your specific property."
+      },
+      {
+        question: "How often should irrigation systems run?",
+        answer: "In Navarro County's summer, established lawns typically need 1-1.5 inches of water weekly—usually 2-3 watering days. Water deeply and infrequently rather than daily light watering. Adjust for rain, and water early morning to reduce evaporation. Smart controllers adjust automatically."
+      },
+      {
+        question: "Should I winterize my irrigation system?",
+        answer: "Yes. While Navarro County winters are typically mild, hard freezes can damage backflow preventers, valves, and exposed components. Winterization involves shutting off water, draining the system, and protecting above-ground components. Schedule service before first freeze."
+      }
+    ],
+    relatedServices: ["landscaping", "lawn-care", "plumber"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "stump-grinder",
+    title: "Stump Grinding",
+    category: "home_services",
+    subcategory: "outdoor",
+    layout: 5,
+    icon: "TreeDeciduous",
+    iconColor: "brown",
+    metaTitle: "Stump Grinding in Navarro County, TX | Stump Removal Corsicana",
+    metaDescription: "Stump grinding services in Corsicana and Navarro County. Tree stump removal for clean, usable yard space.",
+    metaKeywords: "stump grinding Corsicana, stump removal Navarro County, tree stump, stump grinder",
+    heroContent: `Tree stumps are unsightly obstacles that attract pests and hinder landscaping. Stump grinding removes stumps below ground level, allowing you to reclaim your yard space and eliminate tripping hazards.`,
+    localContext: `After tree removal or storm damage, stump grinding provides the finishing touch. Navarro County stump grinding services use specialized equipment to efficiently remove stumps of any size, leaving chips that can be used as mulch or removed.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Stump Grinding Services",
+        content: \`**Services**
+- Single stump removal
+- Multiple stumps
+- Large stumps
+- Surface roots
+- Chip removal
+
+**Process**
+- Grinding below grade
+- 6-12 inch depth typical
+- Chips left or removed
+- Backfill available
+
+**Considerations**
+- Utility location
+- Access requirements
+- Root system extent
+- Replanting plans\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does stump grinding cost?",
+        answer: "Stump grinding typically costs $100-$400 per stump depending on size. Pricing is often based on stump diameter—expect $2-$4 per inch. Minimum charges ($75-$150) apply for small stumps. Multiple stumps often get discounted rates. Get quotes for your specific stumps."
+      },
+      {
+        question: "How deep does stump grinding go?",
+        answer: "Standard grinding goes 6-12 inches below ground level—deep enough for grass to grow over. If you plan to replant a tree in the same spot, request deeper grinding (12-18 inches) to remove more root material. Deeper grinding costs more."
+      },
+      {
+        question: "What happens to the wood chips?",
+        answer: "Grinding produces a mound of chips roughly 4-8 times the stump volume. Most services leave chips for you to use as mulch or spread. Chip removal is available for an additional charge. Some homeowners use chips immediately; others pile them to decompose."
+      }
+    ],
+    relatedServices: ["tree-service", "landscaping", "lawn-care"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "deck-builder",
+    title: "Deck Building",
+    category: "home_services",
+    subcategory: "outdoor",
+    layout: 1,
+    icon: "LayoutGrid",
+    iconColor: "amber",
+    metaTitle: "Deck Builder in Navarro County, TX | Deck Construction Corsicana",
+    metaDescription: "Deck builders in Corsicana and Navarro County. Custom deck design and construction, repairs, and composite decking installation.",
+    metaKeywords: "deck builder Corsicana, deck construction Navarro County, composite deck, wood deck",
+    heroContent: `Decks extend your living space outdoors, creating areas for relaxation and entertainment. Navarro County deck builders construct quality decks from wood or composite materials, designed for your home and lifestyle.`,
+    localContext: `Texas weather is hard on decks—hot sun, occasional ice, and humidity challenge wood and fasteners. Local deck builders select appropriate materials and construction methods that perform well in our climate.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Deck Services",
+        content: \`**Construction**
+- New deck design
+- Deck construction
+- Multi-level decks
+- Poolside decks
+- Covered decks
+
+**Materials**
+- Pressure-treated wood
+- Cedar and redwood
+- Composite decking
+- PVC decking
+- Aluminum framing
+
+**Additional**
+- Railings
+- Stairs
+- Built-in seating
+- Lighting
+- Deck repairs\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a deck cost?",
+        answer: "Deck costs range widely by size and material. Pressure-treated wood decks run $15-$30/sq ft. Cedar costs $25-$40/sq ft. Composite decking runs $35-$60/sq ft. A 300 sq ft deck might cost $6,000-$18,000 depending on materials and features. Get quotes for your design."
+      },
+      {
+        question: "Wood or composite decking—which is better?",
+        answer: "Wood costs less initially but needs regular staining/sealing and may warp or splinter. Composite costs more but requires minimal maintenance and lasts longer. Consider long-term costs and maintenance willingness. In Texas heat, composite stays cooler than darker wood."
+      },
+      {
+        question: "Do decks need permits?",
+        answer: "Most deck construction requires permits. Building codes specify footing depth, ledger attachment, railing heights, and load requirements. Permits ensure your deck is safe and won't create problems when selling. Reputable builders handle permit acquisition."
+      }
+    ],
+    relatedServices: ["pergola", "fence-builder", "outdoor-lighting"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "patio",
+    title: "Patio Construction",
+    category: "home_services",
+    subcategory: "outdoor",
+    layout: 2,
+    icon: "LayoutGrid",
+    iconColor: "gray",
+    metaTitle: "Patio Construction in Navarro County, TX | Patio Builder Corsicana",
+    metaDescription: "Patio construction in Corsicana and Navarro County. Concrete, paver, and stone patios for outdoor living spaces.",
+    metaKeywords: "patio Corsicana, patio construction Navarro County, concrete patio, paver patio, stone",
+    heroContent: `Patios create outdoor living spaces for dining, relaxing, and entertaining. Navarro County patio contractors build durable patios from concrete, pavers, or stone that complement your home and landscape.`,
+    localContext: `Patio construction in Navarro County must account for our clay soil and its movement. Proper base preparation and appropriate materials prevent settling and cracking that plague poorly constructed patios.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Patio Options",
+        content: \`**Materials**
+- Poured concrete
+- Stamped concrete
+- Concrete pavers
+- Natural stone
+- Flagstone
+- Brick
+
+**Features**
+- Curved designs
+- Multiple levels
+- Fire pit integration
+- Built-in seating
+- Covered patios
+
+**Related**
+- Retaining walls
+- Walkways
+- Outdoor kitchens
+- Pergolas\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a patio cost?",
+        answer: "Poured concrete patios cost $6-$12/sq ft. Stamped concrete runs $10-$18/sq ft. Paver patios cost $12-$25/sq ft. Natural stone runs $18-$40+/sq ft. A 400 sq ft patio might cost $3,000-$16,000 depending on materials and complexity."
+      },
+      {
+        question: "Concrete or pavers—which is better?",
+        answer: "Concrete is less expensive and offers a seamless look. Pavers cost more but are easier to repair if damaged—you replace individual pavers. Pavers handle soil movement better than solid concrete. Both work well when properly installed; choice often comes to aesthetics."
+      },
+      {
+        question: "How long does patio installation take?",
+        answer: "Simple concrete patios take 1-3 days plus curing time. Paver patios take 2-5 days depending on size and complexity. Natural stone work takes longer due to fitting. Allow extra time for base preparation, especially in clay soil conditions."
+      }
+    ],
+    relatedServices: ["concrete", "landscaping", "outdoor-kitchen"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "outdoor-lighting",
+    title: "Outdoor Lighting",
+    category: "home_services",
+    subcategory: "outdoor",
+    layout: 3,
+    icon: "Sun",
+    iconColor: "yellow",
+    metaTitle: "Outdoor Lighting in Navarro County, TX | Landscape Lighting Corsicana",
+    metaDescription: "Outdoor lighting installation in Corsicana and Navarro County. Landscape, security, and decorative lighting for homes and properties.",
+    metaKeywords: "outdoor lighting Corsicana, landscape lighting Navarro County, security lights, path lights",
+    heroContent: `Outdoor lighting extends your enjoyment of outdoor spaces into the evening, enhances security, and highlights your home's best features. Navarro County lighting professionals design and install systems that transform your property after dark.`,
+    localContext: `Outdoor lighting in Navarro County serves both aesthetic and practical purposes—illuminating paths, enhancing security in rural areas, and creating ambiance for outdoor entertaining. Low-voltage LED systems offer energy efficiency and long life.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Outdoor Lighting Options",
+        content: \`**Landscape Lighting**
+- Path lights
+- Spotlights
+- Uplighting
+- Downlighting
+- Water feature lighting
+
+**Security Lighting**
+- Motion-activated lights
+- Floodlights
+- Area lighting
+- Timer controls
+- Smart controls
+
+**Decorative**
+- String lights
+- Post lights
+- Deck and step lighting
+- Accent lighting\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does landscape lighting cost?",
+        answer: "Professional landscape lighting typically costs $2,500-$5,000 for basic systems, $5,000-$10,000 for comprehensive designs. Cost depends on fixture quantity and quality, transformer size, and installation complexity. LED fixtures cost more but last longer and use less energy."
+      },
+      {
+        question: "What's the difference between line voltage and low voltage?",
+        answer: "Line voltage (120V) is what your home uses—brighter but requires an electrician and deeper burial. Low voltage (12V) is safer for DIY-friendly and landscape use, uses less energy, but requires a transformer. Most landscape lighting is low voltage."
+      },
+      {
+        question: "How long do outdoor LED lights last?",
+        answer: "Quality LED fixtures last 25,000-50,000 hours—potentially 10-20+ years of evening use. Lower-quality fixtures fail sooner. LEDs use 75% less energy than incandescent and produce less heat. Initial cost is higher, but lifetime cost is lower."
+      }
+    ],
+    relatedServices: ["electrician", "landscaping", "security-guard"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "pool-service",
+    title: "Pool Service",
+    category: "home_services",
+    subcategory: "outdoor",
+    layout: 4,
+    icon: "Waves",
+    iconColor: "blue",
+    metaTitle: "Pool Service in Navarro County, TX | Pool Cleaning Corsicana",
+    metaDescription: "Pool service and maintenance in Corsicana and Navarro County. Weekly cleaning, chemical balancing, equipment repair, and pool care.",
+    metaKeywords: "pool service Corsicana, pool cleaning Navarro County, pool maintenance, pool repair",
+    heroContent: `Pools require consistent maintenance to stay clean, safe, and enjoyable. Navarro County pool service companies provide weekly maintenance, equipment repairs, and the expertise to keep your pool crystal clear all season.`,
+    localContext: `Texas pools run hard from April through October, with hot sun promoting algae and debris from nearby trees. Local pool services understand our specific challenges and keep pools swim-ready throughout our extended season.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Pool Services",
+        content: \`**Weekly Maintenance**
+- Surface skimming
+- Vacuuming
+- Brush walls and tile
+- Chemical testing
+- Chemical balancing
+- Filter cleaning
+- Equipment check
+
+**Repairs**
+- Pump repair
+- Filter repair
+- Heater service
+- Leak detection
+- Light replacement
+
+**Additional**
+- Opening and closing
+- Green pool recovery
+- Acid washing
+- Equipment upgrades\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does pool service cost?",
+        answer: "Weekly pool service in Navarro County typically costs $100-$200/month depending on pool size and service level. Chemicals may be included or separate ($30-$75/month). One-time cleanings run $75-$150. Equipment repairs and major services are quoted separately."
+      },
+      {
+        question: "How often does a pool need service?",
+        answer: "During swim season, pools benefit from weekly service to maintain proper chemistry and cleanliness. DIY owners should test water 2-3 times weekly and skim daily. In winter, bi-weekly or monthly service may suffice, depending on activity level."
+      },
+      {
+        question: "Can I maintain my own pool?",
+        answer: "Yes, with proper knowledge and commitment. Learn proper chemical testing and adjustment, run the pump adequately (8-12 hours daily in summer), skim and vacuum regularly, and clean filters monthly. Many owners maintain their own pools; others prefer the convenience of service."
+      }
+    ],
+    relatedServices: ["hot-tub-service", "landscaping"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // MORE HEALTH & WELLNESS - DENTAL
+  // ============================================
+  {
+    slug: "dentist",
+    title: "Dentist",
+    category: "health_wellness",
+    subcategory: "dental",
+    layout: 1,
+    icon: "Smile",
+    iconColor: "blue",
+    metaTitle: "Dentist in Navarro County, TX | Dental Care Corsicana",
+    metaDescription: "Dentists in Corsicana and Navarro County. General dentistry, cleanings, fillings, and comprehensive dental care for all ages.",
+    metaKeywords: "dentist Corsicana, dental care Navarro County, teeth cleaning, dental checkup",
+    heroContent: `Regular dental care prevents problems and maintains a healthy smile. Navarro County dentists provide comprehensive dental services from routine cleanings to restorative work, serving patients of all ages.`,
+    localContext: `Dental care is accessible in Corsicana and surrounding communities. Local dental practices offer general dentistry for families, with some specializing in specific areas. Many accept various insurance plans and offer payment options.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Dental Services",
+        content: \`**Preventive**
+- Exams and cleanings
+- X-rays
+- Fluoride treatments
+- Sealants
+- Oral cancer screening
+
+**Restorative**
+- Fillings
+- Crowns
+- Bridges
+- Root canals
+- Dentures
+
+**Cosmetic**
+- Teeth whitening
+- Veneers
+- Bonding
+- Smile makeovers\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How often should I see the dentist?",
+        answer: "Most people should have checkups and cleanings every six months. Those with gum disease may need more frequent visits (every 3-4 months). Children should start dental visits by age 1 or when first teeth appear. Your dentist will recommend appropriate frequency based on your oral health."
+      },
+      {
+        question: "Does dental insurance cover everything?",
+        answer: "Dental insurance typically covers preventive care (cleanings, exams) at 100%, basic procedures (fillings) at 80%, and major work (crowns, root canals) at 50%. Annual maximums often cap coverage at $1,000-$2,500. Cosmetic procedures usually aren't covered. Know your plan's specifics."
+      },
+      {
+        question: "What if I'm afraid of the dentist?",
+        answer: "Dental anxiety is common and understandable. Many practices offer sedation options (nitrous oxide, oral sedation) for anxious patients. Communicate your concerns—good dentists accommodate anxious patients with slower pacing, explanations, and gentle techniques."
+      }
+    ],
+    relatedServices: ["orthodontist", "oral-surgeon", "cosmetic-dentist"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "orthodontist",
+    title: "Orthodontist",
+    category: "health_wellness",
+    subcategory: "dental",
+    layout: 2,
+    icon: "Smile",
+    iconColor: "purple",
+    metaTitle: "Orthodontist in Navarro County, TX | Braces Corsicana",
+    metaDescription: "Orthodontists in Corsicana and Navarro County. Braces, Invisalign, and teeth straightening for children, teens, and adults.",
+    metaKeywords: "orthodontist Corsicana, braces Navarro County, Invisalign, teeth straightening",
+    heroContent: `Orthodontic treatment creates beautiful, functional smiles by correcting alignment issues. Navarro County orthodontists offer traditional braces, clear aligners, and other options to straighten teeth for patients of all ages.`,
+    localContext: `Orthodontic care is available in Navarro County for children, teens, and adults seeking straighter smiles. Modern options like clear aligners provide alternatives to traditional metal braces for many patients.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Orthodontic Treatment",
+        content: \`**Braces**
+- Traditional metal braces
+- Ceramic/clear braces
+- Self-ligating braces
+- Lingual (behind teeth) braces
+
+**Clear Aligners**
+- Invisalign
+- Clear aligner options
+- Teen aligners
+
+**Other Treatment**
+- Retainers
+- Palatal expanders
+- Space maintainers
+- Early intervention\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do braces cost?",
+        answer: "Traditional braces typically cost $3,000-$7,000. Ceramic braces cost $4,000-$8,000. Invisalign runs $3,500-$8,000. Costs vary by case complexity and treatment length. Many orthodontists offer payment plans. Some dental insurance covers a portion of orthodontic treatment."
+      },
+      {
+        question: "At what age should kids see an orthodontist?",
+        answer: "The American Association of Orthodontists recommends evaluation by age 7. Early evaluation doesn't mean early treatment—it identifies issues that benefit from early intervention. Most treatment begins between ages 9-14, but adults can get braces at any age."
+      },
+      {
+        question: "How long does orthodontic treatment take?",
+        answer: "Average treatment time is 18-24 months, but ranges from 6 months for minor cases to 3+ years for complex cases. Aligners may work faster for simpler cases. Treatment length depends on what needs correction. Consistent wear (for aligners) and good hygiene affect timing."
+      }
+    ],
+    relatedServices: ["dentist", "cosmetic-dentist"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "cosmetic-dentist",
+    title: "Cosmetic Dentist",
+    category: "health_wellness",
+    subcategory: "dental",
+    layout: 3,
+    icon: "Sparkles",
+    iconColor: "amber",
+    metaTitle: "Cosmetic Dentist in Navarro County, TX | Smile Makeover Corsicana",
+    metaDescription: "Cosmetic dentists in Corsicana and Navarro County. Veneers, whitening, bonding, and smile makeovers for beautiful smiles.",
+    metaKeywords: "cosmetic dentist Corsicana, veneers Navarro County, teeth whitening, smile makeover",
+    heroContent: `Cosmetic dentistry enhances the appearance of your smile through various treatments. From simple whitening to complete smile makeovers, cosmetic dentists in Navarro County help you achieve the smile you've always wanted.`,
+    localContext: `Several Navarro County dentists offer cosmetic services beyond general dentistry. These elective procedures help patients feel more confident about their smiles, addressing issues from discoloration to chips to gaps.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Cosmetic Procedures",
+        content: \`**Common Treatments**
+- Teeth whitening
+- Porcelain veneers
+- Dental bonding
+- Tooth contouring
+- Gum contouring
+
+**Restorative Cosmetics**
+- Tooth-colored fillings
+- Porcelain crowns
+- Bridges
+- Dental implants
+
+**Smile Design**
+- Smile makeovers
+- Full mouth reconstruction
+- Digital smile preview\`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do veneers cost?",
+        answer: "Porcelain veneers typically cost $900-$2,500 per tooth. A full set (6-10 teeth) runs $6,000-$25,000. Composite veneers are less expensive ($250-$1,500/tooth) but don't last as long. Veneers are considered cosmetic and usually aren't covered by insurance."
+      },
+      {
+        question: "How long do cosmetic dental treatments last?",
+        answer: "Teeth whitening lasts 6 months to 3 years depending on habits. Bonding lasts 3-10 years. Veneers last 10-15+ years with proper care. Dental implants can last a lifetime. Results depend on oral hygiene, diet (coffee, wine), and habits (grinding)."
+      },
+      {
+        question: "Is cosmetic dentistry worth it?",
+        answer: "For many people, improved confidence from a better smile affects work, relationships, and overall happiness. Consider cosmetic dentistry an investment in yourself. However, prioritize dental health first—healthy teeth are the foundation for cosmetic improvements."
+      }
+    ],
+    relatedServices: ["dentist", "orthodontist", "teeth-whitening"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // ADDITIONAL HOME SERVICES
+  // ============================================
+  {
+    slug: "structural-engineer",
+    title: "Structural Engineer",
+    category: "home_services",
+    subcategory: "structural",
+    layout: 2,
+    icon: "Building2",
+    iconColor: "slate",
+    metaTitle: "Structural Engineer in Navarro County, TX | Structural Engineering Corsicana",
+    metaDescription: "Structural engineering services in Corsicana and Navarro County. Foundation assessments, load calculations, and structural inspections.",
+    metaKeywords: "structural engineer Corsicana, structural engineering Navarro County, foundation assessment, load bearing",
+    heroContent: `Structural engineers analyze buildings to ensure safety and integrity. In Navarro County, where foundation issues are common due to expansive clay soils, structural engineers provide critical assessments and solutions for residential and commercial properties.`,
+    localContext: `The Blackland Prairie soils under Navarro County create unique structural challenges. Structural engineers familiar with local conditions can properly evaluate foundation damage, design repair solutions, and provide documentation for insurance claims or real estate transactions.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Structural Engineering Services",
+        content: `**Residential Services**
+- Foundation assessments
+- Foundation repair design
+- Load-bearing wall evaluation
+- Room addition plans
+- Second story feasibility
+
+**Commercial Services**
+- Building inspections
+- Structural analysis
+- Renovation engineering
+- Code compliance review
+
+**Documentation**
+- Engineering reports
+- Repair specifications
+- Insurance documentation
+- Real estate transaction letters`
+      }
+    ],
+    faqs: [
+      {
+        question: "When do I need a structural engineer?",
+        answer: "You need a structural engineer when modifying load-bearing walls, adding rooms or stories, assessing foundation damage, or when required by permits. Real estate transactions often require engineering assessments for properties with visible structural issues."
+      },
+      {
+        question: "How much does a structural engineer cost?",
+        answer: "Basic foundation assessments run $300-$600. Detailed reports with repair recommendations cost $400-$1,000+. Engineering plans for renovations range from $500-$3,000+ depending on complexity. Fees are worthwhile for accurate diagnosis and proper repair design."
+      },
+      {
+        question: "What's the difference between an inspector and a structural engineer?",
+        answer: "Home inspectors identify visible issues but can't diagnose causes or design repairs. Structural engineers are licensed professionals who can analyze forces, design solutions, and stamp drawings for permits. For structural concerns, you need an engineer."
+      }
+    ],
+    relatedServices: ["foundation-repair", "house-leveling", "home-inspector"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "house-leveling",
+    title: "House Leveling",
+    category: "home_services",
+    subcategory: "structural",
+    layout: 3,
+    icon: "AlignHorizontalJustifyCenter",
+    iconColor: "amber",
+    metaTitle: "House Leveling in Navarro County, TX | Home Leveling Corsicana",
+    metaDescription: "House leveling services in Corsicana and Navarro County. Pier and beam leveling, slab foundation repair, and settling correction.",
+    metaKeywords: "house leveling Corsicana, home leveling Navarro County, pier and beam, foundation settling",
+    heroContent: `When foundations settle unevenly, homes need leveling to restore structural integrity and stop further damage. House leveling services in Navarro County address the settling and shifting caused by our expansive clay soils.`,
+    localContext: `Many older homes in Navarro County were built on pier and beam foundations, which allow for releveling when settling occurs. Even slab foundations can be lifted and stabilized. Local leveling contractors understand the soil conditions that cause these issues.`,
+    sections: [
+      {
+        type: "services",
+        heading: "House Leveling Services",
+        content: `**Pier and Beam**
+- Shimming and adjusting
+- Beam replacement
+- Pier addition
+- Joist repair
+- Crawl space drainage
+
+**Slab Foundations**
+- Piering and lifting
+- Foam injection
+- Slab stabilization
+- Drainage correction
+
+**Related Work**
+- Floor releveling
+- Door and window alignment
+- Crack repair
+- Drainage solutions`
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I know if my house needs leveling?",
+        answer: "Signs include: doors that stick or won't latch, windows that are hard to open, cracks in walls or ceilings, gaps between walls and floors, sloping floors (place a ball and see if it rolls), and visible foundation cracks."
+      },
+      {
+        question: "How much does house leveling cost?",
+        answer: "Pier and beam leveling typically costs $3,000-$8,000 for most homes. Slab foundations requiring piering cost $5,000-$15,000+. Cost depends on home size, severity of settling, and repair method. Get multiple bids with detailed explanations."
+      },
+      {
+        question: "How long does house leveling take?",
+        answer: "Pier and beam leveling often takes 1-2 days. Slab piering may take 2-5 days depending on the number of piers needed. The process is minimally disruptive—you can usually stay in your home during the work."
+      }
+    ],
+    relatedServices: ["foundation-repair", "structural-engineer", "handyman"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "drain-cleaning",
+    title: "Drain Cleaning",
+    category: "home_services",
+    subcategory: "plumbing",
+    layout: 4,
+    icon: "ArrowDownCircle",
+    iconColor: "blue",
+    metaTitle: "Drain Cleaning in Navarro County, TX | Clogged Drain Corsicana",
+    metaDescription: "Drain cleaning services in Corsicana and Navarro County. Clogged drains, sewer cleaning, and video inspection for all drain problems.",
+    metaKeywords: "drain cleaning Corsicana, clogged drain Navarro County, sewer cleaning, rooter service",
+    heroContent: `Clogged drains disrupt daily life. Professional drain cleaning clears blockages and restores flow to sinks, tubs, and sewer lines. Navarro County plumbers use professional equipment to clear even stubborn clogs.`,
+    localContext: `Tree roots, particularly from the many mature oaks and pecans in Navarro County, frequently invade sewer lines. Professional drain cleaning services have the equipment to cut through roots and clear lines that household remedies can't touch.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Drain Services",
+        content: `**Residential Drains**
+- Kitchen sink clogs
+- Bathroom drains
+- Shower and tub drains
+- Toilet clogs
+- Floor drains
+
+**Sewer Lines**
+- Main line cleaning
+- Root cutting
+- Video inspection
+- Line locating
+- Preventive maintenance
+
+**Equipment**
+- Cable machines
+- Hydro jetting
+- Video cameras
+- Locating equipment`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does drain cleaning cost?",
+        answer: "Simple drain cleaning runs $100-$200. Main sewer line cleaning costs $200-$500. Video inspection adds $100-$300. Hydro jetting for severe buildup runs $300-$600. Emergency and after-hours service costs more. Get pricing before work begins."
+      },
+      {
+        question: "When should I call a professional vs. using a plunger?",
+        answer: "Try a plunger first for simple clogs. Call a professional when: multiple drains are slow, sewage backs up, clogs recur frequently, you hear gurgling, or you smell sewer gas. Professional equipment clears what plungers can't reach."
+      },
+      {
+        question: "How can I prevent clogged drains?",
+        answer: "Avoid putting grease down kitchen drains. Use drain screens to catch hair. Don't flush anything except toilet paper. Run water when using garbage disposals. Consider annual preventive drain cleaning if you have recurring issues or mature trees near sewer lines."
+      }
+    ],
+    relatedServices: ["plumber", "septic", "slab-leak-repair"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "slab-leak-repair",
+    title: "Slab Leak Repair",
+    category: "home_services",
+    subcategory: "plumbing",
+    layout: 5,
+    icon: "Droplet",
+    iconColor: "red",
+    metaTitle: "Slab Leak Repair in Navarro County, TX | Under Slab Plumbing Corsicana",
+    metaDescription: "Slab leak detection and repair in Corsicana and Navarro County. Under-slab plumbing repairs, leak detection, and pipe replacement.",
+    metaKeywords: "slab leak Corsicana, under slab leak Navarro County, leak detection, pipe repair",
+    heroContent: `Slab leaks occur when water pipes beneath your concrete foundation develop leaks. These hidden leaks can cause extensive damage if not addressed. Navarro County plumbers specialize in locating and repairing slab leaks using modern detection methods.`,
+    localContext: `The shifting clay soils in Navarro County stress water pipes beneath foundations, leading to slab leaks. Copper pipes in older homes are particularly susceptible. Professional leak detection pinpoints problems without unnecessary excavation.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Slab Leak Services",
+        content: `**Detection**
+- Electronic leak detection
+- Thermal imaging
+- Acoustic detection
+- Pressure testing
+- Meter monitoring
+
+**Repair Options**
+- Spot repair (access through slab)
+- Pipe rerouting
+- Epoxy pipe lining
+- Complete repiping
+
+**Related Services**
+- Foundation inspection
+- Water damage restoration
+- Mold assessment`
+      }
+    ],
+    faqs: [
+      {
+        question: "What are signs of a slab leak?",
+        answer: "Signs include: unexplained high water bills, sound of running water when nothing's on, warm spots on floors, cracks in walls or foundation, mildew smell, low water pressure, and wet spots on floors or carpet. If you notice these, investigate promptly."
+      },
+      {
+        question: "How much does slab leak repair cost?",
+        answer: "Slab leak detection costs $150-$400. Repair costs vary widely: spot repairs run $500-$2,000, rerouting pipes costs $1,500-$4,000, and complete repiping costs $4,000-$15,000+. The repair method depends on leak location and pipe condition."
+      },
+      {
+        question: "Does homeowners insurance cover slab leaks?",
+        answer: "Insurance typically covers resulting damage (water damage, mold) but not the repair itself. Some policies include service line coverage. Review your policy and consider adding this coverage if you have an older home with original plumbing."
+      }
+    ],
+    relatedServices: ["plumber", "drain-cleaning", "foundation-repair"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "well-drilling",
+    title: "Well Drilling",
+    category: "home_services",
+    subcategory: "plumbing",
+    layout: 1,
+    icon: "CircleDot",
+    iconColor: "blue",
+    metaTitle: "Well Drilling in Navarro County, TX | Water Well Corsicana",
+    metaDescription: "Water well drilling in Corsicana and Navarro County. New wells, pump installation, and well maintenance for rural properties.",
+    metaKeywords: "well drilling Corsicana, water well Navarro County, well pump, water well installation",
+    heroContent: `Rural properties without municipal water need wells for water supply. Well drilling services in Navarro County install new wells, replace failing wells, and maintain existing well systems.`,
+    localContext: `Much of rural Navarro County relies on private water wells. The Trinity Aquifer and other formations provide water, though depth and quality vary by location. Local well drillers understand the geology and can recommend appropriate well designs.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Well Services",
+        content: `**Drilling**
+- New water wells
+- Replacement wells
+- Irrigation wells
+- Test wells
+- Monitoring wells
+
+**Equipment**
+- Pump installation
+- Pressure tank systems
+- Well casing
+- Screens and filters
+- Control panels
+
+**Maintenance**
+- Well inspections
+- Pump repair/replacement
+- Well rehabilitation
+- Water quality testing
+- System upgrades`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does well drilling cost?",
+        answer: "Well costs depend on depth and conditions. In Navarro County, wells typically run 200-400 feet deep. Expect $15-$50 per foot for drilling plus pump and equipment ($5,000-$15,000 total). Very deep wells or difficult conditions cost more. Get multiple quotes."
+      },
+      {
+        question: "How long does a water well last?",
+        answer: "Properly constructed wells last 30-50+ years. Pumps last 8-15 years depending on quality and usage. Pressure tanks last 10-15 years. Regular maintenance extends equipment life. Water quality may change over time requiring treatment adjustments."
+      },
+      {
+        question: "Do I need a permit to drill a well?",
+        answer: "Yes, well permits are required in Texas. Your well driller typically handles permitting. Wells must meet spacing requirements from septic systems and property lines. The driller submits completion reports to the Texas Department of Licensing and Regulation."
+      }
+    ],
+    relatedServices: ["water-filtration", "water-softener", "septic"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "generator",
+    title: "Generator Installation",
+    category: "home_services",
+    subcategory: "electrical",
+    layout: 2,
+    icon: "Zap",
+    iconColor: "yellow",
+    metaTitle: "Generator Installation in Navarro County, TX | Standby Generator Corsicana",
+    metaDescription: "Generator installation in Corsicana and Navarro County. Standby generators, transfer switches, and backup power solutions.",
+    metaKeywords: "generator installation Corsicana, standby generator Navarro County, backup power, whole house generator",
+    heroContent: `Power outages disrupt life and can damage equipment. Standby generators provide automatic backup power when the grid fails. Navarro County electricians install whole-house generators for reliable protection.`,
+    localContext: `Texas power grid reliability concerns have made generators increasingly popular. Storms, ice events, and grid stress cause outages in Navarro County. A properly sized standby generator keeps your home running through extended outages.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Generator Services",
+        content: `**Generator Types**
+- Whole-house standby
+- Partial-house standby
+- Portable generators
+- Solar battery backup
+
+**Installation**
+- Site assessment
+- Sizing calculation
+- Fuel connections
+- Transfer switch installation
+- Permit coordination
+
+**Support**
+- Maintenance plans
+- Fuel tank installation
+- Exercise scheduling
+- Repair service`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a whole-house generator cost?",
+        answer: "Whole-house standby generators cost $5,000-$20,000+ installed depending on size. A typical 20kW unit serving most homes runs $10,000-$15,000 installed. Larger homes or those with high electrical loads need bigger generators. Natural gas units cost less to operate than propane."
+      },
+      {
+        question: "What size generator do I need?",
+        answer: "Generator sizing depends on what you want to power. Essential loads (HVAC, refrigerator, some lights) might need 10-14kW. Whole-house coverage typically requires 18-24kW. Your electrician calculates loads to recommend proper sizing."
+      },
+      {
+        question: "How do automatic generators work?",
+        answer: "Standby generators monitor utility power continuously. When power fails, the automatic transfer switch disconnects from the grid and connects the generator within 10-20 seconds. When grid power returns, the system switches back and shuts down the generator."
+      }
+    ],
+    relatedServices: ["electrician", "electrical-panel-upgrade", "solar"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "solar",
+    title: "Solar Installation",
+    category: "home_services",
+    subcategory: "electrical",
+    layout: 3,
+    icon: "Sun",
+    iconColor: "yellow",
+    metaTitle: "Solar Installation in Navarro County, TX | Solar Panels Corsicana",
+    metaDescription: "Solar panel installation in Corsicana and Navarro County. Residential solar systems, battery storage, and solar energy solutions.",
+    metaKeywords: "solar installation Corsicana, solar panels Navarro County, solar energy, solar power",
+    heroContent: `Solar energy reduces electricity bills and provides energy independence. Texas sunshine makes solar an excellent investment. Navarro County solar installers design and install systems tailored to your energy needs.`,
+    localContext: `Navarro County averages over 230 sunny days per year, making it well-suited for solar energy. With competitive electricity markets and federal tax credits, solar pays back faster than ever. Many rural properties also benefit from solar as an alternative to expensive utility connections.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Solar Services",
+        content: `**Installation**
+- Roof-mounted systems
+- Ground-mounted arrays
+- Carport solar
+- Battery storage
+- Grid-tie systems
+
+**Process**
+- Site evaluation
+- Energy analysis
+- System design
+- Permitting
+- Installation
+- Utility coordination
+
+**Financial**
+- Federal tax credit info
+- Financing options
+- Payback calculations
+- Energy production estimates`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do solar panels cost in Texas?",
+        answer: "Average residential solar costs $2.50-$3.50 per watt installed. A typical 8kW system runs $20,000-$28,000 before incentives. The federal tax credit (30%) reduces this significantly. Many homeowners achieve payback in 8-12 years while locking in energy costs."
+      },
+      {
+        question: "Does solar work in cloudy weather?",
+        answer: "Solar panels produce power in cloudy conditions, though at reduced output. Grid-tied systems draw utility power when solar production is low. Battery systems store excess energy for later use. Annual production matters more than any single day's weather."
+      },
+      {
+        question: "How long do solar panels last?",
+        answer: "Quality solar panels carry 25-30 year warranties and often produce power for 35+ years. Production decreases slowly over time (about 0.5% per year). Inverters typically need replacement once (10-15 year life). Overall system maintenance is minimal."
+      }
+    ],
+    relatedServices: ["electrician", "generator", "roofing"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "ev-charger",
+    title: "EV Charger Installation",
+    category: "home_services",
+    subcategory: "electrical",
+    layout: 4,
+    icon: "Battery",
+    iconColor: "green",
+    metaTitle: "EV Charger Installation in Navarro County, TX | Electric Vehicle Charger Corsicana",
+    metaDescription: "EV charger installation in Corsicana and Navarro County. Level 2 home charging, electrical upgrades, and EV charging solutions.",
+    metaKeywords: "EV charger Corsicana, electric vehicle charger Navarro County, Level 2 charger, home charging",
+    heroContent: `Electric vehicles need home charging for convenient daily use. EV charger installation provides faster charging than standard outlets. Navarro County electricians install Level 2 chargers and upgrade panels to support them.`,
+    localContext: `As more Navarro County residents adopt electric vehicles, home charging becomes essential—especially given limited public charging infrastructure in rural areas. A Level 2 charger provides overnight charging for daily driving needs.`,
+    sections: [
+      {
+        type: "services",
+        heading: "EV Charger Services",
+        content: `**Charger Types**
+- Level 2 (240V) chargers
+- Tesla Wall Connectors
+- Universal J1772 chargers
+- Smart chargers with apps
+
+**Installation**
+- Site assessment
+- Panel capacity evaluation
+- Circuit installation
+- Charger mounting
+- Permit coordination
+
+**Upgrades**
+- Panel upgrades
+- Sub-panel installation
+- Load management
+- Solar integration`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does EV charger installation cost?",
+        answer: "Charger units cost $300-$800 for basic models, $500-$1,500 for smart chargers. Installation runs $400-$1,500 depending on panel location and capacity. If panel upgrade is needed, add $1,000-$3,000. Total typical cost: $800-$2,500 for straightforward installations."
+      },
+      {
+        question: "What's the difference between Level 1 and Level 2 charging?",
+        answer: "Level 1 uses standard 120V outlets and adds 3-5 miles of range per hour. Level 2 uses 240V (like a dryer outlet) and adds 25-30 miles per hour. Level 2 is recommended for daily EV use—you can fully charge overnight."
+      },
+      {
+        question: "Does my panel have capacity for an EV charger?",
+        answer: "EV chargers typically need a 40-60 amp circuit. Many newer homes have capacity; older homes may need panel upgrades. Your electrician evaluates current loads and panel size. Load management devices can sometimes enable charging without upgrades."
+      }
+    ],
+    relatedServices: ["electrician", "electrical-panel-upgrade", "solar"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "ac-repair",
+    title: "AC Repair",
+    category: "home_services",
+    subcategory: "climate",
+    layout: 5,
+    icon: "Snowflake",
+    iconColor: "blue",
+    metaTitle: "AC Repair in Navarro County, TX | Air Conditioning Repair Corsicana",
+    metaDescription: "AC repair services in Corsicana and Navarro County. Emergency air conditioning repair, maintenance, and diagnostic services.",
+    metaKeywords: "AC repair Corsicana, air conditioning repair Navarro County, AC service, cooling repair",
+    heroContent: `When your air conditioning fails in Texas heat, you need fast, reliable repair service. Navarro County HVAC technicians provide emergency AC repair to restore your comfort quickly.`,
+    localContext: `Texas summers push AC systems to their limits. Temperatures regularly exceed 100°F in Navarro County, making air conditioning not just a comfort but a health necessity. Local technicians understand the demands our climate places on cooling equipment.`,
+    sections: [
+      {
+        type: "services",
+        heading: "AC Repair Services",
+        content: `**Common Repairs**
+- Refrigerant leaks and recharge
+- Compressor issues
+- Fan motor replacement
+- Capacitor replacement
+- Thermostat problems
+- Frozen coils
+
+**Diagnostic Services**
+- System evaluation
+- Efficiency testing
+- Leak detection
+- Electrical testing
+
+**Emergency Service**
+- Same-day repair
+- Weekend service
+- After-hours calls
+- Temporary cooling solutions`
+      }
+    ],
+    faqs: [
+      {
+        question: "Why is my AC not cooling?",
+        answer: "Common causes include: low refrigerant (leak), dirty filters restricting airflow, frozen evaporator coil, faulty compressor, thermostat issues, or electrical problems. Check and change your filter first. If that doesn't help, call for professional diagnosis."
+      },
+      {
+        question: "How much does AC repair cost?",
+        answer: "Service calls run $75-$150 for diagnosis. Common repairs cost $150-$500 (capacitor, fan motor, refrigerant). Major repairs like compressors run $1,200-$2,500. Emergency and after-hours service costs more. If repairs exceed 50% of replacement cost, consider a new system."
+      },
+      {
+        question: "Should I repair or replace my AC?",
+        answer: "Consider replacement if: the system is over 15 years old, uses R-22 refrigerant (being phased out), requires frequent repairs, or repair costs exceed 50% of new unit price. Newer systems are significantly more efficient, reducing operating costs."
+      }
+    ],
+    relatedServices: ["hvac", "furnace-repair", "duct-cleaning"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "furnace-repair",
+    title: "Furnace Repair",
+    category: "home_services",
+    subcategory: "climate",
+    layout: 1,
+    icon: "Flame",
+    iconColor: "orange",
+    metaTitle: "Furnace Repair in Navarro County, TX | Heating Repair Corsicana",
+    metaDescription: "Furnace repair services in Corsicana and Navarro County. Gas furnace repair, electric heater service, and heating system maintenance.",
+    metaKeywords: "furnace repair Corsicana, heating repair Navarro County, gas furnace, heater repair",
+    heroContent: `When your furnace fails during a cold Texas winter, you need reliable repair service. Navarro County HVAC technicians repair gas furnaces, heat pumps, and electric heating systems.`,
+    localContext: `While Texas is known for heat, Navarro County winters can bring freezing temperatures. The 2021 winter storm demonstrated how critical reliable heating is. Local HVAC companies provide prompt furnace repair to keep homes warm and safe.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Heating Repair Services",
+        content: `**Furnace Repairs**
+- Ignitor replacement
+- Blower motor repair
+- Heat exchanger issues
+- Thermostat problems
+- Gas valve repair
+- Pilot light issues
+
+**Heat Pumps**
+- Defrost problems
+- Reversing valve
+- Refrigerant issues
+- Compressor repair
+
+**Safety**
+- Carbon monoxide testing
+- Gas leak detection
+- Heat exchanger inspection`
+      }
+    ],
+    faqs: [
+      {
+        question: "Why isn't my furnace heating?",
+        answer: "Common causes include: thermostat issues, tripped breaker, clogged filter, pilot light out, ignitor failure, or gas supply problems. Check thermostat settings, filter, and breaker first. If the pilot won't light or you smell gas, call a professional immediately."
+      },
+      {
+        question: "How much does furnace repair cost?",
+        answer: "Service calls run $75-$150 for diagnosis. Common repairs cost $150-$400 (ignitor, flame sensor, blower motor). Major repairs like heat exchangers cost $1,000-$2,500. Given repair costs, furnaces over 15 years old with major problems may be better replaced."
+      },
+      {
+        question: "How often should furnace be serviced?",
+        answer: "Annual furnace maintenance is recommended, ideally in fall before heating season. Maintenance includes cleaning, safety checks, and efficiency testing. Well-maintained furnaces last longer, operate safely, and cost less to run."
+      }
+    ],
+    relatedServices: ["hvac", "ac-repair", "air-quality"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "insulation",
+    title: "Insulation",
+    category: "home_services",
+    subcategory: "climate",
+    layout: 2,
+    icon: "Layers",
+    iconColor: "amber",
+    metaTitle: "Insulation in Navarro County, TX | Home Insulation Corsicana",
+    metaDescription: "Insulation services in Corsicana and Navarro County. Attic insulation, spray foam, blown-in insulation, and energy efficiency upgrades.",
+    metaKeywords: "insulation Corsicana, attic insulation Navarro County, spray foam, blown in insulation",
+    heroContent: `Proper insulation keeps your home comfortable and reduces energy costs. Many older Navarro County homes have inadequate insulation, leading to high utility bills and uneven temperatures.`,
+    localContext: `Texas extreme temperatures—both summer heat and winter cold—make insulation critical. Attic temperatures in Navarro County can exceed 150°F in summer, making adequate attic insulation especially important for comfort and energy efficiency.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Insulation Services",
+        content: `**Insulation Types**
+- Blown-in cellulose
+- Blown-in fiberglass
+- Spray foam (open and closed cell)
+- Batt insulation
+- Radiant barriers
+
+**Applications**
+- Attic insulation
+- Wall insulation
+- Crawl space insulation
+- Rim joist sealing
+- Air sealing
+
+**Benefits**
+- Lower energy bills
+- Even temperatures
+- Reduced HVAC wear
+- Improved comfort
+- Noise reduction`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does attic insulation cost?",
+        answer: "Blown-in attic insulation costs $1-$2 per square foot installed. A typical 1,500 sq ft attic runs $1,500-$3,000. Spray foam costs more ($3-$7/sq ft) but provides air sealing too. Energy savings often provide payback in 3-7 years."
+      },
+      {
+        question: "How much insulation do I need?",
+        answer: "In Texas (Zone 2-3), attics should have R-38 to R-49 insulation—about 12-16 inches of blown insulation. Many older homes have only 4-6 inches. Adding insulation to reach recommended levels significantly improves efficiency."
+      },
+      {
+        question: "Can I add insulation over existing insulation?",
+        answer: "Yes, you can usually add blown insulation over existing batts or blown insulation. The old insulation should be dry and free of mold or pest damage. Don't compress existing insulation—the goal is to add depth for more R-value."
+      }
+    ],
+    relatedServices: ["hvac", "air-quality", "duct-cleaning"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "siding",
+    title: "Siding",
+    category: "home_services",
+    subcategory: "exterior",
+    layout: 3,
+    icon: "LayoutList",
+    iconColor: "gray",
+    metaTitle: "Siding in Navarro County, TX | Siding Installation Corsicana",
+    metaDescription: "Siding installation and repair in Corsicana and Navarro County. Vinyl siding, fiber cement, and siding replacement services.",
+    metaKeywords: "siding Corsicana, siding installation Navarro County, vinyl siding, fiber cement, James Hardie",
+    heroContent: `Quality siding protects your home from the elements while enhancing curb appeal. Navarro County siding contractors install and repair various siding materials suited to our climate.`,
+    localContext: `Texas weather is hard on home exteriors—intense sun, driving rain, and occasional hail. Siding choices for Navarro County homes should withstand UV exposure and temperature extremes. Fiber cement and quality vinyl both perform well in our conditions.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Siding Services",
+        content: `**Siding Materials**
+- Vinyl siding
+- Fiber cement (James Hardie)
+- Engineered wood
+- Metal siding
+- Stone veneer
+
+**Services**
+- Full replacement
+- Partial repair
+- Storm damage repair
+- Insulated siding upgrades
+- Trim and fascia
+
+**Benefits**
+- Weather protection
+- Energy efficiency
+- Low maintenance
+- Curb appeal
+- Increased value`
+      }
+    ],
+    faqs: [
+      {
+        question: "What type of siding is best for Texas?",
+        answer: "Fiber cement (like James Hardie) performs excellently in Texas heat, resisting fading and warping. Quality vinyl is more affordable and handles heat well. Engineered wood offers beauty but requires more maintenance. Avoid cheap vinyl that can warp in extreme heat."
+      },
+      {
+        question: "How much does siding replacement cost?",
+        answer: "Vinyl siding costs $4-$8 per square foot installed. Fiber cement runs $8-$14 per square foot. A typical 2,000 sq ft home costs $10,000-$20,000 for vinyl or $18,000-$35,000 for fiber cement. Costs include removal of old siding and new trim."
+      },
+      {
+        question: "How long does siding last?",
+        answer: "Vinyl siding lasts 20-40 years. Fiber cement lasts 30-50+ years. Quality affects lifespan significantly—premium products with better warranties last longer. Proper installation and maintenance maximize siding life."
+      }
+    ],
+    relatedServices: ["exterior-painting", "gutter", "roofing"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "window-installation",
+    title: "Window Installation",
+    category: "home_services",
+    subcategory: "exterior",
+    layout: 4,
+    icon: "Square",
+    iconColor: "slate",
+    metaTitle: "Window Installation in Navarro County, TX | Window Replacement Corsicana",
+    metaDescription: "Window installation and replacement in Corsicana and Navarro County. Energy-efficient windows, vinyl windows, and window upgrades.",
+    metaKeywords: "window installation Corsicana, window replacement Navarro County, energy efficient windows, vinyl windows",
+    heroContent: `New windows improve energy efficiency, comfort, and home value. Window replacement eliminates drafts, reduces energy costs, and updates your home's appearance. Navarro County window installers offer quality products and professional installation.`,
+    localContext: `Many Navarro County homes still have single-pane or aging double-pane windows. In our hot climate, energy-efficient windows with Low-E coatings significantly reduce cooling costs and improve comfort near windows.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Window Services",
+        content: `**Window Types**
+- Vinyl windows
+- Fiberglass windows
+- Wood-clad windows
+- Aluminum windows
+- Impact-resistant
+
+**Styles**
+- Double-hung
+- Casement
+- Sliding
+- Picture windows
+- Bay and bow windows
+
+**Features**
+- Low-E glass
+- Argon gas fill
+- Double or triple pane
+- Energy Star rated`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do replacement windows cost?",
+        answer: "Vinyl windows cost $300-$700 each installed for standard sizes. Fiberglass and wood-clad run $500-$1,200 each. A whole-house window project (15-20 windows) typically costs $7,000-$20,000. Custom sizes and premium features add cost."
+      },
+      {
+        question: "How much can new windows save on energy bills?",
+        answer: "Upgrading from single-pane to modern double-pane windows can reduce heating/cooling costs 10-25%. Low-E coatings and argon gas increase efficiency. Actual savings depend on your current windows, HVAC efficiency, and climate exposure."
+      },
+      {
+        question: "How long does window installation take?",
+        answer: "A typical home can be completed in 1-2 days for straightforward replacement. Installation time per window is usually 30-60 minutes. Custom windows, trim work, or structural modifications add time. Your home remains secure throughout the process."
+      }
+    ],
+    relatedServices: ["door-installation", "siding", "insulation"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "door-installation",
+    title: "Door Installation",
+    category: "home_services",
+    subcategory: "exterior",
+    layout: 5,
+    icon: "DoorOpen",
+    iconColor: "brown",
+    metaTitle: "Door Installation in Navarro County, TX | Door Replacement Corsicana",
+    metaDescription: "Door installation and replacement in Corsicana and Navarro County. Entry doors, interior doors, and patio door installation.",
+    metaKeywords: "door installation Corsicana, door replacement Navarro County, entry door, patio door, interior doors",
+    heroContent: `A new door improves security, energy efficiency, and curb appeal. Whether you need an entry door, patio door, or interior doors, professional installation ensures proper fit and function.`,
+    localContext: `Navarro County's hot summers and exposure to sun from the south and west make door selection important. Quality entry doors with good insulation values reduce energy costs while fiberglass doors resist warping in Texas heat.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Door Services",
+        content: `**Door Types**
+- Entry doors
+- Patio doors (sliding, French)
+- Interior doors
+- Storm doors
+- Security doors
+
+**Materials**
+- Fiberglass
+- Steel
+- Wood
+- Composite
+
+**Services**
+- New installation
+- Replacement
+- Frame repair
+- Hardware upgrades
+- Weatherstripping`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does entry door replacement cost?",
+        answer: "Entry doors range from $500-$3,000+ for the door. Installation adds $200-$500 for straightforward replacement or $500-$1,500 if frame modification is needed. Quality fiberglass doors with good warranties offer the best value for most Texas homes."
+      },
+      {
+        question: "What type of entry door is best?",
+        answer: "Fiberglass doors offer the best combination of durability, insulation, and appearance for Texas homes. They resist warping, denting, and fading. Steel doors are economical but can dent and conduct heat. Wood doors are beautiful but require more maintenance."
+      },
+      {
+        question: "Can I replace a door myself?",
+        answer: "Replacing a door in an existing frame is a moderate DIY project. Replacing the frame requires more skill. Improper installation leads to air leaks, security issues, and operational problems. Professional installation ensures proper fit and warranty coverage."
+      }
+    ],
+    relatedServices: ["window-installation", "locksmith", "garage-door"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "exterior-painting",
+    title: "Exterior Painting",
+    category: "home_services",
+    subcategory: "exterior",
+    layout: 1,
+    icon: "PaintBucket",
+    iconColor: "orange",
+    metaTitle: "Exterior Painting in Navarro County, TX | House Painting Corsicana",
+    metaDescription: "Exterior painting services in Corsicana and Navarro County. House painting, trim painting, and deck staining.",
+    metaKeywords: "exterior painting Corsicana, house painting Navarro County, exterior painter, paint contractor",
+    heroContent: `Quality exterior painting protects your home while enhancing curb appeal. Professional painters prepare surfaces properly and use paints that withstand Texas sun and weather.`,
+    localContext: `Texas UV exposure is brutal on paint. South and west-facing surfaces fade and deteriorate faster. Experienced Navarro County painters know which products and techniques hold up best in our climate, ensuring your paint job lasts.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Exterior Painting Services",
+        content: `**Painting Services**
+- Whole house painting
+- Trim and accent painting
+- Deck and fence staining
+- Garage painting
+- Outbuilding painting
+
+**Preparation**
+- Pressure washing
+- Scraping and sanding
+- Caulking and sealing
+- Primer application
+- Surface repair
+
+**Materials**
+- Premium exterior paints
+- UV-resistant finishes
+- Semi-transparent stains
+- Solid color stains`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does exterior house painting cost?",
+        answer: "Exterior painting typically costs $1.50-$4 per square foot, including prep and paint. A 2,000 sq ft home runs $3,000-$8,000 depending on condition, stories, and detail work. Multi-story homes and extensive prep add cost. Quality paint costs more but lasts longer."
+      },
+      {
+        question: "How often should a house be painted?",
+        answer: "In Texas, expect to repaint every 5-7 years with quality paint, longer with premium products. South and west walls may need attention sooner. Wood siding needs painting more often than fiber cement or brick. Watch for fading, chalking, and peeling as signs it's time."
+      },
+      {
+        question: "What's the best time to paint exteriors in Texas?",
+        answer: "Spring and fall are ideal—temperatures between 50-85°F with low humidity. Avoid painting in summer when surfaces are too hot for paint to adhere properly. Early morning starts help beat the afternoon heat. Professional painters work within optimal conditions."
+      }
+    ],
+    relatedServices: ["interior-painting", "pressure-washing", "siding"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "pressure-washing",
+    title: "Pressure Washing",
+    category: "home_services",
+    subcategory: "exterior",
+    layout: 2,
+    icon: "Waves",
+    iconColor: "blue",
+    metaTitle: "Pressure Washing in Navarro County, TX | Power Washing Corsicana",
+    metaDescription: "Pressure washing services in Corsicana and Navarro County. House washing, driveway cleaning, deck cleaning, and commercial pressure washing.",
+    metaKeywords: "pressure washing Corsicana, power washing Navarro County, house washing, driveway cleaning",
+    heroContent: `Pressure washing removes years of dirt, mold, and grime, restoring surfaces to like-new condition. Professional pressure washing protects your property while improving appearance.`,
+    localContext: `Navarro County's humidity and shade from mature trees create conditions for mold and mildew growth on exterior surfaces. Regular pressure washing maintains appearance and prevents damage from organic growth.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Pressure Washing Services",
+        content: `**Residential**
+- House washing
+- Driveway and sidewalk
+- Deck and patio
+- Fence cleaning
+- Roof cleaning (soft wash)
+
+**Commercial**
+- Building exteriors
+- Parking lots
+- Dumpster pads
+- Drive-throughs
+- Fleet washing
+
+**Specialty**
+- Graffiti removal
+- Gum removal
+- Oil stain treatment
+- Pre-paint preparation`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does pressure washing cost?",
+        answer: "House washing typically costs $200-$500 for an average home. Driveways run $100-$250. Decks cost $100-$300. Commercial properties are priced by square footage. Prices vary by size, accessibility, and condition. Most companies quote after seeing the property."
+      },
+      {
+        question: "Can pressure washing damage surfaces?",
+        answer: "Yes, improper technique damages surfaces. Too much pressure can etch concrete, damage wood grain, and force water behind siding. Professional washers match pressure and technique to each surface. Soft washing uses lower pressure with cleaning solutions for delicate surfaces."
+      },
+      {
+        question: "How often should I pressure wash my house?",
+        answer: "Most homes benefit from annual pressure washing. North-facing or shaded areas with mold growth may need more frequent cleaning. Driveways and sidewalks last 1-2 years between cleanings. Schedule pressure washing before painting for proper surface preparation."
+      }
+    ],
+    relatedServices: ["exterior-painting", "gutter", "deck-builder"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "interior-painting",
+    title: "Interior Painting",
+    category: "home_services",
+    subcategory: "interior",
+    layout: 3,
+    icon: "Paintbrush",
+    iconColor: "amber",
+    metaTitle: "Interior Painting in Navarro County, TX | House Painter Corsicana",
+    metaDescription: "Interior painting services in Corsicana and Navarro County. Room painting, cabinet painting, and professional interior finishing.",
+    metaKeywords: "interior painting Corsicana, house painter Navarro County, room painting, cabinet painting",
+    heroContent: `A fresh coat of paint transforms any room. Professional interior painting provides smooth, even coverage with clean lines and attention to detail. Navarro County painters deliver quality results with minimal disruption.`,
+    localContext: `Whether updating a single room or painting an entire home, local painters understand the expectations of Navarro County homeowners. Quality prep work, premium paints, and professional technique ensure lasting results you'll love.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Interior Painting Services",
+        content: `**Room Painting**
+- Wall painting
+- Ceiling painting
+- Trim and baseboard
+- Doors and windows
+- Accent walls
+
+**Specialty Work**
+- Cabinet painting
+- Stair railings
+- Crown molding
+- Textured finishes
+- Wallpaper removal
+
+**Preparation**
+- Furniture protection
+- Surface repair
+- Primer application
+- Caulking
+- Detailed masking`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does interior painting cost?",
+        answer: "Interior painting typically costs $2-$6 per square foot for walls and ceilings. An average room runs $300-$800. Whole-house painting costs $3,000-$8,000+ depending on size. Trim, cabinets, and specialty work add to the cost. Quality paint and extensive prep increase price but improve results."
+      },
+      {
+        question: "How long does interior painting take?",
+        answer: "A single room takes 4-8 hours including prep and cleanup. A whole house typically takes 3-7 days depending on size and complexity. Extensive prep work, multiple colors, or specialty finishes add time. Painters can work room-by-room to minimize disruption."
+      },
+      {
+        question: "Should I hire a painter or DIY?",
+        answer: "DIY saves money on simple projects if you have time and patience. Professional painters work faster, achieve better results on detailed work, and handle prep thoroughly. For large projects, multiple rooms, or high ceilings, professional painting is often worth the investment."
+      }
+    ],
+    relatedServices: ["exterior-painting", "drywall", "cabinet-installation"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "drywall",
+    title: "Drywall Repair",
+    category: "home_services",
+    subcategory: "interior",
+    layout: 4,
+    icon: "Square",
+    iconColor: "slate",
+    metaTitle: "Drywall Repair in Navarro County, TX | Sheetrock Repair Corsicana",
+    metaDescription: "Drywall repair services in Corsicana and Navarro County. Hole repair, crack repair, texture matching, and new drywall installation.",
+    metaKeywords: "drywall repair Corsicana, sheetrock repair Navarro County, drywall patching, texture matching",
+    heroContent: `Drywall damage happens—from doorknob holes to water damage to settling cracks. Professional drywall repair matches textures seamlessly and prepares walls for painting.`,
+    localContext: `Foundation movement in Navarro County's clay soils often causes drywall cracks. After foundation repair, drywall needs attention. Local drywall contractors repair damage and match existing textures for invisible repairs.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Drywall Services",
+        content: `**Repair Services**
+- Small hole patching
+- Large hole repair
+- Crack repair
+- Water damage repair
+- Corner and bead repair
+
+**Texture Matching**
+- Knockdown texture
+- Orange peel
+- Popcorn (repair/removal)
+- Smooth finish
+- Skip trowel
+
+**New Installation**
+- Garage finishing
+- Room additions
+- Basement finishing
+- Remodel projects`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does drywall repair cost?",
+        answer: "Small hole patches cost $75-$150 each. Larger repairs run $150-$350. Water damage repair ranges from $300-$1,000+ depending on extent. Full room retexturing costs $300-$600. Price includes patching, texture matching, and primer—paint is typically separate."
+      },
+      {
+        question: "Can drywall texture be matched?",
+        answer: "Skilled contractors can match most textures closely. Knockdown and orange peel match well. Older textures may be harder to replicate exactly. The repaired area typically needs painting to blend with surrounding walls. Sometimes repainting the whole wall gives the best result."
+      },
+      {
+        question: "How do I know if drywall has water damage?",
+        answer: "Signs include: staining or discoloration, bubbling or peeling paint, soft or spongy texture, sagging, and musty odor. Water-damaged drywall should be replaced—it can harbor mold and loses structural integrity. Find and fix the water source before repairing."
+      }
+    ],
+    relatedServices: ["interior-painting", "flooring", "handyman"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "flooring",
+    title: "Flooring Installation",
+    category: "home_services",
+    subcategory: "interior",
+    layout: 5,
+    icon: "Grid3X3",
+    iconColor: "brown",
+    metaTitle: "Flooring Installation in Navarro County, TX | Flooring Contractor Corsicana",
+    metaDescription: "Flooring installation in Corsicana and Navarro County. Hardwood, laminate, vinyl, and tile flooring installation services.",
+    metaKeywords: "flooring installation Corsicana, flooring contractor Navarro County, hardwood floors, LVP flooring",
+    heroContent: `New flooring transforms your home's appearance and functionality. Professional installation ensures proper subfloor preparation and seamless results. Navarro County flooring contractors install all types of residential flooring.`,
+    localContext: `Flooring choices for Navarro County should consider our climate—humidity fluctuations affect some materials. Luxury vinyl plank (LVP) has become popular for its durability and water resistance, while hardwood remains a classic choice.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Flooring Services",
+        content: `**Flooring Types**
+- Hardwood (solid and engineered)
+- Luxury vinyl plank (LVP)
+- Laminate
+- Tile (ceramic, porcelain)
+- Carpet
+- Natural stone
+
+**Services**
+- Installation
+- Removal of old flooring
+- Subfloor repair
+- Transitions and trim
+- Refinishing (hardwood)
+
+**Specialty**
+- Heated floors
+- Waterproof options
+- Commercial flooring
+- Stair treads`
+      }
+    ],
+    faqs: [
+      {
+        question: "What's the best flooring for Texas?",
+        answer: "LVP (luxury vinyl plank) is increasingly popular—waterproof, durable, and handles humidity well. Tile is excellent for hot climates and moisture-prone areas. Engineered hardwood handles humidity better than solid hardwood. Consider lifestyle, room use, and budget."
+      },
+      {
+        question: "How much does flooring installation cost?",
+        answer: "Material costs vary: LVP $2-$7/sq ft, laminate $1-$5/sq ft, tile $2-$15/sq ft, hardwood $4-$12/sq ft. Installation adds $2-$6/sq ft depending on complexity. A typical room costs $1,500-$4,000 for materials and installation."
+      },
+      {
+        question: "How long does flooring installation take?",
+        answer: "An average room takes 1-2 days. Whole-house installation takes 3-7 days depending on size and flooring type. Tile takes longer than LVP or laminate. Add time for removing old flooring and any subfloor repair needed."
+      }
+    ],
+    relatedServices: ["carpet", "tile", "hardwood-floor"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "carpet",
+    title: "Carpet Installation",
+    category: "home_services",
+    subcategory: "interior",
+    layout: 1,
+    icon: "Square",
+    iconColor: "rose",
+    metaTitle: "Carpet Installation in Navarro County, TX | Carpet Installer Corsicana",
+    metaDescription: "Carpet installation in Corsicana and Navarro County. Residential carpet, carpet padding, and professional carpet installation services.",
+    metaKeywords: "carpet installation Corsicana, carpet installer Navarro County, new carpet, carpet replacement",
+    heroContent: `Carpet provides warmth, comfort, and noise reduction that hard flooring can't match. Professional carpet installation ensures proper stretching and seaming for a beautiful, long-lasting result.`,
+    localContext: `While hard flooring is popular in Texas for heat and cleaning, carpet remains the choice for bedrooms and living areas where comfort matters. Navarro County carpet installers help you select appropriate carpet for your lifestyle and install it properly.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Carpet Services",
+        content: `**Carpet Types**
+- Plush carpet
+- Berber
+- Frieze
+- Pattern carpet
+- Commercial carpet
+
+**Services**
+- New installation
+- Carpet replacement
+- Pad selection and installation
+- Seaming and stretching
+- Old carpet removal
+
+**Additional**
+- Stair carpeting
+- Carpet repairs
+- Restretching
+- Transition strips`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does carpet installation cost?",
+        answer: "Carpet costs $2-$8 per square foot for material, with quality padding adding $0.50-$1.50/sq ft. Installation runs $1-$3/sq ft. A typical 200 sq ft room costs $700-$2,500 installed. Stairs and complex layouts add cost. Removal of old carpet is usually included."
+      },
+      {
+        question: "How long does carpet last?",
+        answer: "Quality carpet lasts 10-15 years in normal traffic areas. High-traffic areas and lower-quality carpet wear faster. Proper padding extends carpet life significantly. Stains, pet damage, and heavy wear may necessitate earlier replacement."
+      },
+      {
+        question: "Should I choose nylon or polyester carpet?",
+        answer: "Nylon is more durable and resilient, ideal for high-traffic areas. Polyester is softer, more stain-resistant, and less expensive. For bedrooms, polyester works well. For living areas and stairs, nylon's durability is worth the premium."
+      }
+    ],
+    relatedServices: ["flooring", "carpet-cleaning", "tile"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "tile",
+    title: "Tile Installation",
+    category: "home_services",
+    subcategory: "interior",
+    layout: 2,
+    icon: "Grid2X2",
+    iconColor: "slate",
+    metaTitle: "Tile Installation in Navarro County, TX | Tile Contractor Corsicana",
+    metaDescription: "Tile installation in Corsicana and Navarro County. Kitchen tile, bathroom tile, and floor tile installation services.",
+    metaKeywords: "tile installation Corsicana, tile contractor Navarro County, floor tile, ceramic tile, porcelain tile",
+    heroContent: `Tile provides durability, water resistance, and design versatility that other flooring can't match. Professional tile installation ensures proper substrate preparation and long-lasting results.`,
+    localContext: `Tile floors are ideal for Texas homes—cool underfoot in summer and easy to clean. From classic ceramic to luxury porcelain, Navarro County tile installers create beautiful, functional surfaces for floors, backsplashes, and bathrooms.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Tile Services",
+        content: `**Tile Types**
+- Ceramic tile
+- Porcelain tile
+- Natural stone
+- Glass tile
+- Mosaic tile
+
+**Applications**
+- Floor tile
+- Backsplashes
+- Shower walls and floors
+- Tub surrounds
+- Fireplace surrounds
+
+**Services**
+- New installation
+- Tile removal
+- Substrate preparation
+- Grout and sealing
+- Repairs`
+      }
+    ],
+    faqs: [
+      {
+        question: "What's the difference between ceramic and porcelain tile?",
+        answer: "Porcelain is denser, harder, and more water-resistant than ceramic—better for high-moisture areas and heavy traffic. Ceramic is less expensive and easier to cut, fine for walls and light-traffic floors. Porcelain is the better choice for most floor applications."
+      },
+      {
+        question: "How much does tile installation cost?",
+        answer: "Tile materials range from $2-$15+ per square foot. Installation costs $5-$15/sq ft depending on complexity. A typical bathroom floor (50 sq ft) runs $500-$1,500. Backsplashes cost $10-$40/sq ft due to precision work. Shower tile is the most expensive due to waterproofing requirements."
+      },
+      {
+        question: "How long does tile installation take?",
+        answer: "A bathroom floor takes 1-2 days. A kitchen backsplash takes 1 day. Shower tile takes 3-5 days including waterproofing. Whole rooms or complex patterns take longer. Add curing time before grouting and sealing—tile isn't ready for use immediately."
+      }
+    ],
+    relatedServices: ["flooring", "countertop", "bathroom-remodel"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "hardwood-floor",
+    title: "Hardwood Floor",
+    category: "home_services",
+    subcategory: "interior",
+    layout: 3,
+    icon: "Rows3",
+    iconColor: "amber",
+    metaTitle: "Hardwood Floors in Navarro County, TX | Hardwood Installation Corsicana",
+    metaDescription: "Hardwood floor installation and refinishing in Corsicana and Navarro County. Solid hardwood, engineered wood, and floor refinishing.",
+    metaKeywords: "hardwood floors Corsicana, hardwood installation Navarro County, wood floors, floor refinishing",
+    heroContent: `Hardwood floors add timeless beauty and value to any home. Whether installing new hardwood or refinishing existing floors, skilled craftsmen deliver results that will last generations.`,
+    localContext: `Many historic Navarro County homes have original hardwood floors worth preserving. Refinishing brings them back to life. For new installations, engineered hardwood performs better than solid in our climate due to humidity fluctuations.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Hardwood Services",
+        content: `**Installation**
+- Solid hardwood
+- Engineered hardwood
+- Nail-down installation
+- Glue-down installation
+- Floating floors
+
+**Species**
+- Oak (red and white)
+- Hickory
+- Maple
+- Cherry
+- Exotic hardwoods
+
+**Refinishing**
+- Sanding
+- Staining
+- Finishing
+- Screen and recoat
+- Repairs`
+      }
+    ],
+    faqs: [
+      {
+        question: "Solid vs. engineered hardwood—which is better?",
+        answer: "Engineered hardwood handles humidity changes better, making it ideal for Texas. It can be installed over concrete. Solid hardwood can be refinished more times but is more prone to expansion/contraction issues. For most Navarro County homes, engineered is the practical choice."
+      },
+      {
+        question: "How much do hardwood floors cost?",
+        answer: "Material costs range from $4-$12/sq ft for common species. Installation adds $3-$8/sq ft. A 500 sq ft living room costs $3,500-$10,000 installed. Refinishing existing floors costs $3-$8/sq ft—much less than new installation if floors are salvageable."
+      },
+      {
+        question: "How often should hardwood floors be refinished?",
+        answer: "With normal wear, hardwood floors need refinishing every 7-15 years. Heavy traffic areas wear faster. A screen-and-recoat (light refresh) every 3-5 years extends time between full refinishing. Proper maintenance reduces refinishing frequency."
+      }
+    ],
+    relatedServices: ["flooring", "carpet", "tile"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "cabinet-installation",
+    title: "Cabinet Installation",
+    category: "home_services",
+    subcategory: "interior",
+    layout: 4,
+    icon: "Archive",
+    iconColor: "brown",
+    metaTitle: "Cabinet Installation in Navarro County, TX | Kitchen Cabinets Corsicana",
+    metaDescription: "Cabinet installation in Corsicana and Navarro County. Kitchen cabinets, bathroom vanities, and custom cabinet installation.",
+    metaKeywords: "cabinet installation Corsicana, kitchen cabinets Navarro County, cabinet installer, bathroom vanity",
+    heroContent: `New cabinets transform kitchens and bathrooms while adding storage and value. Professional cabinet installation ensures level, secure, and perfectly aligned cabinets that function properly and look beautiful.`,
+    localContext: `Cabinet styles range from traditional to contemporary, and Navarro County installers work with all types—from stock cabinets to semi-custom to fully custom designs. Quality installation makes the difference in how cabinets look and function.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Cabinet Services",
+        content: `**Cabinet Types**
+- Stock cabinets
+- Semi-custom cabinets
+- Custom cabinets
+- Bathroom vanities
+- Garage cabinets
+
+**Services**
+- New installation
+- Cabinet replacement
+- Hardware installation
+- Soft-close upgrades
+- Modifications
+
+**Related**
+- Cabinet painting/refinishing
+- Countertop coordination
+- Appliance fitment
+- Crown molding`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do new kitchen cabinets cost?",
+        answer: "Stock cabinets run $100-$300 per linear foot installed. Semi-custom costs $200-$500/linear foot. Custom cabinets range from $500-$1,500+/linear foot. A typical 10x10 kitchen runs $5,000-$15,000 for stock or $15,000-$50,000+ for custom."
+      },
+      {
+        question: "How long does cabinet installation take?",
+        answer: "Kitchen cabinet installation typically takes 1-3 days depending on size and complexity. Bathroom vanities take a few hours. Custom cabinets require more time for fitting. Total kitchen remodel time is longer due to countertops, plumbing, and electrical work."
+      },
+      {
+        question: "Should I paint or replace my cabinets?",
+        answer: "Painting costs 50-70% less than replacement and works well if cabinet boxes are solid and you like the layout. Replace if cabinets are damaged, the layout doesn't work, or you want a completely different style. Refacing (new doors on existing boxes) is a middle option."
+      }
+    ],
+    relatedServices: ["countertop", "kitchen-remodel", "interior-painting"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "countertop",
+    title: "Countertop Installation",
+    category: "home_services",
+    subcategory: "interior",
+    layout: 5,
+    icon: "Rectangle",
+    iconColor: "slate",
+    metaTitle: "Countertop Installation in Navarro County, TX | Kitchen Countertops Corsicana",
+    metaDescription: "Countertop installation in Corsicana and Navarro County. Granite, quartz, marble, and countertop fabrication and installation.",
+    metaKeywords: "countertop installation Corsicana, kitchen countertops Navarro County, granite counters, quartz countertops",
+    heroContent: `Countertops are the workhorse of any kitchen or bathroom. From durable quartz to timeless granite, professional fabrication and installation ensures beautiful, functional surfaces that last.`,
+    localContext: `Navarro County homeowners have many countertop options, from budget-friendly laminate to luxury natural stone. Local fabricators measure precisely, cut accurately, and install seamlessly—critical for achieving professional results.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Countertop Services",
+        content: `**Materials**
+- Quartz (engineered stone)
+- Granite
+- Marble
+- Quartzite
+- Solid surface
+- Laminate
+- Butcher block
+
+**Services**
+- Template and measurement
+- Fabrication
+- Installation
+- Edge profiles
+- Sink cutouts
+- Seam placement
+
+**Applications**
+- Kitchen counters
+- Bathroom vanities
+- Islands
+- Bars`
+      }
+    ],
+    faqs: [
+      {
+        question: "Quartz vs. granite—which is better?",
+        answer: "Quartz is engineered and non-porous—no sealing required, consistent color, very durable. Granite is natural stone with unique patterns—requires periodic sealing. Both are excellent choices. Quartz offers easier maintenance; granite offers natural beauty. Price is similar."
+      },
+      {
+        question: "How much do countertops cost?",
+        answer: "Laminate runs $10-$40/sq ft installed. Granite and quartz cost $50-$150/sq ft installed. Marble and quartzite range $75-$200/sq ft. A typical kitchen (40-50 sq ft) costs $2,000-$4,000 for mid-range stone. Premium materials and complex layouts cost more."
+      },
+      {
+        question: "How long does countertop installation take?",
+        answer: "After templates are taken (1-2 weeks lead time for fabrication), installation typically takes 2-4 hours. Seams need to cure before heavy use. Old countertop removal and plumbing disconnection add time. Plan for your kitchen to be out of service for part of a day."
+      }
+    ],
+    relatedServices: ["cabinet-installation", "kitchen-remodel", "tile"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "carpet-cleaning",
+    title: "Carpet Cleaning",
+    category: "home_services",
+    subcategory: "maintenance",
+    layout: 1,
+    icon: "Sparkles",
+    iconColor: "cyan",
+    metaTitle: "Carpet Cleaning in Navarro County, TX | Professional Carpet Cleaner Corsicana",
+    metaDescription: "Carpet cleaning services in Corsicana and Navarro County. Deep cleaning, stain removal, and professional carpet care.",
+    metaKeywords: "carpet cleaning Corsicana, carpet cleaner Navarro County, deep cleaning, steam cleaning",
+    heroContent: `Professional carpet cleaning removes deep dirt, allergens, and stains that regular vacuuming can't reach. Regular cleaning extends carpet life and improves indoor air quality.`,
+    localContext: `Texas dust, red dirt, and outdoor allergens work their way into carpets quickly. Professional carpet cleaning in Navarro County keeps carpets looking fresh and helps allergy sufferers breathe easier.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Carpet Cleaning Services",
+        content: `**Cleaning Methods**
+- Hot water extraction (steam)
+- Dry cleaning
+- Encapsulation
+- Bonnet cleaning
+- Shampooing
+
+**Services**
+- Whole house cleaning
+- Room-by-room
+- Stain treatment
+- Pet odor removal
+- Deodorizing
+- Carpet protection
+
+**Specialty**
+- Oriental rug cleaning
+- Upholstery cleaning
+- Tile and grout
+- Area rugs`
+      }
+    ],
+    faqs: [
+      {
+        question: "How often should carpets be professionally cleaned?",
+        answer: "Most homes benefit from professional cleaning every 12-18 months. Homes with pets, allergies, or heavy traffic should clean every 6-12 months. Vacuum regularly between cleanings. Some carpet warranties require professional cleaning annually."
+      },
+      {
+        question: "How much does carpet cleaning cost?",
+        answer: "Professional carpet cleaning typically costs $25-$75 per room or $0.20-$0.40 per square foot. Whole-house cleaning runs $150-$400 for average homes. Stain treatment, deodorizing, and protection treatments add cost. Get quotes based on your specific square footage."
+      },
+      {
+        question: "How long does carpet take to dry after cleaning?",
+        answer: "Hot water extraction (steam cleaning) requires 6-12 hours drying time, sometimes 24 hours in humid conditions. Dry cleaning methods dry in 1-2 hours. Use fans and air conditioning to speed drying. Avoid walking on wet carpet to prevent new soiling."
+      }
+    ],
+    relatedServices: ["cleaning", "carpet", "upholstery-cleaning"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "window-cleaning",
+    title: "Window Cleaning",
+    category: "home_services",
+    subcategory: "maintenance",
+    layout: 2,
+    icon: "Sparkles",
+    iconColor: "blue",
+    metaTitle: "Window Cleaning in Navarro County, TX | Window Washer Corsicana",
+    metaDescription: "Window cleaning services in Corsicana and Navarro County. Residential and commercial window washing, screen cleaning, and hard water removal.",
+    metaKeywords: "window cleaning Corsicana, window washer Navarro County, window washing, commercial windows",
+    heroContent: `Clean windows transform a home's appearance and let in more natural light. Professional window cleaning removes dirt, hard water spots, and film safely and streak-free.`,
+    localContext: `Navarro County's hard water leaves mineral deposits on windows, and dust from our rural roads coats exterior glass. Professional window cleaners have the tools and techniques to remove these deposits and restore crystal-clear views.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Window Cleaning Services",
+        content: `**Residential**
+- Interior and exterior windows
+- Screen cleaning
+- Track cleaning
+- Storm windows
+- Skylights
+
+**Commercial**
+- Storefront cleaning
+- Office buildings
+- Multi-story buildings
+- High-rise service
+- Maintenance contracts
+
+**Specialty**
+- Hard water removal
+- Construction cleanup
+- Solar panel cleaning
+- Pressure washing`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does window cleaning cost?",
+        answer: "Residential window cleaning costs $4-$12 per window interior and exterior. A typical home with 20 windows runs $100-$250. Large or hard-to-access windows cost more. Commercial pricing is often per pane or by square footage. Get quotes for your specific situation."
+      },
+      {
+        question: "How often should windows be cleaned?",
+        answer: "Most homes benefit from professional window cleaning twice a year—spring and fall. Commercial storefronts may need monthly service. Areas with heavy pollen, construction dust, or sprinkler overspray may need more frequent cleaning."
+      },
+      {
+        question: "Can hard water stains be removed from windows?",
+        answer: "Yes, but severely etched glass may have permanent damage. Professional cleaners use specialized chemicals and techniques to remove mineral deposits. Regular cleaning prevents buildup from becoming permanent. Addressing sprinkler overspray helps prevent future staining."
+      }
+    ],
+    relatedServices: ["cleaning", "pressure-washing", "gutter"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "junk-removal",
+    title: "Junk Removal",
+    category: "home_services",
+    subcategory: "maintenance",
+    layout: 3,
+    icon: "Trash2",
+    iconColor: "slate",
+    metaTitle: "Junk Removal in Navarro County, TX | Hauling Service Corsicana",
+    metaDescription: "Junk removal services in Corsicana and Navarro County. Furniture removal, appliance hauling, and estate cleanouts.",
+    metaKeywords: "junk removal Corsicana, hauling Navarro County, furniture removal, appliance disposal, cleanout",
+    heroContent: `Getting rid of unwanted items shouldn't be a hassle. Junk removal services handle the heavy lifting, loading, and proper disposal so you don't have to.`,
+    localContext: `Whether you're decluttering, moving, or handling an estate cleanout, Navarro County junk removal companies provide efficient, responsible disposal. Many items are recycled or donated rather than going to landfills.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Junk Removal Services",
+        content: `**Residential**
+- Furniture removal
+- Appliance disposal
+- Garage cleanouts
+- Attic cleanouts
+- Moving cleanouts
+
+**Estate Services**
+- Estate cleanouts
+- Hoarding cleanups
+- Foreclosure cleanouts
+- Storage unit cleanouts
+
+**Commercial**
+- Office furniture removal
+- Construction debris
+- Equipment disposal
+- Warehouse cleanouts`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does junk removal cost?",
+        answer: "Junk removal is typically priced by volume—how much truck space your items fill. Single items like furniture or appliances run $50-$150. A truck load ranges $200-$600. Full estate cleanouts cost $500-$2,000+. Most companies quote after seeing the items."
+      },
+      {
+        question: "What items can be removed?",
+        answer: "Most household items can be removed: furniture, appliances, electronics, yard waste, construction debris, and general clutter. Hazardous materials (chemicals, paint, tires, propane tanks) usually require special handling. Confirm what's accepted before scheduling."
+      },
+      {
+        question: "Do junk removal companies donate usable items?",
+        answer: "Reputable companies donate usable items to local charities rather than landfilling everything. Ask about their donation policies. Some provide donation receipts for tax purposes. Specify items you want donated versus disposed of."
+      }
+    ],
+    relatedServices: ["moving-company", "cleaning", "storage-units"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "home-organizer",
+    title: "Home Organization",
+    category: "home_services",
+    subcategory: "maintenance",
+    layout: 4,
+    icon: "FolderOpen",
+    iconColor: "amber",
+    metaTitle: "Home Organization in Navarro County, TX | Professional Organizer Corsicana",
+    metaDescription: "Home organization services in Corsicana and Navarro County. Closet organization, garage organization, and decluttering services.",
+    metaKeywords: "home organizer Corsicana, professional organizer Navarro County, closet organization, decluttering",
+    heroContent: `Professional organizers transform chaotic spaces into functional systems. From overflowing closets to cluttered garages, organizing experts create order and help you maintain it.`,
+    localContext: `Life gets busy, and clutter accumulates. Navarro County professional organizers help families reclaim their space with practical systems tailored to how you actually live.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Organization Services",
+        content: `**Home Organization**
+- Closet organization
+- Pantry organization
+- Garage organization
+- Home office setup
+- Kids' room organization
+
+**Services**
+- Decluttering consultation
+- Sorting and purging
+- Storage solutions
+- Labeling systems
+- Donation coordination
+
+**Specialty**
+- Moving organization
+- Downsizing assistance
+- Estate organization
+- Small business organizing`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a professional organizer cost?",
+        answer: "Professional organizers typically charge $50-$100 per hour. A closet project takes 3-6 hours ($150-$600). Whole-room organization takes 8-16 hours ($400-$1,600). Major projects or whole-house organization are often quoted as packages. Some offer virtual consultations at lower rates."
+      },
+      {
+        question: "What do professional organizers do?",
+        answer: "They help sort belongings (keep, donate, discard), create logical storage systems, recommend containers and solutions, label everything, and teach maintenance habits. The goal is sustainable organization—systems you can actually maintain long-term."
+      },
+      {
+        question: "Can I organize myself or do I need help?",
+        answer: "Many people successfully organize with books and videos for guidance. A professional helps when: you're overwhelmed and don't know where to start, previous attempts haven't stuck, you need accountability, or you want expert solutions for challenging spaces."
+      }
+    ],
+    relatedServices: ["cleaning", "junk-removal", "moving-company"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "bee-removal",
+    title: "Bee Removal",
+    category: "home_services",
+    subcategory: "pest",
+    layout: 5,
+    icon: "Bug",
+    iconColor: "amber",
+    metaTitle: "Bee Removal in Navarro County, TX | Live Bee Relocation Corsicana",
+    metaDescription: "Bee removal services in Corsicana and Navarro County. Live bee removal, hive relocation, and swarm removal without killing bees.",
+    metaKeywords: "bee removal Corsicana, bee relocation Navarro County, swarm removal, bee hive removal",
+    heroContent: `Bees are essential pollinators, but when they build hives in homes or become a safety concern, professional removal is needed. Humane bee removal relocates colonies to safe locations where they can continue their important work.`,
+    localContext: `Navarro County's warm climate and abundant wildflowers attract bee colonies. When bees establish hives in walls, eaves, or trees near homes, local beekeepers and removal specialists can relocate them safely and humanely.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Bee Removal Services",
+        content: `**Removal Services**
+- Live bee removal
+- Hive relocation
+- Swarm capture
+- Structural hive removal
+- Emergency services
+
+**Locations**
+- Wall cavities
+- Roof and eaves
+- Trees and shrubs
+- Outbuildings
+- Equipment/vehicles
+
+**Related**
+- Hive repair (sealing entry)
+- Honey cleanup
+- Prevention advice
+- Africanized bee assessment`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does bee removal cost?",
+        answer: "Swarm removal typically costs $100-$250. Established hives in accessible locations run $200-$500. Structural removal requiring wall opening costs $500-$1,500+. Prices vary by hive size, accessibility, and whether repair is needed. Live removal usually costs more than extermination but saves the bees."
+      },
+      {
+        question: "Should bees be killed or removed alive?",
+        answer: "Live removal is preferred when possible. Bees are critical pollinators facing population challenges. Humane removal relocates the colony to an apiary where they continue producing honey and pollinating crops. Extermination is sometimes necessary for aggressive Africanized bees."
+      },
+      {
+        question: "Why shouldn't I remove bees myself?",
+        answer: "Bee removal requires protective equipment and knowledge of bee behavior. Disturbing hives without proper technique can trigger defensive attacks—dangerous even for non-allergic individuals. Some Texas bees are Africanized and extremely aggressive. Leave removal to professionals."
+      }
+    ],
+    relatedServices: ["pest-control", "wildlife-removal", "roofing"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "hot-tub-service",
+    title: "Hot Tub Service",
+    category: "home_services",
+    subcategory: "outdoor",
+    layout: 1,
+    icon: "Waves",
+    iconColor: "cyan",
+    metaTitle: "Hot Tub Service in Navarro County, TX | Spa Repair Corsicana",
+    metaDescription: "Hot tub repair and service in Corsicana and Navarro County. Spa maintenance, hot tub repair, and water chemistry management.",
+    metaKeywords: "hot tub service Corsicana, spa repair Navarro County, hot tub repair, spa maintenance",
+    heroContent: `Hot tubs require regular maintenance to stay clean, safe, and functional. Professional service keeps your spa running efficiently and extends equipment life.`,
+    localContext: `Navarro County's hard water and hot summers create challenges for hot tub maintenance. Local service technicians understand these conditions and help owners maintain proper water chemistry and equipment function.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Hot Tub Services",
+        content: `**Maintenance**
+- Water testing and balancing
+- Filter cleaning/replacement
+- Drain and refill
+- Cover care
+- Chemical supply
+
+**Repairs**
+- Pump repair/replacement
+- Heater service
+- Control board repair
+- Jet replacement
+- Leak repair
+
+**Additional**
+- Winterization
+- Start-up service
+- Moving assistance
+- Electrical troubleshooting`
+      }
+    ],
+    faqs: [
+      {
+        question: "How often should a hot tub be serviced?",
+        answer: "Water should be tested weekly (or use a service for this). Filters need monthly cleaning and annual replacement. Complete drain and refill every 3-4 months. Annual professional inspection catches problems early. More frequent service is needed for heavy use."
+      },
+      {
+        question: "How much does hot tub repair cost?",
+        answer: "Service calls run $75-$150 for diagnosis. Common repairs cost $150-$400 (pumps, heaters, controls). Major repairs like equipment replacement run $500-$1,500+. Regular maintenance prevents many repairs—it's cheaper than fixing problems."
+      },
+      {
+        question: "Why is my hot tub water cloudy?",
+        answer: "Cloudy water usually indicates poor water chemistry (pH or sanitizer levels off), dirty filters, or organic contamination. Test and balance chemicals, clean or replace filters, and shock the water. Persistent cloudiness may require draining and refilling. Don't use a cloudy hot tub."
+      }
+    ],
+    relatedServices: ["pool-service", "electrician", "plumber"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // MORE PROFESSIONAL SERVICES
+  // ============================================
+  {
+    slug: "immigration-lawyer",
+    title: "Immigration Lawyer",
+    category: "professional_services",
+    subcategory: "legal",
+    layout: 2,
+    icon: "Globe",
+    iconColor: "blue",
+    metaTitle: "Immigration Lawyer in Navarro County, TX | Immigration Attorney Corsicana",
+    metaDescription: "Immigration legal services in Corsicana and Navarro County. Visa applications, green cards, citizenship, and immigration law assistance.",
+    metaKeywords: "immigration lawyer Corsicana, immigration attorney Navarro County, visa, green card, citizenship",
+    heroContent: `Immigration law is complex and constantly changing. Immigration attorneys help individuals and families navigate visa applications, green card processes, citizenship, and deportation defense.`,
+    localContext: `Navarro County's diverse population includes many immigrant families and workers. Whether seeking work authorization, family reunification, or citizenship, immigration attorneys provide guidance through the complicated legal process.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Immigration Services",
+        content: `**Visa Services**
+- Work visas (H-1B, L-1, etc.)
+- Student visas
+- Family-based visas
+- Investor visas
+- Visitor visas
+
+**Green Cards**
+- Family sponsorship
+- Employment-based
+- DACA
+- Adjustment of status
+- Consular processing
+
+**Citizenship**
+- Naturalization
+- Citizenship test prep
+- Dual citizenship
+- Passport issues`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does an immigration lawyer cost?",
+        answer: "Fees vary by case complexity. Simple applications may cost $500-$1,500. Green card cases run $3,000-$8,000+. Deportation defense can cost $5,000-$15,000+. Government filing fees are separate. Get detailed quotes before proceeding."
+      },
+      {
+        question: "Can I handle immigration myself?",
+        answer: "Simple applications are possible to file yourself, but errors cause delays or denials. The stakes are high—denial can affect future applications. Complex cases, any history of violations, or deportation concerns definitely warrant an attorney."
+      },
+      {
+        question: "How long does the green card process take?",
+        answer: "Processing times vary significantly by category and country. Family-based green cards can take 1-20+ years depending on relationship and country. Employment-based ranges from months to years. An attorney can explain current wait times for your situation."
+      }
+    ],
+    relatedServices: ["attorney", "notary", "translator"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "mortgage-lender",
+    title: "Mortgage Lender",
+    category: "professional_services",
+    subcategory: "real_estate",
+    layout: 3,
+    icon: "Building",
+    iconColor: "green",
+    metaTitle: "Mortgage Lender in Navarro County, TX | Home Loans Corsicana",
+    metaDescription: "Mortgage lenders in Corsicana and Navarro County. Home loans, refinancing, and mortgage services for home buyers.",
+    metaKeywords: "mortgage lender Corsicana, home loans Navarro County, mortgage broker, refinance",
+    heroContent: `Buying a home requires financing, and choosing the right mortgage is crucial. Local mortgage lenders understand Navarro County's real estate market and offer competitive loan products.`,
+    localContext: `Navarro County's affordable housing market makes homeownership accessible, and local lenders help buyers find the right mortgage. From first-time buyer programs to rural USDA loans, various options serve different needs.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Mortgage Services",
+        content: `**Loan Types**
+- Conventional loans
+- FHA loans
+- VA loans
+- USDA rural loans
+- Jumbo loans
+
+**Services**
+- Purchase mortgages
+- Refinancing
+- Cash-out refinance
+- Pre-approval
+- Rate locks
+
+**Specialty**
+- First-time buyer programs
+- Down payment assistance
+- Investment property loans
+- Construction loans`
+      }
+    ],
+    faqs: [
+      {
+        question: "What credit score do I need for a mortgage?",
+        answer: "FHA loans accept scores as low as 580 (500 with larger down payment). Conventional loans typically require 620+. Better scores get better rates—740+ qualifies for the best rates. Work on improving credit before applying to save thousands over the loan life."
+      },
+      {
+        question: "How much down payment do I need?",
+        answer: "Conventional loans require 3-20% down. FHA loans need 3.5% down. VA and USDA loans offer zero down for qualifying buyers. Larger down payments get better rates and avoid private mortgage insurance (PMI). Down payment assistance programs help many buyers."
+      },
+      {
+        question: "What's the difference between pre-qualification and pre-approval?",
+        answer: "Pre-qualification is an estimate based on stated information—quick but not verified. Pre-approval involves document verification and credit check—much stronger when making offers. Sellers prefer pre-approved buyers. Get pre-approved before serious house hunting."
+      }
+    ],
+    relatedServices: ["realtor", "home-inspector", "title-company"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "title-company",
+    title: "Title Company",
+    category: "professional_services",
+    subcategory: "real_estate",
+    layout: 4,
+    icon: "FileText",
+    iconColor: "slate",
+    metaTitle: "Title Company in Navarro County, TX | Title Insurance Corsicana",
+    metaDescription: "Title companies in Corsicana and Navarro County. Title searches, title insurance, and closing services for real estate transactions.",
+    metaKeywords: "title company Corsicana, title insurance Navarro County, closing attorney, escrow",
+    heroContent: `Title companies ensure clear property ownership and facilitate smooth closings. They research property history, issue title insurance, and coordinate the closing process for buyers, sellers, and lenders.`,
+    localContext: `Navarro County property records date back to the 1800s, and title searches verify clear ownership through generations of transfers. Local title companies understand county records and ensure buyers receive clear title to their property.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Title Services",
+        content: `**Title Work**
+- Title searches
+- Title examination
+- Title insurance
+- Title clearance
+- Lien searches
+
+**Closing Services**
+- Document preparation
+- Escrow services
+- Closing coordination
+- Recording
+- Disbursement
+
+**Additional**
+- Mobile closings
+- 1031 exchange handling
+- Estate closings
+- Commercial closings`
+      }
+    ],
+    faqs: [
+      {
+        question: "What does title insurance cover?",
+        answer: "Title insurance protects against ownership claims, liens, and defects not discovered in the title search—forged documents, unknown heirs, recording errors. Lender's title insurance is required; owner's title insurance is optional but recommended. It's a one-time premium at closing."
+      },
+      {
+        question: "How much does title insurance cost?",
+        answer: "In Texas, title insurance rates are set by the state. Owner's policy costs roughly $1,700 per $100,000 of purchase price, with discounts for simultaneous lender policies. Actual costs depend on property value and any endorsements needed."
+      },
+      {
+        question: "Who chooses the title company?",
+        answer: "Traditionally, the buyer chooses the title company, though this is negotiable. Some sellers have preferences, especially for properties they're selling 'as-is.' Lenders may have approved title company lists. Your realtor can recommend reputable local options."
+      }
+    ],
+    relatedServices: ["realtor", "mortgage-lender", "attorney"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "appraiser",
+    title: "Property Appraiser",
+    category: "professional_services",
+    subcategory: "real_estate",
+    layout: 5,
+    icon: "ClipboardCheck",
+    iconColor: "amber",
+    metaTitle: "Property Appraiser in Navarro County, TX | Real Estate Appraisal Corsicana",
+    metaDescription: "Property appraisers in Corsicana and Navarro County. Home appraisals, commercial appraisals, and property valuations.",
+    metaKeywords: "appraiser Corsicana, property appraisal Navarro County, home appraisal, real estate valuation",
+    heroContent: `Property appraisers provide independent valuations for mortgages, sales, estates, and tax matters. Their licensed professional opinion of value is required for most real estate transactions.`,
+    localContext: `Navarro County property values have grown steadily, making accurate appraisals important. Local appraisers understand area neighborhoods, recent sales, and factors affecting property values throughout the county.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Appraisal Services",
+        content: `**Residential**
+- Purchase appraisals
+- Refinance appraisals
+- Estate appraisals
+- Divorce valuations
+- PMI removal appraisals
+
+**Commercial**
+- Commercial properties
+- Investment properties
+- Land appraisals
+- Agricultural properties
+
+**Specialty**
+- Review appraisals
+- Tax appeal support
+- Expert witness
+- Retrospective valuations`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does an appraisal cost?",
+        answer: "Residential appraisals typically cost $400-$600. Complex properties, large homes, or rural acreage cost more ($600-$1,000+). Commercial appraisals range from $1,500-$5,000+. Lenders order appraisals for purchase and refinance—you pay the fee but don't choose the appraiser."
+      },
+      {
+        question: "What if the appraisal comes in low?",
+        answer: "A low appraisal can derail a purchase if the lender won't finance above appraised value. Options include: negotiate a lower price, pay the difference in cash, request a reconsideration of value with supporting data, or order a second appraisal (rare). Your realtor can advise."
+      },
+      {
+        question: "How is property value determined?",
+        answer: "Appraisers use comparable sales (similar properties sold recently), property condition, location, and market trends. They inspect the property, research sales data, and apply professional judgment. The appraisal report explains how the value was determined."
+      }
+    ],
+    relatedServices: ["realtor", "home-inspector", "mortgage-lender"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "property-manager",
+    title: "Property Management",
+    category: "professional_services",
+    subcategory: "real_estate",
+    layout: 1,
+    icon: "Building2",
+    iconColor: "blue",
+    metaTitle: "Property Management in Navarro County, TX | Property Manager Corsicana",
+    metaDescription: "Property management services in Corsicana and Navarro County. Rental property management, tenant placement, and property maintenance.",
+    metaKeywords: "property manager Corsicana, property management Navarro County, rental management, landlord services",
+    heroContent: `Property managers handle the daily demands of rental property ownership—tenant placement, rent collection, maintenance, and more. They earn their fee by protecting your investment and saving you time.`,
+    localContext: `Whether you own a single rental house or multiple properties in Navarro County, professional management ensures consistent income and proper maintenance. Local managers know the rental market and handle issues promptly.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Property Management Services",
+        content: `**Tenant Services**
+- Marketing and advertising
+- Tenant screening
+- Lease preparation
+- Move-in/move-out inspections
+- Eviction processing
+
+**Financial**
+- Rent collection
+- Owner payments
+- Expense tracking
+- Financial reporting
+- Tax documentation
+
+**Maintenance**
+- Maintenance coordination
+- Emergency response
+- Vendor management
+- Property inspections
+- Preventive maintenance`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does property management cost?",
+        answer: "Property managers typically charge 8-12% of monthly rent, plus placement fees (50-100% of first month's rent). Some charge flat monthly fees. Compare what's included—some managers nickel-and-dime with extra charges. Understand all fees before signing."
+      },
+      {
+        question: "Is property management worth it?",
+        answer: "For distant owners or those without time/inclination to manage properties, definitely yes. Managers handle tenant calls, coordinate repairs, ensure legal compliance, and deal with problem tenants. The fee is tax-deductible. For hands-on local owners with few properties, self-management may make sense."
+      },
+      {
+        question: "What should I look for in a property manager?",
+        answer: "Check references from current clients. Understand their tenant screening criteria, maintenance procedures, and communication style. Review their management agreement carefully. Ensure they're licensed and have adequate insurance. Local knowledge and responsiveness matter."
+      }
+    ],
+    relatedServices: ["realtor", "handyman", "cleaning"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "process-server",
+    title: "Process Server",
+    category: "professional_services",
+    subcategory: "business",
+    layout: 2,
+    icon: "FileText",
+    iconColor: "slate",
+    metaTitle: "Process Server in Navarro County, TX | Legal Document Service Corsicana",
+    metaDescription: "Process serving in Corsicana and Navarro County. Legal document delivery, court filing, and civil process service.",
+    metaKeywords: "process server Corsicana, legal service Navarro County, document service, summons delivery",
+    heroContent: `Process servers deliver legal documents according to legal requirements, ensuring proper notice in court proceedings. They provide proof of service required for cases to proceed.`,
+    localContext: `Courts require proper service of legal documents—lawsuits, subpoenas, divorce papers, and more. Navarro County process servers know local rules and provide reliable, documented service.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Process Serving Services",
+        content: `**Document Types**
+- Summons and complaints
+- Subpoenas
+- Divorce papers
+- Eviction notices
+- Restraining orders
+
+**Services**
+- Personal service
+- Substitute service
+- Service by posting
+- Skip tracing
+- Same-day service
+
+**Documentation**
+- Affidavits of service
+- Court filing
+- GPS verification
+- Photo documentation`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does process serving cost?",
+        answer: "Standard service costs $50-$100 per serve. Rush or same-day service costs more. Multiple attempts add cost. Skip tracing (locating hard-to-find individuals) adds $50-$200+. Complex serves (hostile parties, secure buildings) cost more. Most servers quote per-serve rates."
+      },
+      {
+        question: "What if someone avoids being served?",
+        answer: "Experienced servers have techniques for difficult serves. If personal service fails after multiple attempts, courts may allow substitute service (leaving with household member) or service by posting/publication. Your attorney determines acceptable alternatives."
+      },
+      {
+        question: "How quickly can papers be served?",
+        answer: "Routine service typically occurs within 1-3 days. Same-day or rush service is available for urgent matters at premium rates. Success depends on locating the person—accurate address information speeds the process. Servers make multiple attempts at different times."
+      }
+    ],
+    relatedServices: ["attorney", "private-investigator", "courier"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "private-investigator",
+    title: "Private Investigator",
+    category: "professional_services",
+    subcategory: "business",
+    layout: 3,
+    icon: "Search",
+    iconColor: "slate",
+    metaTitle: "Private Investigator in Navarro County, TX | PI Services Corsicana",
+    metaDescription: "Private investigation services in Corsicana and Navarro County. Background checks, surveillance, and investigation services.",
+    metaKeywords: "private investigator Corsicana, PI Navarro County, background check, surveillance, investigation",
+    heroContent: `Private investigators gather information legally when you need to know the truth. From background checks to surveillance, licensed PIs work within the law to find answers.`,
+    localContext: `Whether you need to locate someone, verify information, or document behavior, Navarro County private investigators provide discreet, professional services with documented findings.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Investigation Services",
+        content: `**Research**
+- Background checks
+- Asset searches
+- Skip tracing
+- Social media investigation
+- Employment verification
+
+**Surveillance**
+- Domestic surveillance
+- Insurance fraud investigation
+- Workers' comp investigation
+- Child custody matters
+- Infidelity investigation
+
+**Legal Support**
+- Witness locating
+- Statement taking
+- Evidence gathering
+- Litigation support`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a private investigator cost?",
+        answer: "PIs typically charge $50-$150 per hour plus expenses. Simple background checks cost $100-$300. Surveillance runs $1,000-$3,000+ for multiple days. Complex investigations with travel and research cost more. Get a detailed estimate before starting."
+      },
+      {
+        question: "What can a private investigator legally do?",
+        answer: "PIs can conduct surveillance in public places, research public records, interview willing witnesses, and gather information through legal means. They cannot trespass, hack accounts, wiretap phones, impersonate law enforcement, or access private records illegally."
+      },
+      {
+        question: "Will my investigation remain confidential?",
+        answer: "Licensed PIs maintain client confidentiality. However, if findings become evidence in legal proceedings, they may become part of the record. Discuss confidentiality concerns upfront. Note that the subject of investigation may eventually learn they were investigated through legal discovery."
+      }
+    ],
+    relatedServices: ["attorney", "process-server", "security-guard"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "security-guard",
+    title: "Security Services",
+    category: "professional_services",
+    subcategory: "business",
+    layout: 4,
+    icon: "Shield",
+    iconColor: "blue",
+    metaTitle: "Security Services in Navarro County, TX | Security Guards Corsicana",
+    metaDescription: "Security guard services in Corsicana and Navarro County. Event security, property patrol, and professional security officers.",
+    metaKeywords: "security guard Corsicana, security services Navarro County, event security, patrol service",
+    heroContent: `Security services protect people, property, and events. From unarmed guards to armed officers, professional security provides peace of mind and visible deterrence.`,
+    localContext: `Navarro County businesses, events, and construction sites benefit from professional security presence. Local security companies provide trained officers for various situations.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Security Services",
+        content: `**Guard Services**
+- Unarmed guards
+- Armed guards
+- Patrol officers
+- Access control
+- Fire watch
+
+**Applications**
+- Construction sites
+- Retail loss prevention
+- Event security
+- Corporate facilities
+- Residential communities
+
+**Specialty**
+- Executive protection
+- Mobile patrol
+- Alarm response
+- Temporary security`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does security guard service cost?",
+        answer: "Unarmed guards cost $15-$25 per hour. Armed guards run $25-$50+ per hour. Event security may have minimums (4-hour minimum common). Ongoing contracts often have lower hourly rates. Specialized security (executive protection) costs significantly more."
+      },
+      {
+        question: "What's the difference between armed and unarmed security?",
+        answer: "Armed guards carry firearms and have additional training and licensing. They're appropriate for high-risk situations or valuable assets. Unarmed guards provide presence and deterrence suitable for most commercial applications. Your risk assessment determines which is appropriate."
+      },
+      {
+        question: "Are security guards licensed?",
+        answer: "Texas requires security guards to be licensed through the Department of Public Safety. Licensed guards have background checks and training. Always verify licensing. Companies should be registered and insured. Ask for proof of credentials."
+      }
+    ],
+    relatedServices: ["locksmith", "private-investigator", "alarm-system"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "courier",
+    title: "Courier Service",
+    category: "professional_services",
+    subcategory: "business",
+    layout: 5,
+    icon: "Package",
+    iconColor: "amber",
+    metaTitle: "Courier Service in Navarro County, TX | Same Day Delivery Corsicana",
+    metaDescription: "Courier services in Corsicana and Navarro County. Same-day delivery, medical courier, and rush delivery services.",
+    metaKeywords: "courier Corsicana, delivery service Navarro County, same day delivery, rush delivery",
+    heroContent: `When standard shipping isn't fast enough, courier services provide direct, same-day delivery. From legal documents to medical specimens, couriers ensure time-sensitive items arrive safely.`,
+    localContext: `Navarro County businesses often need documents or packages delivered to Dallas, Houston, or Austin same-day. Local couriers provide direct service without the delays of hub-and-spoke shipping networks.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Courier Services",
+        content: `**Services**
+- Same-day delivery
+- Rush delivery
+- Scheduled routes
+- On-demand pickup
+- Round-trip service
+
+**Specialty**
+- Medical courier
+- Legal documents
+- Bank runs
+- Lab specimens
+- Pharmaceuticals
+
+**Features**
+- Proof of delivery
+- Chain of custody
+- Temperature control (some)
+- Tracking
+- Insurance`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does courier service cost?",
+        answer: "Local same-day delivery runs $20-$50 within town. Regional delivery (to Dallas/Houston) costs $75-$200+ depending on urgency. Rush and after-hours service costs more. Medical and specialized delivery has premium pricing. Get quotes for your specific route and requirements."
+      },
+      {
+        question: "How fast is same-day courier service?",
+        answer: "Local deliveries often arrive within 1-2 hours. Regional deliveries (Corsicana to Dallas) take 1.5-2.5 hours depending on traffic. Rush service prioritizes your package. Scheduled pickup and delivery times can be guaranteed for additional fees."
+      },
+      {
+        question: "What items can couriers transport?",
+        answer: "Standard couriers handle documents, packages, and general cargo. Medical couriers have training and equipment for specimens and pharmaceuticals. Hazardous materials require specialized handling. Large or heavy items may need freight rather than courier service."
+      }
+    ],
+    relatedServices: ["process-server", "freight-shipping", "notary"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "computer-repair",
+    title: "Computer Repair",
+    category: "professional_services",
+    subcategory: "technology",
+    layout: 1,
+    icon: "Monitor",
+    iconColor: "blue",
+    metaTitle: "Computer Repair in Navarro County, TX | PC Repair Corsicana",
+    metaDescription: "Computer repair services in Corsicana and Navarro County. Laptop repair, virus removal, and computer troubleshooting.",
+    metaKeywords: "computer repair Corsicana, PC repair Navarro County, laptop repair, virus removal",
+    heroContent: `When your computer fails, you need fast, reliable repair. Local computer technicians diagnose and fix hardware and software problems, keeping you connected and productive.`,
+    localContext: `Navarro County residents and businesses depend on their computers. Local repair shops provide personal service—no shipping your computer away or dealing with big-box store impersonal service.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Computer Services",
+        content: `**Repair**
+- Desktop repair
+- Laptop repair
+- Screen replacement
+- Keyboard replacement
+- Power issues
+
+**Software**
+- Virus and malware removal
+- Operating system repair
+- Software installation
+- Data recovery
+- System optimization
+
+**Upgrades**
+- Memory upgrades
+- Hard drive/SSD upgrades
+- Graphics cards
+- New system setup`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does computer repair cost?",
+        answer: "Diagnostic fees run $30-$75. Virus removal costs $75-$150. Hardware repairs vary by parts needed—screen replacement runs $100-$300. Data recovery starts at $100 and goes up significantly for difficult recoveries. Get an estimate before authorizing repairs."
+      },
+      {
+        question: "Should I repair or replace my old computer?",
+        answer: "Generally, if repair costs exceed 50% of replacement cost, replace it. Computers over 5-7 years old often aren't worth major repairs. However, simple upgrades like adding RAM or an SSD can extend useful life economically. Discuss options with your technician."
+      },
+      {
+        question: "How can I protect my computer from viruses?",
+        answer: "Use reputable antivirus software, keep your operating system updated, be cautious with email attachments and downloads, use strong unique passwords, and back up important data regularly. Avoid clicking suspicious links. Common sense prevents most infections."
+      }
+    ],
+    relatedServices: ["it-support", "data-recovery", "web-design"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "it-support",
+    title: "IT Support",
+    category: "professional_services",
+    subcategory: "technology",
+    layout: 2,
+    icon: "Server",
+    iconColor: "slate",
+    metaTitle: "IT Support in Navarro County, TX | Managed IT Services Corsicana",
+    metaDescription: "IT support services in Corsicana and Navarro County. Managed IT, network support, and technology services for businesses.",
+    metaKeywords: "IT support Corsicana, managed IT Navarro County, tech support, network services",
+    heroContent: `Modern businesses depend on technology, and IT problems cost productivity. IT support services keep your systems running, your data secure, and your employees productive.`,
+    localContext: `Small and medium businesses in Navarro County often can't justify full-time IT staff. Local IT support providers offer the expertise of a full IT department at a fraction of the cost.`,
+    sections: [
+      {
+        type: "services",
+        heading: "IT Services",
+        content: `**Support Services**
+- Help desk support
+- On-site support
+- Remote support
+- User training
+- System monitoring
+
+**Infrastructure**
+- Network setup and maintenance
+- Server management
+- Cloud services
+- Email hosting
+- Backup solutions
+
+**Security**
+- Cybersecurity
+- Firewall management
+- Antivirus management
+- Security assessments
+- Compliance support`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does IT support cost for a small business?",
+        answer: "Managed IT services typically run $100-$200 per user per month for comprehensive support. Break-fix (pay as needed) charges $75-$150 per hour. For businesses with 5+ employees, managed services usually provide better value and response than hourly support."
+      },
+      {
+        question: "What's included in managed IT services?",
+        answer: "Typical managed services include: monitoring of systems, regular maintenance, help desk support, security updates, backup verification, and vendor coordination. Advanced plans add cybersecurity, compliance support, and strategic planning. Compare providers' offerings carefully."
+      },
+      {
+        question: "Can IT support help with cloud migration?",
+        answer: "Yes, IT providers help businesses move to cloud services like Microsoft 365, Google Workspace, or cloud-based industry applications. They plan the migration, transfer data, train users, and provide ongoing support. Cloud services often reduce complexity while improving capabilities."
+      }
+    ],
+    relatedServices: ["computer-repair", "web-design", "cybersecurity"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "web-design",
+    title: "Web Design",
+    category: "professional_services",
+    subcategory: "technology",
+    layout: 3,
+    icon: "Layout",
+    iconColor: "violet",
+    metaTitle: "Web Design in Navarro County, TX | Website Development Corsicana",
+    metaDescription: "Web design services in Corsicana and Navarro County. Website design, development, and maintenance for local businesses.",
+    metaKeywords: "web design Corsicana, website development Navarro County, web developer, business website",
+    heroContent: `Your website is often the first impression customers have of your business. Professional web design creates sites that look great, work smoothly, and help you reach your goals.`,
+    localContext: `Navarro County businesses compete for customers online as well as locally. A professional website establishes credibility and helps customers find you. Local designers understand the market and provide personal service.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Web Services",
+        content: `**Design**
+- Custom website design
+- Template customization
+- Responsive design
+- Branding integration
+- User experience design
+
+**Development**
+- WordPress sites
+- E-commerce sites
+- Custom applications
+- Content management
+- Third-party integrations
+
+**Ongoing**
+- Website maintenance
+- Content updates
+- Security updates
+- Hosting management
+- Analytics review`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a business website cost?",
+        answer: "Simple business websites start at $1,000-$3,000. Custom designs with more features run $3,000-$10,000. E-commerce sites range from $5,000-$25,000+. Ongoing costs include hosting ($10-$50/month) and maintenance ($50-$200/month). Get detailed quotes with scope definitions."
+      },
+      {
+        question: "How long does it take to build a website?",
+        answer: "Simple sites take 2-4 weeks. Custom designs take 6-12 weeks. E-commerce and complex sites take 3-6 months. Timeline depends on how quickly you provide content and feedback. Rushing usually means compromises. Plan adequate time for quality results."
+      },
+      {
+        question: "Do I need to provide content for my website?",
+        answer: "You know your business best, so your input is essential. However, web designers can help with structure and may offer copywriting services. Professional photos make a big difference—consider hiring a photographer. Plan content development alongside design."
+      }
+    ],
+    relatedServices: ["marketing-agency", "seo-services", "photographer"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "marketing-agency",
+    title: "Marketing Agency",
+    category: "professional_services",
+    subcategory: "technology",
+    layout: 4,
+    icon: "Megaphone",
+    iconColor: "orange",
+    metaTitle: "Marketing Agency in Navarro County, TX | Digital Marketing Corsicana",
+    metaDescription: "Marketing services in Corsicana and Navarro County. Digital marketing, advertising, and marketing strategy for local businesses.",
+    metaKeywords: "marketing agency Corsicana, digital marketing Navarro County, advertising, marketing strategy",
+    heroContent: `Marketing connects your business with customers. Marketing agencies develop strategies, create campaigns, and execute tactics to grow your business and build your brand.`,
+    localContext: `Navarro County businesses compete locally and online. Marketing agencies help develop effective strategies, from social media to traditional advertising, tailored to reach your target customers.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Marketing Services",
+        content: `**Strategy**
+- Marketing strategy
+- Brand development
+- Market research
+- Competitor analysis
+- Campaign planning
+
+**Digital Marketing**
+- Social media marketing
+- Email marketing
+- Content marketing
+- Pay-per-click advertising
+- Remarketing
+
+**Traditional**
+- Print advertising
+- Direct mail
+- Radio/TV advertising
+- Event marketing
+- Public relations`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do marketing services cost?",
+        answer: "Marketing budgets vary widely. Small businesses often start with $500-$2,000/month for managed marketing. Full-service agency relationships run $3,000-$10,000+ monthly. Project-based work (campaigns, launches) is quoted individually. Marketing is an investment—measure results against spending."
+      },
+      {
+        question: "What marketing should a small business do?",
+        answer: "Start with a solid website and Google Business Profile. Maintain consistent social media presence. Collect and respond to reviews. Email marketing reaches existing customers effectively. Paid advertising (Google, Facebook) can target specific audiences. Build from these fundamentals."
+      },
+      {
+        question: "How do I measure marketing success?",
+        answer: "Define clear goals: website traffic, leads, sales, brand awareness. Track metrics like website visits, conversion rates, cost per lead, and return on ad spend. Good agencies provide regular reporting. Marketing takes time—evaluate trends over months, not days."
+      }
+    ],
+    relatedServices: ["web-design", "seo-services", "social-media-manager"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "seo-services",
+    title: "SEO Services",
+    category: "professional_services",
+    subcategory: "technology",
+    layout: 5,
+    icon: "TrendingUp",
+    iconColor: "green",
+    metaTitle: "SEO Services in Navarro County, TX | Search Engine Optimization Corsicana",
+    metaDescription: "SEO services in Corsicana and Navarro County. Search engine optimization, local SEO, and website ranking improvement.",
+    metaKeywords: "SEO Corsicana, SEO services Navarro County, search engine optimization, local SEO",
+    heroContent: `SEO (Search Engine Optimization) helps your website appear in search results when potential customers look for what you offer. Better rankings mean more visibility and more business.`,
+    localContext: `Local SEO is crucial for Navarro County businesses. When someone searches "plumber near me" or "restaurant in Corsicana," you want to appear prominently. SEO services optimize your online presence for local searches.`,
+    sections: [
+      {
+        type: "services",
+        heading: "SEO Services",
+        content: `**Local SEO**
+- Google Business Profile optimization
+- Local citation building
+- Review management
+- Local keyword targeting
+- Maps optimization
+
+**On-Page SEO**
+- Keyword research
+- Content optimization
+- Technical SEO
+- Page speed optimization
+- Mobile optimization
+
+**Off-Page SEO**
+- Link building
+- Brand mentions
+- Social signals
+- Directory listings
+- Competitor analysis`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does SEO cost?",
+        answer: "Local SEO packages typically run $500-$1,500 per month. Comprehensive SEO for competitive markets costs $1,500-$5,000+ monthly. One-time optimization projects run $1,000-$5,000. Be wary of extremely cheap SEO—quality work requires consistent effort. Results take 3-6+ months."
+      },
+      {
+        question: "How long does SEO take to work?",
+        answer: "SEO is a long-term strategy. Initial improvements may appear in 3-6 months. Significant results typically take 6-12 months. Competitive industries take longer. SEO builds over time—ongoing work maintains and improves rankings. Quick-fix promises are usually scams."
+      },
+      {
+        question: "Is SEO worth it for small businesses?",
+        answer: "For businesses that customers find via search (most local services), SEO is essential. Google Business Profile optimization is free and highly valuable. Paid SEO services make sense when organic traffic could significantly impact revenue. Calculate potential return on investment."
+      }
+    ],
+    relatedServices: ["web-design", "marketing-agency", "social-media-manager"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "social-media-manager",
+    title: "Social Media Management",
+    category: "professional_services",
+    subcategory: "technology",
+    layout: 1,
+    icon: "Share2",
+    iconColor: "blue",
+    metaTitle: "Social Media Management in Navarro County, TX | Social Media Marketing Corsicana",
+    metaDescription: "Social media management in Corsicana and Navarro County. Content creation, posting, and social media marketing for businesses.",
+    metaKeywords: "social media manager Corsicana, social media marketing Navarro County, Facebook marketing, Instagram",
+    heroContent: `Social media connects businesses with customers where they spend time online. Professional management ensures consistent, engaging content that builds your brand and drives results.`,
+    localContext: `Navarro County residents use social media to discover local businesses, read reviews, and stay connected. Effective social media presence helps businesses build community relationships and attract customers.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Social Media Services",
+        content: `**Management**
+- Account setup and optimization
+- Content creation
+- Post scheduling
+- Community management
+- Comment/message response
+
+**Platforms**
+- Facebook
+- Instagram
+- LinkedIn
+- Twitter/X
+- TikTok
+
+**Advertising**
+- Social media ads
+- Audience targeting
+- Campaign management
+- Performance tracking
+- Retargeting`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does social media management cost?",
+        answer: "Basic management (content creation and posting) runs $300-$800 per month. Full-service management including engagement and advertising runs $800-$2,500+ monthly. Advertising budgets are separate from management fees. Compare what's included across providers."
+      },
+      {
+        question: "Which social media platforms should my business use?",
+        answer: "It depends on your customers. Facebook works for most local businesses. Instagram suits visual businesses (restaurants, retail). LinkedIn fits B2B services. Focus on 2-3 platforms and do them well rather than spreading thin across all platforms."
+      },
+      {
+        question: "How often should businesses post on social media?",
+        answer: "Quality matters more than quantity, but consistency is important. Most businesses should post 3-5 times per week on main platforms. Engagement (responding to comments and messages) should happen daily. A content calendar helps maintain consistency."
+      }
+    ],
+    relatedServices: ["marketing-agency", "web-design", "photographer"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "business-consultant",
+    title: "Business Consultant",
+    category: "professional_services",
+    subcategory: "consulting",
+    layout: 2,
+    icon: "Briefcase",
+    iconColor: "slate",
+    metaTitle: "Business Consultant in Navarro County, TX | Business Consulting Corsicana",
+    metaDescription: "Business consulting services in Corsicana and Navarro County. Business strategy, operations improvement, and growth consulting.",
+    metaKeywords: "business consultant Corsicana, business consulting Navarro County, business strategy, growth consulting",
+    heroContent: `Business consultants bring outside expertise to help companies solve problems, improve operations, and grow. Whether starting up or scaling, consultants provide objective perspective and specialized knowledge.`,
+    localContext: `Navarro County's small business community benefits from consulting expertise in areas like operations, marketing, and finance. Consultants help businesses compete effectively and navigate challenges.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Consulting Services",
+        content: `**Strategy**
+- Business planning
+- Growth strategy
+- Market entry
+- Competitive analysis
+- Exit planning
+
+**Operations**
+- Process improvement
+- Efficiency analysis
+- Systems implementation
+- Cost reduction
+- Quality management
+
+**Specialty**
+- Startup consulting
+- Turnaround consulting
+- M&A advisory
+- Succession planning
+- Franchise consulting`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do business consultants charge?",
+        answer: "Independent consultants charge $100-$300 per hour. Specialized consultants and firms charge $200-$500+. Project-based fees vary widely by scope. Retainer arrangements provide ongoing access. Value should exceed cost—measure consulting ROI against business improvement."
+      },
+      {
+        question: "When should a business hire a consultant?",
+        answer: "Consider consulting when: facing a challenge outside your expertise, needing objective outside perspective, planning major changes, experiencing problems you can't solve, or wanting to accelerate growth. Consultants bring focused expertise without permanent hire costs."
+      },
+      {
+        question: "How do I choose a business consultant?",
+        answer: "Look for relevant industry experience and verifiable track record. Check references and case studies. Ensure chemistry and communication fit. Clarify deliverables and success metrics upfront. Be wary of consultants who promise guaranteed results."
+      }
+    ],
+    relatedServices: ["accountant", "financial-advisor", "marketing-agency"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "hr-consultant",
+    title: "HR Consulting",
+    category: "professional_services",
+    subcategory: "consulting",
+    layout: 3,
+    icon: "Users",
+    iconColor: "violet",
+    metaTitle: "HR Consulting in Navarro County, TX | Human Resources Corsicana",
+    metaDescription: "HR consulting services in Corsicana and Navarro County. Employee handbooks, compliance, and human resources support for businesses.",
+    metaKeywords: "HR consultant Corsicana, human resources Navarro County, employee handbook, HR compliance",
+    heroContent: `Human resources touches every employee relationship—hiring, policies, compliance, and culture. HR consultants help businesses build proper HR foundations without the cost of full-time HR staff.`,
+    localContext: `Small businesses in Navarro County often lack dedicated HR professionals but still face employment law requirements and people challenges. HR consultants provide expertise on-demand.`,
+    sections: [
+      {
+        type: "services",
+        heading: "HR Services",
+        content: `**Policy Development**
+- Employee handbooks
+- Policy creation
+- Procedure documentation
+- Job descriptions
+- Compliance audits
+
+**Talent Management**
+- Recruiting assistance
+- Interview process design
+- Onboarding programs
+- Performance management
+- Training development
+
+**Employment Law**
+- Compliance guidance
+- Termination assistance
+- Investigation support
+- EEOC matters
+- Workers' comp guidance`
+      }
+    ],
+    faqs: [
+      {
+        question: "Does my small business need HR help?",
+        answer: "If you have employees, you have HR needs. Texas employers face wage and hour laws, anti-discrimination requirements, and documentation needs. An employee handbook protects you legally. HR consulting helps establish foundations and address issues as they arise."
+      },
+      {
+        question: "How much does HR consulting cost?",
+        answer: "HR consultants typically charge $100-$200 per hour. Project fees for handbooks run $1,500-$5,000. Ongoing retainers provide regular access for $500-$2,000+ monthly depending on company size. Compare to the cost of HR mistakes and lawsuits."
+      },
+      {
+        question: "What should an employee handbook include?",
+        answer: "Essential elements include: employment policies (at-will statement, equal opportunity), compensation and benefits, work schedules and attendance, conduct expectations, safety policies, and leave policies. Texas-specific requirements apply. Have an attorney or HR professional review it."
+      }
+    ],
+    relatedServices: ["business-consultant", "attorney", "payroll-service"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "career-coach",
+    title: "Career Coaching",
+    category: "professional_services",
+    subcategory: "consulting",
+    layout: 4,
+    icon: "Target",
+    iconColor: "amber",
+    metaTitle: "Career Coach in Navarro County, TX | Career Counseling Corsicana",
+    metaDescription: "Career coaching services in Corsicana and Navarro County. Resume writing, interview prep, and career transition support.",
+    metaKeywords: "career coach Corsicana, career counseling Navarro County, resume writing, interview coaching",
+    heroContent: `Career coaches help individuals navigate job searches, career transitions, and professional development. From resume writing to interview preparation to career strategy, coaches provide guidance and accountability.`,
+    localContext: `Whether seeking new opportunities in Navarro County or exploring careers in the DFW metro, career coaching helps job seekers present their best selves and navigate the modern job market effectively.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Career Services",
+        content: `**Job Search**
+- Resume writing
+- Cover letter development
+- LinkedIn optimization
+- Job search strategy
+- Application coaching
+
+**Interview Prep**
+- Mock interviews
+- Question preparation
+- Salary negotiation
+- Presentation skills
+- Follow-up strategy
+
+**Career Development**
+- Career assessment
+- Skills analysis
+- Career planning
+- Professional development
+- Promotion strategy`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does career coaching cost?",
+        answer: "Resume writing services run $100-$500 for professional resumes. Coaching sessions cost $100-$300 per hour. Interview prep packages run $300-$800. Comprehensive career transition coaching costs $1,000-$5,000+. Investment often pays off quickly in better job outcomes."
+      },
+      {
+        question: "Is career coaching worth it?",
+        answer: "For those struggling with job searches, facing career transitions, or seeking advancement, coaching provides valuable outside perspective and expertise. A professional resume alone can significantly improve response rates. Calculate potential salary improvement against coaching cost."
+      },
+      {
+        question: "What can I expect from career coaching?",
+        answer: "Expect honest assessment of your materials and approach, guidance on strategy, skill-building exercises, accountability for job search activities, and support through the process. Good coaches ask questions and draw out your goals rather than just telling you what to do."
+      }
+    ],
+    relatedServices: ["life-coach", "business-consultant", "hr-consultant"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "life-coach",
+    title: "Life Coaching",
+    category: "professional_services",
+    subcategory: "consulting",
+    layout: 5,
+    icon: "Compass",
+    iconColor: "green",
+    metaTitle: "Life Coach in Navarro County, TX | Personal Coaching Corsicana",
+    metaDescription: "Life coaching services in Corsicana and Navarro County. Personal development, goal setting, and life transition coaching.",
+    metaKeywords: "life coach Corsicana, life coaching Navarro County, personal development, goal setting",
+    heroContent: `Life coaches help individuals clarify goals, overcome obstacles, and create fulfilling lives. Through guided conversation and accountability, coaches support positive change in various life areas.`,
+    localContext: `Life coaching provides personal support for Navarro County residents navigating transitions, seeking balance, or working toward important goals. Coaches work with clients locally or via video conferencing.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Coaching Services",
+        content: `**Personal Development**
+- Goal setting
+- Time management
+- Productivity
+- Decision making
+- Confidence building
+
+**Life Transitions**
+- Career change
+- Relationship changes
+- Retirement planning
+- Relocation
+- Life after loss
+
+**Balance & Wellness**
+- Work-life balance
+- Stress management
+- Health goals
+- Relationship improvement
+- Purpose and meaning`
+      }
+    ],
+    faqs: [
+      {
+        question: "How is life coaching different from therapy?",
+        answer: "Therapy addresses mental health conditions and past issues, typically requiring licensed clinicians. Coaching focuses on present goals and future possibilities with generally healthy individuals. Coaches can't treat mental health conditions. If you need therapy, seek a licensed therapist."
+      },
+      {
+        question: "How much does life coaching cost?",
+        answer: "Life coaching sessions typically run $75-$200 per hour. Package rates offer savings ($300-$500 for 4 sessions). Executive and specialized coaching costs more. Free discovery sessions help determine fit before committing. Consider results value, not just session cost."
+      },
+      {
+        question: "How long does life coaching take?",
+        answer: "Coaching engagements typically run 3-6 months for meaningful change, meeting weekly or bi-weekly. Some goals require longer commitments. Short-term coaching can address specific challenges. Duration depends on your goals, commitment, and pace of progress."
+      }
+    ],
+    relatedServices: ["career-coach", "therapist", "personal-trainer"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // MORE HEALTH & WELLNESS
+  // ============================================
+  {
+    slug: "oral-surgeon",
+    title: "Oral Surgeon",
+    category: "health_wellness",
+    subcategory: "dental",
+    layout: 1,
+    icon: "Stethoscope",
+    iconColor: "blue",
+    metaTitle: "Oral Surgeon in Navarro County, TX | Oral Surgery Corsicana",
+    metaDescription: "Oral surgery services in Corsicana and Navarro County. Wisdom teeth extraction, dental implants, and oral surgical procedures.",
+    metaKeywords: "oral surgeon Corsicana, oral surgery Navarro County, wisdom teeth, dental implants, tooth extraction",
+    heroContent: `Oral surgeons perform surgical procedures of the mouth, jaw, and face. From wisdom teeth removal to dental implants to corrective jaw surgery, they handle cases beyond general dentistry.`,
+    localContext: `For complex extractions, implants, and surgical procedures, Navarro County residents can access oral surgery services locally or may be referred to specialists in the DFW area for complex cases.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Oral Surgery Services",
+        content: `**Extractions**
+- Wisdom teeth removal
+- Impacted teeth
+- Complex extractions
+- Pre-orthodontic extractions
+
+**Implants**
+- Dental implants
+- Bone grafting
+- Sinus lifts
+- All-on-4 procedures
+
+**Corrective**
+- Jaw surgery
+- TMJ treatment
+- Facial trauma
+- Pathology removal`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does wisdom teeth removal cost?",
+        answer: "Simple extraction costs $75-$200 per tooth. Impacted wisdom teeth cost $225-$600 per tooth. Full removal of all four impacted wisdom teeth typically runs $1,000-$3,000. Sedation/anesthesia adds cost. Dental insurance often covers medically necessary extractions partially."
+      },
+      {
+        question: "Will I be asleep during oral surgery?",
+        answer: "Options include local anesthesia (numb but awake), sedation (relaxed/drowsy), or general anesthesia (asleep). Your surgeon recommends appropriate anesthesia based on the procedure and your comfort level. Sedation and general anesthesia require a driver home."
+      },
+      {
+        question: "How long is recovery from wisdom teeth removal?",
+        answer: "Most people return to normal activities in 3-5 days. Complete healing takes 1-2 weeks. Swelling peaks at 48-72 hours and gradually subsides. Follow post-operative instructions carefully—dry socket is preventable but painful. Stock up on soft foods beforehand."
+      }
+    ],
+    relatedServices: ["dentist", "orthodontist", "cosmetic-dentist"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "pediatric-dentist",
+    title: "Pediatric Dentist",
+    category: "health_wellness",
+    subcategory: "dental",
+    layout: 2,
+    icon: "Smile",
+    iconColor: "pink",
+    metaTitle: "Pediatric Dentist in Navarro County, TX | Kids Dentist Corsicana",
+    metaDescription: "Pediatric dental services in Corsicana and Navarro County. Children's dentistry, first dental visits, and dental care for kids.",
+    metaKeywords: "pediatric dentist Corsicana, kids dentist Navarro County, children's dentistry, baby teeth",
+    heroContent: `Pediatric dentists specialize in dental care for children from infancy through adolescence. Their training, office environment, and approach are designed to make dental visits positive experiences for young patients.`,
+    localContext: `Establishing good dental habits early sets children up for lifetime oral health. Navarro County pediatric dental practices create welcoming environments that help kids feel comfortable with dental care.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Pediatric Dental Services",
+        content: `**Preventive**
+- First dental visits
+- Cleanings and exams
+- Fluoride treatments
+- Dental sealants
+- Oral hygiene education
+
+**Treatment**
+- Cavity treatment
+- Tooth-colored fillings
+- Pulp therapy
+- Extractions
+- Space maintainers
+
+**Special Needs**
+- Behavior management
+- Sedation dentistry
+- Special needs patients
+- Dental emergencies`
+      }
+    ],
+    faqs: [
+      {
+        question: "When should my child first see a dentist?",
+        answer: "The American Academy of Pediatric Dentistry recommends a first visit by age 1 or within 6 months of the first tooth. Early visits establish a dental home, catch problems early, and build comfort with dental care before treatment is needed."
+      },
+      {
+        question: "Why see a pediatric dentist instead of a general dentist?",
+        answer: "Pediatric dentists complete additional training in child development and behavior management. Their offices are designed for children. They're experts in baby teeth, growth issues, and making dental care positive. For anxious children or special needs, their expertise is especially valuable."
+      },
+      {
+        question: "Are dental sealants worth it?",
+        answer: "Yes—sealants reduce cavities in molars by up to 80%. They're painless plastic coatings applied to chewing surfaces where decay commonly starts. Cost is minimal compared to filling cavities later. Most insurance covers sealants for children."
+      }
+    ],
+    relatedServices: ["dentist", "orthodontist", "pediatrician"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "pharmacy",
+    title: "Pharmacy",
+    category: "health_wellness",
+    subcategory: "medical",
+    layout: 3,
+    icon: "Pill",
+    iconColor: "green",
+    metaTitle: "Pharmacy in Navarro County, TX | Prescription Services Corsicana",
+    metaDescription: "Pharmacy services in Corsicana and Navarro County. Prescription filling, medication counseling, and pharmacy services.",
+    metaKeywords: "pharmacy Corsicana, drugstore Navarro County, prescription, medication, pharmacist",
+    heroContent: `Pharmacies do more than fill prescriptions—pharmacists are medication experts who ensure safe, effective therapy. From prescription filling to immunizations to medication counseling, pharmacies support community health.`,
+    localContext: `Navarro County residents have access to both chain pharmacies and independent pharmacies. Independent pharmacies often provide more personalized service, while chains offer convenience and hours.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Pharmacy Services",
+        content: `**Prescriptions**
+- Prescription filling
+- Refill services
+- Automatic refills
+- Mail/delivery service
+- Generic substitution
+
+**Clinical Services**
+- Medication counseling
+- Drug interaction review
+- Immunizations
+- Health screenings
+- MTM services
+
+**Additional**
+- OTC medications
+- Medical equipment
+- Compounding (some)
+- Pet medications
+- Insurance coordination`
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I transfer a prescription to a new pharmacy?",
+        answer: "Simply provide the new pharmacy with your prescription information and they'll handle the transfer. Bring your prescription bottle or know the prescribing doctor and medication details. Most transfers complete within hours. Some controlled substances cannot be transferred."
+      },
+      {
+        question: "Why is my prescription so expensive?",
+        answer: "Drug prices vary significantly by pharmacy and insurance coverage. Ask your pharmacist about generic alternatives, manufacturer coupons, or discount programs like GoodRx. Some medications have assistance programs. Independent pharmacies may offer competitive cash prices."
+      },
+      {
+        question: "Can pharmacists give vaccinations?",
+        answer: "Yes, Texas pharmacists can administer many vaccines including flu, COVID, shingles, pneumonia, and others. Walk-in vaccination is available at many pharmacies. Check with your pharmacy about available vaccines and any appointment requirements."
+      }
+    ],
+    relatedServices: ["family-doctor", "urgent-care", "home-health-care"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "acupuncture",
+    title: "Acupuncture",
+    category: "health_wellness",
+    subcategory: "specialist",
+    layout: 4,
+    icon: "Activity",
+    iconColor: "green",
+    metaTitle: "Acupuncture in Navarro County, TX | Acupuncturist Corsicana",
+    metaDescription: "Acupuncture services in Corsicana and Navarro County. Traditional Chinese medicine, pain management, and holistic health care.",
+    metaKeywords: "acupuncture Corsicana, acupuncturist Navarro County, Chinese medicine, pain relief",
+    heroContent: `Acupuncture is an ancient healing practice that uses thin needles at specific points to promote healing and relieve pain. Many Navarro County residents find relief from various conditions through this complementary therapy.`,
+    localContext: `As interest in complementary medicine grows, acupuncture has become more accessible in the Navarro County area. Licensed acupuncturists provide treatments for pain, stress, and various health conditions.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Acupuncture Services",
+        content: `**Conditions Treated**
+- Chronic pain
+- Back and neck pain
+- Headaches and migraines
+- Arthritis
+- Stress and anxiety
+
+**Techniques**
+- Traditional acupuncture
+- Electroacupuncture
+- Cupping therapy
+- Moxibustion
+- Herbal consultation
+
+**Wellness**
+- Stress reduction
+- Sleep improvement
+- Digestive health
+- Fertility support`
+      }
+    ],
+    faqs: [
+      {
+        question: "Does acupuncture hurt?",
+        answer: "Acupuncture needles are extremely thin—much finer than medical needles. Most people feel little to no pain during insertion. Some feel a mild ache or tingling during treatment. Many find sessions deeply relaxing."
+      },
+      {
+        question: "How much does acupuncture cost?",
+        answer: "Initial consultations run $75-$150, including first treatment. Follow-up sessions cost $50-$100. Package rates often offer savings. Some health insurance covers acupuncture—check your policy. Treatment frequency depends on your condition."
+      },
+      {
+        question: "How many acupuncture sessions will I need?",
+        answer: "Acute conditions may improve in 3-6 sessions. Chronic conditions often require 8-12 sessions or more. Your acupuncturist will recommend a treatment plan based on your goals. Some people use acupuncture for ongoing maintenance."
+      }
+    ],
+    relatedServices: ["chiropractor", "massage-therapist", "physical-therapist"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "audiologist",
+    title: "Audiologist",
+    category: "health_wellness",
+    subcategory: "specialist",
+    layout: 5,
+    icon: "Ear",
+    iconColor: "blue",
+    metaTitle: "Audiologist in Navarro County, TX | Hearing Test Corsicana",
+    metaDescription: "Audiology services in Corsicana and Navarro County. Hearing tests, hearing aids, and hearing loss treatment.",
+    metaKeywords: "audiologist Corsicana, hearing test Navarro County, hearing aids, hearing loss",
+    heroContent: `Audiologists are hearing healthcare professionals who evaluate, diagnose, and treat hearing and balance disorders. From hearing tests to hearing aid fitting, they help people communicate and live better.`,
+    localContext: `Hearing loss affects people of all ages in Navarro County. Audiologists provide comprehensive hearing care, helping residents maintain connection with family and community through better hearing.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Audiology Services",
+        content: `**Evaluation**
+- Comprehensive hearing tests
+- Pediatric hearing evaluation
+- Balance testing
+- Tinnitus assessment
+- Industrial hearing testing
+
+**Treatment**
+- Hearing aid fitting
+- Cochlear implant services
+- Assistive listening devices
+- Tinnitus management
+- Custom ear protection
+
+**Support**
+- Hearing aid repair
+- Hearing aid programming
+- Aural rehabilitation
+- Communication strategies`
+      }
+    ],
+    faqs: [
+      {
+        question: "When should I get a hearing test?",
+        answer: "Get tested if you: frequently ask people to repeat themselves, have trouble following conversations in noise, turn up TV volume higher than others prefer, or experience ringing in your ears. Adults should have baseline testing at age 50, then periodic checks."
+      },
+      {
+        question: "How much do hearing aids cost?",
+        answer: "Hearing aids range from $1,000-$4,000 per ear. Price varies by technology level and features. Many audiologists include fitting, adjustments, and follow-up care in the price. Some insurance covers hearing aids; Medicare typically doesn't. Ask about financing options."
+      },
+      {
+        question: "Will hearing aids restore normal hearing?",
+        answer: "Hearing aids amplify sound but don't restore normal hearing. Modern hearing aids are sophisticated, adjusting automatically to environments and filtering noise. Results depend on type and degree of hearing loss. Realistic expectations lead to better satisfaction."
+      }
+    ],
+    relatedServices: ["optometrist", "family-doctor", "pediatrician"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "podiatrist",
+    title: "Podiatrist",
+    category: "health_wellness",
+    subcategory: "specialist",
+    layout: 1,
+    icon: "Footprints",
+    iconColor: "slate",
+    metaTitle: "Podiatrist in Navarro County, TX | Foot Doctor Corsicana",
+    metaDescription: "Podiatry services in Corsicana and Navarro County. Foot and ankle care, diabetic foot care, and foot surgery.",
+    metaKeywords: "podiatrist Corsicana, foot doctor Navarro County, foot pain, diabetic foot care",
+    heroContent: `Podiatrists specialize in foot and ankle health. From heel pain to diabetic foot care to surgical treatment, they address conditions affecting mobility and quality of life.`,
+    localContext: `Foot problems affect people throughout Navarro County—from farmers on their feet all day to diabetics requiring specialized care. Podiatrists provide essential treatment to keep people active.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Podiatry Services",
+        content: `**Common Conditions**
+- Heel pain/plantar fasciitis
+- Bunions and hammertoes
+- Ingrown toenails
+- Fungal nails
+- Diabetic foot problems
+
+**Treatment**
+- Custom orthotics
+- Wound care
+- Foot surgery
+- Sports injuries
+- Nail care
+
+**Specialty**
+- Diabetic foot exams
+- Wound management
+- Ankle problems
+- Pediatric foot care`
+      }
+    ],
+    faqs: [
+      {
+        question: "When should I see a podiatrist?",
+        answer: "See a podiatrist for: persistent foot or ankle pain, changes in nail or skin color, numbness or tingling, heel pain, bunions or hammertoes, diabetic foot concerns, or sports injuries. Don't ignore foot problems—they can worsen and affect mobility."
+      },
+      {
+        question: "Are custom orthotics worth the cost?",
+        answer: "For many conditions, custom orthotics provide significant relief. They cost $300-$600 but last several years. They're especially valuable for plantar fasciitis, flat feet, and diabetic foot protection. Over-the-counter inserts work for minor issues."
+      },
+      {
+        question: "How often should diabetics see a podiatrist?",
+        answer: "Diabetics should have foot exams at least annually—more often if they have neuropathy, circulation problems, or history of foot ulcers. Diabetic foot problems can become serious quickly. Regular care prevents complications."
+      }
+    ],
+    relatedServices: ["family-doctor", "physical-therapist", "chiropractor"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "psychiatrist",
+    title: "Psychiatrist",
+    category: "health_wellness",
+    subcategory: "mental_health",
+    layout: 2,
+    icon: "Brain",
+    iconColor: "violet",
+    metaTitle: "Psychiatrist in Navarro County, TX | Mental Health Doctor Corsicana",
+    metaDescription: "Psychiatric services in Corsicana and Navarro County. Medication management, mental health treatment, and psychiatric evaluation.",
+    metaKeywords: "psychiatrist Corsicana, mental health doctor Navarro County, psychiatric medication, mental illness",
+    heroContent: `Psychiatrists are medical doctors specializing in mental health. They diagnose conditions, prescribe medications, and provide comprehensive psychiatric care for conditions affecting mental wellness.`,
+    localContext: `Mental health care access is growing in Navarro County. Psychiatrists provide essential treatment for depression, anxiety, bipolar disorder, and other conditions, often working with therapists for comprehensive care.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Psychiatric Services",
+        content: `**Evaluation**
+- Psychiatric assessment
+- Diagnostic evaluation
+- Medication evaluation
+- Treatment planning
+- Second opinions
+
+**Treatment**
+- Medication management
+- Medication adjustment
+- Treatment monitoring
+- Side effect management
+- Crisis intervention
+
+**Conditions**
+- Depression
+- Anxiety disorders
+- Bipolar disorder
+- ADHD
+- Psychotic disorders`
+      }
+    ],
+    faqs: [
+      {
+        question: "What's the difference between a psychiatrist and a therapist?",
+        answer: "Psychiatrists are medical doctors who can prescribe medications. They focus on biological aspects of mental illness and medication management. Therapists/counselors provide talk therapy but can't prescribe medications. Many patients benefit from both working together."
+      },
+      {
+        question: "How much does psychiatric care cost?",
+        answer: "Initial psychiatric evaluations run $200-$500. Follow-up medication management visits cost $100-$300. Insurance often covers psychiatric care with copays. Some psychiatrists don't accept insurance—ask about payment before scheduling."
+      },
+      {
+        question: "How long does it take for psychiatric medications to work?",
+        answer: "Antidepressants typically take 4-6 weeks for full effect. Anti-anxiety medications may work faster. Mood stabilizers require careful titration. Your psychiatrist monitors response and adjusts treatment. Don't stop medications without guidance."
+      }
+    ],
+    relatedServices: ["therapist", "addiction-counselor", "family-doctor"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "addiction-counselor",
+    title: "Addiction Counselor",
+    category: "health_wellness",
+    subcategory: "mental_health",
+    layout: 3,
+    icon: "Heart",
+    iconColor: "red",
+    metaTitle: "Addiction Counselor in Navarro County, TX | Substance Abuse Counseling Corsicana",
+    metaDescription: "Addiction counseling in Corsicana and Navarro County. Substance abuse treatment, recovery support, and addiction therapy.",
+    metaKeywords: "addiction counselor Corsicana, substance abuse Navarro County, drug counseling, alcohol treatment",
+    heroContent: `Addiction counselors provide specialized treatment for substance use disorders. They guide individuals through recovery with evidence-based therapies, support, and connections to resources.`,
+    localContext: `Substance use affects families throughout Navarro County. Addiction counselors provide confidential, compassionate support for those seeking recovery, as well as help for affected family members.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Addiction Services",
+        content: `**Treatment**
+- Substance abuse assessment
+- Individual counseling
+- Group therapy
+- Family counseling
+- Relapse prevention
+
+**Substances**
+- Alcohol
+- Opioids
+- Methamphetamine
+- Prescription drugs
+- Multiple substances
+
+**Support**
+- 12-step facilitation
+- Recovery planning
+- Aftercare coordination
+- Family support
+- Crisis intervention`
+      }
+    ],
+    faqs: [
+      {
+        question: "Is addiction treatment confidential?",
+        answer: "Yes, addiction treatment has strong confidentiality protections under federal law (42 CFR Part 2). Information cannot be disclosed without consent, even to family or employers. This protection exists to encourage people to seek help without fear."
+      },
+      {
+        question: "How much does addiction counseling cost?",
+        answer: "Individual sessions typically cost $75-$150. Intensive outpatient programs run $5,000-$15,000. Residential treatment costs significantly more. Many insurance plans cover addiction treatment. Sliding scale and low-cost options exist for those without insurance."
+      },
+      {
+        question: "What if someone won't go to treatment?",
+        answer: "You can't force recovery, but you can set boundaries, express concern, and avoid enabling. Consider professional intervention assistance. Al-Anon and other family support groups help loved ones cope regardless of whether the addicted person seeks help."
+      }
+    ],
+    relatedServices: ["therapist", "psychiatrist", "family-lawyer"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "marriage-counselor",
+    title: "Marriage Counselor",
+    category: "health_wellness",
+    subcategory: "mental_health",
+    layout: 4,
+    icon: "HeartHandshake",
+    iconColor: "pink",
+    metaTitle: "Marriage Counselor in Navarro County, TX | Couples Therapy Corsicana",
+    metaDescription: "Marriage counseling in Corsicana and Navarro County. Couples therapy, relationship counseling, and premarital counseling.",
+    metaKeywords: "marriage counselor Corsicana, couples therapy Navarro County, relationship counseling, premarital counseling",
+    heroContent: `Marriage counselors help couples improve communication, resolve conflicts, and strengthen relationships. Whether facing challenges or seeking enrichment, couples therapy provides tools for better partnership.`,
+    localContext: `Relationships face stresses everywhere, and Navarro County couples benefit from professional guidance during difficult times. Marriage counselors provide neutral ground for working through issues constructively.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Counseling Services",
+        content: `**Couples Services**
+- Marriage counseling
+- Relationship therapy
+- Premarital counseling
+- Communication coaching
+- Conflict resolution
+
+**Issues Addressed**
+- Communication problems
+- Trust and infidelity
+- Parenting disagreements
+- Intimacy concerns
+- Life transitions
+
+**Specialty**
+- Blended families
+- Separation counseling
+- Discernment counseling
+- Affair recovery`
+      }
+    ],
+    faqs: [
+      {
+        question: "When should couples seek counseling?",
+        answer: "Seek help when: communication has broken down, conflicts escalate repeatedly, trust has been damaged, you're considering separation, or you want to strengthen a good relationship. Earlier intervention is generally more effective than waiting until crisis."
+      },
+      {
+        question: "How much does marriage counseling cost?",
+        answer: "Sessions typically cost $100-$250 per hour. Insurance coverage varies—some plans cover couples therapy, others don't. Intensive weekend workshops may offer good value. Consider the cost of divorce when evaluating investment in your relationship."
+      },
+      {
+        question: "Do both partners need to attend?",
+        answer: "Couples therapy works best with both partners participating. However, individual sessions can help when one partner refuses. One person changing communication patterns can improve dynamics. Ultimately, both must be willing for lasting change."
+      }
+    ],
+    relatedServices: ["therapist", "family-lawyer", "life-coach"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "yoga-instructor",
+    title: "Yoga Instructor",
+    category: "health_wellness",
+    subcategory: "fitness",
+    layout: 5,
+    icon: "Flower2",
+    iconColor: "violet",
+    metaTitle: "Yoga Instructor in Navarro County, TX | Yoga Classes Corsicana",
+    metaDescription: "Yoga instruction in Corsicana and Navarro County. Yoga classes, private lessons, and yoga for all levels.",
+    metaKeywords: "yoga Corsicana, yoga instructor Navarro County, yoga classes, meditation",
+    heroContent: `Yoga combines physical postures, breathing techniques, and meditation for body and mind wellness. Yoga instructors guide practitioners through poses safely, making yoga accessible for all ages and fitness levels.`,
+    localContext: `Yoga studios and instructors in Navarro County offer various styles and class levels. Whether you're seeking stress relief, flexibility, strength, or spiritual practice, yoga provides benefits for mind and body.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Yoga Services",
+        content: `**Class Types**
+- Beginner yoga
+- Vinyasa flow
+- Gentle/restorative yoga
+- Hot yoga
+- Chair yoga
+
+**Instruction**
+- Group classes
+- Private lessons
+- Corporate yoga
+- Online classes
+- Workshops
+
+**Specialty**
+- Prenatal yoga
+- Kids yoga
+- Senior yoga
+- Yoga therapy`
+      }
+    ],
+    faqs: [
+      {
+        question: "I'm not flexible—can I do yoga?",
+        answer: "Absolutely! Yoga increases flexibility over time; you don't need to be flexible to start. Good instructors offer modifications for all levels. Start with beginner or gentle classes. Yoga is about your own practice, not comparison with others."
+      },
+      {
+        question: "How much do yoga classes cost?",
+        answer: "Drop-in classes run $12-$20. Class packages offer savings ($80-$150 for 10 classes). Monthly unlimited memberships cost $80-$150. Private lessons run $50-$100 per hour. Many studios offer intro specials for new students."
+      },
+      {
+        question: "How often should I practice yoga?",
+        answer: "Benefits come with consistent practice—2-3 times weekly is a good start. Daily practice brings more benefits but isn't necessary. Even once weekly provides value. Listen to your body and find a sustainable schedule."
+      }
+    ],
+    relatedServices: ["personal-trainer", "massage-therapist", "nutritionist"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "weight-loss-clinic",
+    title: "Weight Loss Clinic",
+    category: "health_wellness",
+    subcategory: "fitness",
+    layout: 1,
+    icon: "Scale",
+    iconColor: "green",
+    metaTitle: "Weight Loss Clinic in Navarro County, TX | Medical Weight Loss Corsicana",
+    metaDescription: "Weight loss services in Corsicana and Navarro County. Medical weight loss, diet programs, and weight management.",
+    metaKeywords: "weight loss clinic Corsicana, medical weight loss Navarro County, diet program, weight management",
+    heroContent: `Weight loss clinics provide medically supervised weight management programs. With professional guidance, nutrition planning, and accountability, they help people achieve and maintain healthy weight.`,
+    localContext: `Navarro County residents seeking weight loss support can find programs combining medical oversight with lifestyle changes. Medically supervised programs are especially valuable for those with health conditions.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Weight Loss Services",
+        content: `**Programs**
+- Medical weight loss
+- Physician-supervised programs
+- Meal replacement programs
+- Behavioral counseling
+- Maintenance programs
+
+**Medical Services**
+- Health assessments
+- Lab monitoring
+- Prescription medications
+- Vitamin injections
+- Body composition analysis
+
+**Support**
+- Nutritional counseling
+- Exercise guidance
+- Support groups
+- Progress tracking`
+      }
+    ],
+    faqs: [
+      {
+        question: "How is medical weight loss different from dieting?",
+        answer: "Medical weight loss includes physician oversight, lab monitoring, and sometimes prescription medications. Programs are personalized based on health conditions and metabolic factors. This supervision is especially important for significant weight loss or when health conditions are present."
+      },
+      {
+        question: "How much does medical weight loss cost?",
+        answer: "Programs typically cost $200-$500 per month, including visits, medications, and support. Some insurance covers weight loss treatment, especially with related health conditions. Compare total costs including any required supplements or meals."
+      },
+      {
+        question: "Are weight loss medications safe?",
+        answer: "FDA-approved weight loss medications are generally safe when prescribed appropriately and monitored by physicians. They're typically for those with BMI over 30 or 27 with weight-related health conditions. All medications have potential side effects—discuss risks and benefits with your doctor."
+      }
+    ],
+    relatedServices: ["nutritionist", "personal-trainer", "family-doctor"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "nursing-home",
+    title: "Nursing Home",
+    category: "health_wellness",
+    subcategory: "senior",
+    layout: 2,
+    icon: "Hospital",
+    iconColor: "blue",
+    metaTitle: "Nursing Home in Navarro County, TX | Skilled Nursing Corsicana",
+    metaDescription: "Nursing home care in Corsicana and Navarro County. Skilled nursing facilities, long-term care, and rehabilitation services.",
+    metaKeywords: "nursing home Corsicana, skilled nursing Navarro County, long term care, rehabilitation",
+    heroContent: `Nursing homes provide around-the-clock skilled nursing care for those who need medical attention beyond what can be provided at home. They offer both long-term care and short-term rehabilitation.`,
+    localContext: `Navarro County nursing facilities serve residents needing skilled nursing care, whether for rehabilitation after hospitalization or long-term care. Choosing the right facility is an important family decision.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Nursing Home Services",
+        content: `**Care Services**
+- 24-hour nursing care
+- Medication management
+- Wound care
+- IV therapy
+- Post-surgical care
+
+**Rehabilitation**
+- Physical therapy
+- Occupational therapy
+- Speech therapy
+- Cardiac rehabilitation
+- Stroke recovery
+
+**Support**
+- Meals and nutrition
+- Personal care
+- Social activities
+- Transportation
+- Family support`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does nursing home care cost?",
+        answer: "Nursing home care in Texas averages $4,000-$8,000 per month for shared rooms, more for private rooms. Medicare covers short-term rehabilitation after hospitalization. Medicaid covers long-term care for those who qualify. Long-term care insurance helps if purchased in advance."
+      },
+      {
+        question: "How do I choose a nursing home?",
+        answer: "Visit facilities in person, preferably multiple times at different hours. Check Medicare's Care Compare ratings. Ask about staffing ratios, activities, and medical services. Talk to current residents and families. Trust your observations and instincts."
+      },
+      {
+        question: "What's the difference between nursing home and assisted living?",
+        answer: "Nursing homes provide skilled medical care by nurses and therapists—appropriate when significant medical needs exist. Assisted living helps with daily activities but doesn't provide medical care. The right choice depends on level of care needed."
+      }
+    ],
+    relatedServices: ["assisted-living", "home-health-care", "hospice"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "hospice",
+    title: "Hospice Care",
+    category: "health_wellness",
+    subcategory: "senior",
+    layout: 3,
+    icon: "Heart",
+    iconColor: "pink",
+    metaTitle: "Hospice Care in Navarro County, TX | End of Life Care Corsicana",
+    metaDescription: "Hospice services in Corsicana and Navarro County. End-of-life care, palliative care, and family support services.",
+    metaKeywords: "hospice Corsicana, end of life care Navarro County, palliative care, comfort care",
+    heroContent: `Hospice provides compassionate care for those with terminal illnesses, focusing on comfort and quality of life rather than curative treatment. Hospice supports patients and families through end-of-life journeys.`,
+    localContext: `Hospice services in Navarro County provide dignified end-of-life care at home, in nursing facilities, or in dedicated hospice facilities. They support both patients and families during difficult times.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Hospice Services",
+        content: `**Patient Care**
+- Pain management
+- Symptom control
+- Nursing visits
+- Personal care
+- Medical equipment
+
+**Support Services**
+- Chaplain/spiritual care
+- Social work
+- Volunteer visitors
+- Bereavement support
+- Respite care
+
+**Care Settings**
+- Home-based hospice
+- Nursing facility hospice
+- Inpatient hospice units`
+      }
+    ],
+    faqs: [
+      {
+        question: "When is it time for hospice?",
+        answer: "Hospice is appropriate when life expectancy is six months or less if the illness runs its normal course, and the focus shifts from cure to comfort. Earlier enrollment allows more time for hospice benefits. Doctors can help determine when hospice is appropriate."
+      },
+      {
+        question: "Does hospice mean giving up?",
+        answer: "Hospice doesn't mean giving up—it means shifting focus to quality of life and comfort. Many patients and families find hospice greatly improves their remaining time together. Aggressive treatment sometimes reduces quality of life without extending it."
+      },
+      {
+        question: "How is hospice paid for?",
+        answer: "Medicare covers hospice care fully for those who qualify. Medicaid and most private insurance also cover hospice. Hospice organizations often provide care regardless of ability to pay. The hospice benefit is one of Medicare's most valuable but underutilized services."
+      }
+    ],
+    relatedServices: ["home-health-care", "nursing-home", "senior-care"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // MORE AUTOMOTIVE
+  // ============================================
+  {
+    slug: "auto-electric",
+    title: "Auto Electrical",
+    category: "automotive",
+    subcategory: "repair",
+    layout: 4,
+    icon: "Zap",
+    iconColor: "yellow",
+    metaTitle: "Auto Electrical in Navarro County, TX | Car Electrical Corsicana",
+    metaDescription: "Auto electrical services in Corsicana and Navarro County. Car electrical repair, alternators, starters, and electrical diagnosis.",
+    metaKeywords: "auto electrical Corsicana, car electrical Navarro County, alternator, starter, battery",
+    heroContent: `Modern vehicles depend on complex electrical systems. Auto electrical specialists diagnose and repair issues with batteries, alternators, starters, and the computer systems that run your car.`,
+    localContext: `Texas heat is hard on car batteries and electrical systems. Navarro County auto electrical specialists troubleshoot everything from dead batteries to complex wiring issues, keeping vehicles running reliably.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Auto Electrical Services",
+        content: `**Common Services**
+- Battery testing/replacement
+- Alternator repair
+- Starter repair
+- Electrical diagnosis
+- Wiring repair
+
+**Systems**
+- Charging systems
+- Starting systems
+- Lighting systems
+- Computer diagnostics
+- Sensor issues
+
+**Accessories**
+- Audio installation
+- Remote starters
+- Security systems
+- LED upgrades
+- 12V accessories`
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I know if my alternator is bad?",
+        answer: "Signs include: dim headlights, battery warning light, dead battery (repeatedly), strange noises from the engine, electrical accessories acting up, or burning rubber smell. A shop can test alternator output to confirm. Don't ignore these symptoms."
+      },
+      {
+        question: "How much does auto electrical repair cost?",
+        answer: "Battery replacement runs $100-$250. Alternator replacement costs $300-$600. Starter replacement runs $300-$500. Electrical diagnosis fees range $50-$150. Complex electrical problems requiring extensive troubleshooting cost more due to labor time."
+      },
+      {
+        question: "Why does my car battery keep dying?",
+        answer: "Repeated battery death indicates: alternator problems (not charging), parasitic draw (something draining battery when off), old battery, corroded connections, or short trips not allowing full charging. A shop can diagnose the specific cause."
+      }
+    ],
+    relatedServices: ["auto-repair", "oil-change", "towing"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "muffler-exhaust",
+    title: "Muffler & Exhaust",
+    category: "automotive",
+    subcategory: "repair",
+    layout: 5,
+    icon: "Wind",
+    iconColor: "slate",
+    metaTitle: "Muffler Shop in Navarro County, TX | Exhaust Repair Corsicana",
+    metaDescription: "Muffler and exhaust services in Corsicana and Navarro County. Exhaust repair, muffler replacement, and catalytic converter service.",
+    metaKeywords: "muffler shop Corsicana, exhaust repair Navarro County, catalytic converter, exhaust system",
+    heroContent: `Your exhaust system controls emissions, reduces noise, and affects engine performance. Muffler shops repair and replace exhaust components from manifold to tailpipe.`,
+    localContext: `Exhaust systems take a beating from road conditions and Texas weather. Navarro County muffler shops provide repairs and custom exhaust work for cars, trucks, and performance vehicles.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Exhaust Services",
+        content: `**Repair**
+- Muffler replacement
+- Exhaust pipe repair
+- Catalytic converter service
+- Manifold repair
+- Leak repair
+
+**Custom Work**
+- Performance exhaust
+- Dual exhaust conversion
+- Headers
+- Exhaust tips
+- Truck exhaust
+
+**Inspection**
+- Emissions diagnosis
+- Leak detection
+- System inspection`
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I know if my exhaust has a leak?",
+        answer: "Signs include: loud rumbling or hissing noises, decreased fuel economy, visible rust or holes, exhaust smell in the cabin, or engine running poorly. Exhaust leaks can allow dangerous carbon monoxide into the cabin—don't ignore them."
+      },
+      {
+        question: "How much does exhaust repair cost?",
+        answer: "Muffler replacement costs $100-$250 for most vehicles. Exhaust pipe sections run $75-$200. Catalytic converters are expensive—$500-$2,000+ depending on vehicle. Custom exhaust work is quoted individually. Labor varies by job complexity."
+      },
+      {
+        question: "Why are catalytic converters so expensive?",
+        answer: "Catalytic converters contain precious metals (platinum, palladium, rhodium) that enable emissions control. These metals are expensive. Unfortunately, this also makes cats targets for theft. Some vehicles have multiple converters. Aftermarket converters cost less than OEM."
+      }
+    ],
+    relatedServices: ["auto-repair", "brake-repair", "emissions-testing"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "ac-repair-auto",
+    title: "Auto AC Repair",
+    category: "automotive",
+    subcategory: "repair",
+    layout: 1,
+    icon: "Snowflake",
+    iconColor: "blue",
+    metaTitle: "Auto AC Repair in Navarro County, TX | Car AC Service Corsicana",
+    metaDescription: "Auto AC repair in Corsicana and Navarro County. Car air conditioning service, AC recharge, and cooling system repair.",
+    metaKeywords: "auto AC repair Corsicana, car AC Navarro County, AC recharge, car cooling",
+    heroContent: `Working air conditioning isn't optional in Texas—it's essential. Auto AC specialists diagnose and repair cooling systems to keep you comfortable through our brutal summers.`,
+    localContext: `Navarro County summers regularly exceed 100°F, making reliable car AC critical. Auto AC specialists repair everything from simple recharges to complete system overhauls.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Auto AC Services",
+        content: `**Services**
+- AC diagnosis
+- Refrigerant recharge
+- Leak detection and repair
+- Compressor replacement
+- Condenser replacement
+
+**Components**
+- Compressors
+- Condensers
+- Evaporators
+- Expansion valves
+- Dryers/receivers
+
+**Related**
+- Heating system repair
+- Blower motor service
+- Climate control issues`
+      }
+    ],
+    faqs: [
+      {
+        question: "Why is my car AC not cold?",
+        answer: "Common causes include: low refrigerant (leak), compressor issues, condenser problems, electrical faults, or blend door issues. A professional diagnosis determines the cause. Simply adding refrigerant often doesn't fix the underlying problem."
+      },
+      {
+        question: "How much does auto AC repair cost?",
+        answer: "AC recharge costs $100-$250. Leak repair varies by location ($200-$600). Compressor replacement runs $500-$1,200+ depending on vehicle. Complete system repair can exceed $1,500. Get a diagnosis before authorizing repairs."
+      },
+      {
+        question: "How often does car AC need service?",
+        answer: "Unlike home AC, car AC shouldn't need regular refrigerant additions—the system is sealed. Needing repeated recharges indicates a leak. Annual performance checks can catch problems early, but a properly working system needs no routine service."
+      }
+    ],
+    relatedServices: ["auto-repair", "auto-electric", "oil-change"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "engine-repair",
+    title: "Engine Repair",
+    category: "automotive",
+    subcategory: "repair",
+    layout: 2,
+    icon: "Cog",
+    iconColor: "slate",
+    metaTitle: "Engine Repair in Navarro County, TX | Motor Repair Corsicana",
+    metaDescription: "Engine repair services in Corsicana and Navarro County. Engine rebuilding, timing belt, and major engine repairs.",
+    metaKeywords: "engine repair Corsicana, motor repair Navarro County, engine rebuild, timing belt",
+    heroContent: `Engine problems range from minor repairs to complete rebuilds. Skilled mechanics diagnose engine issues and recommend cost-effective solutions to keep your vehicle running.`,
+    localContext: `Whether it's a timing belt replacement or major engine work, Navarro County auto shops provide engine repair services for all makes and models. Quality repairs extend vehicle life significantly.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Engine Services",
+        content: `**Major Repairs**
+- Engine rebuild
+- Timing belt/chain
+- Head gasket repair
+- Engine replacement
+- Overheating repair
+
+**Common Issues**
+- Oil leaks
+- Compression problems
+- Valve issues
+- Sensor problems
+- Starting issues
+
+**Maintenance**
+- Tune-ups
+- Spark plug replacement
+- Fuel system service
+- Engine diagnostics`
+      }
+    ],
+    faqs: [
+      {
+        question: "Is engine repair worth it on an old car?",
+        answer: "Compare repair cost to vehicle value and expected remaining life. If repairs cost more than 50-75% of vehicle value, replacement may make more sense. However, known vehicles can be worth repairing. Consider reliability, remaining mechanical condition, and emotional factors."
+      },
+      {
+        question: "What are signs of serious engine problems?",
+        answer: "Warning signs include: check engine light, knocking or ticking noises, excessive smoke, loss of power, overheating, oil consumption, or milky oil (coolant contamination). Don't ignore these—continued driving can cause further damage."
+      },
+      {
+        question: "How much does engine replacement cost?",
+        answer: "Used engine installation costs $2,500-$5,000. Rebuilt engines run $3,000-$6,000. New engines (rare) cost $4,000-$10,000+. Prices vary significantly by vehicle. Compare to vehicle value before proceeding with major engine work."
+      }
+    ],
+    relatedServices: ["auto-repair", "transmission", "towing"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "auto-paint",
+    title: "Auto Painting",
+    category: "automotive",
+    subcategory: "body",
+    layout: 3,
+    icon: "Palette",
+    iconColor: "orange",
+    metaTitle: "Auto Painting in Navarro County, TX | Car Paint Corsicana",
+    metaDescription: "Auto painting services in Corsicana and Navarro County. Car painting, touch-up, and complete automotive paint jobs.",
+    metaKeywords: "auto paint Corsicana, car paint Navarro County, paint job, auto refinish",
+    heroContent: `Quality auto paint protects your vehicle and restores its appearance. From minor touch-ups to complete refinishing, auto paint shops bring cars back to showroom condition.`,
+    localContext: `Texas sun fades paint, and hail damages finishes. Navarro County auto paint shops restore vehicles with quality paint work, from collision repair to complete color changes.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Auto Paint Services",
+        content: `**Paint Services**
+- Complete paint jobs
+- Panel painting
+- Touch-up work
+- Color matching
+- Clear coat repair
+
+**Specialty**
+- Custom paint
+- Candy and metallic
+- Matte finishes
+- Graphics and stripes
+- Restoration painting
+
+**Preparation**
+- Dent repair
+- Rust repair
+- Surface preparation
+- Primer application`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a car paint job cost?",
+        answer: "Basic single-stage paint jobs start at $500-$1,000. Standard quality jobs run $1,500-$3,500. Showroom-quality paint costs $3,000-$10,000+. Cost depends on preparation needed, paint quality, and finish type. Multiple quotes help understand options."
+      },
+      {
+        question: "How long does a paint job take?",
+        answer: "Basic jobs take 2-3 days. Quality paint work with proper prep takes 1-2 weeks. Custom or restoration work takes longer. Rush jobs may compromise quality. Allow adequate time for proper preparation and curing."
+      },
+      {
+        question: "Is it worth repainting an older car?",
+        answer: "Consider vehicle value, condition, and your attachment. Restoration-quality paint may exceed the car's market value but can be worthwhile for special vehicles. Budget options exist for functional refreshes. Insurance may cover paint from collision damage."
+      }
+    ],
+    relatedServices: ["auto-body", "dent-repair", "auto-detailing"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "windshield-repair",
+    title: "Windshield Repair",
+    category: "automotive",
+    subcategory: "body",
+    layout: 4,
+    icon: "Shield",
+    iconColor: "blue",
+    metaTitle: "Windshield Repair in Navarro County, TX | Auto Glass Corsicana",
+    metaDescription: "Windshield repair and replacement in Corsicana and Navarro County. Chip repair, crack repair, and windshield replacement.",
+    metaKeywords: "windshield repair Corsicana, auto glass Navarro County, chip repair, windshield replacement",
+    heroContent: `Windshield damage happens—road debris, weather, and accidents take their toll. Quick repair of chips prevents spreading into cracks that require replacement.`,
+    localContext: `Texas highways and rural roads send plenty of debris at windshields. Navarro County windshield services repair minor damage quickly and replace windshields when necessary.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Windshield Services",
+        content: `**Repair**
+- Chip repair
+- Small crack repair
+- Star break repair
+- Bull's eye repair
+- Combination breaks
+
+**Replacement**
+- Full windshield replacement
+- Mobile service
+- OEM glass
+- Aftermarket glass
+- ADAS calibration
+
+**Other Auto Glass**
+- Side windows
+- Rear windows
+- Sunroofs
+- Mirrors`
+      }
+    ],
+    faqs: [
+      {
+        question: "Can my windshield chip be repaired?",
+        answer: "Chips smaller than a quarter and cracks under 3 inches can usually be repaired. Location matters—damage in the driver's line of sight or near edges may require replacement. Repair immediately to prevent spreading. Temperature changes cause chips to spread into cracks."
+      },
+      {
+        question: "How much does windshield repair cost?",
+        answer: "Chip repair costs $50-$100. Crack repair runs $75-$150. Windshield replacement costs $200-$600+ depending on vehicle and glass type. Many insurance policies cover repair with no deductible. Some comprehensive coverage covers replacement."
+      },
+      {
+        question: "What is ADAS calibration?",
+        answer: "Many newer vehicles have cameras and sensors mounted on windshields for safety systems (forward collision warning, lane departure, etc.). After replacement, these systems need calibration. ADAS calibration costs $200-$400 additional but is essential for proper function."
+      }
+    ],
+    relatedServices: ["auto-glass", "auto-body", "insurance-agent"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "dent-repair",
+    title: "Paintless Dent Repair",
+    category: "automotive",
+    subcategory: "body",
+    layout: 5,
+    icon: "Wrench",
+    iconColor: "amber",
+    metaTitle: "Dent Repair in Navarro County, TX | PDR Corsicana",
+    metaDescription: "Paintless dent repair in Corsicana and Navarro County. Hail damage repair, door dings, and dent removal without painting.",
+    metaKeywords: "dent repair Corsicana, PDR Navarro County, hail damage repair, door ding removal",
+    heroContent: `Paintless dent repair (PDR) removes dents without affecting original paint. This technique is faster and less expensive than traditional body work for many types of damage.`,
+    localContext: `Hail storms hit Navarro County regularly, leaving cars covered in dents. PDR technicians restore vehicles to original condition without repainting, preserving factory finish and value.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Dent Repair Services",
+        content: `**PDR Applications**
+- Hail damage
+- Door dings
+- Minor dents
+- Body line dents
+- Crease repair
+
+**Benefits**
+- Preserves original paint
+- Faster than traditional repair
+- Less expensive
+- No color matching issues
+- Maintains vehicle value
+
+**When PDR Won't Work**
+- Paint damage
+- Stretched metal
+- Sharp creases
+- Panel edge damage`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does paintless dent repair cost?",
+        answer: "Single door dings cost $50-$150. Larger dents run $100-$300. Hail damage repair is often quoted per panel or per dent count—moderate hail damage runs $1,000-$3,000, severe damage more. PDR is typically 50-70% less than traditional body work."
+      },
+      {
+        question: "Can all dents be fixed with PDR?",
+        answer: "PDR works best on dents without paint damage, in accessible areas, where metal hasn't stretched or creased sharply. Very deep dents, panel edge damage, or areas with no tool access may require traditional repair. Technicians assess whether PDR is appropriate."
+      },
+      {
+        question: "Does insurance cover hail damage repair?",
+        answer: "Comprehensive auto insurance covers hail damage minus your deductible. Many PDR shops work directly with insurance companies. If total repair cost is less than your deductible, you'll pay out of pocket. Filing a claim typically won't raise rates."
+      }
+    ],
+    relatedServices: ["auto-body", "auto-paint", "auto-detailing"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "window-tinting",
+    title: "Window Tinting",
+    category: "automotive",
+    subcategory: "body",
+    layout: 1,
+    icon: "Sun",
+    iconColor: "slate",
+    metaTitle: "Window Tinting in Navarro County, TX | Auto Tint Corsicana",
+    metaDescription: "Window tinting services in Corsicana and Navarro County. Auto tinting, UV protection, and heat rejection window film.",
+    metaKeywords: "window tinting Corsicana, auto tint Navarro County, car tint, UV protection",
+    heroContent: `Window tinting reduces heat, blocks UV rays, and enhances privacy and appearance. Quality tint makes vehicles more comfortable and protects interiors from sun damage.`,
+    localContext: `Texas sun is brutal on vehicles and occupants. Window tinting in Navarro County provides essential heat relief, making vehicles more comfortable and protecting interiors from UV damage.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Tinting Services",
+        content: `**Auto Tinting**
+- Full vehicle tint
+- Partial tint packages
+- Windshield strips
+- Sunroof tinting
+- Tint removal
+
+**Film Types**
+- Dyed film (economy)
+- Metallized film
+- Carbon film
+- Ceramic film (premium)
+- Clear UV film
+
+**Specialty**
+- Commercial vehicles
+- Residential tinting
+- Commercial buildings`
+      }
+    ],
+    faqs: [
+      {
+        question: "What are Texas window tint laws?",
+        answer: "Texas allows any darkness on rear and back side windows. Front side windows must allow more than 25% light transmission. Windshield tinting is limited to the top 5 inches or above the AS-1 line. Violations can result in tickets."
+      },
+      {
+        question: "How much does window tinting cost?",
+        answer: "Basic dyed film runs $100-$200 for a sedan. Quality metallic or carbon film costs $200-$400. Premium ceramic film costs $300-$600+. Prices vary by vehicle size and window count. Quality film lasts longer and performs better."
+      },
+      {
+        question: "Does tint really reduce heat?",
+        answer: "Yes—quality window tint can reduce interior heat by 35-60%, depending on film type. Ceramic film performs best. Tint blocks UV rays (reducing interior fading) and reduces glare. The difference in Texas summer is significant."
+      }
+    ],
+    relatedServices: ["auto-detailing", "auto-glass", "auto-accessories"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "wheel-alignment",
+    title: "Wheel Alignment",
+    category: "automotive",
+    subcategory: "tires",
+    layout: 2,
+    icon: "Target",
+    iconColor: "blue",
+    metaTitle: "Wheel Alignment in Navarro County, TX | Tire Alignment Corsicana",
+    metaDescription: "Wheel alignment services in Corsicana and Navarro County. Front end alignment, four wheel alignment, and suspension adjustment.",
+    metaKeywords: "wheel alignment Corsicana, tire alignment Navarro County, front end, four wheel alignment",
+    heroContent: `Proper wheel alignment ensures even tire wear, straight tracking, and optimal handling. Regular alignment checks save money on tires and improve driving safety.`,
+    localContext: `Navarro County roads and potholes knock wheels out of alignment. Regular alignment checks—especially after hitting potholes or curbs—extend tire life and improve handling.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Alignment Services",
+        content: `**Alignment Types**
+- Front end alignment
+- Four wheel alignment
+- Thrust angle alignment
+- Performance alignment
+
+**Adjustments**
+- Camber
+- Caster
+- Toe
+- Steering center
+
+**Related Services**
+- Suspension inspection
+- Steering diagnosis
+- Tire rotation
+- Tire balancing`
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I know if my car needs alignment?",
+        answer: "Signs include: vehicle pulling to one side, uneven tire wear, steering wheel off-center when driving straight, or vibration. Have alignment checked after hitting significant potholes or curbs, when installing new tires, or annually as preventive maintenance."
+      },
+      {
+        question: "How much does wheel alignment cost?",
+        answer: "Front end alignment costs $50-$75. Four-wheel alignment runs $75-$150. Performance or custom alignments cost more. Some tire shops offer lifetime alignment packages. Alignments should take 30-60 minutes."
+      },
+      {
+        question: "How often should I get an alignment?",
+        answer: "Annual alignment checks are recommended. More frequent checks are needed if you drive on rough roads, hit potholes, or notice alignment symptoms. Always align when installing new tires. Alignment with new tires ensures you get maximum tire life."
+      }
+    ],
+    relatedServices: ["tire-shop", "brake-repair", "auto-repair"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "roadside-assistance",
+    title: "Roadside Assistance",
+    category: "automotive",
+    subcategory: "services",
+    layout: 3,
+    icon: "LifeBuoy",
+    iconColor: "red",
+    metaTitle: "Roadside Assistance in Navarro County, TX | Emergency Car Help Corsicana",
+    metaDescription: "Roadside assistance in Corsicana and Navarro County. Jump starts, tire changes, lockouts, and emergency road service.",
+    metaKeywords: "roadside assistance Corsicana, emergency car service Navarro County, jump start, lockout",
+    heroContent: `When your vehicle breaks down, roadside assistance provides quick help. From dead batteries to flat tires to lockouts, these services get you back on the road safely.`,
+    localContext: `Being stranded in rural Navarro County can be concerning. Roadside assistance services respond throughout the area, providing help whether you're in Corsicana or on a county road.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Roadside Services",
+        content: `**Emergency Services**
+- Battery jump start
+- Flat tire change
+- Lockout service
+- Fuel delivery
+- Winch out (stuck vehicles)
+
+**Towing**
+- Local towing
+- Long-distance towing
+- Motorcycle towing
+- Flatbed service
+
+**Membership Programs**
+- Annual plans
+- Per-incident service
+- Family coverage
+- RV coverage`
+      }
+    ],
+    faqs: [
+      {
+        question: "Should I get a roadside assistance membership?",
+        answer: "If your vehicle is older or you drive frequently, membership programs ($50-$150/year) provide peace of mind and savings over per-incident charges. Some credit cards and auto insurance include roadside assistance. Check existing coverage before buying."
+      },
+      {
+        question: "How much does roadside assistance cost without a plan?",
+        answer: "Without a plan, expect: jump start $50-$100, tire change $75-$150, lockout $50-$100, fuel delivery $50+ plus fuel, towing $75-$150 base plus per-mile charges. Rates vary by time and location. Emergency service is more expensive at night or in remote areas."
+      },
+      {
+        question: "How long does roadside assistance take?",
+        answer: "Response times vary by location and demand. Urban areas typically see 30-60 minute response. Rural areas may take longer. Membership programs often guarantee maximum response times. Call early rather than waiting to see if help arrives soon."
+      }
+    ],
+    relatedServices: ["towing", "auto-repair", "tire-shop"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "car-wash",
+    title: "Car Wash",
+    category: "automotive",
+    subcategory: "services",
+    layout: 4,
+    icon: "Droplet",
+    iconColor: "blue",
+    metaTitle: "Car Wash in Navarro County, TX | Auto Wash Corsicana",
+    metaDescription: "Car wash services in Corsicana and Navarro County. Automatic car wash, hand wash, and vehicle cleaning services.",
+    metaKeywords: "car wash Corsicana, auto wash Navarro County, hand wash, car cleaning",
+    heroContent: `Regular washing protects your vehicle's finish and keeps it looking great. From quick automatic washes to detailed hand washes, car wash services maintain your vehicle's appearance.`,
+    localContext: `Texas dust, pollen, and road grime build up quickly on vehicles. Navarro County car washes offer convenient cleaning options to keep your car looking its best.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Car Wash Services",
+        content: `**Wash Types**
+- Express automatic
+- Full-service wash
+- Hand wash
+- Touchless wash
+- Self-serve bays
+
+**Add-On Services**
+- Wheel cleaning
+- Undercarriage wash
+- Wax treatment
+- Interior vacuum
+- Window cleaning
+
+**Packages**
+- Unlimited monthly plans
+- Wash packages
+- Fleet accounts`
+      }
+    ],
+    faqs: [
+      {
+        question: "How often should I wash my car?",
+        answer: "Wash every 1-2 weeks to maintain finish and prevent buildup. Wash more frequently if exposed to salt, bird droppings, tree sap, or heavy pollen. In winter, wash after ice/salt exposure. Regular washing prevents long-term paint damage."
+      },
+      {
+        question: "Are automatic car washes safe for my paint?",
+        answer: "Quality automatic washes with soft cloth or touchless systems are generally safe. Avoid older washes with stiff brushes. Hand washes are gentler but more expensive. The bigger paint risk is never washing—contaminants damage paint over time."
+      },
+      {
+        question: "Is an unlimited car wash membership worth it?",
+        answer: "If you wash your car weekly, unlimited plans ($20-$40/month) save money over individual washes ($8-$15 each). They encourage regular washing, protecting your vehicle. Calculate your typical washing frequency to determine value."
+      }
+    ],
+    relatedServices: ["auto-detailing", "oil-change", "tire-shop"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "auto-glass",
+    title: "Auto Glass",
+    category: "automotive",
+    subcategory: "services",
+    layout: 5,
+    icon: "Square",
+    iconColor: "slate",
+    metaTitle: "Auto Glass in Navarro County, TX | Car Glass Corsicana",
+    metaDescription: "Auto glass services in Corsicana and Navarro County. Window replacement, door glass, and auto glass repair.",
+    metaKeywords: "auto glass Corsicana, car glass Navarro County, window replacement, door glass",
+    heroContent: `Auto glass shops repair and replace all vehicle glass—not just windshields. From side windows to back glass to quarter panels, they restore vehicle integrity and appearance.`,
+    localContext: `Break-ins, accidents, and weather damage vehicle glass. Navarro County auto glass shops provide prompt replacement services to restore security and comfort.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Auto Glass Services",
+        content: `**Services**
+- Side window replacement
+- Back glass replacement
+- Quarter glass
+- Vent glass
+- Sunroof glass
+
+**Options**
+- OEM glass
+- Aftermarket glass
+- Privacy glass matching
+- Mobile service
+- Emergency service
+
+**Related**
+- Door regulators
+- Power window repair
+- Seal replacement
+- Water leak repair`
+      }
+    ],
+    faqs: [
+      {
+        question: "How long does auto glass replacement take?",
+        answer: "Side window replacement typically takes 30-60 minutes. Back glass may take 1-2 hours due to defrost wiring. Most vehicles can be driven immediately after side glass replacement. Allow cure time if adhesive is used (some applications)."
+      },
+      {
+        question: "How much does auto glass replacement cost?",
+        answer: "Door glass costs $150-$350 installed. Back glass runs $200-$500. Quarter windows cost $100-$250. Prices vary by vehicle and glass type. Comprehensive insurance covers glass with your deductible. Some policies have $0 glass deductibles."
+      },
+      {
+        question: "Should I use OEM or aftermarket glass?",
+        answer: "OEM (original equipment) glass is identical to factory glass and often preferred. Quality aftermarket glass meets safety standards at lower cost. For luxury vehicles or exact color matching, OEM may be worthwhile. For most vehicles, quality aftermarket glass is fine."
+      }
+    ],
+    relatedServices: ["windshield-repair", "auto-body", "locksmith"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "used-cars",
+    title: "Used Car Dealer",
+    category: "automotive",
+    subcategory: "sales",
+    layout: 1,
+    icon: "Car",
+    iconColor: "blue",
+    metaTitle: "Used Cars in Navarro County, TX | Pre-Owned Vehicles Corsicana",
+    metaDescription: "Used car dealers in Corsicana and Navarro County. Pre-owned vehicles, used trucks, and affordable car sales.",
+    metaKeywords: "used cars Corsicana, car dealer Navarro County, pre-owned, used trucks",
+    heroContent: `Used car dealers provide affordable vehicle options with variety and value. From budget-friendly transportation to quality pre-owned vehicles, local dealers serve various needs and budgets.`,
+    localContext: `Navarro County used car lots offer alternatives to big-city dealers. Local dealers often provide more personalized service and may be more flexible on pricing and financing.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Dealer Services",
+        content: `**Inventory**
+- Cars and sedans
+- Trucks and SUVs
+- Work vehicles
+- Budget vehicles
+- Certified pre-owned (some)
+
+**Financing**
+- In-house financing
+- Bank financing
+- Buy here pay here (some)
+- Trade-ins accepted
+
+**Services**
+- Vehicle history reports
+- Warranty options
+- Service after sale
+- Vehicle inspection`
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I avoid buying a bad used car?",
+        answer: "Get a vehicle history report (Carfax/AutoCheck). Have the car inspected by your own mechanic before buying. Check for title issues and flood damage. Test drive thoroughly. Trust your instincts—walk away from pressure or suspicious situations."
+      },
+      {
+        question: "Should I buy from a dealer or private seller?",
+        answer: "Dealers offer financing, some consumer protections, and often warranty options. Private sellers may offer lower prices but no protections. For expensive vehicles, dealer protections may be worth it. For budget vehicles, private sale savings may matter more."
+      },
+      {
+        question: "How do I negotiate used car prices?",
+        answer: "Research fair market value using Kelley Blue Book or similar sources. Get quotes from multiple dealers. Point out any issues found during inspection. Be willing to walk away. Negotiate out-the-door price including all fees, not just sticker price."
+      }
+    ],
+    relatedServices: ["auto-repair", "car-rental", "insurance-agent"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "car-rental",
+    title: "Car Rental",
+    category: "automotive",
+    subcategory: "sales",
+    layout: 2,
+    icon: "Key",
+    iconColor: "amber",
+    metaTitle: "Car Rental in Navarro County, TX | Rent a Car Corsicana",
+    metaDescription: "Car rental services in Corsicana and Navarro County. Vehicle rental, truck rental, and temporary transportation.",
+    metaKeywords: "car rental Corsicana, rent a car Navarro County, vehicle rental, truck rental",
+    heroContent: `Car rental provides temporary transportation when you need it—for travel, while your car is repaired, or for special occasions. Local rental options complement national chains.`,
+    localContext: `While major rental agencies are limited in Navarro County, local options and nearby Dallas-Fort Worth locations serve the area's rental needs for personal and business use.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Rental Services",
+        content: `**Vehicle Types**
+- Economy cars
+- Full-size sedans
+- SUVs and crossovers
+- Pickup trucks
+- Moving trucks
+
+**Rental Terms**
+- Daily rental
+- Weekly rates
+- Monthly rates
+- One-way rental (some)
+
+**Features**
+- Insurance options
+- Unlimited mileage (most)
+- Roadside assistance
+- Corporate accounts`
+      }
+    ],
+    faqs: [
+      {
+        question: "How old do you have to be to rent a car?",
+        answer: "Most companies require renters to be at least 21, with drivers under 25 paying a young driver surcharge. Some companies require 25+. Airport rentals may have different policies. Check specific company requirements before booking."
+      },
+      {
+        question: "Should I buy rental car insurance?",
+        answer: "Your personal auto insurance often extends to rentals—check your policy. Many credit cards offer rental coverage as a benefit. If you have good coverage, rental insurance may be unnecessary. If not, it protects against potentially high collision charges."
+      },
+      {
+        question: "How do I get the best rental car rates?",
+        answer: "Book in advance for best selection and rates. Compare prices across companies. Check for discount codes (AAA, employers, credit cards). Consider off-airport locations for lower rates. Weekly rates often beat daily rates for longer rentals."
+      }
+    ],
+    relatedServices: ["airport-shuttle", "auto-repair", "insurance-agent"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "motorcycle-repair",
+    title: "Motorcycle Repair",
+    category: "automotive",
+    subcategory: "specialty",
+    layout: 3,
+    icon: "Bike",
+    iconColor: "red",
+    metaTitle: "Motorcycle Repair in Navarro County, TX | Motorcycle Mechanic Corsicana",
+    metaDescription: "Motorcycle repair services in Corsicana and Navarro County. Motorcycle maintenance, repairs, and custom work.",
+    metaKeywords: "motorcycle repair Corsicana, motorcycle mechanic Navarro County, bike repair, Harley service",
+    heroContent: `Motorcycles require specialized maintenance and repair skills. Motorcycle shops service all makes and models, from sport bikes to cruisers to Harleys.`,
+    localContext: `Navarro County's pleasant riding weather keeps motorcycles on the road much of the year. Local motorcycle shops provide maintenance and repairs to keep riders safe and riding.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Motorcycle Services",
+        content: `**Maintenance**
+- Oil changes
+- Tire replacement
+- Chain/belt service
+- Brake service
+- Valve adjustment
+
+**Repairs**
+- Engine repair
+- Electrical diagnosis
+- Suspension work
+- Fuel system service
+- Carb rebuilding
+
+**Specialty**
+- Custom work
+- Performance upgrades
+- Vintage bike service
+- Pre-purchase inspection`
+      }
+    ],
+    faqs: [
+      {
+        question: "How often do motorcycles need service?",
+        answer: "Oil changes every 3,000-5,000 miles (check your manual). Tires every 5,000-15,000 miles depending on type. Chains need regular lubrication and adjustment. Annual maintenance checks are recommended. Service intervals vary by make—follow manufacturer recommendations."
+      },
+      {
+        question: "How much does motorcycle repair cost?",
+        answer: "Labor rates run $70-$120 per hour. Oil changes cost $50-$100 including oil. Tire mounting runs $30-$50 per tire plus tire cost. Major services (valve adjustment, etc.) cost $200-$500. Parts availability affects price for some brands."
+      },
+      {
+        question: "Can any mechanic work on motorcycles?",
+        answer: "Motorcycles require different skills and tools than cars. Experienced motorcycle mechanics understand the unique systems and proper techniques. For complex repairs, specialized training (brand-specific or general motorcycle) matters. Basic maintenance is more accessible."
+      }
+    ],
+    relatedServices: ["auto-repair", "tire-shop", "towing"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "rv-repair",
+    title: "RV Repair",
+    category: "automotive",
+    subcategory: "specialty",
+    layout: 4,
+    icon: "Caravan",
+    iconColor: "green",
+    metaTitle: "RV Repair in Navarro County, TX | RV Service Corsicana",
+    metaDescription: "RV repair and service in Corsicana and Navarro County. Motorhome repair, travel trailer service, and RV maintenance.",
+    metaKeywords: "RV repair Corsicana, RV service Navarro County, motorhome repair, travel trailer service",
+    heroContent: `RVs combine automotive and residential systems, requiring specialized knowledge. RV repair shops service engines, generators, appliances, and living systems to keep your home-on-wheels road-ready.`,
+    localContext: `Many Navarro County residents enjoy RV travel, and the area sees RV traffic on I-45. Local RV service facilities provide maintenance and repairs for motorhomes and towable RVs.`,
+    sections: [
+      {
+        type: "services",
+        heading: "RV Services",
+        content: `**Mechanical**
+- Engine/chassis service
+- Generator repair
+- Brake service
+- Transmission service
+- AC/heating repair
+
+**Living Systems**
+- Electrical systems
+- Plumbing repair
+- Appliance service
+- Slide-out repair
+- Awning service
+
+**Body/Exterior**
+- Roof repair/reseal
+- Siding repair
+- Window replacement
+- Exterior detailing`
+      }
+    ],
+    faqs: [
+      {
+        question: "How often do RVs need maintenance?",
+        answer: "Engine maintenance follows vehicle manufacturer schedules. RV-specific maintenance includes: roof inspection/reseal annually, appliance service before each season, battery maintenance, tire checks (including spare), and generator service. Pre-trip inspections catch problems before travel."
+      },
+      {
+        question: "How much does RV repair cost?",
+        answer: "Labor rates typically run $100-$150 per hour. Simple repairs cost $200-$500. Major repairs (slide mechanisms, roof replacement, engine work) can cost thousands. RV systems are complex—get detailed estimates. Mobile service costs more but offers convenience."
+      },
+      {
+        question: "Do mobile RV repair services exist?",
+        answer: "Yes, mobile RV technicians come to you—convenient for minor repairs, routine maintenance, or when your RV can't travel. Mobile service typically costs more than shop rates. Many repairs are possible on-site, though some require shop facilities."
+      }
+    ],
+    relatedServices: ["auto-repair", "rv-park", "towing"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // EVENTS & ENTERTAINMENT
+  // ============================================
+  {
+    slug: "wedding-photographer",
+    title: "Wedding Photographer",
+    category: "events_entertainment",
+    subcategory: "wedding",
+    layout: 5,
+    icon: "Camera",
+    iconColor: "pink",
+    metaTitle: "Wedding Photographer in Navarro County, TX | Wedding Photos Corsicana",
+    metaDescription: "Wedding photography in Corsicana and Navarro County. Professional wedding photographers, engagement photos, and event photography.",
+    metaKeywords: "wedding photographer Corsicana, wedding photos Navarro County, bridal portraits, engagement photos",
+    heroContent: `Wedding photographs capture your special day forever. Professional wedding photographers document every moment—from getting ready to the ceremony to the celebration—with artistic skill.`,
+    localContext: `Navarro County offers beautiful wedding venues from rustic ranches to historic buildings. Local photographers know the best spots and lighting conditions for stunning wedding images.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Photography Services",
+        content: `**Wedding Coverage**
+- Full day coverage
+- Ceremony and reception
+- Getting ready photos
+- First look sessions
+- Detail photography
+
+**Additional Services**
+- Engagement sessions
+- Bridal portraits
+- Rehearsal dinner
+- Second photographer
+- Photo booth
+
+**Products**
+- Digital files
+- Wedding albums
+- Prints
+- Canvas
+- Parent albums`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does wedding photography cost?",
+        answer: "Wedding photography typically ranges from $1,500-$5,000+ in Texas. Prices vary by coverage hours, products included, and photographer experience. Entry-level photographers charge less; established photographers with albums and second shooters charge more."
+      },
+      {
+        question: "How far in advance should I book a wedding photographer?",
+        answer: "Book 9-12 months ahead for popular photographers and peak wedding season. Earlier is better for specific dates or sought-after photographers. Some excellent photographers are available with shorter notice. Begin searching once you have a venue and date."
+      },
+      {
+        question: "What should I look for in a wedding photographer?",
+        answer: "Review full weddings (not just portfolio highlights) to see consistent quality. Meet in person to ensure personality fit—you'll spend the entire day together. Understand what's included. Check references. Trust your instincts about rapport and professionalism."
+      }
+    ],
+    relatedServices: ["videographer", "wedding-venue", "wedding-planner"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "bridal-shop",
+    title: "Bridal Shop",
+    category: "events_entertainment",
+    subcategory: "wedding",
+    layout: 1,
+    icon: "Heart",
+    iconColor: "pink",
+    metaTitle: "Bridal Shop in Navarro County, TX | Wedding Dresses Corsicana",
+    metaDescription: "Bridal shops in Corsicana and Navarro County. Wedding dresses, bridesmaid dresses, and bridal accessories.",
+    metaKeywords: "bridal shop Corsicana, wedding dresses Navarro County, bridesmaid dresses, bridal gown",
+    heroContent: `Finding the perfect wedding dress is a milestone moment. Bridal shops provide curated selections, expert fitting, and the special experience of finding your dream gown.`,
+    localContext: `Navarro County brides can find beautiful gowns locally, avoiding the need to travel to Dallas. Local bridal shops offer personalized service and help brides find perfect dresses within their budgets.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Bridal Services",
+        content: `**Bridal Gowns**
+- Designer gowns
+- Budget-friendly options
+- Plus-size selection
+- Sample sales
+- Rush orders
+
+**Wedding Party**
+- Bridesmaid dresses
+- Mother of bride/groom
+- Flower girl dresses
+- Tuxedo/suit rental
+
+**Services**
+- Appointments
+- Alterations
+- Accessories
+- Veils and headpieces
+- Steaming/pressing`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do wedding dresses cost?",
+        answer: "Wedding dresses range from $500 to $5,000+. Most brides spend $1,000-$2,500. Budget additional costs: alterations ($200-$600), veil ($100-$500), accessories, and preservation. Set a realistic budget before shopping and communicate it to your consultant."
+      },
+      {
+        question: "When should I start dress shopping?",
+        answer: "Begin 9-12 months before your wedding. Special orders take 4-6 months; alterations need 2-3 months. Rush orders are possible but cost more. Starting early gives time for multiple appointments and avoids stress."
+      },
+      {
+        question: "What should I bring to bridal appointments?",
+        answer: "Bring: strapless bra or shapewear, heels similar to what you'll wear, photos of styles you like, and trusted opinions (limit to 2-3 people). Wear minimal makeup (it transfers to white fabric). Keep an open mind—you may love unexpected styles."
+      }
+    ],
+    relatedServices: ["wedding-planner", "florist", "makeup-artist"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "wedding-cake",
+    title: "Wedding Cakes",
+    category: "events_entertainment",
+    subcategory: "wedding",
+    layout: 2,
+    icon: "Cake",
+    iconColor: "amber",
+    metaTitle: "Wedding Cakes in Navarro County, TX | Custom Cakes Corsicana",
+    metaDescription: "Wedding cake bakeries in Corsicana and Navarro County. Custom wedding cakes, groom's cakes, and special occasion cakes.",
+    metaKeywords: "wedding cake Corsicana, custom cakes Navarro County, groom's cake, specialty cakes",
+    heroContent: `Wedding cakes are centerpieces of celebration—both beautiful and delicious. Custom cake artists create stunning cakes that reflect your style and delight your guests.`,
+    localContext: `Talented cake artists in Navarro County create custom wedding cakes, from elegant traditional tiered cakes to rustic designs perfect for Texas ranch weddings.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Cake Services",
+        content: `**Wedding Cakes**
+- Tiered cakes
+- Sheet cakes
+- Cupcake towers
+- Dessert tables
+- Cake alternatives
+
+**Specialty**
+- Groom's cakes
+- Custom designs
+- Fondant/buttercream
+- Sugar flowers
+- Themed cakes
+
+**Services**
+- Tastings
+- Delivery and setup
+- Cake stands (rental)
+- Cutting service`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do wedding cakes cost?",
+        answer: "Wedding cakes typically cost $4-$10 per serving. A cake serving 100 guests runs $400-$1,000+. Intricate designs, sugar flowers, and fondant add cost. Buttercream is generally less expensive than fondant. Groom's cakes are additional."
+      },
+      {
+        question: "When should I order my wedding cake?",
+        answer: "Book your baker 3-6 months ahead, earlier for popular bakers or peak wedding season. Schedule tastings 4-6 months out. Finalize design 6-8 weeks before the wedding. Confirm delivery details the week before."
+      },
+      {
+        question: "What's the difference between fondant and buttercream?",
+        answer: "Fondant creates smooth, sculpted looks and holds up better in heat. Buttercream is creamier, often preferred for taste, but shows imperfections more. Many bakers offer fondant exterior with buttercream filling. Your preference (look vs. taste) guides the choice."
+      }
+    ],
+    relatedServices: ["bakery", "catering", "wedding-planner"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "videographer",
+    title: "Videographer",
+    category: "events_entertainment",
+    subcategory: "media",
+    layout: 3,
+    icon: "Video",
+    iconColor: "red",
+    metaTitle: "Videographer in Navarro County, TX | Video Production Corsicana",
+    metaDescription: "Videography services in Corsicana and Navarro County. Wedding video, event videography, and video production.",
+    metaKeywords: "videographer Corsicana, video production Navarro County, wedding video, event video",
+    heroContent: `Videography captures motion and sound that photos can't—laughter, vows, toasts, and music. Professional videographers create cinematic memories of your most important events.`,
+    localContext: `Events in Navarro County deserve professional documentation. Local videographers understand area venues and deliver quality video that lets you relive special moments.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Video Services",
+        content: `**Events**
+- Wedding videography
+- Corporate events
+- Birthday parties
+- Quinceañeras
+- Graduations
+
+**Styles**
+- Cinematic films
+- Documentary style
+- Highlight reels
+- Full ceremony/reception
+- Same-day edits
+
+**Commercial**
+- Promotional videos
+- Real estate tours
+- Product videos
+- Social media content`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does wedding videography cost?",
+        answer: "Wedding videography typically costs $1,500-$5,000+. Basic packages include highlight films; comprehensive coverage with multiple cameras, drone footage, and extended edits costs more. Quality editing is labor-intensive, affecting price."
+      },
+      {
+        question: "Do I need both a photographer and videographer?",
+        answer: "They capture different things—photos freeze moments; video captures motion, sound, and emotion. Many couples value both but budget for priorities. If choosing one, photos are more traditional; video shows the day's movement and voices."
+      },
+      {
+        question: "How long does video editing take?",
+        answer: "Wedding highlight films typically take 6-12 weeks after the event. Full-length films may take longer. Rush delivery costs extra. Clarify timeline expectations when booking. Quality editing takes time—beware of promises that seem too fast."
+      }
+    ],
+    relatedServices: ["photographer", "wedding-photographer", "drone-photography"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "photo-booth",
+    title: "Photo Booth Rental",
+    category: "events_entertainment",
+    subcategory: "media",
+    layout: 4,
+    icon: "Camera",
+    iconColor: "violet",
+    metaTitle: "Photo Booth Rental in Navarro County, TX | Party Photo Booth Corsicana",
+    metaDescription: "Photo booth rentals in Corsicana and Navarro County. Event photo booths, props, and instant print photo services.",
+    metaKeywords: "photo booth Corsicana, photo booth rental Navarro County, party photo booth, event photos",
+    heroContent: `Photo booths add interactive fun to any event while creating instant keepsakes. Guests love the props, poses, and printed photos to take home.`,
+    localContext: `Photo booths are popular at Navarro County weddings, parties, and corporate events. Modern booths offer digital sharing alongside classic prints.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Photo Booth Services",
+        content: `**Booth Types**
+- Traditional enclosed booths
+- Open-air setups
+- Mirror booths
+- 360° video booths
+- Green screen booths
+
+**Features**
+- Instant prints
+- Digital sharing
+- Props included
+- Custom backdrops
+- Branded templates
+
+**Events**
+- Weddings
+- Birthday parties
+- Corporate events
+- School functions
+- Holiday parties`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does photo booth rental cost?",
+        answer: "Photo booth rental typically costs $400-$1,000 for 2-4 hours. Price varies by booth type, hours, and features. Open-air setups often cost less than enclosed booths. Includes attendant, props, and unlimited prints. Digital galleries may be additional."
+      },
+      {
+        question: "How much space does a photo booth need?",
+        answer: "Traditional booths need about 8x8 feet. Open-air setups need 10x10 feet or more. Mirror and 360 booths vary. You'll also need space for lines to form. Discuss space requirements with the company based on your venue."
+      },
+      {
+        question: "How long should I rent a photo booth?",
+        answer: "For weddings, 3-4 hours during reception is typical. For shorter parties, 2 hours may suffice. Consider guest count—more guests need more time. Place the booth where guests will naturally gather and have time to use it."
+      }
+    ],
+    relatedServices: ["photographer", "dj", "party-rental"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "drone-photography",
+    title: "Drone Photography",
+    category: "events_entertainment",
+    subcategory: "media",
+    layout: 5,
+    icon: "Plane",
+    iconColor: "blue",
+    metaTitle: "Drone Photography in Navarro County, TX | Aerial Photos Corsicana",
+    metaDescription: "Drone photography and videography in Corsicana and Navarro County. Aerial photos, real estate drone footage, and event aerial coverage.",
+    metaKeywords: "drone photography Corsicana, aerial photos Navarro County, drone video, real estate drone",
+    heroContent: `Drone photography provides stunning aerial perspectives impossible from the ground. From real estate to events to surveying, drones capture unique views and valuable imagery.`,
+    localContext: `Navarro County's landscapes, ranches, and properties benefit from aerial photography. Licensed drone operators provide professional imagery while following FAA regulations.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Drone Services",
+        content: `**Applications**
+- Real estate listings
+- Land and ranch imagery
+- Event coverage
+- Construction progress
+- Roof inspections
+
+**Output**
+- Still photography
+- 4K video
+- Panoramic images
+- Virtual tours
+- Mapping/surveying
+
+**Licensing**
+- FAA Part 107 certified
+- Insured operations
+- Permit coordination`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does drone photography cost?",
+        answer: "Real estate drone shoots cost $100-$300 for standard homes, more for larger properties. Event coverage runs $200-$500 per hour. Commercial and surveying projects are quoted individually. Pricing includes flight, photography, and basic editing."
+      },
+      {
+        question: "Are there restrictions on drone photography?",
+        answer: "Yes—drones can't fly near airports, over crowds, or above 400 feet without authorization. Some areas require permits. Professional operators are FAA-licensed (Part 107) and understand restrictions. They coordinate with venues and authorities as needed."
+      },
+      {
+        question: "Can drones fly at weddings?",
+        answer: "Outdoor weddings at appropriate venues work well for drone coverage. Indoor venues and some locations prohibit drones. Discuss with your venue and drone operator. Best results come from brief, planned flights rather than constant hovering."
+      }
+    ],
+    relatedServices: ["photographer", "videographer", "realtor"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "live-band",
+    title: "Live Band",
+    category: "events_entertainment",
+    subcategory: "music",
+    layout: 1,
+    icon: "Music2",
+    iconColor: "violet",
+    metaTitle: "Live Band in Navarro County, TX | Event Music Corsicana",
+    metaDescription: "Live bands in Corsicana and Navarro County. Wedding bands, party bands, and live music for events.",
+    metaKeywords: "live band Corsicana, wedding band Navarro County, party band, live music",
+    heroContent: `Live music elevates any event with energy and entertainment that recordings can't match. From wedding receptions to corporate events, live bands create memorable experiences.`,
+    localContext: `Texas has a rich live music tradition, and Navarro County events benefit from talented local and regional bands playing everything from country to rock to jazz.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Band Services",
+        content: `**Genres**
+- Country/Western
+- Rock/Pop
+- Jazz
+- R&B/Soul
+- Variety/Cover bands
+
+**Events**
+- Weddings
+- Corporate events
+- Private parties
+- Festivals
+- Fundraisers
+
+**Services**
+- Sound equipment
+- Lighting (some)
+- MC services
+- Request coordination`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a live band cost?",
+        answer: "Wedding and event bands typically cost $1,500-$5,000+ for a 3-4 hour performance. Price varies by band size, reputation, and demand. Cover bands are often more affordable than original acts. Get quotes from multiple bands within your budget."
+      },
+      {
+        question: "How do I choose a band for my event?",
+        answer: "See them perform live if possible, or watch video. Discuss your music preferences and must-play songs. Ask about their equipment and space needs. Check references and reviews. Ensure their vibe matches your event's atmosphere."
+      },
+      {
+        question: "What's the difference between a band and a DJ?",
+        answer: "Bands offer live energy and interaction but play only songs in their repertoire. DJs offer unlimited song selection and can read crowd response instantly. Bands typically cost more. Many couples choose bands for dinner/cocktails and DJs for dancing."
+      }
+    ],
+    relatedServices: ["dj", "wedding-venue", "event-planner"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "event-planner",
+    title: "Event Planner",
+    category: "events_entertainment",
+    subcategory: "services",
+    layout: 2,
+    icon: "Calendar",
+    iconColor: "pink",
+    metaTitle: "Event Planner in Navarro County, TX | Event Coordinator Corsicana",
+    metaDescription: "Event planning services in Corsicana and Navarro County. Party planning, corporate events, and event coordination.",
+    metaKeywords: "event planner Corsicana, event coordinator Navarro County, party planning, event services",
+    heroContent: `Event planners transform visions into reality. They handle logistics, coordinate vendors, manage timelines, and ensure every detail comes together for seamless events.`,
+    localContext: `From intimate gatherings to large celebrations, Navarro County event planners know local venues and vendors, simplifying the planning process and ensuring successful events.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Planning Services",
+        content: `**Event Types**
+- Weddings
+- Corporate events
+- Birthday parties
+- Anniversary celebrations
+- Fundraisers
+
+**Services**
+- Full planning
+- Partial planning
+- Day-of coordination
+- Vendor management
+- Budget management
+
+**Coordination**
+- Timeline creation
+- Vendor communication
+- Setup supervision
+- Event direction`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do event planners charge?",
+        answer: "Full wedding planning costs $2,000-$10,000+ (or 15-20% of budget). Day-of coordination runs $800-$2,000. Corporate and party planning varies by scope. Investment pays off in stress reduction and vendor relationships that often save money."
+      },
+      {
+        question: "What's the difference between full planning and day-of coordination?",
+        answer: "Full planning means the planner handles everything from start to finish—venue selection, vendor hiring, design, and logistics. Day-of coordination means you plan everything and the coordinator executes on event day. Partial planning falls in between."
+      },
+      {
+        question: "When should I hire an event planner?",
+        answer: "For full planning, hire as soon as you start planning (6-12 months before weddings). Day-of coordinators should be hired 2-3 months out to learn your plans. Earlier engagement allows planners to use their vendor relationships and experience."
+      }
+    ],
+    relatedServices: ["wedding-planner", "catering", "event-venue"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "party-bus",
+    title: "Party Bus / Limo",
+    category: "events_entertainment",
+    subcategory: "services",
+    layout: 3,
+    icon: "Bus",
+    iconColor: "violet",
+    metaTitle: "Party Bus in Navarro County, TX | Limo Service Corsicana",
+    metaDescription: "Party bus and limousine service in Corsicana and Navarro County. Wedding transportation, prom limo, and group transportation.",
+    metaKeywords: "party bus Corsicana, limo service Navarro County, wedding limo, prom transportation",
+    heroContent: `Party buses and limousines add excitement and luxury to special occasions. Safe, stylish group transportation makes events memorable from start to finish.`,
+    localContext: `From weddings to proms to bachelor/bachelorette parties, Navarro County celebrations are enhanced with luxury transportation. Party buses allow groups to travel together safely.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Transportation Services",
+        content: `**Vehicles**
+- Party buses (15-40 passengers)
+- Stretch limousines
+- Sedan service
+- SUV limousines
+- Vintage/classic cars
+
+**Events**
+- Weddings
+- Proms
+- Bachelor/bachelorette parties
+- Birthdays
+- Wine tours
+
+**Features**
+- Sound systems
+- Lighting
+- Bar setups
+- Climate control`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a party bus cost?",
+        answer: "Party buses typically run $150-$400+ per hour with 3-4 hour minimums. Limousines cost $100-$250 per hour. Wedding packages may offer better value than hourly rates. Prices vary by vehicle size and amenities. Book early for peak dates."
+      },
+      {
+        question: "How far in advance should I book?",
+        answer: "Book 2-4 months ahead for most events. Proms, major holidays, and popular wedding dates require earlier booking—3-6 months. Last-minute availability is possible but limited. Popular vehicles book up quickly."
+      },
+      {
+        question: "Can passengers drink on party buses?",
+        answer: "Texas allows alcohol consumption on party buses and limousines (not in the driver area). BYOB is typically allowed; check with the company. No open containers when entering or exiting. Responsible drinking is expected. Companies may refuse service for excessive intoxication."
+      }
+    ],
+    relatedServices: ["wedding-venue", "dj", "charter-bus"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // FOOD & BEVERAGE
+  // ============================================
+  {
+    slug: "bbq-catering",
+    title: "BBQ Catering",
+    category: "food_beverage",
+    subcategory: "catering",
+    layout: 4,
+    icon: "Flame",
+    iconColor: "orange",
+    metaTitle: "BBQ Catering in Navarro County, TX | BBQ Caterer Corsicana",
+    metaDescription: "BBQ catering services in Corsicana and Navarro County. Texas BBQ catering, brisket, and smoked meat catering for events.",
+    metaKeywords: "BBQ catering Corsicana, BBQ caterer Navarro County, brisket catering, Texas BBQ",
+    heroContent: `Nothing says Texas like BBQ. BBQ caterers bring authentic smoked meats to weddings, corporate events, and celebrations, delivering the flavors that define Texas cuisine.`,
+    localContext: `Texas BBQ tradition runs deep, and Navarro County events frequently feature smoked brisket, ribs, and all the fixings. Local BBQ caterers provide authentic Texas BBQ for any occasion.`,
+    sections: [
+      {
+        type: "services",
+        heading: "BBQ Catering Services",
+        content: `**Menu Options**
+- Brisket
+- Ribs
+- Pulled pork
+- Sausage
+- Smoked turkey
+
+**Service Styles**
+- Buffet service
+- Plated service
+- Food truck (some)
+- On-site smoking
+- Drop-off catering
+
+**Sides**
+- Coleslaw
+- Beans
+- Potato salad
+- Mac and cheese
+- Cornbread`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does BBQ catering cost per person?",
+        answer: "BBQ catering typically runs $15-$35 per person depending on menu and service level. Basic packages include meat, 2-3 sides, and bread. Premium packages add more meats and sides. Full-service with staff costs more than drop-off."
+      },
+      {
+        question: "How much meat should I order per person?",
+        answer: "Plan for 1/3 to 1/2 pound of meat per person. If serving multiple meats, this can be divided among them. Hungry crowds and meat-focused events may need more. Your caterer can help estimate based on your guest profile."
+      },
+      {
+        question: "Can BBQ be served at formal events?",
+        answer: "Absolutely! BBQ can be elevated with presentation, quality linens, and professional service. The food is rustic but the setting can be elegant. Many Texas weddings successfully combine BBQ with formal atmospheres."
+      }
+    ],
+    relatedServices: ["catering", "event-venue", "wedding-venue"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "food-truck",
+    title: "Food Truck",
+    category: "food_beverage",
+    subcategory: "catering",
+    layout: 5,
+    icon: "Truck",
+    iconColor: "red",
+    metaTitle: "Food Truck in Navarro County, TX | Food Truck Catering Corsicana",
+    metaDescription: "Food trucks in Corsicana and Navarro County. Food truck catering, mobile food service, and event food trucks.",
+    metaKeywords: "food truck Corsicana, food truck catering Navarro County, mobile food, street food",
+    heroContent: `Food trucks bring excitement and variety to events. These mobile kitchens offer everything from tacos to BBQ to gourmet cuisine, adding a fun, casual element to celebrations.`,
+    localContext: `Food trucks have become popular options for Navarro County events, offering casual dining that guests love. From wedding after-parties to corporate lunches, food trucks deliver delicious convenience.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Food Truck Services",
+        content: `**Cuisine Types**
+- Tacos and Mexican
+- BBQ
+- Burgers and sandwiches
+- Asian fusion
+- Desserts and sweets
+
+**Events**
+- Weddings
+- Corporate events
+- Birthday parties
+- Community events
+- Lunch service
+
+**Features**
+- Self-contained operation
+- Made-to-order food
+- Unique menus
+- Event packages`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does food truck catering cost?",
+        answer: "Food trucks often charge per-person minimums ($12-$25/person) or hourly rates ($500-$1,500 for 2-4 hours). Some have flat-rate event packages. Costs vary by menu and service duration. Get quotes specifying guest count and service time."
+      },
+      {
+        question: "What do food trucks need to operate at my event?",
+        answer: "Food trucks need: adequate space (usually 20x40 feet minimum), relatively flat/level ground, and sometimes electrical access. Check with your venue about food truck policies. The truck handles food prep—they're self-contained kitchens."
+      },
+      {
+        question: "Can I have multiple food trucks at one event?",
+        answer: "Yes! Multiple trucks offering different cuisines create a fun food festival atmosphere. Each truck needs adequate space. Coordinate with trucks to avoid menu overlap. Multiple trucks work well for larger events with diverse guest preferences."
+      }
+    ],
+    relatedServices: ["catering", "event-venue", "bbq-catering"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "personal-chef",
+    title: "Personal Chef",
+    category: "food_beverage",
+    subcategory: "catering",
+    layout: 1,
+    icon: "ChefHat",
+    iconColor: "amber",
+    metaTitle: "Personal Chef in Navarro County, TX | Private Chef Corsicana",
+    metaDescription: "Personal chef services in Corsicana and Navarro County. Private chef dinners, meal preparation, and in-home cooking.",
+    metaKeywords: "personal chef Corsicana, private chef Navarro County, in-home cooking, meal prep",
+    heroContent: `Personal chefs bring restaurant-quality meals to your home. Whether for special dinners, regular meal prep, or dietary needs, personal chefs provide customized culinary experiences.`,
+    localContext: `Busy Navarro County families and those hosting intimate gatherings benefit from personal chef services. Enjoy professionally prepared meals in the comfort of home.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Chef Services",
+        content: `**Services**
+- Private dinner parties
+- Weekly meal prep
+- Special occasion dinners
+- Cooking lessons
+- Holiday meals
+
+**Dietary**
+- Custom menus
+- Dietary restrictions
+- Health-focused meals
+- Special diets (keto, etc.)
+
+**Events**
+- Intimate dinner parties
+- Date night dinners
+- Family celebrations
+- Business dinners`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a personal chef cost?",
+        answer: "Private dinner parties typically cost $75-$150+ per person including food. Weekly meal prep runs $300-$600+ per week depending on servings. Special occasion dinners for small groups start around $500-$1,000. Prices include shopping, cooking, and cleanup."
+      },
+      {
+        question: "What does a personal chef provide vs. what do I need?",
+        answer: "Chefs typically provide food, basic supplies, and expertise. You provide the kitchen and serving ware. Discuss specifics—some chefs bring specialty equipment, others work with what's available. Clarify expectations before booking."
+      },
+      {
+        question: "How far in advance should I book a personal chef?",
+        answer: "Book 2-4 weeks ahead for special dinners. Holiday dates and weekends fill quickly—book 4-6 weeks out. Regular meal prep services may have waiting lists. Contact chefs early to discuss availability and menu planning."
+      }
+    ],
+    relatedServices: ["catering", "meal-prep", "nutritionist"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "meal-prep",
+    title: "Meal Prep Service",
+    category: "food_beverage",
+    subcategory: "catering",
+    layout: 2,
+    icon: "UtensilsCrossed",
+    iconColor: "green",
+    metaTitle: "Meal Prep in Navarro County, TX | Prepared Meals Corsicana",
+    metaDescription: "Meal prep services in Corsicana and Navarro County. Prepared meals, weekly meal delivery, and healthy meal prep.",
+    metaKeywords: "meal prep Corsicana, prepared meals Navarro County, meal delivery, healthy meals",
+    heroContent: `Meal prep services provide ready-to-eat or ready-to-heat meals, saving time while eating well. For busy schedules, dietary goals, or convenience, prepared meals simplify healthy eating.`,
+    localContext: `Navarro County residents with busy schedules appreciate the convenience of meal prep services. Local options provide fresh, prepared meals without the time commitment of cooking.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Meal Prep Services",
+        content: `**Options**
+- Weekly meal delivery
+- Meal subscriptions
+- Custom meal plans
+- Family portions
+- Individual servings
+
+**Dietary**
+- Health-focused
+- Weight loss meals
+- Keto/low-carb
+- Vegetarian/vegan
+- Allergy-friendly
+
+**Convenience**
+- Ready to eat
+- Heat and serve
+- Portioned containers
+- Delivery or pickup`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does meal prep service cost?",
+        answer: "Prepared meals typically cost $10-$18 per meal. Weekly subscriptions range from $80-$200+ depending on number of meals and customization. Compare to grocery costs plus your time cooking. Specialized diets may cost more."
+      },
+      {
+        question: "How long do prepared meals last?",
+        answer: "Refrigerated meals typically last 5-7 days. Some services offer frozen options lasting longer. Meals come with 'best by' dates. Proper refrigeration is essential. Follow provider's storage instructions for food safety."
+      },
+      {
+        question: "Can meal prep accommodate dietary restrictions?",
+        answer: "Most services offer customization for common dietary needs—gluten-free, dairy-free, vegetarian, low-sodium, etc. Specialty providers focus on specific diets (keto, paleo, etc.). Discuss your needs before subscribing to ensure they can accommodate."
+      }
+    ],
+    relatedServices: ["personal-chef", "nutritionist", "grocery-delivery"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "specialty-cakes",
+    title: "Specialty Cakes",
+    category: "food_beverage",
+    subcategory: "retail",
+    layout: 3,
+    icon: "Cake",
+    iconColor: "pink",
+    metaTitle: "Specialty Cakes in Navarro County, TX | Custom Cakes Corsicana",
+    metaDescription: "Specialty cake bakeries in Corsicana and Navarro County. Custom birthday cakes, celebration cakes, and themed cakes.",
+    metaKeywords: "specialty cakes Corsicana, custom cakes Navarro County, birthday cake, celebration cake",
+    heroContent: `Specialty cakes transform celebrations into memorable experiences. From elaborate birthday cakes to themed party cakes, skilled bakers create edible works of art.`,
+    localContext: `Navarro County celebrations deserve custom cakes that wow. Local cake artists create personalized designs for birthdays, graduations, anniversaries, and every special occasion.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Cake Services",
+        content: `**Cake Types**
+- Birthday cakes
+- Graduation cakes
+- Anniversary cakes
+- Baby shower cakes
+- Themed cakes
+
+**Design**
+- Custom designs
+- Character cakes
+- Photo cakes
+- Sculpted cakes
+- Tiered cakes
+
+**Dietary**
+- Gluten-free options
+- Vegan cakes
+- Sugar-free options
+- Allergy-friendly`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do custom cakes cost?",
+        answer: "Custom cakes typically cost $4-$8 per serving. A cake serving 24 runs $100-$200. Elaborate designs, sculpting, and multiple tiers cost more. Simple buttercream designs are more affordable than fondant or complex work."
+      },
+      {
+        question: "How far in advance should I order?",
+        answer: "Order 2-4 weeks before your event. Complex designs or busy seasons (graduation, holidays) require more notice. Last-minute orders may be possible but limit options. Discuss your vision early to allow design development."
+      },
+      {
+        question: "Can I bring my own design?",
+        answer: "Yes! Photos, sketches, and Pinterest boards help communicate your vision. Bakers may suggest modifications for stability or budget. Be open to professional input on what works best in cake form. Discuss expectations clearly."
+      }
+    ],
+    relatedServices: ["bakery", "wedding-cake", "catering"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // CONSTRUCTION & TRADES
+  // ============================================
+  {
+    slug: "kitchen-remodel",
+    title: "Kitchen Remodeling",
+    category: "construction_trades",
+    subcategory: "construction",
+    layout: 4,
+    icon: "UtensilsCrossed",
+    iconColor: "amber",
+    metaTitle: "Kitchen Remodel in Navarro County, TX | Kitchen Renovation Corsicana",
+    metaDescription: "Kitchen remodeling services in Corsicana and Navarro County. Kitchen renovation, cabinet installation, and kitchen design.",
+    metaKeywords: "kitchen remodel Corsicana, kitchen renovation Navarro County, kitchen design, kitchen cabinets",
+    heroContent: `The kitchen is the heart of the home. Kitchen remodeling transforms outdated spaces into functional, beautiful kitchens that enhance daily life and home value.`,
+    localContext: `Many Navarro County homes have kitchens ready for updating. Local remodeling contractors work with homeowners to create dream kitchens within realistic budgets.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Kitchen Remodel Services",
+        content: `**Remodeling**
+- Full kitchen renovation
+- Cabinet replacement
+- Countertop installation
+- Appliance installation
+- Backsplash
+
+**Design**
+- Layout changes
+- Island additions
+- Lighting design
+- Storage solutions
+- Open concept conversion
+
+**Trades**
+- Plumbing
+- Electrical
+- Flooring
+- Painting`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does kitchen remodeling cost?",
+        answer: "Minor kitchen updates cost $10,000-$25,000. Mid-range remodels run $25,000-$50,000. Major renovations with layout changes cost $50,000-$100,000+. Cabinets and countertops are typically the largest expenses. Set a realistic budget before starting."
+      },
+      {
+        question: "How long does a kitchen remodel take?",
+        answer: "Minor updates take 2-4 weeks. Mid-range remodels take 6-12 weeks. Major renovations with layout changes take 3-6 months. Expect your kitchen to be unusable for a significant portion. Plan for alternative cooking arrangements."
+      },
+      {
+        question: "Should I stay home during a kitchen remodel?",
+        answer: "Most families stay home but need patience. You'll be without a kitchen temporarily—set up a temporary kitchen elsewhere. Dust and noise are constant. Some prefer to vacate during demolition and heavy work. Discuss timeline and disruptions with your contractor."
+      }
+    ],
+    relatedServices: ["bathroom-remodel", "general-contractor", "cabinet-installation"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "bathroom-remodel",
+    title: "Bathroom Remodeling",
+    category: "construction_trades",
+    subcategory: "construction",
+    layout: 5,
+    icon: "Bath",
+    iconColor: "blue",
+    metaTitle: "Bathroom Remodel in Navarro County, TX | Bathroom Renovation Corsicana",
+    metaDescription: "Bathroom remodeling services in Corsicana and Navarro County. Bathroom renovation, shower installation, and bathroom updates.",
+    metaKeywords: "bathroom remodel Corsicana, bathroom renovation Navarro County, shower remodel, bathroom update",
+    heroContent: `Bathroom remodeling improves both functionality and relaxation. From simple updates to complete renovations, bathroom improvements enhance daily routines and home value.`,
+    localContext: `Bathroom updates are among the best home improvement investments. Navarro County remodeling contractors transform outdated bathrooms into comfortable, modern spaces.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Bathroom Remodel Services",
+        content: `**Remodeling**
+- Full bathroom renovation
+- Shower/tub replacement
+- Vanity installation
+- Tile work
+- Fixture updates
+
+**Features**
+- Walk-in showers
+- Freestanding tubs
+- Double vanities
+- Heated floors
+- Lighting upgrades
+
+**Specialty**
+- Accessibility remodels
+- Master bath luxury
+- Half bath updates
+- Jack-and-Jill baths`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does bathroom remodeling cost?",
+        answer: "Basic updates cost $5,000-$15,000. Mid-range remodels run $15,000-$30,000. Luxury master bath renovations cost $30,000-$60,000+. Costs vary by size, fixtures, and finish levels. Tile work and plumbing changes significantly impact budget."
+      },
+      {
+        question: "How long does a bathroom remodel take?",
+        answer: "Small bathroom updates take 1-2 weeks. Complete bathroom remodels take 3-6 weeks. Master bath renovations take 6-8+ weeks. You'll be without the bathroom for much of the project—plan accordingly if it's your only bathroom."
+      },
+      {
+        question: "What bathroom features add the most value?",
+        answer: "Double vanities, walk-in showers, and updated fixtures have broad appeal. Heated floors are a luxury touch. Avoid over-improving for your neighborhood. Neutral, quality finishes appeal to most buyers if resale matters."
+      }
+    ],
+    relatedServices: ["kitchen-remodel", "tile", "plumber"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "room-addition",
+    title: "Room Addition",
+    category: "construction_trades",
+    subcategory: "construction",
+    layout: 1,
+    icon: "PlusSquare",
+    iconColor: "green",
+    metaTitle: "Room Addition in Navarro County, TX | Home Addition Corsicana",
+    metaDescription: "Room addition services in Corsicana and Navarro County. Home additions, building additions, and extra room construction.",
+    metaKeywords: "room addition Corsicana, home addition Navarro County, extra room, house expansion",
+    heroContent: `When your family outgrows your home, room additions provide space without moving. Whether you need a bedroom, office, or living space, additions expand your home's footprint.`,
+    localContext: `Navarro County homeowners often add rooms rather than move—they love their neighborhoods and land. Local contractors build additions that seamlessly match existing homes.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Addition Services",
+        content: `**Addition Types**
+- Bedroom additions
+- Master suite additions
+- Family room additions
+- Home office
+- In-law suites
+
+**Process**
+- Design and planning
+- Permits
+- Foundation work
+- Framing and roofing
+- Systems (HVAC, electrical)
+- Finishing
+
+**Integration**
+- Matching exterior
+- Roof tie-in
+- HVAC extension
+- Electrical capacity`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a room addition cost?",
+        answer: "Room additions typically cost $150-$300+ per square foot, fully finished. A 400 sq ft addition runs $60,000-$120,000+. Costs vary by complexity, finishes, and foundation requirements. Budget additions may cost less; high-end more."
+      },
+      {
+        question: "How long does a room addition take?",
+        answer: "Simple additions take 2-3 months. Larger or complex additions take 4-6 months. Master suites and multi-room additions take longer. Weather, permits, and inspections affect timeline. Plan for disruption during construction."
+      },
+      {
+        question: "Do I need permits for a room addition?",
+        answer: "Yes, room additions require building permits, plan approval, and inspections. Your contractor typically handles permitting. Unpermitted additions create problems for future sales and may not be covered by insurance. Always permit properly."
+      }
+    ],
+    relatedServices: ["general-contractor", "home-builder", "roofing"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "carport",
+    title: "Carport Installation",
+    category: "construction_trades",
+    subcategory: "specialty",
+    layout: 2,
+    icon: "Warehouse",
+    iconColor: "slate",
+    metaTitle: "Carport Installation in Navarro County, TX | Carport Builder Corsicana",
+    metaDescription: "Carport installation in Corsicana and Navarro County. Metal carports, attached carports, and carport construction.",
+    metaKeywords: "carport Corsicana, carport installation Navarro County, metal carport, covered parking",
+    heroContent: `Carports protect vehicles from sun, hail, and weather at a fraction of garage cost. From simple metal structures to custom designs, carports add practical covered parking.`,
+    localContext: `Texas sun and hail make vehicle protection important. Navarro County homeowners install carports to shield vehicles from weather damage while maintaining affordable budgets.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Carport Services",
+        content: `**Types**
+- Metal carports
+- Attached carports
+- Freestanding carports
+- RV carports
+- Multi-vehicle covers
+
+**Materials**
+- Steel frame
+- Aluminum
+- Wood frame (some)
+
+**Features**
+- Various sizes
+- Enclosed options
+- Side panels
+- Custom designs`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a carport cost?",
+        answer: "Basic metal carports cost $1,000-$3,000 for a single vehicle. Double carports run $2,000-$5,000. Attached or custom carports cost more ($5,000-$15,000+). Installation is often included. RV and specialty carports vary by size."
+      },
+      {
+        question: "Do I need a permit for a carport?",
+        answer: "Permit requirements vary by jurisdiction. Many areas require permits for structures over certain sizes. Check with Navarro County or your city before installation. Some HOAs have restrictions on carport styles and placement."
+      },
+      {
+        question: "How long does carport installation take?",
+        answer: "Basic metal carports can be installed in one day. Attached or custom carports take 2-5 days. Concrete pad installation adds time if needed. Weather affects scheduling for outdoor work."
+      }
+    ],
+    relatedServices: ["garage-door", "concrete", "steel-building"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "demolition",
+    title: "Demolition Service",
+    category: "construction_trades",
+    subcategory: "commercial",
+    layout: 3,
+    icon: "Hammer",
+    iconColor: "red",
+    metaTitle: "Demolition Service in Navarro County, TX | Demolition Contractor Corsicana",
+    metaDescription: "Demolition services in Corsicana and Navarro County. Building demolition, interior demolition, and structure removal.",
+    metaKeywords: "demolition Corsicana, demolition contractor Navarro County, building demo, tear down",
+    heroContent: `Demolition clears the way for new construction or removes unwanted structures. Professional demolition services handle everything from interior tear-outs to complete building removal safely.`,
+    localContext: `Navarro County has structures needing removal—old barns, dilapidated buildings, and properties being redeveloped. Local demolition contractors handle projects of all sizes safely and efficiently.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Demolition Services",
+        content: `**Services**
+- Building demolition
+- Interior demolition
+- Selective demolition
+- Concrete removal
+- Foundation removal
+
+**Types**
+- Residential
+- Commercial
+- Agricultural (barns, etc.)
+- Pool removal
+- Deck/patio removal
+
+**Related**
+- Site clearing
+- Debris removal
+- Recycling/salvage
+- Asbestos abatement (licensed)`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does demolition cost?",
+        answer: "Interior demolition costs $4-$12 per square foot. Small structure removal runs $3,000-$10,000. House demolition costs $10,000-$30,000+. Cost depends on size, materials, disposal, and any hazardous materials. Get detailed quotes."
+      },
+      {
+        question: "Do I need a permit for demolition?",
+        answer: "Yes, most demolition requires permits. Utility disconnection must be verified. Asbestos inspection may be required before demolition. Your contractor typically handles permitting. Plan 2-4 weeks for permit processing."
+      },
+      {
+        question: "What happens to demolition debris?",
+        answer: "Debris goes to landfills or recycling facilities. Many materials (metal, concrete, wood) can be recycled. Recycling often reduces costs. Some contractors salvage valuable materials. Discuss debris handling and recycling in your quote."
+      }
+    ],
+    relatedServices: ["general-contractor", "excavator", "junk-removal"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // EDUCATION & CHILDCARE
+  // ============================================
+  {
+    slug: "language-school",
+    title: "Language School",
+    category: "education_childcare",
+    subcategory: "education",
+    layout: 4,
+    icon: "Languages",
+    iconColor: "blue",
+    metaTitle: "Language School in Navarro County, TX | Language Classes Corsicana",
+    metaDescription: "Language learning in Corsicana and Navarro County. Spanish classes, ESL, and foreign language instruction.",
+    metaKeywords: "language school Corsicana, Spanish classes Navarro County, ESL, language learning",
+    heroContent: `Learning a new language opens doors to communication, culture, and career opportunities. Language schools provide structured instruction for students of all ages and goals.`,
+    localContext: `In Navarro County's diverse community, language skills are valuable. Spanish instruction helps professionals and community members communicate, while ESL classes support non-native English speakers.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Language Services",
+        content: `**Languages**
+- Spanish
+- ESL (English as Second Language)
+- Other languages by demand
+
+**Programs**
+- Group classes
+- Private lessons
+- Conversation groups
+- Business language
+- Travel preparation
+
+**Students**
+- Adults
+- Children
+- Business professionals
+- Families`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do language classes cost?",
+        answer: "Group classes typically cost $15-$30 per hour-long session. Private lessons run $40-$80 per hour. Package deals and memberships offer savings. Children's programs and academic prep may have different pricing. Compare program intensity and outcomes."
+      },
+      {
+        question: "How long does it take to learn a language?",
+        answer: "Basic conversational ability in Spanish (for English speakers) takes 6-12 months of regular study. Professional proficiency takes 2-3+ years. Immersion accelerates learning. Consistent practice matters more than class time alone."
+      },
+      {
+        question: "What's the best way to learn a language?",
+        answer: "Combination approaches work best: structured classes for grammar and vocabulary, conversation practice for fluency, and immersion experiences (travel, media, conversation partners) for retention. Consistent daily practice beats occasional intensive study."
+      }
+    ],
+    relatedServices: ["tutoring", "test-prep", "childcare"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "test-prep",
+    title: "SAT/ACT Test Prep",
+    category: "education_childcare",
+    subcategory: "education",
+    layout: 5,
+    icon: "GraduationCap",
+    iconColor: "violet",
+    metaTitle: "Test Prep in Navarro County, TX | SAT ACT Prep Corsicana",
+    metaDescription: "Test preparation services in Corsicana and Navarro County. SAT prep, ACT prep, and college entrance exam tutoring.",
+    metaKeywords: "test prep Corsicana, SAT prep Navarro County, ACT prep, college entrance exam",
+    heroContent: `College entrance exams impact admissions and scholarships. Test prep services help students master content, develop strategies, and build confidence for SAT and ACT success.`,
+    localContext: `Navarro County students competing for college admission and scholarships benefit from structured test preparation. Local tutors and programs help students achieve their target scores.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Test Prep Services",
+        content: `**Exams**
+- SAT
+- ACT
+- PSAT/NMSQT
+- AP exams
+- GRE/GMAT (some)
+
+**Formats**
+- Private tutoring
+- Group classes
+- Online programs
+- Practice tests
+- Boot camps
+
+**Focus Areas**
+- Test strategies
+- Content review
+- Time management
+- Test anxiety
+- Score analysis`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does test prep cost?",
+        answer: "Group classes run $500-$1,500 for multi-week programs. Private tutoring costs $50-$150 per hour. Comprehensive packages cost $1,000-$5,000+. Online self-study is cheapest ($200-$500). Investment often pays off in scholarship opportunities."
+      },
+      {
+        question: "When should students start test prep?",
+        answer: "Most students benefit from starting 2-4 months before their test date. Some begin sophomore year for early exposure. Junior year fall is ideal for spring SAT/ACT. Allow time for multiple test attempts if needed."
+      },
+      {
+        question: "How much can scores improve with prep?",
+        answer: "Average improvements are 100-200 points on SAT or 2-4 points on ACT with quality prep. Results vary by student effort and starting point. Significant improvement is possible with consistent practice and targeted instruction."
+      }
+    ],
+    relatedServices: ["tutoring", "language-school", "career-coach"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // REMAINING SERVICES
+  // ============================================
+  {
+    slug: "bartender",
+    title: "Bartender Service",
+    category: "food_beverage",
+    subcategory: "services",
+    layout: 1,
+    icon: "Wine",
+    iconColor: "red",
+    metaTitle: "Bartender Service in Navarro County, TX | Event Bartending Corsicana",
+    metaDescription: "Bartender services in Corsicana and Navarro County. Event bartending, mobile bar service, and cocktail catering.",
+    metaKeywords: "bartender Corsicana, event bartending Navarro County, mobile bar, cocktail service",
+    heroContent: `Professional bartenders elevate events with skilled service, creative cocktails, and guest engagement. Event bartending ensures smooth drink service while you enjoy your celebration.`,
+    localContext: `Weddings, parties, and corporate events in Navarro County benefit from professional bartending. Mobile bars bring full-service bars anywhere, while professional bartenders manage service smoothly.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Bartending Services",
+        content: `**Services**
+- Event bartending
+- Mobile bar rental
+- Cocktail creation
+- Server service
+- Bar setup/breakdown
+
+**Events**
+- Weddings
+- Private parties
+- Corporate events
+- Holiday parties
+
+**Features**
+- Professional bartenders
+- Mixology expertise
+- Glassware rental
+- Bar equipment`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does bartender service cost?",
+        answer: "Bartender service typically costs $25-$50 per hour with 4-hour minimums. Mobile bar setups add $200-$500. Staffing ratios (1 bartender per 50 guests) affect cost. Alcohol, ice, and supplies may be separate depending on the package."
+      },
+      {
+        question: "Do I provide the alcohol or does the bartender?",
+        answer: "In Texas, unlicensed events typically require you to provide alcohol. Bartenders provide service, equipment, and mixers. Some services offer alcohol purchasing assistance. Licensed establishments handle alcohol differently. Clarify arrangements upfront."
+      },
+      {
+        question: "How many bartenders do I need?",
+        answer: "Generally, plan one bartender per 50-75 guests for steady service. Cocktail-heavy events need more bartenders. Beer and wine only requires fewer. High-volume periods (cocktail hour, toasts) benefit from additional staff."
+      }
+    ],
+    relatedServices: ["catering", "event-venue", "party-rental"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "pet-sitter",
+    title: "Pet Sitting",
+    category: "agriculture_rural",
+    subcategory: "animal",
+    layout: 2,
+    icon: "Heart",
+    iconColor: "pink",
+    metaTitle: "Pet Sitting in Navarro County, TX | Pet Sitter Corsicana",
+    metaDescription: "Pet sitting services in Corsicana and Navarro County. In-home pet care, dog walking, and vacation pet sitting.",
+    metaKeywords: "pet sitting Corsicana, pet sitter Navarro County, dog walking, pet care",
+    heroContent: `Pet sitters provide loving care for your animals while you're away. Whether traveling or working long hours, professional pet sitting keeps pets comfortable in their own environment.`,
+    localContext: `Navarro County pet owners often prefer in-home pet sitting over kennels. Local pet sitters provide personalized attention while pets stay in familiar surroundings.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Pet Sitting Services",
+        content: `**Services**
+- In-home visits
+- Overnight sitting
+- Dog walking
+- Feeding and medication
+- Plant/mail care
+
+**Animals**
+- Dogs
+- Cats
+- Small pets
+- Birds
+- Farm animals (some)
+
+**Options**
+- Daily visits
+- Extended stays
+- Puppy care
+- Senior pet care`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does pet sitting cost?",
+        answer: "Drop-in visits cost $15-$30 per visit. Overnight stays run $50-$100+ per night. Dog walking costs $15-$25 per walk. Rates vary by duration, pet count, and special needs. Holiday periods often have premium pricing."
+      },
+      {
+        question: "Is my home safe with a pet sitter?",
+        answer: "Reputable sitters are background-checked, insured, and bonded. Ask for references and verify credentials. Meet the sitter beforehand so your pet is comfortable. Provide clear instructions and emergency contacts."
+      },
+      {
+        question: "What if my pet has special needs?",
+        answer: "Experienced sitters handle medications, special diets, and medical conditions. Discuss needs thoroughly. Some sitters have veterinary or animal care backgrounds. Ensure the sitter is comfortable with your pet's requirements before booking."
+      }
+    ],
+    relatedServices: ["pet-groomer", "dog-trainer", "veterinarian"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "horse-trainer",
+    title: "Horse Training",
+    category: "agriculture_rural",
+    subcategory: "animal",
+    layout: 3,
+    icon: "Heart",
+    iconColor: "amber",
+    metaTitle: "Horse Training in Navarro County, TX | Horse Trainer Corsicana",
+    metaDescription: "Horse training services in Corsicana and Navarro County. Horse breaking, riding lessons, and equine training.",
+    metaKeywords: "horse trainer Corsicana, horse training Navarro County, horse breaking, riding lessons",
+    heroContent: `Horse training develops safe, responsive horses for riding and work. Whether starting young horses, correcting problems, or training for specific disciplines, skilled trainers build horse-human partnerships.`,
+    localContext: `Navarro County's rural character supports a strong equestrian community. Horse trainers work with quarter horses, performance horses, and recreational mounts throughout the area.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Training Services",
+        content: `**Training**
+- Colt starting
+- Breaking and gentling
+- Ground work
+- Riding training
+- Problem solving
+
+**Disciplines**
+- Western pleasure
+- Ranch work
+- Trail riding
+- Barrel racing
+- Roping
+
+**Lessons**
+- Beginner riding
+- Advanced instruction
+- Youth lessons
+- Adult programs`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does horse training cost?",
+        answer: "Board and training typically runs $800-$1,500 per month. Training only (you provide care) costs $400-$800 monthly. Individual lessons cost $40-$80 per hour. Rates vary by trainer experience and program intensity."
+      },
+      {
+        question: "How long does horse training take?",
+        answer: "Basic training for green horses takes 30-90 days. Problem horses may need longer. Advanced training is ongoing. Results depend on horse age, temperament, and training goals. Discuss realistic timelines with your trainer."
+      },
+      {
+        question: "Should I send my horse out for training or have a trainer come to me?",
+        answer: "Board training provides daily, consistent work and professional facilities. In-home training maintains your horse's routine but may progress slower. Both work—consider your facilities, budget, and horse's temperament."
+      }
+    ],
+    relatedServices: ["farrier", "large-animal-vet", "feed-store"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "farm-supply",
+    title: "Farm Supply",
+    category: "agriculture_rural",
+    subcategory: "farm",
+    layout: 4,
+    icon: "Tractor",
+    iconColor: "green",
+    metaTitle: "Farm Supply in Navarro County, TX | Agricultural Supply Corsicana",
+    metaDescription: "Farm supply stores in Corsicana and Navarro County. Agricultural supplies, farm equipment, and ranch supplies.",
+    metaKeywords: "farm supply Corsicana, agricultural supply Navarro County, ranch supply, farm equipment",
+    heroContent: `Farm supply stores provide everything rural operations need—feed, fencing, equipment, and expertise. These retailers understand agricultural life and stock products for local conditions.`,
+    localContext: `Navarro County's agricultural economy depends on farm supply stores. Local suppliers stock products suited to our soil, climate, and farming practices while providing knowledgeable service.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Farm Supply Products",
+        content: `**Feed**
+- Livestock feed
+- Hay and forage
+- Supplements
+- Pet food
+
+**Fencing**
+- Wire and posts
+- Gates
+- Electric fence
+- Tools
+
+**Equipment**
+- Tools and hardware
+- Irrigation
+- Small equipment
+- Implements
+
+**Livestock**
+- Panels and gates
+- Feeders and waterers
+- Health products
+- Handling equipment`
+      }
+    ],
+    faqs: [
+      {
+        question: "What's the advantage of local farm supply vs. big box stores?",
+        answer: "Local farm supply stores stock products suited to local conditions, offer expert advice from people who understand agriculture, often provide delivery, and support the local farming community. Staff can advise on products and applications."
+      },
+      {
+        question: "Do farm supply stores deliver?",
+        answer: "Many offer delivery for large or heavy items like feed, fencing materials, and equipment. Delivery fees vary by distance and load. Some offer regular feed delivery routes. Ask about delivery options when purchasing."
+      },
+      {
+        question: "Can farm supply stores special order items?",
+        answer: "Yes, most can order items not normally stocked. This is useful for specialty products, large quantities, or specific brands. Lead time varies. Establish relationships with suppliers for better service on special needs."
+      }
+    ],
+    relatedServices: ["feed-store", "tractor-repair", "veterinarian"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "custom-farming",
+    title: "Custom Farming",
+    category: "agriculture_rural",
+    subcategory: "farm",
+    layout: 5,
+    icon: "Wheat",
+    iconColor: "amber",
+    metaTitle: "Custom Farming in Navarro County, TX | Farm Services Corsicana",
+    metaDescription: "Custom farming services in Corsicana and Navarro County. Custom harvesting, planting, and agricultural services.",
+    metaKeywords: "custom farming Corsicana, custom harvesting Navarro County, farm services, agricultural contractor",
+    heroContent: `Custom farmers provide agricultural services with professional equipment. From planting to harvesting, they help landowners farm efficiently without owning expensive machinery.`,
+    localContext: `Navarro County's agricultural heritage continues with row crops, hay, and cattle. Custom farmers serve landowners who want to farm but don't have equipment, or need additional capacity during busy seasons.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Custom Farming Services",
+        content: `**Field Work**
+- Planting
+- Harvesting
+- Tillage
+- Spraying
+- Fertilizer application
+
+**Hay Services**
+- Cutting
+- Baling
+- Hauling
+- Storage
+
+**Equipment**
+- Combines
+- Tractors and implements
+- Sprayers
+- Balers`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does custom farming cost?",
+        answer: "Rates vary by service and acreage. Custom harvesting runs $20-$40 per acre. Planting costs $15-$30 per acre. Hay cutting and baling runs $25-$35 per large bale or by the acre. Get quotes based on your specific acreage and needs."
+      },
+      {
+        question: "Is custom farming worth it vs. owning equipment?",
+        answer: "For small operations, custom farming usually makes more sense—no equipment cost, maintenance, or storage. For larger operations, equipment ownership may pay off. Calculate costs including depreciation, repairs, and time. Many large operations still use custom help during peak times."
+      },
+      {
+        question: "How do I schedule custom farming services?",
+        answer: "Book services well in advance, especially for planting and harvest seasons when equipment is in demand. Establish relationships with operators before you need them. Weather affects timing—flexibility helps. Good operators book up quickly."
+      }
+    ],
+    relatedServices: ["hay-service", "tractor-repair", "land-clearing"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "hay-service",
+    title: "Hay Service",
+    category: "agriculture_rural",
+    subcategory: "farm",
+    layout: 1,
+    icon: "Wheat",
+    iconColor: "yellow",
+    metaTitle: "Hay Service in Navarro County, TX | Hay Cutting Corsicana",
+    metaDescription: "Hay services in Corsicana and Navarro County. Hay cutting, baling, hauling, and custom hay production.",
+    metaKeywords: "hay service Corsicana, hay cutting Navarro County, hay baling, hay hauling",
+    heroContent: `Hay services handle the cutting, baling, and hauling of hay for livestock operations. Custom hay services allow landowners to produce hay without owning all the equipment.`,
+    localContext: `Navarro County produces coastal bermuda, bahia, and native grass hay. Custom hay services help landowners maximize hay production on their acreage for their own use or sale.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Hay Services",
+        content: `**Field Services**
+- Cutting/mowing
+- Tedding/raking
+- Baling (round or square)
+- Net wrap
+- Loading
+
+**Hauling**
+- Field pickup
+- Local delivery
+- Long-distance hauling
+- Storage coordination
+
+**Management**
+- Field assessment
+- Timing recommendations
+- Fertilizer scheduling`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does custom hay baling cost?",
+        answer: "Round bales typically cost $20-$35 per bale for cutting, raking, and baling. Large square bales run $35-$50+. Net wrap adds cost. Hauling is separate ($3-$5 per mile per load). Total cost depends on field conditions and yield."
+      },
+      {
+        question: "When should hay be cut?",
+        answer: "Timing depends on grass type, maturity, and weather. Coastal bermuda is typically cut at 4-5 weeks of growth. Watch weather forecasts—you need several dry days for proper curing. Your hay service can advise on timing for your fields."
+      },
+      {
+        question: "How many bales per acre should I expect?",
+        answer: "Yields vary significantly by grass type, fertility, and moisture. Coastal bermuda may yield 60-100 round bales per acre annually (multiple cuttings). Native grass produces less. Well-fertilized, irrigated fields yield more. First cuttings are typically heaviest."
+      }
+    ],
+    relatedServices: ["custom-farming", "cattle-hauling", "farm-supply"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "cattle-hauling",
+    title: "Cattle Hauling",
+    category: "agriculture_rural",
+    subcategory: "farm",
+    layout: 2,
+    icon: "Truck",
+    iconColor: "brown",
+    metaTitle: "Cattle Hauling in Navarro County, TX | Livestock Transport Corsicana",
+    metaDescription: "Cattle hauling services in Corsicana and Navarro County. Livestock transportation, cattle transport, and animal hauling.",
+    metaKeywords: "cattle hauling Corsicana, livestock transport Navarro County, cattle truck, animal hauling",
+    heroContent: `Cattle hauling services transport livestock safely and legally. Whether moving cattle to market, new pastures, or veterinary facilities, professional haulers handle animals properly.`,
+    localContext: `Navarro County's cattle industry relies on livestock haulers. From local moves to long-distance transport, haulers serve ranchers, feedlots, and sale barns throughout the region.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Hauling Services",
+        content: `**Livestock Transport**
+- Cattle
+- Horses
+- Sheep and goats
+- Other livestock
+
+**Trip Types**
+- Local moves
+- Auction/sale barn trips
+- Ranch to ranch
+- Long-distance hauling
+
+**Equipment**
+- Stock trailers
+- Gooseneck trailers
+- Semi trucks
+- Pot trailers`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does cattle hauling cost?",
+        answer: "Local hauling (under 50 miles) typically runs $150-$300 per load. Longer distances are priced per mile ($2-$4/loaded mile). Rates depend on trailer type and capacity. Semi loads carrying 40-50 head cost more but may be economical per head."
+      },
+      {
+        question: "What paperwork do I need for cattle hauling?",
+        answer: "Texas requires brand inspection for cattle moving to sale or across state lines. Health certificates may be needed for interstate movement. The hauler should understand requirements. Have documentation ready before scheduled pickup."
+      },
+      {
+        question: "How many cattle fit in a trailer?",
+        answer: "Standard gooseneck trailers (24-28 ft) hold 8-15 cattle depending on size. Pot trailers (semi) hold 40-50+ head. Don't overcrowd—animals need space for balance and to avoid injury. Your hauler knows safe capacities."
+      }
+    ],
+    relatedServices: ["large-animal-vet", "feed-store", "custom-farming"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "fencing-agricultural",
+    title: "Agricultural Fencing",
+    category: "agriculture_rural",
+    subcategory: "land",
+    layout: 3,
+    icon: "Grid2X2",
+    iconColor: "brown",
+    metaTitle: "Agricultural Fencing in Navarro County, TX | Farm Fence Corsicana",
+    metaDescription: "Agricultural fencing services in Corsicana and Navarro County. Barbed wire, pipe fencing, and ranch fencing installation.",
+    metaKeywords: "agricultural fencing Corsicana, farm fence Navarro County, barbed wire, pipe fence, ranch fence",
+    heroContent: `Agricultural fencing contains livestock, defines boundaries, and protects property. From barbed wire to pipe, professional fence builders create durable fencing for rural operations.`,
+    localContext: `Navarro County ranches and farms need quality fencing. Local fence builders understand our soil conditions, livestock types, and the fencing that performs best in our climate.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Fence Services",
+        content: `**Fence Types**
+- Barbed wire
+- Pipe/cable
+- High-tensile wire
+- Net wire
+- Electric fence
+
+**Services**
+- New fence installation
+- Fence repair
+- Gate installation
+- Corner/brace construction
+- Clearing fence lines
+
+**Applications**
+- Cattle fencing
+- Horse fencing
+- Cross-fencing
+- Perimeter fencing`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does agricultural fencing cost?",
+        answer: "Barbed wire fencing (5-strand) costs $3-$6 per linear foot installed. Pipe/cable fencing runs $8-$15 per foot. High-tensile electric is $2-$4 per foot. Costs vary by terrain, clearing needed, and material quality. Get bids per foot with all materials included."
+      },
+      {
+        question: "What type of fencing is best for cattle?",
+        answer: "Traditional barbed wire works well for cattle. Pipe/cable fencing is more expensive but more durable and requires less maintenance. Electric fencing is economical for rotational grazing. Your operation type, budget, and aesthetic preferences guide the choice."
+      },
+      {
+        question: "How long does agricultural fence last?",
+        answer: "Properly installed barbed wire lasts 20-30+ years. Pipe fencing can last 50+ years. Posts are typically the weak point—quality treated posts last longer. Maintenance (tightening wire, repairing damage) extends fence life."
+      }
+    ],
+    relatedServices: ["fence-builder", "land-clearing", "excavator"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "hunting-lease",
+    title: "Hunting Lease",
+    category: "agriculture_rural",
+    subcategory: "land",
+    layout: 4,
+    icon: "Target",
+    iconColor: "green",
+    metaTitle: "Hunting Lease in Navarro County, TX | Hunting Property Corsicana",
+    metaDescription: "Hunting leases in Corsicana and Navarro County. Deer hunting, hog hunting, and hunting land access.",
+    metaKeywords: "hunting lease Corsicana, hunting land Navarro County, deer lease, hog hunting",
+    heroContent: `Hunting leases provide access to private land for hunting. With most Texas land privately owned, leases offer hunters quality hunting opportunities while providing landowners with income.`,
+    localContext: `Navarro County offers hunting for whitetail deer, feral hogs, and various game birds. Hunting leases range from day hunts to full-season agreements, with varying levels of amenities.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Hunting Options",
+        content: `**Game**
+- Whitetail deer
+- Feral hogs
+- Turkey
+- Dove
+- Duck (limited)
+
+**Lease Types**
+- Day hunts
+- Weekend packages
+- Seasonal leases
+- Annual leases
+
+**Amenities**
+- Blinds/stands
+- Camp facilities
+- Lodging (some)
+- Food plots
+- Feeders`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much do hunting leases cost in Navarro County?",
+        answer: "Annual deer leases run $5-$15 per acre. A 200-acre lease might cost $1,000-$3,000. Day hunts for hogs run $100-$300. Guided hunts with lodging cost more. Prices depend on game quality, habitat, and amenities."
+      },
+      {
+        question: "What do I need to hunt in Texas?",
+        answer: "Valid Texas hunting license, appropriate stamps (deer, turkey, etc.), and hunter education certification if required by age. Know bag limits and seasons. On leased land, follow landowner rules. Carry your license while hunting."
+      },
+      {
+        question: "How do I find a hunting lease?",
+        answer: "Ask at local farm stores, check hunting forums, contact wildlife management associations, or search online lease listings. Driving around and asking landowners still works. Visit properties before committing to annual leases."
+      }
+    ],
+    relatedServices: ["gun-shop", "sporting-goods", "taxidermy"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "framing",
+    title: "Framing Contractor",
+    category: "construction_trades",
+    subcategory: "specialty",
+    layout: 5,
+    icon: "Home",
+    iconColor: "brown",
+    metaTitle: "Framing Contractor in Navarro County, TX | House Framing Corsicana",
+    metaDescription: "Framing services in Corsicana and Navarro County. Residential framing, commercial framing, and structural framing.",
+    metaKeywords: "framing contractor Corsicana, house framing Navarro County, structural framing, wood framing",
+    heroContent: `Framing creates the structural skeleton of buildings. Quality framing ensures straight walls, proper support, and a solid foundation for all other construction work.`,
+    localContext: `New construction and additions in Navarro County require skilled framing. Local framing crews build the bones of homes and commercial buildings that will stand for generations.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Framing Services",
+        content: `**Services**
+- New home framing
+- Addition framing
+- Commercial framing
+- Reframing
+- Structural repair
+
+**Components**
+- Wall framing
+- Roof framing
+- Floor framing
+- Door/window openings
+- Trusses
+
+**Related**
+- Subfloor installation
+- Sheathing
+- Blocking and backing`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does framing cost?",
+        answer: "Framing typically costs $7-$16 per square foot for new construction. A 2,000 sq ft home costs $14,000-$32,000 for framing. Labor is the major cost—materials add $3-$5 per square foot. Complex designs and multi-story increase cost."
+      },
+      {
+        question: "How long does framing take?",
+        answer: "A typical single-family home takes 1-3 weeks for framing. Weather, crew size, and complexity affect timeline. Once framing is complete, the project is 'dried in' quickly with roofing and exterior sheathing."
+      },
+      {
+        question: "What makes quality framing?",
+        answer: "Quality framing means: straight, plumb walls, proper spacing (16 or 24 inches on center), adequate blocking for fixtures, correct header sizes over openings, and proper connection to foundation and roof. It should pass inspection easily."
+      }
+    ],
+    relatedServices: ["general-contractor", "home-builder", "roofing"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "fabrication",
+    title: "Metal Fabrication",
+    category: "construction_trades",
+    subcategory: "metal",
+    layout: 1,
+    icon: "Cog",
+    iconColor: "slate",
+    metaTitle: "Metal Fabrication in Navarro County, TX | Custom Fab Shop Corsicana",
+    metaDescription: "Metal fabrication services in Corsicana and Navarro County. Custom metal work, welding, and steel fabrication.",
+    metaKeywords: "metal fabrication Corsicana, fabrication shop Navarro County, custom metal, steel fab",
+    heroContent: `Metal fabrication transforms raw metal into functional parts, structures, and equipment. From custom components to production runs, fab shops shape metal to your specifications.`,
+    localContext: `Navarro County's industrial and agricultural operations depend on metal fabrication. Local fab shops create custom equipment, repair worn parts, and fabricate structures for diverse applications.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Fabrication Services",
+        content: `**Services**
+- Cutting
+- Bending/forming
+- Welding
+- Assembly
+- Finishing
+
+**Applications**
+- Structural steel
+- Equipment and machinery
+- Agricultural equipment
+- Trailers
+- Custom projects
+
+**Materials**
+- Steel
+- Stainless steel
+- Aluminum
+- Other metals`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does metal fabrication cost?",
+        answer: "Fabrication is typically priced by labor hours ($50-$100/hour) plus materials. Simple projects might cost $200-$500. Complex fabrication runs thousands. Get detailed quotes specifying materials, labor, and any finishing. Drawings or samples help accurate quoting."
+      },
+      {
+        question: "What information do you need to quote a project?",
+        answer: "Provide: drawings or sketches with dimensions, material specifications, quantity needed, and intended use (determines quality requirements). The more detail you provide, the more accurate the quote. Samples of existing parts help for duplication."
+      },
+      {
+        question: "What's the difference between fabrication and welding?",
+        answer: "Welding is one process—joining metal with heat. Fabrication is the complete process of making something: cutting, bending, drilling, welding, and finishing. Fab shops do it all; welding shops may only weld parts you bring them."
+      }
+    ],
+    relatedServices: ["welder", "machine-shop", "ironwork"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "ironwork",
+    title: "Ornamental Ironwork",
+    category: "construction_trades",
+    subcategory: "metal",
+    layout: 2,
+    icon: "Sparkles",
+    iconColor: "slate",
+    metaTitle: "Ornamental Iron in Navarro County, TX | Decorative Metalwork Corsicana",
+    metaDescription: "Ornamental ironwork in Corsicana and Navarro County. Custom gates, railings, and decorative metal fabrication.",
+    metaKeywords: "ornamental iron Corsicana, custom gates Navarro County, decorative metal, railings",
+    heroContent: `Ornamental ironwork adds beauty and security to homes and businesses. Custom gates, railings, and decorative metalwork combine artistry with function.`,
+    localContext: `Custom ironwork enhances Navarro County properties—from entry gates for ranches to stair railings in historic homes. Local metalworkers create custom pieces that reflect Texas style and craftsmanship.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Ironwork Services",
+        content: `**Products**
+- Entry gates
+- Fencing
+- Stair railings
+- Balcony railings
+- Window guards
+
+**Custom Work**
+- Design services
+- Ranch gates
+- Business signage
+- Decorative panels
+- Fireplace screens
+
+**Installation**
+- New installation
+- Repairs
+- Restoration
+- Automation (gates)`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a custom iron gate cost?",
+        answer: "Driveway gates start at $2,000-$5,000 for basic designs. Custom decorative gates run $5,000-$15,000+. Gate automation adds $1,500-$3,000. Matching fencing is additional. Price depends on size, complexity, and finish quality."
+      },
+      {
+        question: "What's the maintenance for ornamental iron?",
+        answer: "Paint or powder coating protects iron from rust. Touch up chips and scratches promptly. Full repainting every 5-10 years depending on exposure. Keep hinges and latches lubricated. Address rust immediately to prevent spreading."
+      },
+      {
+        question: "Iron vs. aluminum for gates and railings?",
+        answer: "Iron is stronger, heavier, and more traditional but requires rust maintenance. Aluminum doesn't rust and is lighter but may not have the same substantial feel. Iron is preferred for security; aluminum works well for decorative applications."
+      }
+    ],
+    relatedServices: ["fabrication", "welder", "fence-builder"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "trailer-repair",
+    title: "Trailer Repair",
+    category: "construction_trades",
+    subcategory: "metal",
+    layout: 3,
+    icon: "Truck",
+    iconColor: "amber",
+    metaTitle: "Trailer Repair in Navarro County, TX | Trailer Service Corsicana",
+    metaDescription: "Trailer repair services in Corsicana and Navarro County. Horse trailer, utility trailer, and livestock trailer repair.",
+    metaKeywords: "trailer repair Corsicana, trailer service Navarro County, horse trailer, utility trailer",
+    heroContent: `Trailers take abuse from heavy loads and rough conditions. Trailer repair services fix floors, axles, brakes, and structures to keep trailers safe and road-worthy.`,
+    localContext: `Navarro County relies on trailers—for hauling cattle, horses, equipment, and materials. Local trailer shops repair and maintain the trailers that keep agricultural and commercial operations moving.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Trailer Services",
+        content: `**Repairs**
+- Floor replacement
+- Axle repair
+- Brake service
+- Welding repairs
+- Light/electrical
+
+**Trailer Types**
+- Livestock trailers
+- Horse trailers
+- Utility trailers
+- Flatbed trailers
+- Equipment trailers
+
+**Additional**
+- Inspections
+- DOT compliance
+- Custom modifications
+- Sandblasting and painting`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does trailer floor replacement cost?",
+        answer: "Floor replacement costs $800-$2,000+ depending on trailer size and material (wood or aluminum). Horse trailer floors are critical for safety—don't delay replacement. Steel frame repair underneath adds to the cost."
+      },
+      {
+        question: "How often should trailer brakes be serviced?",
+        answer: "Check trailer brakes annually at minimum. Heavy haulers should inspect more frequently. Electric brakes need adjustment as they wear. Surge brakes need fluid checks. Brakes are critical—don't neglect them."
+      },
+      {
+        question: "When does a trailer need inspection?",
+        answer: "Texas requires annual safety inspection for trailers over 4,500 lbs GVWR. Lighter trailers don't require inspection but should still be maintained. Commercial trailers have additional requirements. Keep current inspection sticker displayed."
+      }
+    ],
+    relatedServices: ["cattle-hauling", "welder", "fabrication"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "gazebo",
+    title: "Gazebo Construction",
+    category: "construction_trades",
+    subcategory: "outdoor",
+    layout: 4,
+    icon: "Home",
+    iconColor: "brown",
+    metaTitle: "Gazebo Construction in Navarro County, TX | Gazebo Builder Corsicana",
+    metaDescription: "Gazebo construction in Corsicana and Navarro County. Custom gazebos, pavilions, and outdoor structures.",
+    metaKeywords: "gazebo Corsicana, gazebo builder Navarro County, pavilion, outdoor structure",
+    heroContent: `Gazebos and pavilions create beautiful outdoor living spaces for relaxation and entertaining. Custom structures enhance backyards with shaded comfort and architectural interest.`,
+    localContext: `Navarro County homes benefit from outdoor living spaces that provide shade from Texas sun. Gazebos create destination spots in backyards for family gatherings and peaceful retreat.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Gazebo Services",
+        content: `**Structures**
+- Traditional gazebos
+- Pavilions
+- Pergolas
+- Shade structures
+- Pool houses
+
+**Materials**
+- Wood (cedar, treated pine)
+- Vinyl
+- Metal frame
+- Composite
+
+**Features**
+- Lighting
+- Ceiling fans
+- Screens
+- Electrical
+- Built-in seating`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a gazebo cost?",
+        answer: "Pre-built gazebo kits start at $2,000-$5,000. Custom-built gazebos run $5,000-$15,000+. Size, materials, and features (electrical, fans, screens) affect price. Installation adds 20-40% to kit costs. Permits may be required."
+      },
+      {
+        question: "What's the difference between a gazebo and a pergola?",
+        answer: "Gazebos have solid roofs providing full shade and weather protection. Pergolas have open-beam roofs providing filtered shade but not rain protection. Gazebos cost more and provide more function; pergolas are architectural accents."
+      },
+      {
+        question: "Do I need a permit for a gazebo?",
+        answer: "Often yes—structures over certain sizes require permits. Set-back requirements may apply. HOAs may have restrictions. Check with your local building department before construction. The builder should be familiar with requirements."
+      }
+    ],
+    relatedServices: ["pergola", "deck-builder", "outdoor-kitchen"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "barn-builder",
+    title: "Barn Builder",
+    category: "construction_trades",
+    subcategory: "outdoor",
+    layout: 5,
+    icon: "Home",
+    iconColor: "red",
+    metaTitle: "Barn Builder in Navarro County, TX | Barn Construction Corsicana",
+    metaDescription: "Barn construction in Corsicana and Navarro County. Horse barns, hay barns, and agricultural building construction.",
+    metaKeywords: "barn builder Corsicana, barn construction Navarro County, horse barn, agricultural building",
+    heroContent: `Barns shelter livestock, store equipment, and support agricultural operations. Custom barn builders design and construct functional buildings tailored to your specific needs.`,
+    localContext: `Navarro County's agricultural heritage requires quality barn construction. From horse facilities to hay storage to equipment barns, local builders create structures that serve rural operations.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Barn Building Services",
+        content: `**Barn Types**
+- Horse barns
+- Hay barns
+- Equipment storage
+- Livestock shelters
+- Combination barns
+
+**Features**
+- Stalls and runs
+- Tack rooms
+- Feed storage
+- Wash areas
+- Living quarters (barndominiums)
+
+**Construction**
+- Wood frame
+- Post frame
+- Steel frame
+- Pole barns`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does barn construction cost?",
+        answer: "Simple pole barns start at $15-$25 per square foot. Quality horse barns run $30-$60+ per square foot with stalls and amenities. A 40x60 basic barn costs $36,000-$90,000. Horse barns with features cost significantly more."
+      },
+      {
+        question: "What size barn do I need?",
+        answer: "Depends on use. Horse stalls need 12x12 feet minimum. Hay storage depends on your herd size. Equipment barns should fit your largest equipment with room to work. Plan for future needs—building larger initially is more economical than adding on later."
+      },
+      {
+        question: "Do I need a permit for a barn?",
+        answer: "Usually yes for structures over certain sizes. Agricultural buildings may have different requirements than residential. Electrical and plumbing add permit requirements. Check with Navarro County before construction."
+      }
+    ],
+    relatedServices: ["pole-barn", "steel-building", "fencing-agricultural"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "commercial-roofing",
+    title: "Commercial Roofing",
+    category: "construction_trades",
+    subcategory: "commercial",
+    layout: 1,
+    icon: "Building",
+    iconColor: "slate",
+    metaTitle: "Commercial Roofing in Navarro County, TX | Commercial Roofer Corsicana",
+    metaDescription: "Commercial roofing services in Corsicana and Navarro County. Flat roof repair, commercial roof installation, and roof maintenance.",
+    metaKeywords: "commercial roofing Corsicana, commercial roofer Navarro County, flat roof, TPO roof",
+    heroContent: `Commercial roofing protects business investments with systems designed for large buildings. Flat roofs, metal buildings, and specialized applications require commercial roofing expertise.`,
+    localContext: `Navarro County businesses need reliable commercial roofing. From retail buildings to warehouses, commercial roofers install and maintain systems that protect business operations.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Commercial Roofing Services",
+        content: `**Roof Systems**
+- TPO/PVC membrane
+- EPDM rubber
+- Modified bitumen
+- Built-up roofing
+- Metal roofing
+
+**Services**
+- New installation
+- Reroofing
+- Repairs
+- Maintenance programs
+- Emergency service
+
+**Applications**
+- Office buildings
+- Retail
+- Warehouses
+- Industrial
+- Multi-family`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does commercial roofing cost?",
+        answer: "Commercial roofing costs $5-$15+ per square foot depending on system. A 10,000 sq ft roof runs $50,000-$150,000. TPO and EPDM are economical; modified bitumen and metal cost more. Insulation, tear-off, and complexity affect price."
+      },
+      {
+        question: "How long do commercial roofs last?",
+        answer: "TPO/PVC membranes last 20-30 years. EPDM lasts 20-25 years. Metal roofs last 40-50+ years. Modified bitumen lasts 15-20 years. Proper maintenance extends life significantly. Get warranty details—commercial roofs often have 15-25 year warranties."
+      },
+      {
+        question: "What's the best commercial roof system?",
+        answer: "Depends on building type, budget, and local conditions. TPO offers good value and reflectivity. Metal provides longevity and aesthetics. Your roofer should recommend based on your building's needs, slope, and usage."
+      }
+    ],
+    relatedServices: ["roofing", "commercial-hvac", "general-contractor"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "parking-lot",
+    title: "Parking Lot Construction",
+    category: "construction_trades",
+    subcategory: "commercial",
+    layout: 2,
+    icon: "Car",
+    iconColor: "slate",
+    metaTitle: "Parking Lot Construction in Navarro County, TX | Paving Corsicana",
+    metaDescription: "Parking lot construction in Corsicana and Navarro County. Parking lot paving, repairs, and striping services.",
+    metaKeywords: "parking lot Corsicana, parking lot paving Navarro County, asphalt paving, lot construction",
+    heroContent: `Parking lots create first impressions and ensure safety for customers and employees. Professional parking lot construction delivers durable surfaces with proper drainage and accessibility.`,
+    localContext: `Navarro County businesses need quality parking lots that withstand Texas heat and weather. Local paving contractors build and maintain parking areas for commercial and institutional properties.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Parking Lot Services",
+        content: `**Construction**
+- New parking lots
+- Lot expansion
+- Resurfacing
+- Base work
+- Drainage
+
+**Materials**
+- Asphalt
+- Concrete
+- Gravel
+
+**Maintenance**
+- Sealcoating
+- Crack filling
+- Pothole repair
+- Striping
+- ADA compliance`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a parking lot cost?",
+        answer: "Asphalt parking lots cost $3-$7 per square foot. Concrete runs $6-$12 per square foot. A 10,000 sq ft lot costs $30,000-$70,000 for asphalt, more for concrete. Grading, drainage, and base work add cost. Get detailed quotes."
+      },
+      {
+        question: "Asphalt or concrete for parking lots?",
+        answer: "Asphalt costs less upfront and is easier to repair but needs more maintenance and may soften in extreme heat. Concrete lasts longer and handles heat better but costs more and is harder to repair. For Texas, both work; budget and aesthetics often decide."
+      },
+      {
+        question: "How often do parking lots need maintenance?",
+        answer: "Asphalt should be sealcoated every 2-3 years and crack filled annually. Restriping every 1-2 years maintains visibility. Concrete needs less maintenance but should be sealed and joints maintained. Regular maintenance extends lot life significantly."
+      }
+    ],
+    relatedServices: ["asphalt-paving", "concrete", "commercial-construction"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "asphalt-paving",
+    title: "Asphalt Paving",
+    category: "construction_trades",
+    subcategory: "commercial",
+    layout: 3,
+    icon: "Road",
+    iconColor: "slate",
+    metaTitle: "Asphalt Paving in Navarro County, TX | Asphalt Contractor Corsicana",
+    metaDescription: "Asphalt paving services in Corsicana and Navarro County. Driveways, roads, and asphalt repair services.",
+    metaKeywords: "asphalt paving Corsicana, asphalt contractor Navarro County, driveway paving, road paving",
+    heroContent: `Asphalt paving creates durable surfaces for driveways, roads, and parking areas. Professional installation ensures proper base preparation and compaction for long-lasting results.`,
+    localContext: `From private driveways to commercial properties, asphalt paving serves Navarro County's infrastructure needs. Local contractors understand our soil conditions and climate challenges.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Asphalt Services",
+        content: `**New Construction**
+- Residential driveways
+- Commercial lots
+- Private roads
+- Subdivisions
+
+**Repairs**
+- Overlay/resurfacing
+- Patching
+- Pothole repair
+- Crack sealing
+- Base repair
+
+**Maintenance**
+- Sealcoating
+- Line striping
+- Speed bumps
+- Curbing`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does asphalt paving cost?",
+        answer: "Residential driveways cost $4-$8 per square foot. Commercial paving runs $3-$6 per square foot for larger areas. A 600 sq ft driveway costs $2,400-$4,800. Base preparation, thickness, and access affect pricing."
+      },
+      {
+        question: "How long does asphalt last?",
+        answer: "Well-installed and maintained asphalt lasts 20-30 years. Sealcoating every 2-3 years extends life significantly. Crack filling prevents water damage. Poor drainage or heavy loads reduce lifespan. Quality installation is key."
+      },
+      {
+        question: "When is the best time to pave asphalt?",
+        answer: "Warm, dry weather is ideal—spring and fall in Texas. Asphalt needs temperatures above 50°F to compact properly. Avoid paving during rain or extreme heat. Professional contractors work within optimal conditions."
+      }
+    ],
+    relatedServices: ["parking-lot", "concrete", "driveway"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  // ============================================
+  // FINAL MISSING SERVICES
+  // ============================================
+
+  {
+    slug: "balloon-artist",
+    title: "Balloon Artist",
+    category: "events_entertainment",
+    subcategory: "performers",
+    layout: 4,
+    icon: "PartyPopper",
+    iconColor: "pink",
+    metaTitle: "Balloon Artist in Navarro County, TX | Balloon Twisting Corsicana",
+    metaDescription: "Balloon artists for parties and events in Corsicana and Navarro County. Balloon twisting, sculptures, and decorations for birthday parties and celebrations.",
+    metaKeywords: "balloon artist Corsicana, balloon twisting Navarro County, party entertainment, balloon decorations",
+    heroContent: `Balloon artists create entertainment and decorations that delight children and adults alike. From simple animals to elaborate sculptures, balloon art adds magic to any event.`,
+    localContext: `Birthday parties, school carnivals, church events, and community festivals throughout Navarro County regularly feature balloon entertainment. Local artists serve events from Corsicana to surrounding communities.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Balloon Services",
+        content: `**Party Entertainment**
+- Balloon twisting
+- Walk-around entertainment
+- Interactive shows
+- Character costumes
+
+**Decorations**
+- Balloon arches
+- Centerpieces
+- Columns
+- Photo backdrops
+- Custom sculptures
+
+**Events Served**
+- Birthday parties
+- Corporate events
+- Grand openings
+- School functions
+- Community festivals`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a balloon artist cost?",
+        answer: "Balloon artists typically charge $100-$200 per hour for walk-around entertainment. Decoration packages range from $150-$500+ depending on complexity. Birthday party packages often include 1-2 hours of twisting plus basic decorations."
+      },
+      {
+        question: "How far in advance should I book?",
+        answer: "Book balloon artists 2-4 weeks ahead for regular events, earlier for holidays and peak party season (spring/summer). Last-minute bookings are sometimes possible but limit options. Popular performers book weeks out."
+      },
+      {
+        question: "What ages enjoy balloon art?",
+        answer: "Children ages 3-12 are the primary audience for balloon twisting. Toddlers may be frightened by popping sounds. Adults enjoy elaborate sculptures and photo-worthy decorations. Balloon art works for all-ages events."
+      }
+    ],
+    relatedServices: ["face-painter", "magician", "party-rental"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "banquet-hall",
+    title: "Banquet Hall",
+    category: "events_entertainment",
+    subcategory: "venues",
+    layout: 1,
+    icon: "Building",
+    iconColor: "amber",
+    metaTitle: "Banquet Hall Rental in Navarro County, TX | Event Venues Corsicana",
+    metaDescription: "Banquet halls for rent in Corsicana and Navarro County. Wedding receptions, corporate events, quinceañeras, and private parties.",
+    metaKeywords: "banquet hall Corsicana, event venue rental Navarro County, wedding reception venue, party hall",
+    heroContent: `Banquet halls provide elegant spaces for celebrations and gatherings. From intimate dinners to large receptions, these venues offer the facilities needed for memorable events.`,
+    localContext: `Navarro County's banquet facilities host weddings, quinceañeras, reunions, and corporate events year-round. From downtown Corsicana venues to country settings near Richland Chambers, options fit various styles and budgets.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Venue Features",
+        content: `**Facilities**
+- Main hall space
+- Kitchen/catering area
+- Bar service area
+- Dance floor
+- Stage/podium
+- Restrooms
+
+**Equipment**
+- Tables and chairs
+- Linens
+- Audio/visual
+- Lighting
+- Decoration options
+
+**Services**
+- In-house catering
+- Bar service
+- Setup/cleanup
+- Event coordination
+- Parking`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does banquet hall rental cost?",
+        answer: "Banquet hall rentals range from $500-$3,000+ depending on size, amenities, and duration. Many charge $1,000-$2,000 for Saturday evening events. Some require catering packages. Get quotes including all fees and services."
+      },
+      {
+        question: "What capacity should I look for?",
+        answer: "Plan for your guest count plus 10-20% for vendor space and movement. Seated dinners need more space than cocktail receptions. A 150-person wedding typically needs 3,000+ square feet. Venues can advise on their capacity layouts."
+      },
+      {
+        question: "How far ahead should I book?",
+        answer: "Popular dates (Saturdays, holidays) book 6-12 months ahead, especially for weddings. Weeknight or off-season events may book 2-3 months out. Start looking early for flexibility in date and venue choice."
+      }
+    ],
+    relatedServices: ["event-venue", "wedding-venue", "catering"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "butcher",
+    title: "Butcher Shop",
+    category: "food_beverage",
+    subcategory: "specialty",
+    layout: 2,
+    icon: "Beef",
+    iconColor: "red",
+    metaTitle: "Butcher Shop in Navarro County, TX | Fresh Meat Corsicana",
+    metaDescription: "Local butcher shops in Corsicana and Navarro County. Fresh cut meats, custom processing, and specialty products from local sources.",
+    metaKeywords: "butcher shop Corsicana, meat market Navarro County, fresh meat, custom meat processing",
+    heroContent: `Butcher shops offer fresh-cut meats, custom orders, and expertise that supermarkets can't match. From prime steaks to specialty sausages, local butchers provide quality and service.`,
+    localContext: `Navarro County's agricultural heritage includes cattle ranching, and local butchers connect consumers with quality beef and pork. Many process game during hunting season for area sportsmen.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Butcher Services",
+        content: `**Fresh Meats**
+- Beef cuts
+- Pork
+- Chicken
+- Lamb
+- Specialty meats
+
+**Custom Services**
+- Custom cuts
+- Bulk orders
+- Game processing
+- Smoking/curing
+- Sausage making
+
+**Products**
+- Marinated meats
+- Seasoned cuts
+- House sausages
+- Jerky
+- Prepared items`
+      }
+    ],
+    faqs: [
+      {
+        question: "Why buy from a butcher vs grocery store?",
+        answer: "Butchers offer fresher cuts, custom sizing, expert advice, and often better quality. You can request specific thickness, trim, and preparation. Many source from local farms. Personal service and knowledge set butchers apart."
+      },
+      {
+        question: "Do butchers process deer and game?",
+        answer: "Many local butchers offer game processing during hunting season. Services include skinning, cutting, grinding, and sausage making. Bring your deer field-dressed and cooled. Expect 1-2 week turnaround during peak season."
+      },
+      {
+        question: "Can I order specialty cuts?",
+        answer: "Yes, butchers excel at special orders—specific cuts, prime grades, whole animals for events, or hard-to-find items. Order ahead for best selection. Many accommodate dietary needs like grass-fed beef or specialty pork."
+      }
+    ],
+    relatedServices: ["catering", "meal-prep", "grocery-delivery"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "coffee-shop",
+    title: "Coffee Shop",
+    category: "food_beverage",
+    subcategory: "cafe",
+    layout: 3,
+    icon: "Coffee",
+    iconColor: "amber",
+    metaTitle: "Coffee Shops in Navarro County, TX | Cafes Corsicana",
+    metaDescription: "Coffee shops and cafes in Corsicana and Navarro County. Specialty coffee, espresso drinks, pastries, and local gathering spots.",
+    metaKeywords: "coffee shop Corsicana, cafe Navarro County, espresso, local coffee",
+    heroContent: `Coffee shops serve as community gathering places offering specialty beverages, pastries, and comfortable spaces. From quick morning stops to afternoon meetings, local cafes provide more than just coffee.`,
+    localContext: `Downtown Corsicana and Navarro County communities feature coffee shops ranging from quick-serve locations to cozy cafes. These gathering spots support remote workers, small meetings, and social connections.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Coffee Shop Offerings",
+        content: `**Beverages**
+- Espresso drinks
+- Drip coffee
+- Cold brew
+- Tea
+- Specialty drinks
+- Smoothies
+
+**Food**
+- Pastries
+- Breakfast items
+- Sandwiches
+- Snacks
+- Baked goods
+
+**Amenities**
+- WiFi
+- Seating areas
+- Meeting space
+- Drive-through
+- Mobile ordering`
+      }
+    ],
+    faqs: [
+      {
+        question: "Do coffee shops have WiFi for working?",
+        answer: "Most coffee shops offer free WiFi for customers. Some have dedicated work areas with outlets. Etiquette suggests buying something every couple hours if you're camping out. Ask about their policy during busy times."
+      },
+      {
+        question: "What's the difference in espresso drinks?",
+        answer: "Lattes have more milk (creamy), cappuccinos have more foam (airy), americanos are espresso with water (strong). Mochas add chocolate. Start with a latte if you're new to espresso. Baristas can customize strength and milk options."
+      },
+      {
+        question: "Can I host small meetings at coffee shops?",
+        answer: "Many coffee shops welcome small meetings during off-peak hours. Call ahead for groups over 4-5 people. Some have private or semi-private areas. Purchase for your group and be mindful of noise levels and duration."
+      }
+    ],
+    relatedServices: ["bakery", "catering", "event-venue"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "conference-room",
+    title: "Conference Room Rental",
+    category: "professional_services",
+    subcategory: "business",
+    layout: 4,
+    icon: "Users",
+    iconColor: "blue",
+    metaTitle: "Conference Room Rental in Navarro County, TX | Meeting Rooms Corsicana",
+    metaDescription: "Conference room and meeting space rental in Corsicana and Navarro County. Hourly and daily rental for business meetings, training, and presentations.",
+    metaKeywords: "conference room rental Corsicana, meeting room Navarro County, business meeting space, training room",
+    heroContent: `Conference room rentals provide professional meeting spaces without the overhead of permanent office space. From small meetings to training sessions, rental rooms offer flexibility and amenities.`,
+    localContext: `Small businesses, remote workers, and visiting professionals in Navarro County benefit from conference room rentals. Options include hotels, co-working spaces, and dedicated meeting facilities in Corsicana.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Meeting Space Options",
+        content: `**Room Types**
+- Small meeting (4-8)
+- Conference room (8-20)
+- Training room (20+)
+- Board room
+- Video conference suite
+
+**Equipment**
+- Projector/screen
+- Video conferencing
+- Whiteboard
+- WiFi
+- Phone/speaker
+- Computer access
+
+**Services**
+- Catering available
+- Reception services
+- Technical support
+- Printing/copying
+- Flexible scheduling`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does conference room rental cost?",
+        answer: "Rates range from $25-$75 per hour for small rooms to $150-$400 for half-day or full-day rentals of larger spaces. Hotel meeting rooms may include AV equipment. Co-working spaces often offer member discounts."
+      },
+      {
+        question: "What's included in the rental?",
+        answer: "Basic rentals include the room, table/chairs, and WiFi. AV equipment, catering, and technical support may cost extra. Ask what's included and what's additional. Setup and cleanup time should be clarified upfront."
+      },
+      {
+        question: "How far ahead should I book?",
+        answer: "Book 1-2 weeks ahead for standard meetings. Training sessions or large groups should book 3-4 weeks out. Last-minute availability varies—call for same-week needs. Regular users can often establish standing reservations."
+      }
+    ],
+    relatedServices: ["event-venue", "it-support", "catering"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "event-furniture-rental",
+    title: "Event Furniture Rental",
+    category: "events_entertainment",
+    subcategory: "rental",
+    layout: 5,
+    icon: "Sofa",
+    iconColor: "purple",
+    metaTitle: "Event Furniture Rental in Navarro County, TX | Tables & Chairs Corsicana",
+    metaDescription: "Event furniture rental in Corsicana and Navarro County. Tables, chairs, linens, and furniture for weddings, parties, and corporate events.",
+    metaKeywords: "event furniture rental Corsicana, table chair rental Navarro County, wedding furniture, party rental",
+    heroContent: `Event furniture rental provides tables, chairs, linens, and specialty pieces for gatherings of all sizes. Professional-quality furniture transforms any space into an elegant event venue.`,
+    localContext: `Weddings, reunions, corporate events, and community gatherings throughout Navarro County rely on furniture rentals. From backyard parties in Corsicana to lakeside events at Richland Chambers, rental companies deliver and setup.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Rental Inventory",
+        content: `**Seating**
+- Folding chairs
+- Chiavari chairs
+- Banquet chairs
+- Benches
+- Lounge furniture
+
+**Tables**
+- Round tables
+- Rectangular tables
+- Cocktail tables
+- Farm tables
+- Specialty shapes
+
+**Accessories**
+- Linens
+- Chair covers
+- Skirting
+- Overlays
+- Napkins
+
+**Services**
+- Delivery
+- Setup
+- Breakdown
+- Pickup`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does event furniture rental cost?",
+        answer: "Basic folding chairs rent for $2-$5 each, tables $10-$20. Chiavari chairs run $8-$15 each. Linens add $10-$25 per table. A 100-person wedding furniture package typically runs $500-$1,500. Get itemized quotes."
+      },
+      {
+        question: "Do rental companies deliver and setup?",
+        answer: "Most offer delivery and pickup; setup is sometimes extra. Delivery fees depend on distance and order size. Confirm timeline—furniture often arrives day-before and picks up day-after. Communicate access and setup locations clearly."
+      },
+      {
+        question: "When should I book event furniture?",
+        answer: "Book 4-8 weeks ahead for weddings, 2-4 weeks for smaller events. Peak season (spring/fall) and popular dates book faster. Confirm quantities early—popular items can sell out. Make changes at least a week before."
+      }
+    ],
+    relatedServices: ["party-rental", "tent-rental", "event-venue"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "face-painter",
+    title: "Face Painter",
+    category: "events_entertainment",
+    subcategory: "performers",
+    layout: 1,
+    icon: "Palette",
+    iconColor: "pink",
+    metaTitle: "Face Painter in Navarro County, TX | Face Painting Corsicana",
+    metaDescription: "Face painting services for parties and events in Corsicana and Navarro County. Birthday parties, festivals, and special events.",
+    metaKeywords: "face painter Corsicana, face painting Navarro County, party entertainment, kids party",
+    heroContent: `Face painters transform children (and adults!) with colorful designs that add magic to any event. From butterflies and superheroes to elaborate full-face designs, face painting creates lasting memories.`,
+    localContext: `Community festivals, school carnivals, birthday parties, and church events throughout Navarro County feature face painting. Local artists serve Corsicana and surrounding communities for events of all sizes.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Face Painting Services",
+        content: `**Design Types**
+- Quick designs (1-3 min)
+- Standard designs (3-5 min)
+- Full face (5-10 min)
+- Arm/hand art
+- Glitter tattoos
+
+**Popular Themes**
+- Animals
+- Superheroes
+- Princesses
+- Sports
+- Holiday themes
+
+**Events Served**
+- Birthday parties
+- School events
+- Festivals
+- Corporate events
+- Grand openings`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does face painting cost?",
+        answer: "Face painters typically charge $100-$200 per hour, painting 10-15 children hourly with simple designs. Complex designs reduce output. Some offer per-face rates ($5-$15) for smaller events. Party packages include set hours."
+      },
+      {
+        question: "Is face paint safe for kids?",
+        answer: "Professional face painters use FDA-compliant, hypoallergenic paints designed for skin. Ask about ingredients if your child has allergies. Avoid face painting over broken skin. Quality painters use sanitary practices between children."
+      },
+      {
+        question: "How do I book for a birthday party?",
+        answer: "Book 2-4 weeks ahead, earlier for busy season. Provide party time, location, estimated number of children, and any theme. Painters typically stay 1-2 hours at birthday parties. Have a shaded, well-lit area available."
+      }
+    ],
+    relatedServices: ["balloon-artist", "magician", "photographer"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "food-delivery",
+    title: "Food Delivery Service",
+    category: "food_beverage",
+    subcategory: "delivery",
+    layout: 2,
+    icon: "Truck",
+    iconColor: "orange",
+    metaTitle: "Food Delivery in Navarro County, TX | Restaurant Delivery Corsicana",
+    metaDescription: "Food delivery services in Corsicana and Navarro County. Restaurant delivery, meal delivery, and food courier services.",
+    metaKeywords: "food delivery Corsicana, restaurant delivery Navarro County, meal delivery service, food courier",
+    heroContent: `Food delivery services bring restaurant meals and prepared food directly to your door. From national apps to local delivery services, options make dining convenient without leaving home.`,
+    localContext: `Corsicana restaurants increasingly offer delivery through various services. Coverage varies in rural parts of Navarro County. Local services may reach areas national apps don't cover.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Delivery Options",
+        content: `**Service Types**
+- Restaurant delivery
+- National app services
+- Local couriers
+- Catering delivery
+- Grocery delivery
+
+**Features**
+- Real-time tracking
+- Contactless delivery
+- Scheduled orders
+- Group ordering
+- Meal subscriptions
+
+**Coverage**
+- Corsicana
+- Surrounding communities
+- Varies by provider`
+      }
+    ],
+    faqs: [
+      {
+        question: "What delivery services work in Navarro County?",
+        answer: "DoorDash has coverage in Corsicana proper. Some local restaurants offer their own delivery. Coverage in smaller communities and rural areas is limited. Call restaurants directly to ask about delivery options beyond Corsicana."
+      },
+      {
+        question: "How much does food delivery cost?",
+        answer: "Delivery fees typically run $2-$6 per order. Apps add service fees (10-15% of order). Tips add $3-$8+. Total delivery cost is often $8-$15 above menu prices. Some restaurants offer free delivery for larger orders."
+      },
+      {
+        question: "Can I get delivery to rural addresses?",
+        answer: "Coverage is limited outside Corsicana city limits. Check specific addresses in delivery apps before ordering. Some restaurants will deliver further for large orders or catering. Local couriers may serve areas apps don't reach."
+      }
+    ],
+    relatedServices: ["grocery-delivery", "catering", "meal-prep"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "grocery-delivery",
+    title: "Grocery Delivery",
+    category: "food_beverage",
+    subcategory: "delivery",
+    layout: 3,
+    icon: "ShoppingCart",
+    iconColor: "green",
+    metaTitle: "Grocery Delivery in Navarro County, TX | Grocery Delivery Service Corsicana",
+    metaDescription: "Grocery delivery services in Corsicana and Navarro County. Online grocery ordering with home delivery for convenience.",
+    metaKeywords: "grocery delivery Corsicana, grocery delivery service Navarro County, online grocery shopping, home delivery",
+    heroContent: `Grocery delivery brings fresh food and household essentials to your door. Services range from store pickup to full delivery, making shopping convenient for busy families and those with limited mobility.`,
+    localContext: `Grocery delivery options in Navarro County include store curbside pickup and delivery services. Coverage varies—Corsicana has more options than rural areas. Check specific services for your address.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Grocery Services",
+        content: `**Service Types**
+- Home delivery
+- Curbside pickup
+- Same-day delivery
+- Scheduled delivery
+- Subscription services
+
+**Products Available**
+- Fresh produce
+- Meat and dairy
+- Pantry staples
+- Household items
+- Specialty foods
+
+**Ordering**
+- Online/app ordering
+- Phone orders
+- Standing orders
+- Custom requests`
+      }
+    ],
+    faqs: [
+      {
+        question: "What grocery delivery options exist in Corsicana?",
+        answer: "HEB offers curbside pickup. Walmart offers pickup and delivery in limited areas. Instacart may have limited coverage. Check individual store websites for your address. Options expand over time."
+      },
+      {
+        question: "How much does grocery delivery cost?",
+        answer: "Curbside pickup is often free or low-cost ($3-$5). Delivery fees run $5-$10 per order. Many services offer monthly subscriptions that waive delivery fees. Tips for delivery drivers are customary ($3-$10)."
+      },
+      {
+        question: "Can I get same-day grocery delivery?",
+        answer: "Same-day depends on service and availability. Many offer next-day or scheduled delivery windows. Order early for same-day pickup. During busy times or bad weather, slots fill quickly. Plan ahead when possible."
+      }
+    ],
+    relatedServices: ["food-delivery", "meal-prep", "pharmacy"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "ice-cream",
+    title: "Ice Cream Shop",
+    category: "food_beverage",
+    subcategory: "dessert",
+    layout: 4,
+    icon: "IceCream",
+    iconColor: "pink",
+    metaTitle: "Ice Cream Shops in Navarro County, TX | Ice Cream Corsicana",
+    metaDescription: "Ice cream shops and frozen treats in Corsicana and Navarro County. Soft serve, hand-dipped ice cream, frozen yogurt, and specialty desserts.",
+    metaKeywords: "ice cream shop Corsicana, frozen treats Navarro County, soft serve, ice cream parlor",
+    heroContent: `Ice cream shops provide sweet treats and gathering spots for families and friends. From classic scoops to specialty creations, local ice cream shops offer cool refreshment during hot Texas days.`,
+    localContext: `With Texas summers reaching triple digits, ice cream shops in Navarro County stay busy. From downtown Corsicana locations to neighborhood spots, frozen treats provide relief and family memories.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Frozen Treats",
+        content: `**Ice Cream Types**
+- Hand-dipped
+- Soft serve
+- Frozen custard
+- Frozen yogurt
+- Gelato
+
+**Menu Items**
+- Cones and cups
+- Sundaes
+- Milkshakes
+- Floats
+- Specialty creations
+
+**Services**
+- Party catering
+- Ice cream cakes
+- Bulk orders
+- Event service`
+      }
+    ],
+    faqs: [
+      {
+        question: "What's the difference between ice cream types?",
+        answer: "Regular ice cream has 10%+ milk fat. Frozen custard adds egg yolks for richness. Gelato has less fat and air for denser texture. Frozen yogurt uses cultured milk. Soft serve is whipped ice cream served at warmer temperatures."
+      },
+      {
+        question: "Can ice cream shops cater events?",
+        answer: "Many offer catering—sundae bars, ice cream trucks, or bulk orders for events. Book 1-2 weeks ahead for parties. Some bring equipment for self-serve stations. Ask about minimum orders and setup requirements."
+      },
+      {
+        question: "Do shops have dairy-free options?",
+        answer: "Increasingly yes—many offer sorbet, dairy-free bases, or coconut/oat milk options. Selection varies by location. Call ahead if dairy-free is essential, especially for specialty flavors or allergen concerns."
+      }
+    ],
+    relatedServices: ["bakery", "coffee-shop", "specialty-cakes"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "karaoke",
+    title: "Karaoke Service",
+    category: "events_entertainment",
+    subcategory: "entertainment",
+    layout: 5,
+    icon: "Mic",
+    iconColor: "purple",
+    metaTitle: "Karaoke Service in Navarro County, TX | Karaoke DJ Corsicana",
+    metaDescription: "Karaoke services for parties and events in Corsicana and Navarro County. Karaoke DJ, equipment rental, and karaoke nights.",
+    metaKeywords: "karaoke service Corsicana, karaoke DJ Navarro County, karaoke rental, party karaoke",
+    heroContent: `Karaoke brings interactive entertainment to parties and events. Whether hosted by a professional KJ (karaoke jockey) or rented as equipment, karaoke gets guests participating and having fun.`,
+    localContext: `Private parties, bars, and community events in Navarro County feature karaoke entertainment. From backyard birthday parties in Corsicana to venue events, karaoke services bring the fun.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Karaoke Options",
+        content: `**Service Types**
+- Full-service KJ
+- Equipment rental
+- Karaoke machines
+- Professional setup
+
+**Equipment**
+- Song library
+- Microphones
+- Speakers
+- Screens/monitors
+- Lighting
+
+**Events Served**
+- Private parties
+- Corporate events
+- Bar/restaurant
+- Birthday parties
+- Holiday parties`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does karaoke service cost?",
+        answer: "Full-service karaoke with a KJ runs $150-$400 for 3-4 hours. Equipment-only rental is $75-$200 per event. Home karaoke machines sell for $100-$500. Price depends on equipment quality and song library size."
+      },
+      {
+        question: "What's included in karaoke service?",
+        answer: "Full service includes a KJ to run the equipment and manage singers, professional sound system, microphones, screen, and song library. Some add lighting and staging. Confirm setup/breakdown time and song library size."
+      },
+      {
+        question: "What song selection is available?",
+        answer: "Professional karaoke services have 10,000+ songs across genres and decades. Specialized libraries include Spanish language, country, pop, rock, and standards. Request lists ahead if you want specific songs confirmed."
+      }
+    ],
+    relatedServices: ["dj", "live-band", "event-venue"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "liquor-store",
+    title: "Liquor Store",
+    category: "retail",
+    subcategory: "specialty",
+    layout: 1,
+    icon: "Wine",
+    iconColor: "red",
+    metaTitle: "Liquor Stores in Navarro County, TX | Liquor Store Corsicana",
+    metaDescription: "Liquor stores in Corsicana and Navarro County. Beer, wine, spirits, and specialty beverages for your needs.",
+    metaKeywords: "liquor store Corsicana, beer wine spirits Navarro County, package store, alcohol",
+    heroContent: `Liquor stores provide beer, wine, spirits, and mixers for personal consumption and events. Local stores offer selection, advice, and convenience for your beverage needs.`,
+    localContext: `Navarro County liquor stores serve residents and visitors with various alcoholic beverages. Texas liquor laws affect hours and Sunday sales—stores can sell beer and wine but not spirits on Sunday.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Store Offerings",
+        content: `**Products**
+- Beer (domestic/import)
+- Wine
+- Spirits
+- Mixers
+- Specialty items
+
+**Services**
+- Party planning advice
+- Special orders
+- Case discounts
+- Gift baskets
+- Event quantities
+
+**Selection**
+- Premium brands
+- Local/craft options
+- Budget selections
+- Limited releases`
+      }
+    ],
+    faqs: [
+      {
+        question: "What are Texas liquor store hours?",
+        answer: "Liquor stores can sell Monday-Saturday, typically 10am-9pm. Beer and wine available Sunday 10am-midnight at grocery and convenience stores. Liquor stores are closed Sundays. Hours vary by store—call ahead if needed."
+      },
+      {
+        question: "Can liquor stores do special orders?",
+        answer: "Many stores will special order items not regularly stocked. Minimum order may apply. Allow 1-2 weeks for delivery. Ask about availability and pricing before ordering. Specialty items may have longer lead times."
+      },
+      {
+        question: "Do stores offer case discounts?",
+        answer: "Many offer 10-15% discount on case purchases (12 bottles wine, 24 beer, etc.). Some give mix-and-match discounts. Ask about current promotions. Event quantities may get additional pricing consideration."
+      }
+    ],
+    relatedServices: ["catering", "event-venue", "bartender"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "magician",
+    title: "Magician",
+    category: "events_entertainment",
+    subcategory: "performers",
+    layout: 2,
+    icon: "Wand2",
+    iconColor: "purple",
+    metaTitle: "Magician in Navarro County, TX | Magic Show Corsicana",
+    metaDescription: "Magicians for parties and events in Corsicana and Navarro County. Birthday party magic shows, corporate entertainment, and close-up magic.",
+    metaKeywords: "magician Corsicana, magic show Navarro County, party magician, birthday magic",
+    heroContent: `Magicians create wonder and amazement at parties and events. From close-up card tricks to full stage shows, magic entertainment captivates children and adults alike.`,
+    localContext: `Birthday parties, corporate events, school shows, and community festivals throughout Navarro County feature magicians. Local performers and regional entertainers serve Corsicana and surrounding areas.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Magic Services",
+        content: `**Show Types**
+- Birthday party shows
+- Stage shows
+- Close-up/strolling
+- Corporate entertainment
+- School assemblies
+
+**Styles**
+- Comedy magic
+- Family-friendly
+- Adult/corporate
+- Mentalism
+- Illusions
+
+**Additional Services**
+- MC services
+- Audience participation
+- Photo opportunities
+- Meet and greet`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does a magician cost?",
+        answer: "Birthday party shows run $150-$350 for 30-45 minutes. Stage shows cost $300-$1,000+. Close-up strolling magic is $150-$300 per hour. Price reflects experience, show length, and travel. Get quotes based on your specific event."
+      },
+      {
+        question: "What age is appropriate for magic shows?",
+        answer: "Most family magicians perform for ages 4 and up. Shows can be tailored—simpler for younger kids, more complex for older children and adults. Discuss your audience with the performer for the best experience."
+      },
+      {
+        question: "How much space does a magician need?",
+        answer: "Close-up magic needs minimal space. Stage shows need a 6x6 to 10x10 foot area with the audience 6+ feet back. Indoor shows with lighting control work best. Discuss venue specifics with your performer in advance."
+      }
+    ],
+    relatedServices: ["balloon-artist", "face-painter", "dj"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "tent-rental",
+    title: "Tent Rental",
+    category: "events_entertainment",
+    subcategory: "rental",
+    layout: 3,
+    icon: "Home",
+    iconColor: "green",
+    metaTitle: "Tent Rental in Navarro County, TX | Party Tent Rental Corsicana",
+    metaDescription: "Tent rental for events in Corsicana and Navarro County. Wedding tents, party tents, and event canopies for outdoor celebrations.",
+    metaKeywords: "tent rental Corsicana, party tent Navarro County, wedding tent, event tent rental",
+    heroContent: `Tent rentals transform outdoor spaces into elegant event venues. From small canopies to large wedding tents, professional installation provides shelter and style for any outdoor gathering.`,
+    localContext: `Outdoor weddings, reunions, and events throughout Navarro County rely on tent rentals. From lakeside celebrations at Richland Chambers to backyard parties in Corsicana, tents provide essential weather protection and ambiance.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Tent Options",
+        content: `**Tent Types**
+- Frame tents
+- Pole tents
+- Clear span tents
+- Canopies
+- Sailcloth tents
+
+**Sizes**
+- 10x10 (small)
+- 20x20 (medium)
+- 40x60 (large)
+- Custom configurations
+
+**Accessories**
+- Sidewalls
+- Flooring
+- Lighting
+- Climate control
+- Draping
+
+**Services**
+- Delivery
+- Professional installation
+- Removal
+- Site consultation`
+      }
+    ],
+    faqs: [
+      {
+        question: "How much does tent rental cost?",
+        answer: "Small canopies (10x10) rent for $100-$200. Medium tents (20x30) run $400-$800. Large wedding tents (40x60+) cost $1,500-$4,000+. Prices include setup/removal. Sidewalls, flooring, and lighting add cost. Get itemized quotes."
+      },
+      {
+        question: "What size tent do I need?",
+        answer: "Plan 10-15 square feet per person for seated dining, 6-8 for cocktail style. A 150-person wedding dinner needs a 40x60 tent minimum. Add space for catering, dance floor, and circulation. Rental companies help with sizing."
+      },
+      {
+        question: "How far ahead should I book tents?",
+        answer: "Book wedding tents 3-6 months ahead. Large events and peak season need 2-3 months. Smaller canopies may be available 1-2 weeks out. Popular dates book early—especially spring and fall wedding season."
+      }
+    ],
+    relatedServices: ["event-furniture-rental", "party-rental", "event-venue"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
+  },
+
+  {
+    slug: "vending-machine",
+    title: "Vending Machine Service",
+    category: "retail",
+    subcategory: "commercial",
+    layout: 4,
+    icon: "ShoppingBag",
+    iconColor: "blue",
+    metaTitle: "Vending Machine Service in Navarro County, TX | Vending Corsicana",
+    metaDescription: "Vending machine services in Corsicana and Navarro County. Snack, beverage, and specialty vending for businesses and facilities.",
+    metaKeywords: "vending machine Corsicana, vending service Navarro County, snack machine, beverage vending",
+    heroContent: `Vending machine services provide convenient snacks and beverages at workplaces, facilities, and public spaces. Modern machines offer healthy options, cashless payment, and reliable service.`,
+    localContext: `Businesses, schools, healthcare facilities, and industrial sites throughout Navarro County use vending services. Local and regional operators serve Corsicana and surrounding communities.`,
+    sections: [
+      {
+        type: "services",
+        heading: "Vending Services",
+        content: `**Machine Types**
+- Snack machines
+- Beverage machines
+- Combo units
+- Coffee machines
+- Specialty vending
+
+**Products**
+- Traditional snacks
+- Healthy options
+- Cold beverages
+- Hot beverages
+- Fresh food
+
+**Service Includes**
+- Machine placement
+- Regular restocking
+- Maintenance/repair
+- Cashless payment
+- Product customization`
+      }
+    ],
+    faqs: [
+      {
+        question: "How do I get a vending machine for my business?",
+        answer: "Contact vending companies for free evaluation. They assess traffic, space, and needs. Most placements are free—operators profit from sales. Larger facilities with more traffic are more attractive to operators."
+      },
+      {
+        question: "Who handles maintenance and restocking?",
+        answer: "The vending company handles everything—restocking, maintenance, and repairs. They monitor inventory and schedule service. Report problems and they respond quickly. You just provide the space and electricity."
+      },
+      {
+        question: "Can I choose what products are offered?",
+        answer: "Most operators work with you on product selection. You can request healthy options, specific brands, or exclude certain items. Popular items sell better, so operators balance your requests with sales data."
+      }
+    ],
+    relatedServices: ["coffee-shop", "janitorial", "commercial-cleaning"],
+    externalResources: [],
+    claimedBusinessId: null,
+    status: "active"
   }
 ];
 
