@@ -82,8 +82,10 @@ export class EntityModel {
     const params = [entityType];
 
     if (limit) {
-      query += ' LIMIT ? OFFSET ?';
-      params.push(limit, skip);
+      // MySQL requires integers for LIMIT/OFFSET, not parameterized strings
+      const limitInt = parseInt(limit, 10);
+      const skipInt = parseInt(skip, 10) || 0;
+      query += ` LIMIT ${limitInt} OFFSET ${skipInt}`;
     }
 
     const rows = await dbQuery.all(query, params);
@@ -151,8 +153,10 @@ export class EntityModel {
     sql += ` ORDER BY ${orderBy}`;
 
     if (limit) {
-      sql += ' LIMIT ? OFFSET ?';
-      params.push(limit, skip);
+      // MySQL requires integers for LIMIT/OFFSET, not parameterized strings
+      const limitInt = parseInt(limit, 10);
+      const skipInt = parseInt(skip, 10) || 0;
+      sql += ` LIMIT ${limitInt} OFFSET ${skipInt}`;
     }
 
     const rows = await dbQuery.all(sql, params);
