@@ -30,6 +30,7 @@ import { sportsTeams } from '../seeds/data/sports-teams.js';
 import { towns } from '../seeds/data/towns.js';
 import { pages } from '../seeds/data/pages.js';
 import { siteSettings } from '../seeds/data/site-settings.js';
+import { publicServices } from '../seeds/data/public-services.js';
 
 async function prebuild() {
   console.log('╔══════════════════════════════════════════════════╗');
@@ -108,6 +109,11 @@ async function runSeed() {
 
   if (communityResources?.length) {
     await bulkInsertEntities('CommunityResource', communityResources);
+  }
+
+  // Public Services (also stored as CommunityResource with is_public_service flag)
+  if (publicServices?.length) {
+    await bulkInsertEntities('CommunityResource', publicServices);
   }
 
   if (attractions?.length) {

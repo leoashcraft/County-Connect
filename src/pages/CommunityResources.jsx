@@ -102,22 +102,41 @@ export default function CommunityResources() {
 
   const categories = [
     { value: "all", label: "All Categories" },
+    // Community Assistance
     { value: "food_pantry", label: "Food Pantry" },
     { value: "food_bank", label: "Food Bank" },
     { value: "soup_kitchen", label: "Soup Kitchen / Meal Service" },
     { value: "shelter", label: "Shelter / Housing" },
     { value: "clothing", label: "Clothing Assistance" },
     { value: "utility_assistance", label: "Utility Assistance" },
+    { value: "crisis", label: "Crisis Hotline / Support" },
+    // Health & Medical
     { value: "medical", label: "Medical / Health Services" },
     { value: "mental_health", label: "Mental Health Services" },
+    // Public Safety
+    { value: "law_enforcement", label: "Law Enforcement" },
+    { value: "emergency_services", label: "Emergency Services" },
+    { value: "animal_services", label: "Animal Services" },
+    // Government
+    { value: "government", label: "Government Offices" },
+    // Utilities
+    { value: "utility", label: "Utilities" },
+    // Transportation
+    { value: "transportation", label: "Transportation" },
+    // Education
+    { value: "education", label: "Education" },
+    // Employment
+    { value: "employment", label: "Employment Services" },
+    { value: "job_assistance", label: "Job Training / Employment" },
+    // Recreation
+    { value: "recreation", label: "Parks & Recreation" },
+    // Demographics
     { value: "senior_services", label: "Senior Services" },
     { value: "youth_services", label: "Youth Services" },
+    { value: "veteran", label: "Veterans Services" },
     { value: "veterans", label: "Veterans Services" },
-    { value: "job_assistance", label: "Job Training / Employment" },
-    { value: "education", label: "Education / Tutoring" },
+    // Legal
     { value: "legal_aid", label: "Legal Aid" },
-    { value: "crisis", label: "Crisis Hotline / Support" },
-    { value: "government", label: "Government" },
     { value: "other", label: "Other" }
   ];
 
@@ -133,22 +152,41 @@ export default function CommunityResources() {
 
   const getCategoryColor = (category) => {
     const colors = {
+      // Community Assistance
       food_pantry: "bg-green-100 text-green-800",
       food_bank: "bg-green-100 text-green-800",
       soup_kitchen: "bg-orange-100 text-orange-800",
       shelter: "bg-blue-100 text-blue-800",
       clothing: "bg-purple-100 text-purple-800",
       utility_assistance: "bg-yellow-100 text-yellow-800",
+      crisis: "bg-rose-100 text-rose-800",
+      // Health
       medical: "bg-red-100 text-red-800",
       mental_health: "bg-pink-100 text-pink-800",
-      senior_services: "bg-indigo-100 text-indigo-800",
-      youth_services: "bg-cyan-100 text-cyan-800",
-      veterans: "bg-slate-100 text-slate-800",
+      // Public Safety
+      law_enforcement: "bg-blue-100 text-blue-800",
+      emergency_services: "bg-red-100 text-red-800",
+      animal_services: "bg-amber-100 text-amber-800",
+      // Government
+      government: "bg-slate-100 text-slate-800",
+      // Utilities
+      utility: "bg-yellow-100 text-yellow-800",
+      // Transportation
+      transportation: "bg-sky-100 text-sky-800",
+      // Education
+      education: "bg-indigo-100 text-indigo-800",
+      // Employment
+      employment: "bg-teal-100 text-teal-800",
       job_assistance: "bg-teal-100 text-teal-800",
-      education: "bg-amber-100 text-amber-800",
+      // Recreation
+      recreation: "bg-emerald-100 text-emerald-800",
+      // Demographics
+      senior_services: "bg-violet-100 text-violet-800",
+      youth_services: "bg-cyan-100 text-cyan-800",
+      veteran: "bg-slate-100 text-slate-800",
+      veterans: "bg-slate-100 text-slate-800",
+      // Legal
       legal_aid: "bg-gray-100 text-gray-800",
-      crisis: "bg-rose-100 text-rose-800",
-      government: "bg-blue-100 text-blue-800",
     };
     return colors[category] || "bg-gray-100 text-gray-800";
   };

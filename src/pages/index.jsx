@@ -200,6 +200,10 @@ import MyRealtyListings from "./MyRealtyListings";
 
 // SEO Landing Pages
 import PublicServices from "./PublicServices";
+import EmergencyServices from "./EmergencyServices";
+import Utilities from "./Utilities";
+import GovernmentOffices from "./GovernmentOffices";
+import HealthServices from "./HealthServices";
 import AboutNavarroCounty from "./AboutNavarroCounty";
 import AboutCounty from "./AboutCounty";
 import Home from "./Home";
@@ -432,6 +436,10 @@ const PAGES = {
 
     // SEO Landing Pages
     PublicServices: PublicServices,
+    EmergencyServices: EmergencyServices,
+    Utilities: Utilities,
+    GovernmentOffices: GovernmentOffices,
+    HealthServices: HealthServices,
     AboutNavarroCounty: AboutNavarroCounty,
     AboutCounty: AboutCounty,
     Home: Home,
@@ -703,6 +711,10 @@ function PagesContent() {
                 {/* SEO Landing Pages - supports both generic and county-specific URLs */}
                 <Route path="/PublicServices" element={<PublicServices />} />
                 <Route path="/public-services-:countySlug-county" element={<PublicServices />} />
+                <Route path="/EmergencyServices" element={<EmergencyServices />} />
+                <Route path="/Utilities" element={<Utilities />} />
+                <Route path="/GovernmentOffices" element={<GovernmentOffices />} />
+                <Route path="/HealthServices" element={<HealthServices />} />
                 <Route path="/AboutNavarroCounty" element={<AboutCounty />} />
                 <Route path="/AboutCounty" element={<AboutCounty />} />
                 <Route path="/about-:countySlug-county" element={<AboutCounty />} />
