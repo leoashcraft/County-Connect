@@ -1,6 +1,8 @@
 import { dbQuery, getDatabaseType } from './database.js';
 import { v4 as uuidv4 } from 'uuid';
 
+const mysqlDatetime = () => new Date().toISOString().slice(0, 19).replace('T', ' ');
+
 // Validate field names to prevent SQL injection
 // Only allows alphanumeric, underscores, and dots (for nested JSON paths)
 function validateFieldName(fieldName) {
@@ -175,7 +177,7 @@ export class EntityModel {
 
   static async create(entityType, data, userId = null) {
     const id = uuidv4();
-    const now = new Date().toISOString();
+    const now = mysqlDatetime();
 
     // Remove id, created_date, updated_date from data if present
     const { id: _, created_date: __, updated_date: ___, ...cleanData } = data;
@@ -196,7 +198,7 @@ export class EntityModel {
       return null;
     }
 
-    const now = new Date().toISOString();
+    const now = mysqlDatetime();
 
     // Remove system fields from update
     const { id: _, created_date: __, updated_date: ___, ...cleanData } = data;

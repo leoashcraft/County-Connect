@@ -1,6 +1,8 @@
 import { dbQuery } from './database.js';
 import { v4 as uuidv4 } from 'uuid';
 
+const mysqlDatetime = () => new Date().toISOString().slice(0, 19).replace('T', ' ');
+
 export class UserModel {
   static async findByEmail(email) {
     return dbQuery.get('SELECT * FROM users WHERE email = ?', [email]);
@@ -12,7 +14,7 @@ export class UserModel {
 
   static async create(userData) {
     const id = uuidv4();
-    const now = new Date().toISOString();
+    const now = mysqlDatetime();
 
     await dbQuery.run(
       `INSERT INTO users (id, email, full_name, picture, role, oauth_provider, oauth_id, created_at, updated_at)
@@ -34,7 +36,7 @@ export class UserModel {
   }
 
   static async update(id, userData) {
-    const now = new Date().toISOString();
+    const now = mysqlDatetime();
 
     const updates = [];
     const values = [];
