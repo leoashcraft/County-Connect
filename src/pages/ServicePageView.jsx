@@ -37,6 +37,21 @@ import {
   Factory
 } from "lucide-react";
 
+// Custom ReactMarkdown components for proper styling
+const markdownComponents = {
+  p: ({ children }) => {
+    // Check if children is a single <strong> element (bold-only line = subheading)
+    const childArray = React.Children.toArray(children);
+    if (childArray.length === 1 && childArray[0]?.type === 'strong') {
+      return <h4 className="font-semibold text-gray-900 mt-6 mb-2 first:mt-0">{childArray[0].props.children}</h4>;
+    }
+    return <p className="mb-3">{children}</p>;
+  },
+  ul: ({ children }) => <ul className="list-disc list-inside mb-4 space-y-1">{children}</ul>,
+  li: ({ children }) => <li className="text-gray-700">{children}</li>,
+  strong: ({ children }) => <strong className="font-semibold text-gray-900">{children}</strong>,
+};
+
 // Icon mapping for dynamic icons
 const ICON_MAP = {
   Home, Wrench, Briefcase, Heart, Car, Music, Utensils, Leaf, Hammer, Scissors,
@@ -290,7 +305,7 @@ export default function ServicePageView() {
         </div>
         
         <div className="prose prose-lg max-w-none text-gray-700">
-          <ReactMarkdown>{page.heroContent}</ReactMarkdown>
+          <ReactMarkdown components={markdownComponents}>{page.heroContent}</ReactMarkdown>
         </div>
       </section>
 
@@ -305,7 +320,7 @@ export default function ServicePageView() {
             Why This Matters in Navarro County
           </h2>
           <div className="prose max-w-none text-gray-700">
-            <ReactMarkdown>{page.localContext}</ReactMarkdown>
+            <ReactMarkdown components={markdownComponents}>{page.localContext}</ReactMarkdown>
           </div>
         </section>
       )}
@@ -315,7 +330,7 @@ export default function ServicePageView() {
         <section key={index} className="bg-white rounded-2xl shadow-lg p-8 border-2 border-gray-100">
           <h2 className="text-2xl font-bold text-gray-900 mb-4">{section.heading}</h2>
           <div className="prose max-w-none text-gray-700">
-            <ReactMarkdown>{section.content}</ReactMarkdown>
+            <ReactMarkdown components={markdownComponents}>{section.content}</ReactMarkdown>
           </div>
         </section>
       ))}
@@ -350,7 +365,7 @@ export default function ServicePageView() {
             </div>
           </div>
           <div className="prose max-w-none text-gray-700">
-            <ReactMarkdown>{page.heroContent}</ReactMarkdown>
+            <ReactMarkdown components={markdownComponents}>{page.heroContent}</ReactMarkdown>
           </div>
         </div>
 
@@ -399,7 +414,7 @@ export default function ServicePageView() {
               </CardHeader>
               <CardContent>
                 <div className="text-sm text-gray-600 line-clamp-6">
-                  <ReactMarkdown>{page.localContext}</ReactMarkdown>
+                  <ReactMarkdown components={markdownComponents}>{page.localContext}</ReactMarkdown>
                 </div>
               </CardContent>
             </Card>
@@ -413,7 +428,7 @@ export default function ServicePageView() {
           <section key={index} className="bg-white rounded-2xl shadow-lg p-6 border-2 border-gray-100">
             <h2 className="text-xl font-bold text-gray-900 mb-3">{section.heading}</h2>
             <div className="prose prose-sm max-w-none text-gray-700">
-              <ReactMarkdown>{section.content}</ReactMarkdown>
+              <ReactMarkdown components={markdownComponents}>{section.content}</ReactMarkdown>
             </div>
           </section>
         ))}
@@ -443,7 +458,7 @@ export default function ServicePageView() {
       <Card className="border-2 border-orange-200">
         <CardContent className="p-8">
           <div className="prose prose-lg max-w-none text-gray-700">
-            <ReactMarkdown>{page.heroContent}</ReactMarkdown>
+            <ReactMarkdown components={markdownComponents}>{page.heroContent}</ReactMarkdown>
           </div>
         </CardContent>
       </Card>
@@ -462,7 +477,7 @@ export default function ServicePageView() {
             </CardHeader>
             <CardContent>
               <div className="prose prose-sm max-w-none text-gray-700">
-                <ReactMarkdown>{page.localContext}</ReactMarkdown>
+                <ReactMarkdown components={markdownComponents}>{page.localContext}</ReactMarkdown>
               </div>
             </CardContent>
           </Card>
@@ -475,7 +490,7 @@ export default function ServicePageView() {
             </CardHeader>
             <CardContent>
               <div className="prose prose-sm max-w-none text-gray-700">
-                <ReactMarkdown>{section.content}</ReactMarkdown>
+                <ReactMarkdown components={markdownComponents}>{section.content}</ReactMarkdown>
               </div>
             </CardContent>
           </Card>
@@ -504,7 +519,7 @@ export default function ServicePageView() {
           </div>
         </div>
         <div className="prose max-w-none text-gray-700">
-          <ReactMarkdown>{page.heroContent}</ReactMarkdown>
+          <ReactMarkdown components={markdownComponents}>{page.heroContent}</ReactMarkdown>
         </div>
       </section>
 
@@ -526,7 +541,7 @@ export default function ServicePageView() {
               </CardHeader>
               <CardContent>
                 <div className="prose max-w-none text-gray-700">
-                  <ReactMarkdown>{page.localContext}</ReactMarkdown>
+                  <ReactMarkdown components={markdownComponents}>{page.localContext}</ReactMarkdown>
                 </div>
               </CardContent>
             </Card>
@@ -543,7 +558,7 @@ export default function ServicePageView() {
               </CardHeader>
               <CardContent>
                 <div className="prose max-w-none text-gray-700">
-                  <ReactMarkdown>{section.content}</ReactMarkdown>
+                  <ReactMarkdown components={markdownComponents}>{section.content}</ReactMarkdown>
                 </div>
               </CardContent>
             </Card>
@@ -568,7 +583,7 @@ export default function ServicePageView() {
             <Badge className="mb-4 bg-white/80 text-gray-800">Navarro County Guide</Badge>
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">{page.title}</h1>
             <div className="prose prose-lg max-w-none text-gray-700">
-              <ReactMarkdown>{page.heroContent}</ReactMarkdown>
+              <ReactMarkdown components={markdownComponents}>{page.heroContent}</ReactMarkdown>
             </div>
           </div>
         </div>
@@ -584,7 +599,7 @@ export default function ServicePageView() {
             <section className="bg-white rounded-2xl shadow-lg p-8 border-l-4 border-amber-500">
               <h2 className="text-2xl font-bold text-gray-900 mb-4">The Navarro County Difference</h2>
               <div className="prose max-w-none text-gray-700">
-                <ReactMarkdown>{page.localContext}</ReactMarkdown>
+                <ReactMarkdown components={markdownComponents}>{page.localContext}</ReactMarkdown>
               </div>
             </section>
           )}
@@ -593,7 +608,7 @@ export default function ServicePageView() {
             <section key={index} className="bg-white rounded-2xl shadow-lg p-8">
               <h2 className="text-2xl font-bold text-gray-900 mb-4">{section.heading}</h2>
               <div className="prose max-w-none text-gray-700">
-                <ReactMarkdown>{section.content}</ReactMarkdown>
+                <ReactMarkdown components={markdownComponents}>{section.content}</ReactMarkdown>
               </div>
             </section>
           ))}
