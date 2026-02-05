@@ -42,17 +42,26 @@ export default function AuthCallback() {
       }
 
       // Redirect to the original page or home
-      const redirectUrl = nextUrl || '/marketplace';
+      let redirectUrl = nextUrl || '/marketplace';
+      // Convert full URLs to relative paths for React Router
+      try {
+        const url = new URL(redirectUrl);
+        if (url.origin === window.location.origin) {
+          redirectUrl = url.pathname + url.search + url.hash;
+        }
+      } catch {
+        // Already a relative path, use as-is
+      }
       navigate(redirectUrl, { replace: true });
 
     } catch (err) {
       console.error('OAuth callback error:', err);
-      setError(err.message);
+      setError(err.message || 'Unknown error occurred');
 
-      // Redirect to marketplace after 3 seconds
+      // Redirect to marketplace after 8 seconds
       setTimeout(() => {
         navigate('/marketplace', { replace: true });
-      }, 3000);
+      }, 8000);
     }
   };
 

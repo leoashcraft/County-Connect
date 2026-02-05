@@ -101,7 +101,8 @@ class AuthService {
       });
 
       if (!response.ok) {
-        throw new Error('Failed to authenticate');
+        const errorData = await response.json().catch(() => ({}));
+        throw new Error(errorData.message || `Authentication failed (${response.status})`);
       }
 
       const data = await response.json();
