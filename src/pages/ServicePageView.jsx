@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from "react";
 import { useParams, useNavigate, Link } from "react-router-dom";
 import { ServicePage, Store } from "@/api/entities";
-import { createPageUrl, markdownToHtml } from "@/utils";
+import { createPageUrl } from "@/utils";
+import ReactMarkdown from "react-markdown";
 import { Helmet } from "react-helmet";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -288,10 +289,9 @@ export default function ServicePageView() {
           </div>
         </div>
         
-        <div 
-          className="prose prose-lg max-w-none text-gray-700"
-          dangerouslySetInnerHTML={{ __html: markdownToHtml(page.heroContent) }}
-        />
+        <div className="prose prose-lg max-w-none text-gray-700">
+          <ReactMarkdown>{page.heroContent}</ReactMarkdown>
+        </div>
       </section>
 
       {/* Claimed Business Feature */}
@@ -304,10 +304,9 @@ export default function ServicePageView() {
             <MapPin className="w-6 h-6 text-amber-600" />
             Why This Matters in Navarro County
           </h2>
-          <div 
-            className="prose max-w-none text-gray-700"
-            dangerouslySetInnerHTML={{ __html: markdownToHtml(page.localContext) }}
-          />
+          <div className="prose max-w-none text-gray-700">
+            <ReactMarkdown>{page.localContext}</ReactMarkdown>
+          </div>
         </section>
       )}
 
@@ -315,10 +314,9 @@ export default function ServicePageView() {
       {page.sections && page.sections.map((section, index) => (
         <section key={index} className="bg-white rounded-2xl shadow-lg p-8 border-2 border-gray-100">
           <h2 className="text-2xl font-bold text-gray-900 mb-4">{section.heading}</h2>
-          <div 
-            className="prose max-w-none text-gray-700"
-            dangerouslySetInnerHTML={{ __html: markdownToHtml(section.content) }}
-          />
+          <div className="prose max-w-none text-gray-700">
+            <ReactMarkdown>{section.content}</ReactMarkdown>
+          </div>
         </section>
       ))}
 
@@ -351,10 +349,9 @@ export default function ServicePageView() {
               <Badge className="bg-amber-100 text-amber-800">Navarro County, TX</Badge>
             </div>
           </div>
-          <div 
-            className="prose max-w-none text-gray-700"
-            dangerouslySetInnerHTML={{ __html: markdownToHtml(page.heroContent) }}
-          />
+          <div className="prose max-w-none text-gray-700">
+            <ReactMarkdown>{page.heroContent}</ReactMarkdown>
+          </div>
         </div>
 
         <div className="space-y-4">
@@ -401,10 +398,9 @@ export default function ServicePageView() {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <div 
-                  className="text-sm text-gray-600 line-clamp-6"
-                  dangerouslySetInnerHTML={{ __html: markdownToHtml(page.localContext) }}
-                />
+                <div className="text-sm text-gray-600 line-clamp-6">
+                  <ReactMarkdown>{page.localContext}</ReactMarkdown>
+                </div>
               </CardContent>
             </Card>
           )}
@@ -416,10 +412,9 @@ export default function ServicePageView() {
         {page.sections && page.sections.map((section, index) => (
           <section key={index} className="bg-white rounded-2xl shadow-lg p-6 border-2 border-gray-100">
             <h2 className="text-xl font-bold text-gray-900 mb-3">{section.heading}</h2>
-            <div 
-              className="prose prose-sm max-w-none text-gray-700"
-              dangerouslySetInnerHTML={{ __html: markdownToHtml(section.content) }}
-            />
+            <div className="prose prose-sm max-w-none text-gray-700">
+              <ReactMarkdown>{section.content}</ReactMarkdown>
+            </div>
           </section>
         ))}
       </div>
@@ -447,10 +442,9 @@ export default function ServicePageView() {
       {/* Hero Content Card */}
       <Card className="border-2 border-orange-200">
         <CardContent className="p-8">
-          <div 
-            className="prose prose-lg max-w-none text-gray-700"
-            dangerouslySetInnerHTML={{ __html: markdownToHtml(page.heroContent) }}
-          />
+          <div className="prose prose-lg max-w-none text-gray-700">
+            <ReactMarkdown>{page.heroContent}</ReactMarkdown>
+          </div>
         </CardContent>
       </Card>
 
@@ -467,10 +461,9 @@ export default function ServicePageView() {
               </CardTitle>
             </CardHeader>
             <CardContent>
-              <div 
-                className="prose prose-sm max-w-none text-gray-700"
-                dangerouslySetInnerHTML={{ __html: markdownToHtml(page.localContext) }}
-              />
+              <div className="prose prose-sm max-w-none text-gray-700">
+                <ReactMarkdown>{page.localContext}</ReactMarkdown>
+              </div>
             </CardContent>
           </Card>
         )}
@@ -481,10 +474,9 @@ export default function ServicePageView() {
               <CardTitle className="text-lg">{section.heading}</CardTitle>
             </CardHeader>
             <CardContent>
-              <div 
-                className="prose prose-sm max-w-none text-gray-700"
-                dangerouslySetInnerHTML={{ __html: markdownToHtml(section.content) }}
-              />
+              <div className="prose prose-sm max-w-none text-gray-700">
+                <ReactMarkdown>{section.content}</ReactMarkdown>
+              </div>
             </CardContent>
           </Card>
         ))}
@@ -511,10 +503,9 @@ export default function ServicePageView() {
             <p className="text-gray-600">Navarro County, Texas</p>
           </div>
         </div>
-        <div 
-          className="prose max-w-none text-gray-700"
-          dangerouslySetInnerHTML={{ __html: markdownToHtml(page.heroContent) }}
-        />
+        <div className="prose max-w-none text-gray-700">
+          <ReactMarkdown>{page.heroContent}</ReactMarkdown>
+        </div>
       </section>
 
       {claimedBusiness && renderClaimedBusiness()}
@@ -534,10 +525,9 @@ export default function ServicePageView() {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <div 
-                  className="prose max-w-none text-gray-700"
-                  dangerouslySetInnerHTML={{ __html: markdownToHtml(page.localContext) }}
-                />
+                <div className="prose max-w-none text-gray-700">
+                  <ReactMarkdown>{page.localContext}</ReactMarkdown>
+                </div>
               </CardContent>
             </Card>
           </div>
@@ -552,10 +542,9 @@ export default function ServicePageView() {
                 <CardTitle>{section.heading}</CardTitle>
               </CardHeader>
               <CardContent>
-                <div 
-                  className="prose max-w-none text-gray-700"
-                  dangerouslySetInnerHTML={{ __html: markdownToHtml(section.content) }}
-                />
+                <div className="prose max-w-none text-gray-700">
+                  <ReactMarkdown>{section.content}</ReactMarkdown>
+                </div>
               </CardContent>
             </Card>
           </div>
@@ -578,10 +567,9 @@ export default function ServicePageView() {
           <div className="max-w-4xl">
             <Badge className="mb-4 bg-white/80 text-gray-800">Navarro County Guide</Badge>
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">{page.title}</h1>
-            <div 
-              className="prose prose-lg max-w-none text-gray-700"
-              dangerouslySetInnerHTML={{ __html: markdownToHtml(page.heroContent) }}
-            />
+            <div className="prose prose-lg max-w-none text-gray-700">
+              <ReactMarkdown>{page.heroContent}</ReactMarkdown>
+            </div>
           </div>
         </div>
         <IconComponent className={`absolute right-8 bottom-8 w-32 h-32 ${iconColor} opacity-10`} />
@@ -595,20 +583,18 @@ export default function ServicePageView() {
           {page.localContext && (
             <section className="bg-white rounded-2xl shadow-lg p-8 border-l-4 border-amber-500">
               <h2 className="text-2xl font-bold text-gray-900 mb-4">The Navarro County Difference</h2>
-              <div 
-                className="prose max-w-none text-gray-700"
-                dangerouslySetInnerHTML={{ __html: markdownToHtml(page.localContext) }}
-              />
+              <div className="prose max-w-none text-gray-700">
+                <ReactMarkdown>{page.localContext}</ReactMarkdown>
+              </div>
             </section>
           )}
 
           {page.sections && page.sections.map((section, index) => (
             <section key={index} className="bg-white rounded-2xl shadow-lg p-8">
               <h2 className="text-2xl font-bold text-gray-900 mb-4">{section.heading}</h2>
-              <div 
-                className="prose max-w-none text-gray-700"
-                dangerouslySetInnerHTML={{ __html: markdownToHtml(section.content) }}
-              />
+              <div className="prose max-w-none text-gray-700">
+                <ReactMarkdown>{section.content}</ReactMarkdown>
+              </div>
             </section>
           ))}
         </div>
