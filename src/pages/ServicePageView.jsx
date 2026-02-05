@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useParams, useNavigate, Link } from "react-router-dom";
 import { ServicePage, Store } from "@/api/entities";
-import { createPageUrl } from "@/utils";
+import { createPageUrl, markdownToHtml } from "@/utils";
 import { Helmet } from "react-helmet";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -290,7 +290,7 @@ export default function ServicePageView() {
         
         <div 
           className="prose prose-lg max-w-none text-gray-700"
-          dangerouslySetInnerHTML={{ __html: page.heroContent }}
+          dangerouslySetInnerHTML={{ __html: markdownToHtml(page.heroContent) }}
         />
       </section>
 
@@ -306,7 +306,7 @@ export default function ServicePageView() {
           </h2>
           <div 
             className="prose max-w-none text-gray-700"
-            dangerouslySetInnerHTML={{ __html: page.localContext }}
+            dangerouslySetInnerHTML={{ __html: markdownToHtml(page.localContext) }}
           />
         </section>
       )}
@@ -317,7 +317,7 @@ export default function ServicePageView() {
           <h2 className="text-2xl font-bold text-gray-900 mb-4">{section.heading}</h2>
           <div 
             className="prose max-w-none text-gray-700"
-            dangerouslySetInnerHTML={{ __html: section.content }}
+            dangerouslySetInnerHTML={{ __html: markdownToHtml(section.content) }}
           />
         </section>
       ))}
@@ -353,7 +353,7 @@ export default function ServicePageView() {
           </div>
           <div 
             className="prose max-w-none text-gray-700"
-            dangerouslySetInnerHTML={{ __html: page.heroContent }}
+            dangerouslySetInnerHTML={{ __html: markdownToHtml(page.heroContent) }}
           />
         </div>
 
@@ -403,7 +403,7 @@ export default function ServicePageView() {
               <CardContent>
                 <div 
                   className="text-sm text-gray-600 line-clamp-6"
-                  dangerouslySetInnerHTML={{ __html: page.localContext }}
+                  dangerouslySetInnerHTML={{ __html: markdownToHtml(page.localContext) }}
                 />
               </CardContent>
             </Card>
@@ -418,7 +418,7 @@ export default function ServicePageView() {
             <h2 className="text-xl font-bold text-gray-900 mb-3">{section.heading}</h2>
             <div 
               className="prose prose-sm max-w-none text-gray-700"
-              dangerouslySetInnerHTML={{ __html: section.content }}
+              dangerouslySetInnerHTML={{ __html: markdownToHtml(section.content) }}
             />
           </section>
         ))}
@@ -449,7 +449,7 @@ export default function ServicePageView() {
         <CardContent className="p-8">
           <div 
             className="prose prose-lg max-w-none text-gray-700"
-            dangerouslySetInnerHTML={{ __html: page.heroContent }}
+            dangerouslySetInnerHTML={{ __html: markdownToHtml(page.heroContent) }}
           />
         </CardContent>
       </Card>
@@ -469,7 +469,7 @@ export default function ServicePageView() {
             <CardContent>
               <div 
                 className="prose prose-sm max-w-none text-gray-700"
-                dangerouslySetInnerHTML={{ __html: page.localContext }}
+                dangerouslySetInnerHTML={{ __html: markdownToHtml(page.localContext) }}
               />
             </CardContent>
           </Card>
@@ -483,7 +483,7 @@ export default function ServicePageView() {
             <CardContent>
               <div 
                 className="prose prose-sm max-w-none text-gray-700"
-                dangerouslySetInnerHTML={{ __html: section.content }}
+                dangerouslySetInnerHTML={{ __html: markdownToHtml(section.content) }}
               />
             </CardContent>
           </Card>
@@ -513,7 +513,7 @@ export default function ServicePageView() {
         </div>
         <div 
           className="prose max-w-none text-gray-700"
-          dangerouslySetInnerHTML={{ __html: page.heroContent }}
+          dangerouslySetInnerHTML={{ __html: markdownToHtml(page.heroContent) }}
         />
       </section>
 
@@ -536,7 +536,7 @@ export default function ServicePageView() {
               <CardContent>
                 <div 
                   className="prose max-w-none text-gray-700"
-                  dangerouslySetInnerHTML={{ __html: page.localContext }}
+                  dangerouslySetInnerHTML={{ __html: markdownToHtml(page.localContext) }}
                 />
               </CardContent>
             </Card>
@@ -554,7 +554,7 @@ export default function ServicePageView() {
               <CardContent>
                 <div 
                   className="prose max-w-none text-gray-700"
-                  dangerouslySetInnerHTML={{ __html: section.content }}
+                  dangerouslySetInnerHTML={{ __html: markdownToHtml(section.content) }}
                 />
               </CardContent>
             </Card>
@@ -580,7 +580,7 @@ export default function ServicePageView() {
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">{page.title}</h1>
             <div 
               className="prose prose-lg max-w-none text-gray-700"
-              dangerouslySetInnerHTML={{ __html: page.heroContent }}
+              dangerouslySetInnerHTML={{ __html: markdownToHtml(page.heroContent) }}
             />
           </div>
         </div>
@@ -597,7 +597,7 @@ export default function ServicePageView() {
               <h2 className="text-2xl font-bold text-gray-900 mb-4">The Navarro County Difference</h2>
               <div 
                 className="prose max-w-none text-gray-700"
-                dangerouslySetInnerHTML={{ __html: page.localContext }}
+                dangerouslySetInnerHTML={{ __html: markdownToHtml(page.localContext) }}
               />
             </section>
           )}
@@ -607,7 +607,7 @@ export default function ServicePageView() {
               <h2 className="text-2xl font-bold text-gray-900 mb-4">{section.heading}</h2>
               <div 
                 className="prose max-w-none text-gray-700"
-                dangerouslySetInnerHTML={{ __html: section.content }}
+                dangerouslySetInnerHTML={{ __html: markdownToHtml(section.content) }}
               />
             </section>
           ))}
