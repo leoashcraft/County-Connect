@@ -122,7 +122,7 @@ async function strapiFind(contentType, filters = {}) {
 // ─── Data Loading ────────────────────────────────────────────────
 
 async function loadData(filename) {
-  const seedPath = resolve(__dirname, `../../backend/src/seeds/data/${filename}`);
+  const seedPath = resolve(__dirname, `./data/${filename}`);
   try {
     const mod = await import(seedPath);
     return mod;
