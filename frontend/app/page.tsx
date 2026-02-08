@@ -85,7 +85,7 @@ export default async function HomePage() {
       >
         {/* Weather Widget - Bottom Left on large screens */}
         <div className="hidden min-[1440px]:block absolute bottom-6 left-6">
-          <WeatherWidget variant="glass" expandUp />
+          <WeatherWidget variant="glass" />
         </div>
 
         <div className="max-w-6xl mx-auto text-center">

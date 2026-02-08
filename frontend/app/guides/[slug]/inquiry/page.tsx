@@ -87,7 +87,7 @@ export default async function GuideInquiryPage({
           <div className="space-y-6">
             {/* Page Being Claimed */}
             <div className="bg-white rounded-2xl shadow-sm border border-gray-200 p-6">
-              <h3 className="font-semibold text-gray-900 mb-4">Page You're Claiming</h3>
+              <h3 className="font-semibold text-gray-900 mb-4">Page You&apos;re Claiming</h3>
               <div className="bg-brand-50 rounded-xl p-4">
                 <p className="font-bold text-brand-900 text-lg">{guidePage.title}</p>
                 <p className="text-brand-700 text-sm mt-1">/{slug}</p>
@@ -107,7 +107,7 @@ export default async function GuideInquiryPage({
                   </div>
                   <div>
                     <p className="font-medium text-gray-900">Exclusive Placement</p>
-                    <p className="text-sm text-gray-600">You're the only business featured on this page</p>
+                    <p className="text-sm text-gray-600">You&apos;re the only business featured on this page</p>
                   </div>
                 </li>
                 <li className="flex gap-3">

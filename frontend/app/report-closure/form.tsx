@@ -82,7 +82,7 @@ export function ReportClosureForm({ listingName, listingType, listingId }: Repor
         </div>
         <h2 className="text-2xl font-bold text-gray-900 mb-2">Report Submitted</h2>
         <p className="text-gray-600 mb-6">
-          Thank you for helping keep our directory accurate. We'll review your report and update the listing if needed.
+          Thank you for helping keep our directory accurate. We&apos;ll review your report and update the listing if needed.
         </p>
         {listingType && listingId ? (
           <Link
@@ -157,7 +157,7 @@ export function ReportClosureForm({ listingName, listingType, listingId }: Repor
             />
             <div>
               <span className="font-medium text-gray-900">Not Sure</span>
-              <p className="text-sm text-gray-500">I noticed it's closed but don't know the details</p>
+              <p className="text-sm text-gray-500">I noticed it&apos;s closed but don&apos;t know the details</p>
             </div>
           </label>
         </div>

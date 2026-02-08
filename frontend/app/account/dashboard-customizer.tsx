@@ -130,7 +130,7 @@ export function DashboardCustomizer({
       {isOpen && (
         <div className="px-4 pb-4 border-t border-gray-200 pt-4">
           <p className="text-sm text-gray-600 mb-4">
-            Sections with items you've created are shown by default. Toggle sections on or off below.
+            Sections with items you&apos;ve created are shown by default. Toggle sections on or off below.
           </p>
 
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-3 mb-4">

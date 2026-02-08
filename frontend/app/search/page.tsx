@@ -326,7 +326,7 @@ export default async function SearchPage({
             <Search className="w-16 h-16 text-gray-300 mx-auto mb-4" />
             <h2 className="text-xl font-semibold text-gray-900 mb-2">No results found</h2>
             <p className="text-gray-600 mb-6">
-              We couldn't find anything matching "<span className="font-medium">{query}</span>"
+              We couldn&apos;t find anything matching &quot;<span className="font-medium">{query}</span>&quot;
             </p>
             <p className="text-sm text-gray-500 mb-8">
               Try different keywords or browse our categories below.
@@ -350,7 +350,7 @@ export default async function SearchPage({
           /* Results found */
           <div>
             <p className="text-gray-600 mb-6">
-              Found <span className="font-semibold text-gray-900">{totalResults}</span> results for "<span className="font-medium">{query}</span>" across <span className="font-semibold text-gray-900">{sectionsWithResults.length}</span> categories
+              Found <span className="font-semibold text-gray-900">{totalResults}</span> results for &quot;<span className="font-medium">{query}</span>&quot; across <span className="font-semibold text-gray-900">{sectionsWithResults.length}</span> categories
             </p>
 
             <div className="space-y-6">

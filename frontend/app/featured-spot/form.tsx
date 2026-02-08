@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
+import Link from 'next/link';
 import { Loader2, CheckCircle } from 'lucide-react';
 
 const STRAPI_URL = process.env.NEXT_PUBLIC_STRAPI_URL || 'http://localhost:1337';
@@ -80,7 +81,7 @@ export function FeaturedSpotForm() {
         </div>
         <h2 className="text-2xl font-bold text-gray-900 mb-2">Inquiry Submitted!</h2>
         <p className="text-gray-600 mb-6">
-          Thank you for your interest. We'll review your inquiry and get back to you within 1-2 business days.
+          Thank you for your interest. We&apos;ll review your inquiry and get back to you within 1-2 business days.
         </p>
         <button
           onClick={() => router.push('/')}
@@ -298,9 +299,9 @@ export function FeaturedSpotForm() {
         />
         <label htmlFor="agreedToTerms" className="text-sm text-gray-600">
           I agree to the{' '}
-          <a href="/terms" className="text-brand-600 hover:underline">Terms of Service</a>
+          <Link href="/terms" className="text-brand-600 hover:underline">Terms of Service</Link>
           {' '}and{' '}
-          <a href="/privacy" className="text-brand-600 hover:underline">Privacy Policy</a>.
+          <Link href="/privacy" className="text-brand-600 hover:underline">Privacy Policy</Link>.
           I understand that claiming a featured spot involves a sponsorship agreement.
         </label>
       </div>

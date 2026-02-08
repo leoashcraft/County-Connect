@@ -78,7 +78,7 @@ export function ClaimForm({ type, entityId, entityName, strapiToken, strapiEntit
         </div>
         <h2 className="text-2xl font-bold text-gray-900 mb-2">Claim Request Submitted!</h2>
         <p className="text-gray-600 mb-6">
-          Thank you for your claim request. We'll review your submission and verify your ownership within 1-2 business days.
+          Thank you for your claim request. We&apos;ll review your submission and verify your ownership within 1-2 business days.
         </p>
         <button
           onClick={() => router.push(`/directory/${type}/${entityId}`)}

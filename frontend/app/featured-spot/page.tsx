@@ -55,7 +55,7 @@ export default function FeaturedSpotPage({
                   </div>
                   <div>
                     <h3 className="font-medium text-gray-900">Exclusive Placement</h3>
-                    <p className="text-sm text-gray-600">You're the only business featured in this spot</p>
+                    <p className="text-sm text-gray-600">You&apos;re the only business featured in this spot</p>
                   </div>
                 </div>
                 <div className="flex gap-3">

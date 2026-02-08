@@ -119,7 +119,7 @@ export function InquiryForm({ guideSlug, guideTitle, allGuides }: InquiryFormPro
         <h2 className="text-2xl font-bold text-gray-900 mb-3">Inquiry Submitted!</h2>
         <p className="text-gray-600 max-w-md mx-auto mb-6">
           Thank you for your interest in claiming the <strong>{guideTitle}</strong> page.
-          We'll review your inquiry and get back to you within 1-2 business days.
+          We&apos;ll review your inquiry and get back to you within 1-2 business days.
         </p>
         <Link
           href={`/guides/${guideSlug}`}
@@ -136,16 +136,16 @@ export function InquiryForm({ guideSlug, guideTitle, allGuides }: InquiryFormPro
       {/* Guide Pages Selection */}
       <div>
         <h2 className="text-lg font-semibold text-gray-900 mb-4 pb-2 border-b border-gray-200">
-          Guide Pages You're Interested In
+          Guide Pages You&apos;re Interested In
         </h2>
         <p className="text-sm text-gray-600 mb-4">
-          Select all the guide pages you'd like to feature your business on. You can choose multiple pages.
+          Select all the guide pages you&apos;d like to feature your business on. You can choose multiple pages.
         </p>
 
         {/* Selected guides display */}
         {selectedGuides.length > 0 && (
           <div className="mb-4">
-            <p className="text-sm font-medium text-gray-700 mb-2">Selected ({selectedGuides.length}):</p>
+            <p className="text-sm font-medium text-gray-700 mb-2">{`Selected (${selectedGuides.length}):`}</p>
             <div className="flex flex-wrap gap-2">
               {selectedGuides.map((slug) => {
                 const guide = allGuides.find((g) => g.slug === slug);
@@ -212,7 +212,7 @@ export function InquiryForm({ guideSlug, guideTitle, allGuides }: InquiryFormPro
             })
           ) : (
             <p className="px-4 py-8 text-center text-gray-500 text-sm">
-              No guides found matching "{guideSearch}"
+              No guides found matching &quot;{guideSearch}&quot;
             </p>
           )}
         </div>
@@ -223,7 +223,7 @@ export function InquiryForm({ guideSlug, guideTitle, allGuides }: InquiryFormPro
             Suggest New Guide Pages
           </label>
           <p className="text-xs text-gray-500 mb-2">
-            Don't see a guide page that fits your business? Let us know what topics you'd like us to add.
+            Don&apos;t see a guide page that fits your business? Let us know what topics you&apos;d like us to add.
           </p>
           <textarea
             rows={2}

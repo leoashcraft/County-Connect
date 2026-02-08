@@ -172,10 +172,10 @@ export default async function ClaimPage({
           <div className="mt-6 bg-blue-50 rounded-2xl border border-blue-200 p-6">
             <h3 className="font-semibold text-blue-800 mb-2">What happens next?</h3>
             <ul className="text-sm text-blue-700 space-y-2">
-              <li>1. We'll review your claim request within 1-2 business days</li>
+              <li>1. We&apos;ll review your claim request within 1-2 business days</li>
               <li>2. We may contact you to verify your ownership or authorization</li>
-              <li>3. Once approved, you'll be able to update your listing information</li>
-              <li>4. You'll receive an email notification about your claim status</li>
+              <li>3. Once approved, you&apos;ll be able to update your listing information</li>
+              <li>4. You&apos;ll receive an email notification about your claim status</li>
             </ul>
           </div>
         )}

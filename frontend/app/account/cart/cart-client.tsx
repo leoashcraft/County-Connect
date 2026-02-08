@@ -280,7 +280,7 @@ export default function CartClient() {
           <ShoppingCart className="w-16 h-16 text-gray-300 mx-auto mb-4" />
           <h2 className="text-xl font-semibold text-gray-700 mb-2">Your cart is empty</h2>
           <p className="text-gray-500 mb-6">
-            Looks like you haven't added any items to your cart yet.
+            Looks like you haven&apos;t added any items to your cart yet.
           </p>
           <Link
             href="/marketplace"

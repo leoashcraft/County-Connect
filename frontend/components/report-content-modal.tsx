@@ -120,7 +120,7 @@ export function ReportContentModal({ contentType, contentId, contentTitle, trigg
                   </div>
                   <h3 className="text-lg font-semibold text-gray-900 mb-2">Report Submitted</h3>
                   <p className="text-gray-600 mb-4">
-                    Thank you for helping keep our community safe. We'll review this content shortly.
+                    Thank you for helping keep our community safe. We&apos;ll review this content shortly.
                   </p>
                   <button
                     onClick={handleClose}

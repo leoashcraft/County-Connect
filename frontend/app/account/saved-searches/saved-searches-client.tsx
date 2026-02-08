@@ -192,7 +192,7 @@ export function SavedSearchesClient() {
                       {search.query && (
                         <span className="flex items-center gap-1">
                           <Search className="w-3 h-3" />
-                          "{search.query}"
+                          &quot;{search.query}&quot;
                         </span>
                       )}
                       {search.town?.name && (

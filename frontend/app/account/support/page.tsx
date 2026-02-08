@@ -215,7 +215,7 @@ export default function SupportPage() {
               <div>
                 <h2 className="text-xl font-bold text-gray-900">Submit a Support Request</h2>
                 <p className="text-gray-600 text-sm mt-1">
-                  Describe your issue and we'll get back to you as soon as possible.
+                  Describe your issue and we&apos;ll get back to you as soon as possible.
                 </p>
               </div>
             </div>
@@ -227,7 +227,7 @@ export default function SupportPage() {
                 </div>
                 <h3 className="text-lg font-bold text-gray-900 mb-2">Ticket Submitted</h3>
                 <p className="text-gray-600">
-                  Thank you for contacting us. We'll respond to your request soon.
+                  Thank you for contacting us. We&apos;ll respond to your request soon.
                 </p>
               </div>
             ) : (
@@ -370,7 +370,7 @@ export default function SupportPage() {
                 </div>
                 <h3 className="text-lg font-semibold text-gray-700 mb-2">No tickets yet</h3>
                 <p className="text-gray-500 text-sm">
-                  You haven't submitted any support requests.
+                  You haven&apos;t submitted any support requests.
                 </p>
               </div>
             )}
