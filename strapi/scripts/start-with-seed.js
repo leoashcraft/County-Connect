@@ -11,12 +11,10 @@
  *   Remove SEED_ON_START after successful seeding
  */
 
-import { spawn } from 'child_process';
-import { dirname, resolve } from 'path';
-import { fileURLToPath } from 'url';
+const { spawn } = require('child_process');
+const path = require('path');
 
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const strapiRoot = resolve(__dirname, '..');
+const strapiRoot = path.resolve(__dirname, '..');
 
 const STRAPI_URL = process.env.STRAPI_URL || `http://localhost:${process.env.PORT || 1337}`;
 const STRAPI_TOKEN = process.env.STRAPI_TOKEN;
@@ -58,11 +56,11 @@ async function checkIfSeeded() {
   return false;
 }
 
-async function runSeedScript(script, env = {}) {
+function runSeedScript(script, env = {}) {
   return new Promise((resolve, reject) => {
     console.log(`[seed] Running ${script}...`);
 
-    const proc = spawn('node', [resolve(__dirname, script)], {
+    const proc = spawn('node', [path.join(__dirname, script)], {
       cwd: strapiRoot,
       env: { ...process.env, ...env },
       stdio: 'inherit',
