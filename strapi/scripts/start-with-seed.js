@@ -16,7 +16,8 @@ const path = require('path');
 
 const strapiRoot = path.resolve(__dirname, '..');
 
-const STRAPI_URL = process.env.STRAPI_URL || `http://localhost:${process.env.PORT || 1337}`;
+// Use localhost for internal calls, not the public URL
+const INTERNAL_URL = `http://localhost:${process.env.PORT || 1337}`;
 const STRAPI_TOKEN = process.env.STRAPI_TOKEN;
 const SEED_ON_START = process.env.SEED_ON_START === 'true';
 const ADMIN_EMAIL = process.env.ADMIN_EMAIL || 'admin@navarrocounty.com';
@@ -27,7 +28,7 @@ async function waitForStrapi(maxAttempts = 60) {
 
   for (let i = 0; i < maxAttempts; i++) {
     try {
-      const res = await fetch(`${STRAPI_URL}/_health`);
+      const res = await fetch(`${INTERNAL_URL}/_health`);
       if (res.ok) {
         console.log('[seed] Strapi is ready!');
         return true;
@@ -45,7 +46,7 @@ async function waitForStrapi(maxAttempts = 60) {
 async function checkIfSeeded() {
   try {
     // Check if towns exist (our seed marker)
-    const res = await fetch(`${STRAPI_URL}/api/towns?pagination[pageSize]=1`);
+    const res = await fetch(`${INTERNAL_URL}/api/towns?pagination[pageSize]=1`);
     if (res.ok) {
       const data = await res.json();
       return data.data && data.data.length > 0;
@@ -80,13 +81,13 @@ async function runSeeds() {
 
   try {
     // These use admin login
-    await runSeedScript('seed-towns.js', { ADMIN_EMAIL, ADMIN_PASSWORD });
-    await runSeedScript('seed-service-categories.js', { ADMIN_EMAIL, ADMIN_PASSWORD });
-    await runSeedScript('seed-permissions.js', { ADMIN_EMAIL, ADMIN_PASSWORD });
+    await runSeedScript('seed-towns.js', { ADMIN_EMAIL, ADMIN_PASSWORD, STRAPI_URL: INTERNAL_URL });
+    await runSeedScript('seed-service-categories.js', { ADMIN_EMAIL, ADMIN_PASSWORD, STRAPI_URL: INTERNAL_URL });
+    await runSeedScript('seed-permissions.js', { ADMIN_EMAIL, ADMIN_PASSWORD, STRAPI_URL: INTERNAL_URL });
 
     // This uses API token
     if (STRAPI_TOKEN) {
-      await runSeedScript('seed.js', { STRAPI_TOKEN, STRAPI_URL });
+      await runSeedScript('seed.js', { STRAPI_TOKEN, STRAPI_URL: INTERNAL_URL });
     } else {
       console.log('[seed] STRAPI_TOKEN not set, skipping main seed');
     }
