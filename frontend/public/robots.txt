@@ -1,0 +1,22 @@
+# County Connect - Navarro County, TX
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://navarrocounty.com/sitemap.xml
+
+# Disallow admin and account pages
+Disallow: /admin/
+Disallow: /account/
+Disallow: /api/
+Disallow: /login
+Disallow: /callback
+
+# Allow crawling of public pages
+Allow: /guides/
+Allow: /directory/
+Allow: /marketplace/
+Allow: /services/
+Allow: /community/
+Allow: /deals/
+Allow: /search
