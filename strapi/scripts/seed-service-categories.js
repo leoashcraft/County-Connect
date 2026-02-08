@@ -10,8 +10,8 @@
 const STRAPI_URL = process.env.STRAPI_URL || 'http://localhost:1337';
 
 // Admin credentials - will login and get JWT token
-const ADMIN_EMAIL = process.env.STRAPI_ADMIN_EMAIL || 'admin@navarrocounty.com';
-const ADMIN_PASSWORD = process.env.STRAPI_ADMIN_PASSWORD || 'Admin123!';
+const ADMIN_EMAIL = process.env.ADMIN_EMAIL || process.env.STRAPI_ADMIN_EMAIL || 'admin@navarrocounty.com';
+const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || process.env.STRAPI_ADMIN_PASSWORD || 'Admin123!';
 
 let adminToken = null;
 
