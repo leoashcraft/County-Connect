@@ -67,7 +67,7 @@ const SEED_STEPS = [
   {
     name: 'main-data',
     description: 'Churches, restaurants, schools, businesses',
-    script: 'seed.js',
+    script: 'seed.mjs',
     requiresAdmin: false,
     requiresToken: true,
     extraArgs: ['--skip=towns,service-categories'], // Already done above

@@ -87,7 +87,7 @@ async function runSeeds() {
 
     // This uses API token
     if (STRAPI_TOKEN) {
-      await runSeedScript('seed.js', { STRAPI_TOKEN, STRAPI_URL: INTERNAL_URL });
+      await runSeedScript('seed.mjs', { STRAPI_TOKEN, STRAPI_URL: INTERNAL_URL });
     } else {
       console.log('[seed] STRAPI_TOKEN not set, skipping main seed');
     }
