@@ -6,7 +6,7 @@ export default ({ env }) => {
     const url = new URL(databaseUrl);
     return {
       connection: {
-        client: 'mysql2',
+        client: 'mysql',
         connection: {
           host: url.hostname,
           port: parseInt(url.port, 10),
